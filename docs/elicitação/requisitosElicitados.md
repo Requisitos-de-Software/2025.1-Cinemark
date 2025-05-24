@@ -102,6 +102,35 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 
 <font size="3"><p style="text-align: center">Autor(a): [Arthur Evangelista de Oliveira](https://github.com/arthurevg), 2025.</p></font>
 
+
+## Tabela 2 - Apenas os Requisitos Não Implementados e Funcionais 
+
+| ID   | Descrição                                                                                                             | Rastreabilidade      | Categoria | Implementado |
+| ---- | --------------------------------------------------------------------------------------------------------------------- | -------------------- | --------- | ------------ |
+| RQ23  | Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas.                                | [IS15](../elicitação/introspecção.md#IS15)                 | RF        | Não          |
+| RQ24  | Exibir trailers dentro do app.                                                                                         | [IS16](../elicitação/introspecção.md#IS16)                 | RF        | Não          |
+| RQ25  | Oferecer fluxo de compra simplificado, com o mínimo de toques até a confirmação.                                       | [IS17](../elicitação/introspecção.md#IS17)                 | RF        | Não          |
+| RQ26  | Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc).                      | [IS18](../elicitação/introspecção.md#IS18)                 | RF        | Não          |
+| RQ29  | Sugerir cinemas com base no histórico de visitas e na localização atual.                                               | [IS21](../elicitação/introspecção.md#IS21)                 | RF        | Não          |
+| RQ30  | Permitir que o usuário salve cinemas como favoritos.                                                                   | [IS22](../elicitação/introspecção.md#IS22)                 | RF        | Não          |
+| RQ31  | Permitir notificações personalizadas (ex.: “avise-me quando o filme X entrar em cartaz”).                              | [IS23](../elicitação/introspecção.md#IS23)                 | RF        | Não          |
+| RQ32  | Exibir recomendações de filmes baseadas em histórico e preferências.                                                   | [IS24](../elicitação/introspecção.md#IS24)                 | RF        | Não          |
+| RQ33  | Permitir alteração de preferências de idioma.                                                                          | [IS25](../elicitação/introspecção.md#IS25)                 | RF        | Não          |
+
+<font size="3"><p style="text-align: center">Autor(a): [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
+
+## Tabela 3 - Apenas os Requisitos Não Implementados e Não Funcionais 
+
+| ID   | Descrição                                                                                                             | Rastreabilidade      | Categoria | Implementado |
+| ---- | --------------------------------------------------------------------------------------------------------------------- | -------------------- | --------- | ------------ |
+| RQ28  | Alertar usuário sobre pontos suficientes para ingresso grátis e antes da expiração.                                    | [IS20](../elicitação/introspecção.md#IS20)                 | RNF       | Não          |
+| RQ34  | Disponibilizar área dedicada ao Cinemark Club: ingressos, pontos acumulados e validade.                                | [IS12](../elicitação/introspecção.md#IS12)                 | RNF       | Não          |
+| RQ44  | Interface acessível para pessoas com deficiência visual (leitores de tela) e baixo-visão.                              | [IS35](../elicitação/introspecção.md#IS35), [IS36](../elicitação/introspecção.md#IS36), [AI25](../elicitação/analiseUI.md#AI25), [ST05](../elicitação/storytelling.md#ST05)           | RNF       | Não          |
+| RQ45  | Contraste de interface conforme WCAG A/AA.                                                                             | [AI25](../elicitação/analiseUI.md#AI25)                 | RNF       | Não          |
+| RQ66  | Permitir acesso ao ingresso offline, sem depender de conexão à internet na hora da sessão.                                                       | [IS10](../elicitação/introspecção.md#IS10), [IS30](../elicitação/introspecção.md#IS30)                 | RNF       | Não          |
+
+<font size="3"><p style="text-align: center">Autor(a): [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
+
 ---
 
 ## Conclusão
@@ -126,3 +155,4 @@ Os requisitos elicitados por meio de técnicas como introspecção, análise de 
 | `1.5`  | 12/05/2025 | Adição da conclusão | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
 | `1.6`  | 12/05/2025 | Ajuste na legenda da tabela 1, na rastreabilidade e adição de RQ66 e RQ67 | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.6.1` | 14/05/2025 | Ajuste no RQ66 | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+| `1.7` | 24/05/2025 | Adição das tabelas 2 e 3 para melhor visualização dos requisitos não implementados | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
