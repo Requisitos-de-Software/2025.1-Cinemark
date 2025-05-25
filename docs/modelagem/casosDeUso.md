@@ -8,6 +8,53 @@
 
   Para a construção do diagrama de casos de uso do sistema Cinemark, adotamos uma abordagem clássica em UML. Utilizamos o LucidChart para elaborar a representação gráfica, garantindo consistência nos símbolos e clareza na disposição dos elementos.
 
+## Participantes
+
+A seguir apresentamos os nomes de cada integrante do grupo que participou da técnica e suas respectivas contribuições.
+
+<p  align="center">Tabela 1 - Integrantes do grupo envolvidos</p>
+<div align="center">
+	<div>
+		<table>
+			<thead>
+					<tr>
+						<th>Nome</th>
+						<th>O que fez</th>
+					</tr>
+			</thead>
+		<tbody>
+					<tr>
+						<td><a  href="https://github.com/ArturDCR">Artur de Camargos</a></td>
+						<td>Criou as tabelas de especificação de caso de uso 13 e 14</td>	
+					</tr>
+					<tr>
+						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
+						<td>Adicionou a Introdução, Metodologia, Componentes e Símbolos, Diagrama de Casos de Uso e criou as tabelas de especificação de caso de uso 3 e 4.</td>	
+					</tr>
+					<tr>
+						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
+						<td>Criou as tabelas de especificação de caso de uso 5 e 6</td>	
+					</tr>
+					<tr>
+						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
+						<td>Criou as tabelas de especificação de caso de uso 7 e 8</td>	
+					</tr>
+					<tr>
+						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
+						<td>Criou as tabelas de especificação de caso de uso 11 12</td>	
+					</tr>
+					<tr>
+						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
+						<td>Criou as tabelas de especificação de caso de uso 9 e 10</td>	
+					</tr>
+			</tbody>
+		</table>
+	</div>  
+</div>
+
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
+
+
 ## Componentes e Símbolos
 
   A seguir, apresentamos os principais componentes de um diagrama de casos de uso, com explicações sobre seus significados e representações gráficas.
@@ -367,4 +414,5 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 | `1.4`  | 18/05/2025 | Adição das Tabelas 8 e 9 com os casos de uso para RQ26 (Salvar ingresso na carteira digital) e RQ39 (Avaliar filmes); atualização da Tabela 1 com novos requisitos | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
 | `1.5`  | 18/05/2025 | Adição da Tabela 10 com o caso de uso para RQ29 (Sugerir cinemas personalizados) e da Tabela 11 com o caso de uso para RQ30 (Salvar cinema como favorito)| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
 | `1.6`  | 18/05/2025 | Adição de uma tabela com o modelo da especificação dos casos de uso.| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
-| `1.5`  | 18/05/2025 | Adição das Tabelas 13 e 14 com os casos de uso para RQ60 (Fornecer um Hub para crítica de filmes.) e RQ67 (Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.); atualização da Tabela 1 com novos requisitos | [Artur de Camargos](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.7`  | 18/05/2025 | Adição das Tabelas 13 e 14 com os casos de uso para RQ60 (Fornecer um Hub para crítica de filmes.) e RQ67 (Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.); atualização da Tabela 1 com novos requisitos | [Artur de Camargos](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.8`  | 25/05/2025 | Adição da tabela de participantes | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
