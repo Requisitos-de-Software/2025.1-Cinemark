@@ -15,9 +15,52 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 * **S** – *Suportabilidade*: diz respeito à facilidade de manutenção, adaptabilidade, portabilidade e escalabilidade.
 * **+** – requisitos adicionais, como restrições legais, licenças, requisitos físicos, entre outros.
 
-## 3. Requisitos Não Funcionais
+## 3. Integrantes do grupo envolvidos
 
-### Tabela 1: Visão Geral dos RNFs
+### Tabela 19
+
+<div align="center">
+	<div>
+		<table>
+			<thead>
+					<tr>
+						<th>Nome</th>
+						<th>O que fez</th>
+					</tr>
+			</thead>
+		<tbody>
+					<tr>
+						<td><a  href="https://github.com/ArturDCR">Artur de Camargos</a></td>
+						<td>Criou as tabelas de Especificação Suplementar dos requisitos RQ44, RQ53 e RQ63 com suas respectivas tabelas (14, 15 e 16)</td>	
+					</tr>
+					<tr>
+						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
+						<td>Adicionou a Introdução, Metodologia e criou as tabelas de Especificação Suplementar dos requisitos RQ50, RQ52 e RQ42 com sua respectivas tabelas (2, 3 e 4)</td>	
+					</tr>
+					<tr>
+						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
+						<td>Criou as tabelas de Especificação Suplementar dos requisitos RQ46, RQ47 e RQ48 com suas respectivas tabelas (5, 6 e 7)</td>	
+					</tr>
+					<tr>
+						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
+						<td>Criou as tabelas de Especificação Suplementar dos requisitos RQ45, RQ49 e RQ56 com suas respectivas tabelas (8, 9 e 10)</td>	
+					</tr>
+					<tr>
+						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
+						<td>Criou as tabelas de Especificação Suplementar dos requisitos RQ43 e RQ54 com suas respectivas tabelas (17 e 18)</td>	
+					</tr>
+					<tr>
+						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
+						<td>Criou as tabelas de Especificação Suplementar dos requisitos RQ50, RQ51 e RQ52 com suas respectivas tabelas (11, 12 e 13)</td>	
+					</tr>
+			</tbody>
+		</table>
+	</div>  
+</div>
+
+## 4. Requisitos Não Funcionais
+
+### Tabela 2: Visão Geral dos RNFs
 
 | ID                                                                                                          | Descrição Resumida                                                                                                                                   | Categoria      |
 | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
@@ -236,3 +279,4 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 | `1.5`  | 18/05/2025 | Adição do detalhamento dos requisitos RQ44, RQ53 e RQ63 com suas respectivas tabelas (14, 15 e 16) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
 | `1.6`  | 18/05/2025 | Adição do detalhamento dos requisitos RQ43 e RQ54 com suas respectivas tabelas (17 e 18) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Euller Júlio](https://github.com/Potatoyz908)|
 | `1.7`  | 18/05/2025 | Padroniza autoria das tabelas como "Autor:"| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.8`  | 25/05/2025 | Adição da tabela de participantes | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
