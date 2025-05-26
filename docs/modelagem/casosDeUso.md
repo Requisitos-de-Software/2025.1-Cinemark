@@ -8,11 +8,12 @@
 
   Para a construção do diagrama de casos de uso do sistema Cinemark, adotamos uma abordagem clássica em UML. Utilizamos o LucidChart para elaborar a representação gráfica, garantindo consistência nos símbolos e clareza na disposição dos elementos.
 
-## Participantes
+## Integrantes do grupo envolvidos
 
 A seguir apresentamos os nomes de cada integrante do grupo que participou da técnica e suas respectivas contribuições.
 
-<p  align="center">Tabela 1 - Integrantes do grupo envolvidos</p>
+**Tabela 15**
+
 <div align="center">
 	<div>
 		<table>
@@ -25,27 +26,27 @@ A seguir apresentamos os nomes de cada integrante do grupo que participou da té
 		<tbody>
 					<tr>
 						<td><a  href="https://github.com/ArturDCR">Artur de Camargos</a></td>
-						<td>Criou as tabelas de especificação de caso de uso 13 e 14</td>	
+						<td>Elaborou as tabelas de especificação de caso de uso 13 e 14</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
-						<td>Adicionou a Introdução, Metodologia, Componentes e Símbolos, Diagrama de Casos de Uso e criou as tabelas de especificação de caso de uso 3 e 4.</td>	
+						<td>Elaborou os Componentes e Símbolos, Diagrama de Casos de Uso e criou as tabelas de especificação de caso de uso 3 e 4.</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
-						<td>Criou as tabelas de especificação de caso de uso 5 e 6</td>	
+						<td>Elaborou as tabelas de especificação de caso de uso 5 e 6</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
-						<td>Criou as tabelas de especificação de caso de uso 7 e 8</td>	
+						<td>Elaborou as tabelas de especificação de caso de uso 7 e 8</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
-						<td>Criou as tabelas de especificação de caso de uso 11 12</td>	
+						<td>Elaborou as tabelas de especificação de caso de uso 11 12</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
-						<td>Criou as tabelas de especificação de caso de uso 9 e 10</td>	
+						<td>Elaborou as tabelas de especificação de caso de uso 9 e 10</td>	
 					</tr>
 			</tbody>
 		</table>

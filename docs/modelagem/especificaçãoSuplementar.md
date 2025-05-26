@@ -17,7 +17,7 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 
 ## 3. Integrantes do grupo envolvidos
 
-### Tabela 19
+**Tabela 19**
 
 <div align="center">
 	<div>
@@ -57,6 +57,8 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 		</table>
 	</div>  
 </div>
+
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
 ## 4. Requisitos Não Funcionais
 
