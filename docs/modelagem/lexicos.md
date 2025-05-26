@@ -21,6 +21,51 @@ A estrutura de cada termo léxico é composta por:
 * **Impacto**: quais funcionalidades ou elementos são afetados por esse termo
 * **Rastreabilidade**: requisito(s) elicitado(s) ao qual o termo está relacionado
 
+## Integrantes do grupo envolvidos
+
+**Tabela 24**
+
+<div align="center">
+	<div>
+		<table>
+			<thead>
+					<tr>
+						<th>Nome</th>
+						<th>O que fez</th>
+					</tr>
+			</thead>
+		<tbody>
+					<tr>
+						<td><a  href="https://github.com/ArturDCR">Artur de Camargos</a></td>
+						<td>Elaborou os Léxicos 11, 12, 13 e 14 referentes aos requisitos RQ60 e RQ67</td>	
+					</tr>
+					<tr>
+						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
+						<td>Elaborou os Léxicos 3, 4, 5 e 6 referentes aos requisitos RQ23 e RQ24</td>	
+					</tr>
+					<tr>
+						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
+						<td>Elaborou os Léxicos 7, 8, 9 e 10 referentes aos requisitos RQ32 e RQ58</td>	
+					</tr>
+					<tr>
+						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
+						<td>Elaborou os Léxicos 1 e 2 referentes aos requisitos RQ33 e RQ59</td>	
+					</tr>
+					<tr>
+						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
+						<td>Elaborou os Léxicos 15, 16, 17, 18 e 19 referentes aos requisitos RQ29 e RQ30</td>	
+					</tr>
+					<tr>
+						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
+						<td>Elaborou os Léxicos 21 e 22 referentes aos requisitos RQ26 e RQ39</td>	
+					</tr>
+			</tbody>
+		</table>
+	</div>  
+</div>
+
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
+
 ---
 
 ## Léxicos Criados
@@ -306,3 +351,4 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 | `1.8`  | 18/05/2025 | Adição dos léxicos 21 (referente ao RQ26), e 22 (referentes ao RQ39) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR)  |
 | `1.9`  | 19/05/2025 | Adição do léxico 23 | [Arthur Evangelista](https://github.com/arthurevg) | [Euller Júlio](https://github.com/Potatoyz908) |
 | `1.10`  | 22/05/2025 | Ajuste no texto de introdução para torná-lo mais claro e objetivo | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
+| `1.11`  | 26/05/2025 | Adição da tabela de participantes | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
