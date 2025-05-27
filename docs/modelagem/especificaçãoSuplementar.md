@@ -146,9 +146,9 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 
 ### Tabela 5: Detalhamento do RQ46
 
-| ID                                                                                                | Descrição                                                                                                       | Categoria Detalhada                  | Métrica                                                                         |
-| ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------- |
-| [RQ46](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | O sistema deve atualizar dinamicamente o valor total conforme a seleção de ingressos e produtos, em tempo real. | Usabilidade – Feedback em Tempo Real | Tempo entre a seleção e a atualização do valor exibido (esperado: < 1 segundo). |
+| ID                                                                                                          | Descrição                                                                                   | Categoria Detalhada                          | Métrica                                                                                               |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| [RQ46](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | O sistema deve garantir legenda clara e visível para as cores e ícones no mapa de assentos. | Usabilidade – Intuitividade e Clareza Visual | Percentual de usuários que entendem corretamente a legenda (esperado ≥ 90% em testes de usabilidade). |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
@@ -209,17 +209,15 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 
 <font size="3"><p style="text-align: center">Autor: [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
 
+### Tabela 6: Detalhamento do RQ47
 
-## 8. Segurança
-
-### Tabela 7: Detalhamento do RQ48
-
-| ID                                                                                                | Descrição                                                                                                                | Categoria Detalhada      | Métrica                                                                 |
-| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------ | ----------------------------------------------------------------------- |
-| [RQ48](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | O sistema deve exigir autenticação multifator para realizar operações críticas, como alteração de dados e cancelamentos. | Segurança – Autenticação | Percentual de operações críticas protegidas por autenticação adicional. |
+| ID                                                                                                | Descrição                                                                                                       | Categoria Detalhada                  | Métrica                                                                         |
+| ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------- |
+| [RQ47](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | O sistema deve atualizar dinamicamente o valor total conforme a seleção de ingressos e produtos, em tempo real. | Desempenho – Feedback em Tempo Real | Tempo entre a seleção e a atualização do valor exibido (esperado: < 1 segundo). |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
+## 8. Segurança
 
 ### Tabela 9: Detalhamento do RQ49
 
@@ -229,11 +227,11 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 
 <font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
-### Tabela 6: Detalhamento do RQ47
+### Tabela 7: Detalhamento do RQ48
 
 | ID                                                                                                | Descrição                                                                                                | Categoria Detalhada      | Métrica                                                                     |
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------ | --------------------------------------------------------------------------- |
-| [RQ47](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Os dados sensíveis (pagamento e histórico do usuário) devem ser criptografados em trânsito e em repouso. | Segurança – Criptografia | Verificação de uso de protocolos HTTPS e criptografia AES nos dados salvos. |
+| [RQ48](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Os dados sensíveis (pagamento e histórico do usuário) devem ser criptografados em trânsito e em repouso. | Segurança – Criptografia | Verificação de uso de protocolos HTTPS e criptografia AES nos dados salvos. |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
@@ -252,6 +250,7 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 
 ## 9. Suportabilidade
 
+---
 
 ## 4. Referências Bibliográficas
 
@@ -282,3 +281,4 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 | `1.6`  | 18/05/2025 | Adição do detalhamento dos requisitos RQ43 e RQ54 com suas respectivas tabelas (17 e 18) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Euller Júlio](https://github.com/Potatoyz908)|
 | `1.7`  | 18/05/2025 | Padroniza autoria das tabelas como "Autor:"| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.8`  | 25/05/2025 | Adição da tabela de participantes | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
+| `1.9`  | 27/05/2025 | Correção das tabelas 5, 6 e 7 | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
