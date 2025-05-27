@@ -35,7 +35,7 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
-						<td>Adicionou a Introdução, Metodologia e criou as tabelas de Especificação Suplementar dos requisitos RQ50, RQ52 e RQ42 com sua respectivas tabelas (2, 3 e 4)</td>	
+						<td>Adicionou a Introdução, Metodologia e criou as tabelas de Especificação Suplementar dos requisitos RQ40, RQ41 e RQ42 com sua respectivas tabelas (2, 3 e 4)</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
@@ -43,7 +43,7 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
-						<td>Criou as tabelas de Especificação Suplementar dos requisitos RQ45, RQ49 e RQ56 com suas respectivas tabelas (8, 9 e 10)</td>	
+						<td>Criou as tabelas de Especificação Suplementar dos requisitos RQ45, RQ49 e RQ66 com suas respectivas tabelas (8, 9 e 10)</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
@@ -93,7 +93,7 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 
 ## 4. Funcionalidade
 
-### Tabela 2: Detalhamento do RQ50
+### Tabela 11: Detalhamento do RQ50
 
 | ID                                                                                                | Descrição                                                                                    | Categoria Detalhada           | Métrica                                                                                              |
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -102,7 +102,7 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
 
-### Tabela 3: Detalhamento do RQ52
+### Tabela 13: Detalhamento do RQ52
 
 | ID                                                                                                | Descrição                                                                                    | Categoria Detalhada           | Métrica                                                                                              |
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
