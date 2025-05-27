@@ -205,7 +205,7 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 
 | ID                                                                                                | Descrição                                                                                    | Categoria Detalhada           | Métrica                                                                                              |
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [RQ63](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O aplicativo deve ser leve e usar pouca memória do dispositivo. | Desempenho (Eficiência de Recursos) | Consumo de memória não excede 150 MB em uso contínuo. Compatibilidade com dispositivos Android (API 24+) e iOS (versão 12+). |
+| [RQ63](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O aplicativo deve ser leve e usar pouca memória do dispositivo. | Desempenho (Eficiência de Recursos) | Consumo de memória não excede 150 MB em uso contínuo. Compatibilidade com dispositivos Android (versão 7.0+) e iOS (versão 12+). |
 
 <font size="3"><p style="text-align: center">Autor: [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
 
