@@ -41,7 +41,7 @@ A estrutura de cada termo léxico é composta por:
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
-						<td>Elaborou os Léxicos 3, 4, 5 e 6 referentes aos requisitos RQ23 e RQ24</td>	
+						<td>Elaborou os Léxicos 3, 4, 5, 6 e 23 referentes aos requisitos RQ23 e RQ24</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
@@ -49,7 +49,7 @@ A estrutura de cada termo léxico é composta por:
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
-						<td>Elaborou os Léxicos 1 e 2 referentes aos requisitos RQ33 e RQ59</td>	
+						<td>Elaborou a Introdução, metodologia e os Léxicos 1 e 2 referentes aos requisitos RQ33 e RQ59</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>

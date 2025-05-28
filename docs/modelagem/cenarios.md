@@ -29,7 +29,7 @@ Os cenários foram criados a partir da análise dos [requisitos levantados](http
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
-						<td>Elaborou os Cenários dos requisitos RQ23 e RQ24 com sua respectivas tabelas (1 e 2)</td>	
+						<td>Elaborou a Introdução, Metodologia e os Cenários dos requisitos RQ23 e RQ24 com sua respectivas tabelas (1 e 2)</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
