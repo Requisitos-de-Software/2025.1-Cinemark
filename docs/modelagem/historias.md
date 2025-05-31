@@ -53,6 +53,23 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 
 ## Metodologia
 
+As histórias de usuário foram elaboradas com base nos [Requisitos Elicitados](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) anteriormente. Cada história foi escrita de acordo com a Tabela 2.
+
+
+Essa estrutura facilita o entendimento das necessidades dos usuários finais e auxilia na comunicação entre membros da equipe de desenvolvimento.
+
+Para garantir **rastreabilidade**, cada história de usuário está associada explicitamente a um ou mais requisitos elicitados. Isso permite mapear quais funcionalidades estão sendo cobertas e monitorar o progresso e a cobertura do sistema em relação aos objetivos iniciais.
+
+A priorização foi feita utilizando a técnica **Three-Level Scale estendida**, com os seguintes níveis:
+
+- **Alta**: deve ser implementada no primeiro ciclo de desenvolvimento. É essencial para o funcionamento do sistema.  
+- **Média**: relevante, mas pode ser implementada em ciclos posteriores.  
+- **Baixa**: desejável, mas opcional; agrega valor, mas não é crítica.  
+- **Não deve ser implementada**: identificada durante a elicitação, mas foi descartada por motivos de viabilidade, escopo ou prioridade estratégica.
+
+Essa escala ajuda a organizar os esforços da equipe de forma mais estratégica, focando nas entregas que realmente trazem valor imediato ao usuário e ao negócio, ao mesmo tempo em que documenta funcionalidades que podem ser revisitadas no futuro ou que foram explicitamente desconsideradas.
+
+
 Tabela 2: Modelo de tabela para histórias de usuário.
 
 <div align="center">
@@ -76,6 +93,10 @@ Tabela 2: Modelo de tabela para histórias de usuário.
     <tr>
       <td>Prioridade</td>
       <td>Alta, Média ou Baixa</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td>Alta, Média, Baixa ou Desconsiderada</td>
     </tr>
   </table>
 </div>
@@ -313,3 +334,4 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 | `1.0`  |  22/05/2025 |  Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23)  | [Euller Júlio da Silva](https://github.com/Potatoyz908) |
 | `1.1`  | 26/05/2025 | Adição do modelo da tabela de participantes | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.2`  | 31/05/2025 | Adição da introdução e modelo de tabela para histórias de usuário | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Euller Júlio da Silva](https://github.com/Potatoyz908) |
+|`1.2`| 31/05/2025|Adição da Metodologia|[Arthur Evangelista](https://github.com/arthurevg)|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
