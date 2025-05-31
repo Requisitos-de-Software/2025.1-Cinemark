@@ -122,6 +122,190 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
 
+### US02 - Armazenar cartões de pagamento
+
+<details>
+  <summary><strong>Tabela 3 - História de Usuário Armazenar cartões de pagamento</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US01</td>
+        <td>Armazenar cartões de pagamento</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> que o aplicativo armazene cartões de pagamento já cadastrados <em>para</em> uso em compras futuras.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>- Na página de pagamento do aplicativo, deve haver uma seção exibindo os cartões previamente salvos. <br> - Ao selecionar um cartão, as informações necessárias devem ser preenchidas automaticamente. <br></td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>xxxx</td>
+      </tr>
+    </tbody>
+  </table>
+
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
+
+
+### US03 - Armazenar cartões de pagamento
+
+<details>
+  <summary><strong>Tabela 3 - História de Usuário Armazenar cartões de pagamento</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US01</td>
+        <td>Armazenar cartões de pagamento</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> que o aplicativo armazene cartões de pagamento já cadastrados <em>para</em> uso em compras futuras.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>- Na página de pagamento do aplicativo, deve haver uma seção exibindo os cartões previamente salvos. <br> - Ao selecionar um cartão, as informações necessárias devem ser preenchidas automaticamente. <br></td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>xxxx</td>
+      </tr>
+    </tbody>
+  </table>
+
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
+
+
+### US04 - Armazenar cartões de pagamento
+
+<details>
+  <summary><strong>Tabela 3 - História de Usuário Armazenar cartões de pagamento</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US01</td>
+        <td>Armazenar cartões de pagamento</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> que o aplicativo armazene cartões de pagamento já cadastrados <em>para</em> uso em compras futuras.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>- Na página de pagamento do aplicativo, deve haver uma seção exibindo os cartões previamente salvos. <br> - Ao selecionar um cartão, as informações necessárias devem ser preenchidas automaticamente. <br></td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>xxxx</td>
+      </tr>
+    </tbody>
+  </table>
+
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
+
+
+### US05 - Armazenar cartões de pagamento
+
+<details>
+  <summary><strong>Tabela 3 - História de Usuário Armazenar cartões de pagamento</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US01</td>
+        <td>Armazenar cartões de pagamento</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> que o aplicativo armazene cartões de pagamento já cadastrados <em>para</em> uso em compras futuras.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>- Na página de pagamento do aplicativo, deve haver uma seção exibindo os cartões previamente salvos. <br> - Ao selecionar um cartão, as informações necessárias devem ser preenchidas automaticamente. <br></td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>xxxx</td>
+      </tr>
+    </tbody>
+  </table>
+
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
+
+
+### US6 - Armazenar cartões de pagamento
+
+<details>
+  <summary><strong>Tabela 3 - História de Usuário Armazenar cartões de pagamento</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US01</td>
+        <td>Armazenar cartões de pagamento</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> que o aplicativo armazene cartões de pagamento já cadastrados <em>para</em> uso em compras futuras.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>- Na página de pagamento do aplicativo, deve haver uma seção exibindo os cartões previamente salvos. <br> - Ao selecionar um cartão, as informações necessárias devem ser preenchidas automaticamente. <br></td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>xxxx</td>
+      </tr>
+    </tbody>
+  </table>
+
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
+
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
