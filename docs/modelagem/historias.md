@@ -613,7 +613,10 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 </details>
 
+
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+
+### US13 - Reservar salas para eventos
 
 <details>
   <summary><strong>Tabela 3 - História de Usuário Reservar salas para eventos</strong></summary>
@@ -650,7 +653,6 @@ Tabela 2: Modelo de tabela para histórias de usuário.
   <td>Rastreabilidade</td>
   <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq59" target="_blank">RQ59</a></td>
 </tr>
-
     </tbody>
   </table>
 
@@ -658,6 +660,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
 
+### US14 - Alterar preferências de idioma
 
 <details>
   <summary><strong>Tabela 3 - História de Usuário Alterar preferências de idioma</strong></summary>
@@ -695,11 +698,11 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 </tr>
     </tbody>
   </table>
-
 </details>
 
 <font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
 
+### US15 - Detectar localização automaticamente
 
 <details>
   <summary><strong>Tabela 3 - História de Usuário Detectar localização automaticamente</strong></summary>
@@ -743,6 +746,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
 
+### US16 - Selecionar assento obrigatório
 
 <details>
   <summary><strong>Tabela 3 - História de Usuário Selecionar assento obrigatório</strong></summary>
@@ -785,6 +789,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
 
+### US17 - Permitir cancelar compras
 
 <details>
   <summary><strong>Tabela 3 - História de Usuário Cancelar compras</strong></summary>
@@ -828,6 +833,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
 
+### US18 - Excluir conta permanentemente
 
 <details>
   <summary><strong>Tabela 3 - História de Usuário Excluir conta permanentemente</strong></summary>
