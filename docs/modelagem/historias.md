@@ -1,9 +1,10 @@
 ## Introdução
 
+As Histórias de Usuário são uma técnica da Engenharia de Requisitos utilizada para descrever, de forma simples e objetiva, as necessidades dos usuários em relação a um sistema. Elas permitem que as equipes compreendam claramente os objetivos do usuário e suas expectativas. Essa abordagem facilita a comunicação entre as partes envolvidas e serve como base para a criação de critérios de aceitação, essenciais no desenvolvimento ágil. Além disso, elas servem como base para a criação de critérios de aceitação, que ajudam na validação da entrega das funcionalidades.
 
 ## Integrantes do grupo envolvidos
 
-Tabela 1
+Tabela 1: Integrantes do grupo envolvidos no artefato.
 
 <div align="center">
 	<div>
@@ -84,24 +85,41 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 ## Histórias de Usuário
 
-### US01 - Classificar eventos por local
+### US01 - Armazenar cartões de pagamento
 
-??? abstract "Tabela 3 - História de Usuário xxx"
+<details>
+  <summary><strong>Tabela 3 - História de Usuário Armazenar cartões de pagamento</strong></summary>
 
-    <center>
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US01</td>
+        <td>Armazenar cartões de pagamento</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> que o aplicativo armazene cartões de pagamento já cadastrados <em>para</em> uso em compras futuras.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>- Na página de pagamento do aplicativo, deve haver uma seção exibindo os cartões previamente salvos. <br> - Ao selecionar um cartão, as informações necessárias devem ser preenchidas automaticamente. <br></td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>xxxx</td>
+      </tr>
+    </tbody>
+  </table>
 
-    <font size="3">Tabela 3 - História de Usuário xxx.</font>
+</details>
 
-    | **ID**                 | **Nome**                                                                                                                                                                                                                                                         |
-    | :--------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-    | US01                   | Classificar eventos por local                                                                                                                                                                                                                                    |
-    | Descrição              | _Eu, como_ usuário, _desejo_ que o aplicativo classifique os eventos por local _para_ facilitar a busca por eventos em uma determinada região.                                                                                                                   |
-    | Critérios de Aceitação | - Na página principal do aplicativo, deve haver uma seção ou um filtro claramente visível para selecionar o local dos eventos. <br> - Ao selecionar um local, a lista de eventos exibidos deve ser atualizada para mostrar apenas eventos nessa localidade. <br> |
-    | Prioridade             | Alta                                                                                                                                                                                                                                                             |
-
-    <font size="3">Fonte: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</font>
-
-    </center>
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
 
 ## Histórico de Versão
