@@ -880,4 +880,4 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 | `1.1`  | 26/05/2025 | Adição do modelo da tabela de participantes | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.2`  | 31/05/2025 | Adição da introdução e modelo de tabela para histórias de usuário | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Euller Júlio da Silva](https://github.com/Potatoyz908) |
 |`1.3`| 31/05/2025|Adição da Metodologia, US07, US08, US09, US10, US11 e US12|[Arthur Evangelista](https://github.com/arthurevg)|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
-|`1.4`| 31/05/2025|Adição das histórias de usuário referentes aos requisitos US13, US14, US15, US16, US17 e US18|[Euller Júlio da Silva](https://github.com/Potatoyz908)|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
+|`1.4`| 31/05/2025|Adição das histórias de usuário US13, US14, US15, US16, US17 e US18|[Euller Júlio da Silva](https://github.com/Potatoyz908)|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
