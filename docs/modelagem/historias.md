@@ -22,7 +22,7 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
-						<td>Lorem Ipsum</td>
+						<td>Elaborou a metodologia e as Histórias de usuário US07, US08, US09, US10, US11 e US12(tabelas 9 a 14)</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
@@ -34,7 +34,7 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
-						<td>Elaborou as Histórias de Usuário US25, US26, US27, US28, US29 e US30 (tabelas de 27 a 32)</td>
+						<td>Elaborou as Histórias de Usuário US25, US26, US27, US28, US29 e US30 (tabelas 27 a 32)</td>
 					</tr>
                     <tr>
 						<td><a  href="https://github.com/pedroeverton217">Pedro Everton</a></td>
