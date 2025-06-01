@@ -18,7 +18,7 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 		<tbody>
 					<tr>
 						<td><a  href="https://github.com/ArturDCR">Artur de Camargos</a></td>
-						<td>Lorem Ipsum</td>
+						<td>Elaborou as Histórias de Usuário US31, US32, US33, US34, US35 e US36 (tabelas 33 a 38)</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
@@ -1465,6 +1465,284 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor:  [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
 
+### US31 - Hub de Críticas de Filmes
+
+<details>
+  <summary><strong>Tabela 33 - História de Usuário Hub de Críticas de Filmes</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US31</td>
+        <td>Hub de Críticas de Filmes</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> usuário do aplicativo Cinemark, <em>desejo</em> acessar um hub centralizado com críticas de filmes, <em>para</em> avaliar opiniões antes de decidir qual filme assistir.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>
+          - Seção "Críticas" acessível via menu principal<br>
+          - Exibição de críticas profissionais e de usuários com classificação por estrelas<br>
+          - Filtros por filme, data e relevância<br>
+          - Publicação de críticas por usuários autenticados<br>
+          - Funcionamento com conexão instável
+        </td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>xxxx</td>
+      </tr>
+      <tr>
+        <td>Rastreabilidade</td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq60" target="_blank">RQ60</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+</details>
+
+<font size="3"><p style="text-align: center">Autor:  [Artur de Camargos](https://github.com/ArturDCR).</p></font>
+
+### US32 - Acesso Rápido aos Ingressos
+
+<details>
+  <summary><strong>Tabela 34 - História de Usuário Acesso Rápido aos Ingressos</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US32</td>
+        <td>Acesso Rápido aos Ingressos</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> usuário do aplicativo Cinemark, <em>desejo</em> encontrar meus ingressos de forma imediata, <em>para</em> acessá-los rapidamente ao chegar ao cinema.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>
+          - Botão "Meus Ingressos" fixo na barra inferior<br>
+          - Visível em todas as telas principais<br>
+          - Exibição cronológica com destaque para data/sessão<br>
+          - Alertas visuais para sessões próximas<br>
+          - Acesso em até 2 toques
+        </td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>xxxx</td>
+      </tr>
+      <tr>
+        <td>Rastreabilidade</td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq67" target="_blank">RQ67</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+</details>
+
+<font size="3"><p style="text-align: center">Autor:  [Artur de Camargos](https://github.com/ArturDCR).</p></font>
+
+### US33 - Acesso Offline a Ingressos
+
+<details>
+  <summary><strong>Tabela 35 - História de Usuário Acesso Offline a Ingressos</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US33</td>
+        <td>Acesso Offline a Ingressos</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> usuário do aplicativo Cinemark, <em>desejo</em> acessar meus ingressos sem internet, <em>para</em> apresentá-los na entrada mesmo com falhas de rede.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>
+          - Armazenamento local após primeira visualização online<br>
+          - Opção "Salvar para Offline" com confirmação<br>
+          - QR Codes legíveis offline<br>
+          - Funcionamento da seção sem conexão<br>
+          - Alertas para ingressos expirados
+        </td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>xxxx</td>
+      </tr>
+      <tr>
+        <td>Rastreabilidade</td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq66" target="_blank">RQ66</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+</details>
+
+<font size="3"><p style="text-align: center">Autor:  [Artur de Camargos](https://github.com/ArturDCR).</p></font>
+
+### US34 - Detecção de Localização
+
+<details>
+  <summary><strong>Tabela 36 - História de Usuário Detecção de Localização</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US34</td>
+        <td>Detecção de Localização</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> usuário do aplicativo Cinemark, <em>desejo</em> que minha localização seja detectada automaticamente com opção de alteração manual, <em>para</em> encontrar cinemas próximos rapidamente.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>
+          - Detecção automática de geolocalização ao abrir o app<br>
+          - Exibição clara da localização detectada<br>
+          - Botão "Alterar Local" visível<br>
+          - Lista de cidades/estados para seleção manual<br>
+          - Persistência da última localização escolhida
+        </td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>xxxx</td>
+      </tr>
+      <tr>
+        <td>Rastreabilidade</td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq02" target="_blank">RQ02</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+</details>
+
+<font size="3"><p style="text-align: center">Autor:  [Artur de Camargos](https://github.com/ArturDCR).</p></font>
+
+### US35 - Autenticação por E-mail e Senha
+
+<details>
+  <summary><strong>Tabela 37 - História de Usuário Autenticação por E-mail e Senha</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US35</td>
+        <td>Autenticação por E-mail e Senha</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> usuário do aplicativo Cinemark, <em>desejo</em> autenticar-me com e-mail e senha, <em>para</em> acessar minha conta e benefícios pessoais.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>
+          - Campos para e-mail e senha na tela de login<br>
+          - Validação de formato de e-mail<br>
+          - Recuperação de senha via e-mail<br>
+          - Opção "Manter conectado"<br>
+          - Mensagens claras de erro para credenciais inválidas<br>
+          - Bloqueio temporário após múltiplas tentativas falhas
+        </td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>xxxx</td>
+      </tr>
+      <tr>
+        <td>Rastreabilidade</td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq04" target="_blank">RQ04</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+</details>
+
+<font size="3"><p style="text-align: center">Autor:  [Artur de Camargos](https://github.com/ArturDCR).</p></font>
+
+### US36 - Acessibilidade Visual
+
+<details>
+  <summary><strong>Tabela 38 - História de Usuário Acessibilidade Visual</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US36</td>
+        <td>Acessibilidade Visual</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> usuário com deficiência visual, <em>desejo</em> uma interface acessível, <em>para</em> navegar independentemente com recursos de acessibilidade.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>
+          - Compatibilidade com TalkBack/VoiceOver<br>
+          - Alto contraste e redimensionamento de fonte (até 200%)<br>
+          - Descrições audíveis para elementos<br>
+          - Navegação por gestos intuitiva<br>
+          - Dark Mode certificado WCAG AA<br>
+          - Feedback tátil para ações
+        </td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>xxxx</td>
+      </tr>
+      <tr>
+        <td>Rastreabilidade</td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq44" target="_blank">RQ44</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+</details>
+
+<font size="3"><p style="text-align: center">Autor:  [Artur de Camargos](https://github.com/ArturDCR).</p></font>
+
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
@@ -1476,3 +1754,4 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 |`1.4`| 31/05/2025|Adição das histórias de usuário US13, US14, US15, US16, US17 e US18|[Euller Júlio da Silva](https://github.com/Potatoyz908)|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
 | `1.5`  | 31/05/2025 | Adição das histórias de usuário US19, US20, US21, US22, US23 e US24 | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.6`  | 31/05/2025 | Adição das histórias de usuário US25, US26, US27, US28, US29 e US30 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |  [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.7`  | 01/06/2025 | Adição das histórias de usuário US31, US32, US33, US34, US35 e US36 | [Artur de Camargos](https://github.com/ArturDCR) |  [Davi Camilo](https://github.com/Davicamilo23) |
