@@ -55,20 +55,18 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 
 As histórias de usuário foram elaboradas com base nos [Requisitos Elicitados](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) anteriormente. Cada história foi escrita de acordo com a Tabela 2.
 
-
 Essa estrutura facilita o entendimento das necessidades dos usuários finais e auxilia na comunicação entre membros da equipe de desenvolvimento.
 
 Para garantir **rastreabilidade**, cada história de usuário está associada explicitamente a um ou mais requisitos elicitados. Isso permite mapear quais funcionalidades estão sendo cobertas e monitorar o progresso e a cobertura do sistema em relação aos objetivos iniciais.
 
 A priorização foi feita utilizando a técnica **Three-Level Scale estendida**, com os seguintes níveis:
 
-- **Alta**: deve ser implementada no primeiro ciclo de desenvolvimento. É essencial para o funcionamento do sistema.
-- **Média**: relevante, mas pode ser implementada em ciclos posteriores.
-- **Baixa**: desejável, mas opcional; agrega valor, mas não é crítica.
-- **Não deve ser implementada**: identificada durante a elicitação, mas foi descartada por motivos de viabilidade, escopo ou prioridade estratégica.
+* **Alta**: deve ser implementada no primeiro ciclo de desenvolvimento. É essencial para o funcionamento do sistema.
+* **Média**: relevante, mas pode ser implementada em ciclos posteriores.
+* **Baixa**: desejável, mas opcional; agrega valor, mas não é crítica.
+* **Não deve ser implementada**: identificada durante a elicitação, mas foi descartada por motivos de viabilidade, escopo ou prioridade estratégica.
 
 Essa escala ajuda a organizar os esforços da equipe de forma mais estratégica, focando nas entregas que realmente trazem valor imediato ao usuário e ao negócio, ao mesmo tempo em que documenta funcionalidades que podem ser revisitadas no futuro ou que foram explicitamente desconsideradas.
-
 
 Tabela 2: Modelo de tabela para histórias de usuário.
 
@@ -100,7 +98,6 @@ Tabela 2: Modelo de tabela para histórias de usuário.
     </tr>
   </table>
 </div>
-
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
@@ -142,7 +139,6 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
-
 ### US02 - Armazenar cartões de pagamento
 
 <details>
@@ -178,7 +174,6 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 </details>
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
-
 
 ### US03 - Armazenar cartões de pagamento
 
@@ -216,7 +211,6 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
-
 ### US04 - Armazenar cartões de pagamento
 
 <details>
@@ -253,7 +247,6 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
-
 ### US05 - Armazenar cartões de pagamento
 
 <details>
@@ -289,7 +282,6 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 </details>
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
-
 
 ### US06 - Armazenar cartões de pagamento
 
@@ -374,7 +366,6 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
 
-
 ### US08 - Recuperação de conta via e-mail ou CPF
 
 <details>
@@ -423,7 +414,6 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 </details>
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
-
 
 ### US09 - Exibir histórico de filmes e compras
 
@@ -474,7 +464,6 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
 
-
 ### US10 - Filtrar filmes por categoria
 
 <details>
@@ -520,7 +509,6 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 </details>
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
-
 
 ### US11 - Exibir trailers dentro do app
 
@@ -568,7 +556,6 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
 
-
 ### US12 - Fluxo de compra simplificado
 
 <details>
@@ -612,7 +599,6 @@ Tabela 2: Modelo de tabela para histórias de usuário.
   </table>
 
 </details>
-
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
 
@@ -1173,20 +1159,20 @@ Tabela 2: Modelo de tabela para histórias de usuário.
     </thead>
     <tbody>
       <tr>
-        <td>US18</td>
+        <td>US25</td>
         <td>Utilização de pontos para desconto</td>
       </tr>
       <tr>
         <td>Descrição</td>
-        <td><em>Eu, como</em> usuário do programa de fidelidade da Cinemark <em>desejo</em> utilizar meus pontos acumulados <em>para</em> obter desconto em ingressos e produtos.</td>
+        <td><em>Eu, como </em>usuário do programa de fidelidade da Cinemark, <em>desejo</em> utilizar meus pontos acumulados <em>para</em> obter desconto em ingressos e produtos.</td>
       </tr>
       <tr>
         <td>Critérios de Aceitação</td>
         <td>
           - O sistema deve exibir o saldo atual de pontos do usuário autenticado.<br>
           - O sistema deve permitir selecionar o uso de pontos no momento do pagamento de ingressos e/ou produtos.<br>
-          - O valor do desconto correspondente aos pontos utilizados deve ser claramente informado antes da confirmação da compra.
-          - O sistema deve atualizar corretamente o saldo de pontos após a utilização.
+          - O valor do desconto correspondente aos pontos utilizados deve ser claramente informado antes da confirmação da compra.<br>
+          - O sistema deve atualizar corretamente o saldo de pontos após a utilização.<br>
           - O sistema deve impedir a utilização de pontos se o saldo for insuficiente.
         </td>
       </tr>
@@ -1204,6 +1190,193 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 </details>
 
 <font size="3"><p style="text-align: center">Autor:  [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
+### US26 - Salvamento automático de ingressos
+
+<details>
+  <summary><strong>Tabela 28 - História de Usuário Salvamento automático de ingressos</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US26</td>
+        <td>Salvamento automático de ingressos</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como </em> usuário do aplicativo Cinemark, <em>desejo</em> que meus ingressos sejam salvos automaticamente na seção “Meus Ingressos” após a confirmação da compra <em>para</em> acessá-los facilmente quando precisar apresentá-los no cinema.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>
+          - O sistema deve salvar automaticamente os ingressos comprados na seção “Meus Ingressos” assim que a transação for confirmada.<br>
+          - O usuário deve conseguir visualizar detalhes como filme, data, horário, poltrona e detalhes do ingresso.<br>
+          - O ingresso salvo deve estar disponível mesmo sem conexão com a internet.<br>
+          - O sistema deve armazenar os ingressos apenas para o usuário autenticado que realizou a compra.
+        </td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>xxxx</td>
+      </tr>
+      <tr>
+  <td>Rastreabilidade</td>
+  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq19" target="_blank">RQ19</a></td>
+</tr>
+    </tbody>
+  </table>
+
+</details>
+
+<font size="3"><p style="text-align: center">Autor:  [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
+### US27 - Alerta sobre pontos acumulados
+
+<details>
+  <summary><strong>Tabela 29 - História de Usuário Alerta sobre pontos acumulados</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US27</td>
+        <td>Alerta sobre pontos acumulados</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como </em> usuário do aplicativo Cinemark, <em>desejo</em> receber alertas quando a quantidade de pontos permitir resgate de ingresso grátis e antes da expiração dos pontos <em>para</em> não perder a oportunidade de usá-los a tempo.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>
+          - O sistema deve alertar o usuário quando ele acumular pontos suficientes para trocar por um ingresso grátis.<br>
+          - O sistema deve alertar o usuário com antecedência mínima de 10 dias antes da expiração dos pontos.<br>
+          - Os altertas devem ser repetidos a cada 2 dias após o primeiro alerta, até que o usuário utilize os pontos ou eles expirem.<br>
+          - Os alertas devem estar disponíveis via notificações push e na área de notificações do aplicativo.<br>
+          - O alerta deve informar o número de pontos disponíveis e o benefício correspondente.
+        </td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>xxxx</td>
+      </tr>
+      <tr>
+  <td>Rastreabilidade</td>
+  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq28" target="_blank">RQ28</a></td>
+</tr>
+    </tbody>
+  </table>
+
+</details>
+
+<font size="3"><p style="text-align: center">Autor:  [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
+### US28 - Favoritar cinemas
+
+<details>
+  <summary><strong>Tabela 30 - História de Usuário Alerta sobre Favoritar cinemas</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US28</td>
+        <td>Favoritar cinemas</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como </em> usuário do aplicativo Cinemark, <em>desejo</em> salvar cinemas como favoritos <em>para</em> acessar rapidamente minhas unidades preferidas ao procurar sessões ou realizar compras.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>
+          - O sistema deve permitir que o usuário marque um ou mais cinemas como favoritos.<br>
+          - Os cinemas favoritados devem aparecer no topo das listas de seleção de unidades.<br>
+          - O usuário deve conseguir visualizar, editar ou remover cinemas da lista de favoritos.<br>
+          - Os favoritos devem ser armazenados por usuário autenticado e persistir entre sessões do app.<br>
+          - O usuário deve receber uma confirmação visual ao favoritar ou desfavoritar um cinema.
+        </td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>xxxx</td>
+      </tr>
+      <tr>
+  <td>Rastreabilidade</td>
+  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq30" target="_blank">RQ30</a></td>
+</tr>
+    </tbody>
+  </table>
+
+</details>
+
+<font size="3"><p style="text-align: center">Autor:  [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
+### US29 - Área dedicada ao Cinemark Club
+
+<details>
+  <summary><strong>Tabela 30 - História de Usuário Alerta sobre Área dedicada ao Cinemark Club</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US29</td>
+        <td>Área dedicada ao Cinemark Club</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como </em> usuário do aplicativo Cinemark e membro do Cinemark Club, <em>desejo</em> acessar uma área dedicada no aplicativo que reúna meus ingressos, pontos acumulados e sua validade, <em>para</em> visualizar de forma centralizada meu histórico de benefícios e controlar o uso dos meus pontos de fidelidade.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>
+          - O sistema deve disponibilizar uma seção exclusiva para membros do Cinemark Club.<br>
+          - A área deve estar acessível a partir do menu principal do aplicativo.<br>
+          - O usuário deve conseguir visualizar seus pontos acumulados, ingressos disponíveis e respectivas validades.<br>
+          - O sistema deve permitir que o usuário visualize o histórico de uso dos pontos e ingressos.<br>
+          - O usuário deve conseguir acessar facilmente as regras do programa de fidelidade e como acumular mais pontos. <br>
+          - O usuário deve poder acessar o histórico de uso dos pontos e ingressos.<br>
+          - A área do Cinemark Club deve estar disponível apenas para usuários autenticados e manter persistência de dados entre sessões do app.</br>
+          - Deve existir um indicador visual (por exemplo, aviso destacado) quando houver pontos prestes a expirar nos próximos 7 dias.
+        </td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>xxxx</td>
+      </tr>
+      <tr>
+  <td>Rastreabilidade</td>
+  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq34" target="_blank">RQ34</a></td>
+</tr>
+    </tbody>
+  </table>
+
+</details>
+
+<font size="3"><p style="text-align: center">Autor:  [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
