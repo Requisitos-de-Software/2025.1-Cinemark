@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento apresenta a **lista de verificação** elaborada para avaliar os artefatos produzidos na Entrega 3: *Modelagem de Requisitos - Cenários , Léxicos, Casos de Uso e Especificação Suplementar*.
+Este documento apresenta a **lista de verificação** elaborada para avaliar os artefatos produzidos na Entrega 3: *Modelagem de Requisitos - Cenários, Léxicos, Casos de Uso e Especificação Suplementar*.
 A lista foi baseada nos critérios definidos pelo professor [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) e será utilizada para inspeção tanto do próprio grupo quanto do grupo +1.
 
 ---
@@ -133,7 +133,7 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
 | `1.0` | 18/05/2025 | Criação do Documento com todas as listas de verificação da Entrega 3 | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
-| `1.1` | 18/05/2025 | Adição da lista 3(léxicos) | [Arthur Evangelista](https://github.com/arthurevg) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.1` | 18/05/2025 | Adição da lista 3 (léxicos) | [Arthur Evangelista](https://github.com/arthurevg) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.11` | 18/05/2025 | Adição das referencias com imagem na lista 3 | [Arthur Evangelista](https://github.com/arthurevg) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.2` | 20/05/2025 | Adição de itens nas listas 2, 3 e 5 | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.3` | 22/05/2025 | Adição de item na lista 4 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Arthur Evangelista](https://github.com/arthurevg) |

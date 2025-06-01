@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento apresenta a **lista de verificação** elaborada para avaliar os artefatos produzidos na Entrega 3: *Modelagem de Requisitos - Cenários , Léxicos, Casos de Uso e Especificação Suplementar*.
+Este documento apresenta a **lista de verificação** elaborada para avaliar os artefatos produzidos na Entrega 3: *Modelagem de Requisitos - Cenários, Léxicos, Casos de Uso e Especificação Suplementar*.
 A lista foi baseada nos critérios definidos pelo professor [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) e será utilizada para inspeção tanto do próprio grupo quanto do grupo +1.
 
 ---
