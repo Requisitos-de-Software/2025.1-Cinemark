@@ -249,6 +249,50 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 ***
 
+### Épico 11 – Gerenciamento de Eventos
+> *Objetivo: Proporcionar ao usuário a possibilidade de reservar salas para eventos especiais.*
+
+| Feature                             | História de Usuário (ID)                                    | Priorização |
+|-------------------------------------|-------------------------------------------------------------|-------------|
+| Feature 19 – Reservar Salas para Eventos | [US13](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Reservar salas para eventos |             |
+
+<sub><p align="center">Autor: [Euller Júlio da Silva](https://github.com/Potatoyz908)</p></sub>
+
+---
+
+### Épico 12 – Configurações de Idioma
+> *Objetivo: Permitir ao usuário alterar as preferências de idioma do sistema.*
+
+| Feature                             | História de Usuário (ID)                                    | Priorização |
+|-------------------------------------|-------------------------------------------------------------|-------------|
+| Feature 20 – Alterar Preferências de Idioma | [US14](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Alterar preferências de idioma |             |
+
+<sub><p align="center">Autor: [Euller Júlio da Silva](https://github.com/Potatoyz908)</p></sub>
+
+---
+
+### Épico 13 – Localização e Assentos
+> *Objetivo: Melhorar a experiência do usuário com funcionalidades de localização e seleção de assentos.*
+
+| Feature                             | História de Usuário (ID)                                    | Priorização |
+|-------------------------------------|-------------------------------------------------------------|-------------|
+| Feature 21 – Detectar Localização Automaticamente | [US15](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Detectar localização automaticamente |             |
+| Feature 22 – Seleção Obrigatória de Assentos | [US16](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Selecionar assento obrigatório |             |
+
+<sub><p align="center">Autor: [Euller Júlio da Silva](https://github.com/Potatoyz908)</p></sub>
+
+---
+
+### Épico 14 – Gerenciamento de Compras e Contas
+> *Objetivo: Proporcionar ao usuário maior controle sobre suas compras e conta.*
+
+| Feature                             | História de Usuário (ID)                                    | Priorização |
+|-------------------------------------|-------------------------------------------------------------|-------------|
+| Feature 23 – Cancelamento de Compras | [US17](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Permitir cancelar compras |             |
+| Feature 24 – Exclusão Permanente de Conta | [US18](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Excluir conta permanentemente |             |
+
+<sub><p align="center">Autor: [Euller Júlio da Silva](https://github.com/Potatoyz908)</p></sub>
+
 ## Épicos
 
 Para contextualizar, cada épico abaixo traz uma descrição sucinta de seu propósito e suas histórias de usuário relacionadas(ID).
@@ -336,6 +380,38 @@ Para contextualizar, cada épico abaixo traz uma descrição sucinta de seu prop
 
 **Descrição:** Este épico visa oferecer uma experiência personalizada com as unidades Cinemark, permitindo que os usuários salvem cinemas favoritos e recebam sugestões baseadas em sua localização e histórico de visitas.
 
+***
+
+### Épico 11: Gerenciamento de Eventos
+
+**Histórias de usuário relacionadas:** [US13](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
+
+**Descrição:** Este épico permite que os usuários reservem salas para eventos especiais, proporcionando uma nova dimensão de uso para as instalações do Cinemark.
+
+***
+
+### Épico 12: Configurações de Idioma
+
+**Histórias de usuário relacionadas:** [US14](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
+
+**Descrição:** Este épico possibilita ao usuário alterar as preferências de idioma do sistema, tornando-o mais acessível a falantes de diferentes idiomas e melhorando a experiência do usuário.
+
+***
+
+### Épico 13: Localização e Assentos
+
+**Histórias de usuário relacionadas:** [US15](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario), [US16](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
+
+**Descrição:** Este épico melhora a experiência do usuário ao fornecer funcionalidades de localização automática e seleção obrigatória de assentos, otimizando o processo de compra e check-in.
+
+***
+
+### Épico 14: Gerenciamento de Compras e Contas
+
+**Histórias de usuário relacionadas:** [US17](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario), [US18](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
+
+**Descrição:** Este épico oferece ao usuário maior controle sobre suas compras e conta, permitindo cancelamentos e exclusões permanentes quando necessário.
+
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
@@ -347,3 +423,4 @@ Para contextualizar, cada épico abaixo traz uma descrição sucinta de seu prop
 | `1.3.1`  | 01/06/2025 | Correção da ordem dos épicos 4 a 8| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.4`  | 01/06/2025 | Adição ao épico 5 de feature relacionada a US26. Adição de épico 9 e 10 e suas features relacionadas a US25, US27,US28, US29 e US30 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |  [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.5`  | 01/06/2025 | Foi adicionado as features relacionadas a US01, US02, US03, US04, US05 e US06 | [Tiago Antunes Balieiro](https://github.com/ArturDCR) | [Euller Júlio da Silva](https://github.com/Potatoyz908) |
+| `1.6`  | 01/06/2025 | Adição dos épicos 11 a 14 e suas features relacionadas às histórias de usuário US13, US14, US15, US16, US17 e US18 | [Euller Júlio da Silva](https://github.com/Potatoyz908) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
