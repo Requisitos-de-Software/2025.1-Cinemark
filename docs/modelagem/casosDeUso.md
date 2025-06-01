@@ -30,7 +30,7 @@ A seguir apresentamos os nomes de cada integrante do grupo que participou da té
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
-						<td>Elaborou a introdução, metodologia os Componentes e Símbolos, Diagrama de Casos de Uso e criou as tabelas de especificação de caso de uso 3 e 4.</td>	
+						<td>Elaborou a introdução, metodologia os Componentes e Símbolos, Diagrama de Casos de Uso e criou as tabelas de especificação de caso de uso 3 e 4</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>

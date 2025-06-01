@@ -26,7 +26,7 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
-						<td>Lorem Ipsum</td>	
+						<td>Elaborou as Histórias de Usuário US19, US20, US21, US22, US23 e US24 (tabelas 21 a 26)</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
@@ -291,7 +291,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
 
-### US6 - Armazenar cartões de pagamento
+### US06 - Armazenar cartões de pagamento
 
 <details>
   <summary><strong>Tabela 3 - História de Usuário Armazenar cartões de pagamento</strong></summary>
@@ -877,6 +877,287 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
 
+### US19 - Exibir recomendações de filmes baseadas em histórico e preferências
+
+<details>
+  <summary><strong>Tabela 21 - História de Usuário Exibir recomendações de filmes baseadas em histórico e preferências</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US19</td>
+        <td>Exibir recomendações de filmes baseadas em histórico e preferências</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> visualizar recomendações personalizadas de filmes com base no meu histórico de navegação e preferências <em>para</em> descobrir novos títulos que são de interesse.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>
+          - O sistema deve apresentar uma seção com recomendações personalizadas na tela inicial ou em uma aba dedicada.<br>
+          - As recomendações devem levar em consideração o histórico de filmes visualizados e/ou avaliados pelo usuário.<br>
+          - O usuário pode atualizar suas preferências de gênero ou estilo, influenciando as recomendações futuras.
+        </td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>xxxx</td>
+      </tr>
+      <tr>
+      <td>Rastreabilidade</td>
+        <td> <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32">
+            RQ32
+          </a></td>
+      </tr>
+    </tbody>
+    </tbody>
+  </table>
+
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
+
+### US20 - Fornecer comparação de preços entre cinemas
+
+<details>
+  <summary><strong>Tabela 22 - História de Usuário Fornecer comparação de preços entre cinemas</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US20</td>
+        <td>Fornecer comparação de preços entre cinemas</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> comparar os preços de ingressos em diferentes cinemas <em>para</em> optar pela melhor opção de custo-benefício.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>
+          - O aplicativo deve exibir, para um mesmo filme, os preços de ingresso em diferentes cinemas próximos.<br>
+          - As comparações devem incluir preço por tipo de ingresso (inteira, meia, 3D, entre outros) e cinema.<br>
+          - A exibição dos preços deve estar atualizada conforme os dados fornecidos pelos cinemas.
+        </td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>xxxx</td>
+      </tr>
+      <tr>
+      <td>Rastreabilidade</td>
+        <td> <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ58">
+            RQ58
+          </a></td>
+      </tr>
+    </tbody>
+    </tbody>
+  </table>
+
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
+
+### US21 - Permitir notificações personalizadas
+
+<details>
+  <summary><strong>Tabela 23 - História de Usuário Permitir notificações personalizadas</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US21</td>
+        <td>Permitir notificações personalizadas</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> configurar notificações personalizadas como "avise-me quando o filme X entrar em cartaz" <em>para</em> não perder lançamentos que são de meu interesse.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>
+          - O usuário deve poder marcar filmes para ser notificado quando estes estiverem disponíveis.<br>
+          - As notificações devem ser enviadas por push ou e-mail, conforme a escolha do usuário.<br>
+          - O sistema deve permitir gerenciar e remover notificações configuradas.
+        </td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>xxxx</td>
+      </tr>
+      <tr>
+      <td>Rastreabilidade</td>
+        <td> <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ31">
+            RQ31
+          </a></td>
+      </tr>
+    </tbody>
+    </tbody>
+  </table>
+
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
+
+### US22 - Buscar filmes por nome
+
+<details>
+  <summary><strong>Tabela 24 - História de Usuário Buscar filmes por nome</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US22</td>
+        <td>Buscar filmes por nome</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> buscar filmes pelo nome <em>para</em> localizar rapidamente o conteúdo que desejo assistir.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>
+          - O aplicativo deve permitir digitar o nome de um filme em um campo de busca.<br>
+          - Os resultados devem ser exibidos em tempo real ou após clicar no botão de busca.<br>
+          - A busca deve ser flexível, aceitando variações como letras maiúsculas/minúsculas, acentuação e nomes parciais.
+        </td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>xxxx</td>
+      </tr>
+      <tr>
+      <td>Rastreabilidade</td>
+        <td> <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ05">
+            RQ05
+          </a></td>
+      </tr>
+    </tbody>
+    </tbody>
+  </table>
+
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
+
+### US23 - Permitir notificações personalizadas
+
+<details>
+  <summary><strong>Tabela 25 - História de Usuário Listar filmes em cartaz, pré-venda e futuros lançamentos</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US23</td>
+        <td>Listar filmes em cartaz, pré-venda e futuros lançamentos</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> visualizar listas de filmes em cartaz, em pré-venda e em breve lançamento <em>para</em> planejar melhor minhas idas ao cinema.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>
+          - O sistema deve exibir separadamente os filmes em cartaz, os disponíveis em pré-venda e os lançamentos futuros.<br>
+          - As listas devem ser atualizadas automaticamente conforme as datas de exibição dos filmes.<br>
+          - O usuário deve poder navegar entre essas categorias de forma intuitiva, compreendendo a diferença entre as categorias.
+        </td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>xxxx</td>
+      </tr>
+      <tr>
+      <td>Rastreabilidade</td>
+        <td> <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ06">
+            RQ06
+          </a></td>
+      </tr>
+    </tbody>
+    </tbody>
+  </table>
+
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
+
+### US24 - Exibir informações do filme
+
+<details>
+  <summary><strong>Tabela 26 - História de Usuário Exibir informações do filme</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US24</td>
+        <td>Exibir informações do filme</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> acessar informações detalhadas sobre o filme, como título, sinopse, gênero, duração, direção, elenco, distribuidor e origem <em>para</em> decidir se quero assisti-lo.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>
+          - A página do filme deve exibir claramente todas as informações relevantes: título, sinopse, gênero, duração, direção, elenco, distribuidor e país de origem.<br>
+          - As informações devem ser organizadas de forma visualmente clara e acessível para os usuários.<br>
+          - O usuário deve conseguir acessar essa página a partir da listagem ou busca de filmes.
+        </td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>xxxx</td>
+      </tr>
+      <tr>
+      <td>Rastreabilidade</td>
+        <td> <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ07">
+            RQ07
+          </a></td>
+      </tr>
+    </tbody>
+    </tbody>
+  </table>
+
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
 ## Histórico de Versão
 
@@ -887,3 +1168,4 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 | `1.2`  | 31/05/2025 | Adição da introdução e modelo de tabela para histórias de usuário | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Euller Júlio da Silva](https://github.com/Potatoyz908) |
 |`1.3`| 31/05/2025|Adição da Metodologia, US07, US08, US09, US10, US11 e US12|[Arthur Evangelista](https://github.com/arthurevg)|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
 |`1.4`| 31/05/2025|Adição das histórias de usuário US13, US14, US15, US16, US17 e US18|[Euller Júlio da Silva](https://github.com/Potatoyz908)|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
+| `1.5`  | 31/05/2025 | Adição das histórias de usuário US19, US20, US21, US22, US23 e US24 | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
