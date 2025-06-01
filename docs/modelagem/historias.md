@@ -1159,10 +1159,10 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
-### US19 - Utilização de pontos para desconto
+### US25 - Utilização de pontos para desconto
 
 <details>
-  <summary><strong>Tabela 21 - História de Usuário Utilização de pontos para desconto</strong></summary>
+  <summary><strong>Tabela 27 - História de Usuário Utilização de pontos para desconto</strong></summary>
 
   <table>
     <thead>
