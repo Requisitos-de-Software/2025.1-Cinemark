@@ -22,7 +22,7 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 		<tbody>
 					<tr>
 						<td><a  href="https://github.com/ArturDCR">Artur de Camargos</a></td>
-						<td>Adição das features relacionadas a US31, US32, US33, US34, US35 e US36</td>
+						<td>Adição das features relacionadas as histórias de usuário: US31, US32, US33, US34, US35 e US36</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
@@ -46,7 +46,14 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
-						<td>Lorem Ipsum</td>
+						<td>Adição das features relacionadas as histórias de usuário: 
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US01</a>, 
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US02</a>, 
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US03</a>, 
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US04</a>, 
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US05</a> e 
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US06</a>
+						</td>
 					</tr>
 			</tbody>
 		</table>
@@ -76,9 +83,14 @@ Cada épico (descrito abaixo) foi desdobrado em features, que representam capaci
 | Épico 2 – Exploração de Filmes     | Feature 3 – Histórico de Filmes e Compras  |
 |                               | Feature 4 – Filtragem por Categoria        |
 |                               | Feature 5 – Exibição de Trailers           |
+|                               | Feature 11 – Exibir e Permitir Avaliações          |
 | Épico 3 – Compra e Finalização     | Feature 6 – Fluxo de Compra Simplificado   |
+|                               | Feature 7 – Armazenar Cartões de pagamento           |
+|                               | Feature 8 – Compra de Múltiplos Ingressos           |
+|                               | Feature 9 – Mapa Gráfico da Sala            |
+|                               | Feature 10 – Definir Tipo de Ingresso           |
 
-<sub><p align="center">Autores: [Arthur Evangelista](https://github.com/arthurevg)</p></sub>
+<sub><p align="center">Autores: [Arthur Evangelista](https://github.com/arthurevg), [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)</p></sub>
 
 ---
 
@@ -112,8 +124,9 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 |--------------------------------------|------------------------------------------------------------|-------------|
 | Feature 4 – Filtragem por Categoria        | [US10](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Filtrar filmes por categoria                         |         |
 | Feature 5 – Exibição de Trailers           | [US11](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Exibir trailers dentro do app                        |       |
+| Feature 11 – Exibir e Permitir Avaliações           | [US06](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) –  Exibir e Permitir Avaliações                       |       |
 
-<sub><p align="center">Autores: [Arthur Evangelista](https://github.com/arthurevg)</p></sub>
+<sub><p align="center">Autores: [Arthur Evangelista](https://github.com/arthurevg), [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)</p></sub>
 
 ---
 
@@ -123,8 +136,12 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 | Feature                             | História de Usuário (ID)                                    | Priorização |
 |-------------------------------------|-------------------------------------------------------------|-------------|
 | Feature 6 – Fluxo de Compra Simplificado  | [US12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Fluxo de compra simplificado                         |       |
+| Feature 7 – Armazenar Cartões de pagamento  | [US01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Armazenar Cartões de pagamento                         |       |
+| Feature 8 – Compra de Múltiplos Ingressos  | [US02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Compra de Múltiplos Ingressos                        |       |
+| Feature 9 – Mapa Gráfico da Sala  | [US03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Mapa Gráfico da Sala                         |       |
+| Feature 10 – Definir Tipo de Ingresso  | [US04](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Definir Tipo de Ingresso                         |       |
 
-<sub><p align="center">Autores: [Arthur Evangelista](https://github.com/arthurevg)</p></sub>
+<sub><p align="center">Autores: [Arthur Evangelista](https://github.com/arthurevg), [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)</p></sub>
 
 ### Épico 4 – Hub de Conteúdo Cinematográfico
 > *Objetivo: Centralizar informações relevantes sobre filmes para auxiliar na decisão de compra.*
@@ -143,8 +160,9 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 | Feature                              | História de Usuário (ID)                                   | Priorização |
 |--------------------------------------|------------------------------------------------------------|-------------|
 | Feature 8 – Acesso Rápido            | [US32](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Acesso Rápido aos Ingressos |             |
+| Feature 5 – Salvar Ingresso na carteira            | [US05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Salvar Ingresso na carteira digital do dispositivo |             |
 
-<sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR) e [Gabriel Castelo](https://github.com/GabrielCastelo-31) </p></sub>
+<sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR), [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)</p></sub>
 
 ---
 
@@ -190,12 +208,12 @@ Para contextualizar, cada épico abaixo traz uma descrição sucinta de seu prop
 ### Épico 1: Autenticação e Gerenciamento da Conta
 **Histórias de usuário relacionadas:** [US07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario), [US08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) e [US09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
 
-**Descrição:** Este épico agrupa tudo o que é necessário para que um usuário crie uma conta Cinemark (inclusive usando redes sociais), faça login no app e recupere sua conta caso tenha problemas com suas credenciais.
+**Descrição:** Este épico engloba as funcionalidades para o usuário criar, acessar e recuperar sua conta de forma simples e segura, incluindo login com redes sociais. Também abrange o gerenciamento da conta, com recursos como a visualização do histórico de compras realizadas.
 
 ---
 
-### Épico 2: Exploração de Filmes
-**Histórias de usuário relacionadas:** [US10](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) e [US11](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
+### Épico 2: Exploração de Filmes  
+**Histórias de usuário relacionadas:** [US10](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario), [US11](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) e [US06](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
 
 **Descrição:** Foca nas funcionalidades de navegação pelo catálogo de filmes:
 - Filtrar a lista de filmes por categorias (gênero, classificação etária etc.);
@@ -203,10 +221,10 @@ Para contextualizar, cada épico abaixo traz uma descrição sucinta de seu prop
 
 ---
 
-### Épico 3: Compra e Finalização
-**Histórias de usuário relacionadas:** [US12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
+### Épico 3: Compra e Finalização  
+**Histórias de usuário relacionadas:** [US12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario), [US01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario), [US02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario), [US03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) e [US04](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)  
 
-**Descrição:**  Este épico engloba as funcionalidades para o usuário criar, acessar e recuperar sua conta de forma simples e segura, incluindo login com redes sociais. Também abrange o gerenciamento da conta, com recursos como a visualização do histórico de compras realizadas.
+**Descrição:**  Este épico engloba as funcionalidades para o usuário comprar e finalizar seus pedidos, seja de ingressos ou produtos de fomra ági e inteligente. Também abrange o gerenciamento da conta, com recursos como a visualização do histórico de compras realizadas, funcionalidades no pagamento e melhorias para o usuário ao comprar o ingresso.
 
 ---
 
@@ -230,8 +248,10 @@ Para contextualizar, cada épico abaixo traz uma descrição sucinta de seu prop
 
 ---
 
+
 ### Épico 7: Personalização Geográfica
 **Histórias de usuário relacionadas:** [US34](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
+
 
 **Descrição:** Este épico trata da detecção e seleção de localização para personalizar a experiência do usuário com base em sua região geográfica, facilitando o acesso a cinemas próximos.
 
@@ -253,3 +273,4 @@ Para contextualizar, cada épico abaixo traz uma descrição sucinta de seu prop
 | `1.2`  | 31/05/2025 | Adição da introdução, metodologia, descrição dos temas, épicos, features e histórias de usuário. Foi adicionado as features relacionadas a US07, US08, US09, US10, US11 e US12 | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.3`  | 01/06/2025 | Foi adicionado as features relacionadas a US31, US32, US33, US34, US35 e US36 | [Artur de Camargos](https://github.com/ArturDCR) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.3.1`  | 01/06/2025 | Correção da ordem dos épicos 4 a 8| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Artur de Camargos](https://github.com/ArturDCR) |
+| `1.4`  | 01/06/2025 | Foi adicionado as features relacionadas a US01, US02, US03, US04, US05 e US06 | [Tiago Antunes Balieiro](https://github.com/ArturDCR) | [Euller Júlio da Silva](https://github.com/Potatoyz908) |
