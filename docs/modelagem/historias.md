@@ -189,10 +189,9 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
-### US03 - Armazenar cartões de pagamento
-
+### US03 - Exibir mapa gráfico da sala
 <details>
-  <summary><strong>Tabela 5 - História de Usuário Armazenar cartões de pagamento</strong></summary>
+  <summary><strong>Tabela 5 - Exibir mapa gráfico da sala</strong></summary>
 
   <table>
     <thead>
@@ -203,16 +202,16 @@ Tabela 2: Modelo de tabela para histórias de usuário.
     </thead>
     <tbody>
       <tr>
-        <td>US01</td>
-        <td>Armazenar cartões de pagamento</td>
+        <td>US03</td>
+        <td>Exibir mapa gráfico da sala</td>
       </tr>
       <tr>
         <td>Descrição</td>
-        <td><em>Eu, como</em> usuário, <em>desejo</em> que o aplicativo armazene cartões de pagamento já cadastrados <em>para</em> uso em compras futuras.</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> que o aplicativo exiba um mapa da sala com indicação de assentos ocupados, livres e especiais <em>para</em> que eu possa escolher entre os assentos disponíveis.</td>
       </tr>
       <tr>
         <td>Critérios de Aceitação</td>
-        <td>- Na página de pagamento do aplicativo, deve haver uma seção exibindo os cartões previamente salvos. <br> - Ao selecionar um cartão, as informações necessárias devem ser preenchidas automaticamente. <br></td>
+        <td>- Na página de escolha dos assentos, os assentos ocupados, livres e especias devem ser representados por símbolos e cores diferentes. <br> - Ao selecionar um assento, o assento selecionado deve apresentar uma indicação gráfica e uma cor distinta. <br></td>
       </tr>
       <tr>
         <td>Prioridade</td>
@@ -232,10 +231,10 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
-### US04 - Armazenar cartões de pagamento
+### US04 - Definir tipo de ingresso por assento
 
 <details>
-  <summary><strong>Tabela 6 - História de Usuário Armazenar cartões de pagamento</strong></summary>
+  <summary><strong>Tabela 6 - História de Usuário Definir tipo de ingresso por assento</strong></summary>
 
   <table>
     <thead>
@@ -246,16 +245,16 @@ Tabela 2: Modelo de tabela para histórias de usuário.
     </thead>
     <tbody>
       <tr>
-        <td>US01</td>
-        <td>Armazenar cartões de pagamento</td>
+        <td>US04</td>
+        <td>Definir tipo de ingresso por assento</td>
       </tr>
       <tr>
         <td>Descrição</td>
-        <td><em>Eu, como</em> usuário, <em>desejo</em> que o aplicativo armazene cartões de pagamento já cadastrados <em>para</em> uso em compras futuras.</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> definir o tipo de ingresso por assento <em>para</em> selecionar cada ingresso como inteira, meia ou convênio.</td>
       </tr>
       <tr>
         <td>Critérios de Aceitação</td>
-        <td>- Na página de pagamento do aplicativo, deve haver uma seção exibindo os cartões previamente salvos. <br> - Ao selecionar um cartão, as informações necessárias devem ser preenchidas automaticamente. <br></td>
+        <td>- Na tela de compra do ingresso, deve haver uma opção para cada ingresso apresentando os tipos disponíveis. <br> - O tipo do ingresso deve ser exibido mesmo após a finalização da compra ao acessar o ingresso. <br></td>
       </tr>
       <tr>
         <td>Prioridade</td>
@@ -275,10 +274,10 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
-### US05 - Armazenar cartões de pagamento
+### US05 - Salvar ingressos na carteira digital do dispositivo
 
 <details>
-  <summary><strong>Tabela 7 - História de Usuário Armazenar cartões de pagamento</strong></summary>
+  <summary><strong>Tabela 7 - Salvar ingressos na carteira digital do dispositivo</strong></summary>
 
   <table>
     <thead>
@@ -289,16 +288,16 @@ Tabela 2: Modelo de tabela para histórias de usuário.
     </thead>
     <tbody>
       <tr>
-        <td>US01</td>
-        <td>Armazenar cartões de pagamento</td>
+        <td>US05</td>
+        <td>Salvar ingressos na carteira digital do dispositivo</td>
       </tr>
       <tr>
         <td>Descrição</td>
-        <td><em>Eu, como</em> usuário, <em>desejo</em> que o aplicativo armazene cartões de pagamento já cadastrados <em>para</em> uso em compras futuras.</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> que o aplicativo permita que eu salve ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc)<em>para</em> permitindo uma maior integração e diversificando as opções para acessar o meu ingresso.</td>
       </tr>
       <tr>
         <td>Critérios de Aceitação</td>
-        <td>- Na página de pagamento do aplicativo, deve haver uma seção exibindo os cartões previamente salvos. <br> - Ao selecionar um cartão, as informações necessárias devem ser preenchidas automaticamente. <br></td>
+        <td>- Na tela do pedido deve haver um botão para adicionar o ingresso na carteira digital do dispositivo. <br> - O aplicativo deve informar quais carteiras digitais podem ser usadas, ou caso não exista nenhuma carteira no dispositivo. <br></td>
       </tr>
       <tr>
         <td>Prioridade</td>
@@ -318,10 +317,10 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
-### US06 - Armazenar cartões de pagamento
+### US06 - Exibir e permitir avaliações
 
 <details>
-  <summary><strong>Tabela 8 - História de Usuário Armazenar cartões de pagamento</strong></summary>
+  <summary><strong>Tabela 8 - História de Usuário Exibir e permitir avaliações</strong></summary>
 
   <table>
     <thead>
@@ -333,15 +332,15 @@ Tabela 2: Modelo de tabela para histórias de usuário.
     <tbody>
       <tr>
         <td>US01</td>
-        <td>Armazenar cartões de pagamento</td>
+        <td>Exibir e permitir avaliações</td>
       </tr>
       <tr>
         <td>Descrição</td>
-        <td><em>Eu, como</em> usuário, <em>desejo</em> que o aplicativo armazene cartões de pagamento já cadastrados <em>para</em> uso em compras futuras.</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> que o aplicativo exiba avaliações de filmes e exiba uma campo de avaliação <em>para</em> que eu possa avaliar um filme em uma escala de 1 a 5 estrelas. <br></td>
       </tr>
       <tr>
         <td>Critérios de Aceitação</td>
-        <td>- Na página de pagamento do aplicativo, deve haver uma seção exibindo os cartões previamente salvos. <br> - Ao selecionar um cartão, as informações necessárias devem ser preenchidas automaticamente. <br></td>
+        <td>- Na página do filme deve haver uma seção mostrando as avaliações de outros usuários sobre o filme. <br> - Na página do filme deve haver um campo de avaliação. <br> - O campo de avaliação deve ser em formato de 1 a 5 estrelas</td>
       </tr>
       <tr>
         <td>Prioridade</td>
