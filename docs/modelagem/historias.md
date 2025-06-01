@@ -1092,7 +1092,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
-### US23 - Permitir notificações personalizadas
+### US23 - Listar filmes em cartaz, pré-venda e futuros lançamentos
 
 <details>
   <summary><strong>Tabela 25 - História de Usuário Listar filmes em cartaz, pré-venda e futuros lançamentos</strong></summary>
