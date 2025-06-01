@@ -34,7 +34,7 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
-						<td>Lorem Ipsum</td>
+						<td>Elaborou as Histórias de Usuário US25, US26, US27, US28, US29 e US30 (tabelas de 27 a 32)</td>
 					</tr>
                     <tr>
 						<td><a  href="https://github.com/pedroeverton217">Pedro Everton</a></td>
