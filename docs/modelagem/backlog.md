@@ -252,3 +252,4 @@ Para contextualizar, cada épico abaixo traz uma descrição sucinta de seu prop
 | `1.1`  | 26/05/2025 | Adição do modelo da tabela de participantes | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.2`  | 31/05/2025 | Adição da introdução, metodologia, descrição dos temas, épicos, features e histórias de usuário. Foi adicionado as features relacionadas a US07, US08, US09, US10, US11 e US12 | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.3`  | 01/06/2025 | Foi adicionado as features relacionadas a US31, US32, US33, US34, US35 e US36 | [Artur de Camargos](https://github.com/ArturDCR) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.3.1`  | 01/06/2025 | Correção da ordem dos épicos 4 a 8| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Artur de Camargos](https://github.com/ArturDCR) |
