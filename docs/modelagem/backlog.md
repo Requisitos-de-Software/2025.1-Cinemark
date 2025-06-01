@@ -126,6 +126,50 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 <sub><p align="center">Autores: [Arthur Evangelista](https://github.com/arthurevg)</p></sub>
 
+### Épico 4 – Hub de Conteúdo Cinematográfico
+> *Objetivo: Centralizar informações relevantes sobre filmes para auxiliar na decisão de compra.*
+
+| Feature                           | História de Usuário (ID)                                 | Priorização |
+|-----------------------------------|----------------------------------------------------------|-------------|
+| Feature 7 – Críticas de Filmes    | [US31](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Hub de Críticas de Filmes |             |
+
+<sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR)</p></sub>
+
+---
+
+### Épico 5 – Gerenciamento de Ingressos  
+> *Objetivo: Facilitar o acesso e utilização dos ingressos adquiridos.*
+
+| Feature                              | História de Usuário (ID)                                   | Priorização |
+|--------------------------------------|------------------------------------------------------------|-------------|
+| Feature 8 – Acesso Rápido            | [US32](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Acesso Rápido aos Ingressos |             |
+| Feature 9 – Modo Offline             | [US33](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Acesso Offline a Ingressos |             |
+
+<sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR)</p></sub>
+
+---
+
+### Épico 6 – Configurações de Conta  
+> *Objetivo: Prover mecanismos seguros e personalizados para autenticação e preferências.*
+
+| Feature                             | História de Usuário (ID)                                    | Priorização |
+|-------------------------------------|-------------------------------------------------------------|-------------|
+| Feature 10 – Autenticação Tradicional | [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Autenticação por E-mail e Senha |             |
+| Feature 11 – Detecção Geográfica     | [US34](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Detecção de Localização |             |
+
+<sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR)</p></sub>
+
+---
+
+### Épico 7 – Experiência Inclusiva
+> *Objetivo: Garantir acessibilidade universal na interface do aplicativo.*
+
+| Feature                           | História de Usuário (ID)                                 | Priorização |
+|-----------------------------------|----------------------------------------------------------|-------------|
+| Feature 12 – Recursos Visuais      | [US36](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Acessibilidade Visual |             |
+
+<sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR)</p></sub>
+
 ---
 ## Épicos
 
