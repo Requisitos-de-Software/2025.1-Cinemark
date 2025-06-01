@@ -89,3 +89,5 @@ Tabela 2 - Modelo de tabela de Cartão de Especificação
 | `1.0`  |  22/05/2025 |  Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23)  | [Euller Júlio da Silva](https://github.com/Potatoyz908) |
 | `1.1`  | 26/05/2025 | Adição do modelo da tabela de participantes | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.2`  | 01/06/2025 | Adição do modelo da tabela de Cartão de Especificação e correção da imagem dos tipos de Softgoal | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.3`  | 01/06/2025 | Adição de introdução e Softgoal Interdependency Graph | [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Davi Camilo](https://github.com/Davicamilo23) |
+

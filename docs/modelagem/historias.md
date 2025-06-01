@@ -130,7 +130,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Baixa</td>
       </tr>
 	  <tr>
         <td>Rastreabilidade</td>
@@ -173,7 +173,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Alta</td>
       </tr>
 	  <tr>
         <td>Rastreabilidade</td>
@@ -215,7 +215,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Alta</td>
       </tr>
 	  <tr>
         <td>Rastreabilidade</td>
@@ -258,7 +258,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Alta</td>
       </tr>
 	  <tr>
         <td>Rastreabilidade</td>
@@ -301,7 +301,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Baixa</td>
       </tr>
 	  <tr>
         <td>Rastreabilidade</td>
@@ -344,7 +344,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Baixa</td>
       </tr>
 	  <tr>
         <td>Rastreabilidade</td>
@@ -391,7 +391,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>[ainda não consta]</td>
+        <td>Alta</td>
       </tr>
       <tr>
         <td>Rastreabilidade</td>
@@ -439,7 +439,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>[ainda não consta]</td>
+        <td>Alta</td>
       </tr>
       <tr>
         <td>Rastreabilidade</td>
@@ -488,7 +488,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>[ainda não consta]</td>
+        <td>Média</td>
       </tr>
       <tr>
         <td>Rastreabilidade</td>
@@ -536,7 +536,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>[ainda nao consta]td>
+        <td>Baixa</td>
       </tr>
       <tr>
         <td>Rastreabilidade</td>
@@ -582,7 +582,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>[ainda nao consta]</td>
+        <td>Média</td>
       </tr>
       <tr>
         <td>Rastreabilidade</td>
@@ -628,7 +628,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>[ainda nao consta]</td>
+        <td>Baixo</td>
       </tr>
       <tr>
         <td>Rastreabilidade</td>
@@ -674,7 +674,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Média</td>
       </tr>
       <tr>
   <td>Rastreabilidade</td>
@@ -717,7 +717,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Baixa</td>
       </tr>
       <tr>
   <td>Rastreabilidade</td>
@@ -760,7 +760,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Média</td>
       </tr>
       <tr>
   <td>Rastreabilidade</td>
@@ -803,7 +803,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Alta</td>
       </tr>
       <tr>
   <td>Rastreabilidade</td>
@@ -847,7 +847,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Alta</td>
       </tr>
      <tr>
   <td>Rastreabilidade</td>
@@ -891,7 +891,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Alta</td>
       </tr>
       <tr>
   <td>Rastreabilidade</td>
@@ -935,7 +935,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Baixa</td>
       </tr>
       <tr>
       <td>Rastreabilidade</td>
@@ -982,7 +982,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Alta</td>
       </tr>
       <tr>
       <td>Rastreabilidade</td>
@@ -1029,7 +1029,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Média</td>
       </tr>
       <tr>
       <td>Rastreabilidade</td>
@@ -1076,7 +1076,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Alta</td>
       </tr>
       <tr>
       <td>Rastreabilidade</td>
@@ -1123,7 +1123,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Alta</td>
       </tr>
       <tr>
       <td>Rastreabilidade</td>
@@ -1170,7 +1170,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Alta</td>
       </tr>
       <tr>
       <td>Rastreabilidade</td>
@@ -1219,7 +1219,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Alta</td>
       </tr>
       <tr>
   <td>Rastreabilidade</td>
@@ -1264,7 +1264,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Alta</td>
       </tr>
       <tr>
   <td>Rastreabilidade</td>
@@ -1310,7 +1310,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Alta</td>
       </tr>
       <tr>
   <td>Rastreabilidade</td>
@@ -1356,7 +1356,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Média</td>
       </tr>
       <tr>
   <td>Rastreabilidade</td>
@@ -1405,7 +1405,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Alta</td>
       </tr>
       <tr>
   <td>Rastreabilidade</td>
@@ -1452,7 +1452,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Baixa</td>
       </tr>
       <tr>
   <td>Rastreabilidade</td>
@@ -1498,7 +1498,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Baixa</td>
       </tr>
       <tr>
         <td>Rastreabilidade</td>
@@ -1544,7 +1544,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Alta</td>
       </tr>
       <tr>
         <td>Rastreabilidade</td>
@@ -1592,7 +1592,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Baixa</td>
       </tr>
       <tr>
         <td>Rastreabilidade</td>
@@ -1638,7 +1638,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Média</td>
       </tr>
       <tr>
         <td>Rastreabilidade</td>
@@ -1685,7 +1685,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Alta</td>
       </tr>
       <tr>
         <td>Rastreabilidade</td>
@@ -1732,7 +1732,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>xxxx</td>
+        <td>Alta</td>
       </tr>
       <tr>
         <td>Rastreabilidade</td>
@@ -1759,4 +1759,6 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 | `1.7`  | 01/06/2025 | Adição das histórias de usuário US31, US32, US33, US34, US35 e US36 | [Artur de Camargos](https://github.com/ArturDCR) |  [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.8`  | 01/06/2025 | Adição das histórias de usuário US01, US02, US04, US05, US06 e US07 | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |  [Euller Júlio da Silva](https://github.com/Potatoyz908) |
 |`1.9`| 1/06/2025|Correção nas tabelas de histórias de usuário US13, US14, US15, US16, US17 e US18|[Euller Júlio da Silva](https://github.com/Potatoyz908)|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
-|`1.10`| 1/06/2025| Correções gramaticais nas tabelas de histórias de usuário e adição na tabela de participantes |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|[Arthur Evangelista](https://github.com/arthurevg)|
+|`1.10`| 1/06/2025|Adição das prioridades conforme reunião com o PO|[Arthur Evangelista](https://github.com/arthurevg), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), [Davi Camilo](https://github.com/Davicamilo23) e [Gabriel Castelo](https://github.com/gabrielcastelo-31)|[Artur de Camargos](https://github.com/ArturDCR)|
+>>>>>>> 2d064c328b19ba253a6c462e589e6505a54b750f
+|`1.11`| 1/06/2025| Correções gramaticais nas tabelas de histórias de usuário e adição na tabela de participantes |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|[Arthur Evangelista](https://github.com/arthurevg)|

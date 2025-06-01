@@ -78,7 +78,7 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
-# Temas
+## Temas
 
 Analisando as histórias de usuário definidas para o projeto Cinemark, agrupamos os requisitos em três grandes temas:
 
@@ -88,7 +88,7 @@ Analisando as histórias de usuário definidas para o projeto Cinemark, agrupamo
 
 ***
 
-# Features
+## Features
 
 Cada épico (descrito abaixo) foi desdobrado em features, que representam capacidades de alto nível do produto. A tabela a seguir mostra o mapeamento entre épicos e features.
 
