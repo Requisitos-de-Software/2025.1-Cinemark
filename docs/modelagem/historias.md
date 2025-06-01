@@ -22,27 +22,27 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
-						<td>Elaborou a metodologia e as Histórias de usuário US07, US08, US09, US10, US11 e US12(tabelas 9 a 14)</td>
+						<td>Elaborou a metodologia, as Histórias de usuário US07, US08, US09, US10, US11 e US12(tabelas 9 a 14) e participou como entrevistador na piorização das histórias de usuário.</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
-						<td>Elaborou as Histórias de Usuário US19, US20, US21, US22, US23 e US24 (tabelas 21 a 26)</td>
+						<td>Elaborou as Histórias de Usuário US19, US20, US21, US22, US23 e US24 (tabelas 21 a 26) e participou como entrevistador na piorização das histórias de usuário.</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
-						<td>Elaborou as Histórias de Usuário US13, US14, US15, US16, US17 e US18 (tabelas 15 a 20)</td>
+						<td>Elaborou as Histórias de Usuário US13, US14, US15, US16, US17 e US18 (tabelas 15 a 20) e participou como entrevistador na piorização das histórias de usuário.</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
-						<td>Elaborou as Histórias de Usuário US25, US26, US27, US28, US29 e US30 (tabelas 27 a 32)</td>
-					</tr>
-                    <tr>
-						<td><a  href="https://github.com/pedroeverton217">Pedro Everton</a></td>
-						<td>Lorem Ipsum</td>
+						<td>Elaborou as Histórias de Usuário US25, US26, US27, US28, US29 e US30 (tabelas 27 a 32) e participou como entrevistador na piorização das histórias de usuário</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
-						<td>Elaborou a introdução, o modelo de tabela para histórias de usuário, e as Histórias de Usuário US01, US02, US03, US04, US05 e US06 (tabelas 6 a 8)</td>
+						<td>Elaborou a introdução, o modelo de tabela para histórias de usuário, as Histórias de Usuário US01, US02, US03, US04, US05 e US06 (tabelas 6 a 8) e participou como entrevistador na piorização das histórias de usuário.</td>
+					</tr>
+          <tr>
+						<td>Victor Magalhães (Product Owner)</td>
+						<td>Participou da priorização das histórias de usuário.</td>
 					</tr>
 			</tbody>
 		</table>
@@ -165,11 +165,11 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Descrição</td>
-        <td><em>Eu, como</em> usuário, <em>desejo</em> comprar múltiplos ingressos em uma única transação, informando a quantidade de ingressos desejada <em>para</em> simplificar o processo de comprar e torná-lo mais eficaz.</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> comprar múltiplos ingressos em uma única transação, informando a quantidade de ingressos desejada <em>para</em> simplificar o processo de compra e torná-lo mais eficaz.</td>
       </tr>
       <tr>
         <td>Critérios de Aceitação</td>
-        <td>- Na página de escolha dos assentos deve permitir a escolha de múltiplos assentos. <br> - Ao selecionar mais de um assento, deve ser possível escolher o tipo de cada ingresso individualmente (inteira, meia, gratuidade). <br></td>
+        <td>- A página de escolha dos assentos deve permitir a escolha de múltiplos assentos. <br> - Ao selecionar mais de um assento, deve ser possível escolher o tipo de cada ingresso individualmente (inteira, meia, gratuidade). <br></td>
       </tr>
       <tr>
         <td>Prioridade</td>
@@ -293,7 +293,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Descrição</td>
-        <td><em>Eu, como</em> usuário, <em>desejo</em> que o aplicativo permita que eu salve ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc)<em>para</em> permitindo uma maior integração e diversificando as opções para acessar o meu ingresso.</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> que o aplicativo permita que eu salve ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc)<em>para</em> uma maior integração e diversificando as opções para acessar o meu ingresso.</td>
       </tr>
       <tr>
         <td>Critérios de Aceitação</td>
@@ -336,7 +336,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Descrição</td>
-        <td><em>Eu, como</em> usuário, <em>desejo</em> que o aplicativo exiba avaliações de filmes e exiba uma campo de avaliação <em>para</em> que eu possa avaliar um filme em uma escala de 1 a 5 estrelas. <br></td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> que o aplicativo exiba avaliações de filmes e exiba um campo de avaliação <em>para</em> que eu possa avaliar um filme em uma escala de 1 a 5 estrelas. <br></td>
       </tr>
       <tr>
         <td>Critérios de Aceitação</td>
@@ -1759,3 +1759,4 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 | `1.7`  | 01/06/2025 | Adição das histórias de usuário US31, US32, US33, US34, US35 e US36 | [Artur de Camargos](https://github.com/ArturDCR) |  [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.8`  | 01/06/2025 | Adição das histórias de usuário US01, US02, US04, US05, US06 e US07 | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |  [Euller Júlio da Silva](https://github.com/Potatoyz908) |
 |`1.9`| 1/06/2025|Correção nas tabelas de histórias de usuário US13, US14, US15, US16, US17 e US18|[Euller Júlio da Silva](https://github.com/Potatoyz908)|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
+|`1.10`| 1/06/2025| Correções gramaticais nas tabelas de histórias de usuário e adição na tabela de participantes |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|[Arthur Evangelista](https://github.com/arthurevg)|
