@@ -1285,7 +1285,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 ### US28 - Favoritar cinemas
 
 <details>
-  <summary><strong>Tabela 30 - História de Usuário Alerta sobre Favoritar cinemas</strong></summary>
+  <summary><strong>Tabela 30 - História de Usuário Favoritar cinemas</strong></summary>
 
   <table>
     <thead>
@@ -1331,7 +1331,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 ### US29 - Área dedicada ao Cinemark Club
 
 <details>
-  <summary><strong>Tabela 31 - História de Usuário Alerta sobre Área dedicada ao Cinemark Club</strong></summary>
+  <summary><strong>Tabela 31 - História de Usuário Área dedicada ao Cinemark Club</strong></summary>
 
   <table>
     <thead>
@@ -1380,7 +1380,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 ### US30 - Sugestão de cinemas personalizada
 
 <details>
-  <summary><strong>Tabela 32 - História de Usuário Alerta sobre Sugestão de cinemas personalizada</strong></summary>
+  <summary><strong>Tabela 32 - História de Usuário Sugestão de cinemas personalizada</strong></summary>
 
   <table>
     <thead>
