@@ -96,6 +96,9 @@ Cada épico (descrito abaixo) foi desdobrado em features, que representam capaci
 |-------------------------------|------------------------------------------|
 | Épico 1 – Conta e Autenticação     | Feature 1 – Criação de Conta e Login       |
 |                               | Feature 2 – Recuperação de Conta           |
+|                               | Feature 10 – Autenticação Tradicional       |
+|                               | Feature 11 – Logout Seguro                 |
+|                               | Feature 24 - Exclusão Permanente de Conta |
 | Épico 2 – Exploração de Filmes     | Feature 3 – Histórico de Filmes e Compras  |
 |                               | Feature 4 – Filtragem por Categoria        |
 |                               | Feature 5 – Exibição de Trailers           |
@@ -112,8 +115,6 @@ Cada épico (descrito abaixo) foi desdobrado em features, que representam capaci
 |                               | Feature 30 - Exibição de Informações do Filme |
 | Épico 5 – Gerenciamento de Ingressos | Feature 8 – Salvar ingressos automaticamente |
 |                               | Feature 9 – Acesso Rápido aos Ingressos    |
-| Épico 6 – Autenticação e Gerenciamento da Conta | Feature 10 – Autenticação Tradicional       |
-|                               | Feature 11 – Logout Seguro                 |
 | Épico 7 – Personalização Geográfica | Feature 12 – Detecção de Localização       |
 | Épico 8 – Feedback do Sistema       | Feature 13 – Mensagens de Feedback          |
 | Épico 9 – Sistema de Fidelidade e Benefícios (Cinemark Club) | Feature 14 – Utilizar pontos para obter desconto ou resgatar ingressos |
@@ -123,6 +124,11 @@ Cada épico (descrito abaixo) foi desdobrado em features, que representam capaci
 |                               | Feature 18 – Sugerir cinemas de forma personalizada com base em localização e histórico de visita |
 |                               | Feature 25 - Recomendação Personalizada |
 |                               | Feature 27 - Notificações Inteligentes |
+| Épico 11 – Gerenciamento de Eventos | Feature 19 – Reservar Salas para Eventos |
+| Épico 12 – Configurações de Idioma | Feature 20 – Alterar Preferências de Idioma |
+| Épico 13 – Localização e Assentos | Feature 21 – Detectar Localização Automaticamente |
+|                               | Feature 22 – Seleção Obrigatória de Assentos |
+| Épico 14 – Gerenciamento de Compras | Feature 23 – Cancelamento de Compras |
 
 
 <sub><p align="center">Autores: [Arthur Evangelista](https://github.com/arthurevg), [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Davi Camilo](https://github.com/Davicamilo23) </p></sub>
@@ -148,8 +154,11 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 | Feature 1 – Criação de Conta e Login   | [US07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Criação de conta e login com redes sociais        |         |
 | Feature 2 – Recuperação de Conta       | [US08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Recuperação de conta via e-mail ou CPF            |         |
 | Feature 3 – Histórico de Compras   | [US09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Exibir histórico de filmes e compras                |       |
+| Feature 10 – Autenticação Tradicional | [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Autenticação por E-mail e Senha |             |
+| Feature 11 – Logout Seguro          | [US33](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Logout da Conta |             |
+| Feature 24 – Exclusão Permanente de Conta | [US18](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Excluir conta permanentemente |             |
 
-<sub><p align="center">Autores: [Arthur Evangelista](https://github.com/arthurevg)</p></sub>
+<sub><p align="center">Autores: [Arthur Evangelista](https://github.com/arthurevg), [Artur de Camargos](https://github.com/ArturDCR) e </p></sub>
 
 ***
 
@@ -208,19 +217,6 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 | Feature 10 – Salvar Ingresso na carteira            | [US05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Salvar Ingresso na carteira digital do dispositivo |             |
 
 <sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR), [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)</p></sub>
-
-***
-
-### Épico 6 – Autenticação e Gerenciamento da Conta
-
-> *Objetivo: Prover mecanismos seguros para autenticação e controle da conta do usuário.*
-
-| Feature                             | História de Usuário (ID)                                    | Priorização |
-|-------------------------------------|-------------------------------------------------------------|-------------|
-| Feature 10 – Autenticação Tradicional | [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Autenticação por E-mail e Senha |             |
-| Feature 11 – Logout Seguro          | [US33](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Logout da Conta |             |
-
-<sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR)</p></sub>
 
 ***
 
@@ -311,13 +307,12 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 ---
 
-### Épico 14 – Gerenciamento de Compras e Contas
-> *Objetivo: Proporcionar ao usuário maior controle sobre suas compras e conta.*
+### Épico 14 – Gerenciamento de Compras
+> *Objetivo: Proporcionar ao usuário maior controle sobre suas compras.*
 
 | Feature                             | História de Usuário (ID)                                    | Priorização |
 |-------------------------------------|-------------------------------------------------------------|-------------|
 | Feature 23 – Cancelamento de Compras | [US17](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Permitir cancelar compras |             |
-| Feature 24 – Exclusão Permanente de Conta | [US18](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Excluir conta permanentemente |             |
 
 <sub><p align="center">Autor: [Euller Júlio da Silva](https://github.com/Potatoyz908)</p></sub>
 
@@ -329,9 +324,9 @@ Para contextualizar, cada épico abaixo traz uma descrição sucinta de seu prop
 
 ### Épico 1: Autenticação e Gerenciamento da Conta
 
-**Histórias de usuário relacionadas:** [US07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario), [US08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) e [US09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
+**Histórias de usuário relacionadas:** [US07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario), [US08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario), [US09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario), [US33](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) , [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) e [US18](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
 
-**Descrição:** Este épico engloba as funcionalidades para o usuário criar, acessar e recuperar sua conta de forma simples e segura, incluindo login com redes sociais. Também abrange o gerenciamento da conta, com recursos como a visualização do histórico de compras realizadas.
+**Descrição:** Este épico engloba todas as funcionalidades que permitem o usuário criar, acessar e gerenciar sua conta de forma simples e segura. Abrange desde o login com credenciais tradicionais ou redes sociais até a recuperação de senha. Também inclui o logout seguro, a gestão de sessões e o acompanhamento do histórico de compras, assegurando uma navegação personalizada e protegida.
 
 ***
 
@@ -367,15 +362,6 @@ Para contextualizar, cada épico abaixo traz uma descrição sucinta de seu prop
 **Descrição:** Este épico otimiza o acesso aos ingressos adquiridos, proporcionando localização imediata e visualização rápida para uso no cinema.
 
 ***
-
-### Épico 6: Autenticação e Gerenciamento da Conta
-
-**Histórias de usuário relacionadas:** [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario), [US33](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
-
-**Descrição:** Este épico agrupa funcionalidades essenciais para autenticação segura e gerenciamento de sessão do usuário, incluindo login com credenciais tradicionais e logout seguro para proteção da conta.
-
----
-
 
 ### Épico 7: Personalização Geográfica
 
@@ -434,11 +420,11 @@ Para contextualizar, cada épico abaixo traz uma descrição sucinta de seu prop
 
 ***
 
-### Épico 14: Gerenciamento de Compras e Contas
+### Épico 14: Gerenciamento de Compras
 
-**Histórias de usuário relacionadas:** [US17](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario), [US18](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
+**Histórias de usuário relacionadas:** [US17](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
 
-**Descrição:** Este épico oferece ao usuário maior controle sobre suas compras e conta, permitindo cancelamentos e exclusões permanentes quando necessário.
+**Descrição:** Este épico oferece ao usuário maior controle sobre suas compras, permitindo cancelamentos e exclusões permanentes quando necessário.
 
 ## Histórico de Versão
 
