@@ -153,8 +153,9 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 | Feature                              | História de Usuário (ID)                                   | Priorização |
 |--------------------------------------|------------------------------------------------------------|-------------|
 | Feature 8 – Acesso Rápido            | [US32](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Acesso Rápido aos Ingressos |             |
+| Feature 5 – Salvar Ingresso na carteira            | [US05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Salvar Ingresso na carteira digital do dispositivo |             |
 
-<sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR)</p></sub>
+<sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)</p></sub>
 
 ---
 
@@ -200,7 +201,7 @@ Para contextualizar, cada épico abaixo traz uma descrição sucinta de seu prop
 ### Épico 1: Autenticação e Gerenciamento da Conta
 **Histórias de usuário relacionadas:** [US07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario), [US08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) e [US09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) 
 
-**Descrição:** Este épico agrupa tudo o que é necessário para que um usuário crie uma conta Cinemark (inclusive usando redes sociais), faça login no app e recupere sua conta caso tenha problemas com suas credenciais.  
+**Descrição:** Este épico engloba as funcionalidades para o usuário criar, acessar e recuperar sua conta de forma simples e segura, incluindo login com redes sociais. Também abrange o gerenciamento da conta, com recursos como a visualização do histórico de compras realizadas.
 
 ---
 
@@ -216,19 +217,19 @@ Para contextualizar, cada épico abaixo traz uma descrição sucinta de seu prop
 ### Épico 3: Compra e Finalização  
 **Histórias de usuário relacionadas:** [US12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario), [US01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario), [US02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario), [US03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) e [US04](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)  
 
-**Descrição:**  Este épico engloba as funcionalidades para o usuário criar, acessar e recuperar sua conta de forma simples e segura, incluindo login com redes sociais. Também abrange o gerenciamento da conta, com recursos como a visualização do histórico de compras realizadas, funcionalidades no pagamento e melhorias para o usuário ao comprar o ingresso.
+**Descrição:**  Este épico engloba as funcionalidades para o usuário comprar e finalizar seus pedidos, seja de ingressos ou produtos de fomra ági e inteligente. Também abrange o gerenciamento da conta, com recursos como a visualização do histórico de compras realizadas, funcionalidades no pagamento e melhorias para o usuário ao comprar o ingresso.
 
 ---
 
 ### Épico 4: Autenticação e Gerenciamento da Conta
-**Histórias de usuário relacionadas:** [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario), [US33](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
+**Histórias de usuário relacionadas:** [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) e [US33](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
 
 **Descrição:** Este épico agrupa funcionalidades essenciais para autenticação segura e gerenciamento de sessão do usuário, incluindo login com credenciais tradicionais e logout seguro para proteção da conta.
 
 ---
 
 ### Épico 5: Personalização Geográfica
-**Histórias de usuário relacionadas:** [US34](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
+**Histórias de usuário relacionadas:** [US34](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) e [US05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
 
 **Descrição:** Este épico trata da detecção e seleção de localização para personalizar a experiência do usuário com base em sua região geográfica, facilitando o acesso a cinemas próximos.
 
@@ -261,3 +262,4 @@ Para contextualizar, cada épico abaixo traz uma descrição sucinta de seu prop
 | `1.1`  | 26/05/2025 | Adição do modelo da tabela de participantes | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.2`  | 31/05/2025 | Adição da introdução, metodologia, descrição dos temas, épicos, features e histórias de usuário. Foi adicionado as features relacionadas a US07, US08, US09, US10, US11 e US12 | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.3`  | 01/06/2025 | Foi adicionado as features relacionadas a US31, US32, US33, US34, US35 e US36 | [Artur de Camargos](https://github.com/ArturDCR) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.4`  | 01/06/2025 | Foi adicionado as features relacionadas a US01, US02, US03, US04, US05 e US06 | [Tiago Antunes Balieiro](https://github.com/ArturDCR) | [Euller Júlio da Silva](https://github.com/Potatoyz908) |
