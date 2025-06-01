@@ -132,6 +132,13 @@ Tabela 2: Modelo de tabela para histórias de usuário.
         <td>Prioridade</td>
         <td>xxxx</td>
       </tr>
+	  <tr>
+        <td>Rastreabilidade</td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ10">
+            RQ10
+          </a>
+        </td>
+      </tr>
     </tbody>
   </table>
 
@@ -139,10 +146,10 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
-### US02 - Armazenar cartões de pagamento
+### US02 - 	Permitir compra de múltiplos ingressos em uma única transação
 
 <details>
-  <summary><strong>Tabela 3 - História de Usuário Armazenar cartões de pagamento</strong></summary>
+  <summary><strong>Tabela 4 - História de Usuário Permitir compra de múltiplos ingressos em uma única transação</strong></summary>
 
   <table>
     <thead>
@@ -153,20 +160,27 @@ Tabela 2: Modelo de tabela para histórias de usuário.
     </thead>
     <tbody>
       <tr>
-        <td>US01</td>
-        <td>Armazenar cartões de pagamento</td>
+        <td>US02</td>
+        <td>Permitir compra de múltiplos ingressos em uma única transação</td>
       </tr>
       <tr>
         <td>Descrição</td>
-        <td><em>Eu, como</em> usuário, <em>desejo</em> que o aplicativo armazene cartões de pagamento já cadastrados <em>para</em> uso em compras futuras.</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> comprar múltiplos ingressos em uma única transação, informando a quantidade de ingressos desejada <em>para</em> simplificar o processo de comprar e torná-lo mais eficaz.</td>
       </tr>
       <tr>
         <td>Critérios de Aceitação</td>
-        <td>- Na página de pagamento do aplicativo, deve haver uma seção exibindo os cartões previamente salvos. <br> - Ao selecionar um cartão, as informações necessárias devem ser preenchidas automaticamente. <br></td>
+        <td>- Na página de escolha dos assentos deve permitir a escolha de múltiplos assentos. <br> - Ao selecionar mais de um assento, deve ser possível escolher o tipo de cada ingresso individualmente (inteira, meia, gratuidade). <br></td>
       </tr>
       <tr>
         <td>Prioridade</td>
         <td>xxxx</td>
+      </tr>
+	  <tr>
+        <td>Rastreabilidade</td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ11">
+            RQ11
+          </a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -178,7 +192,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 ### US03 - Armazenar cartões de pagamento
 
 <details>
-  <summary><strong>Tabela 3 - História de Usuário Armazenar cartões de pagamento</strong></summary>
+  <summary><strong>Tabela 5 - História de Usuário Armazenar cartões de pagamento</strong></summary>
 
   <table>
     <thead>
@@ -203,6 +217,13 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       <tr>
         <td>Prioridade</td>
         <td>xxxx</td>
+      </tr>
+	  <tr>
+        <td>Rastreabilidade</td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ12">
+            RQ12
+          </a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -214,7 +235,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 ### US04 - Armazenar cartões de pagamento
 
 <details>
-  <summary><strong>Tabela 3 - História de Usuário Armazenar cartões de pagamento</strong></summary>
+  <summary><strong>Tabela 6 - História de Usuário Armazenar cartões de pagamento</strong></summary>
 
   <table>
     <thead>
@@ -239,6 +260,13 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       <tr>
         <td>Prioridade</td>
         <td>xxxx</td>
+      </tr>
+	  <tr>
+        <td>Rastreabilidade</td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ14">
+            RQ14
+          </a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -250,7 +278,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 ### US05 - Armazenar cartões de pagamento
 
 <details>
-  <summary><strong>Tabela 3 - História de Usuário Armazenar cartões de pagamento</strong></summary>
+  <summary><strong>Tabela 7 - História de Usuário Armazenar cartões de pagamento</strong></summary>
 
   <table>
     <thead>
@@ -275,6 +303,13 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       <tr>
         <td>Prioridade</td>
         <td>xxxx</td>
+      </tr>
+	  <tr>
+        <td>Rastreabilidade</td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ26">
+            RQ26
+          </a>
+        </td>
       </tr>
     </tbody>
   </table>
@@ -286,7 +321,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 ### US06 - Armazenar cartões de pagamento
 
 <details>
-  <summary><strong>Tabela 3 - História de Usuário Armazenar cartões de pagamento</strong></summary>
+  <summary><strong>Tabela 8 - História de Usuário Armazenar cartões de pagamento</strong></summary>
 
   <table>
     <thead>
@@ -311,6 +346,13 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       <tr>
         <td>Prioridade</td>
         <td>xxxx</td>
+      </tr>
+	  <tr>
+        <td>Rastreabilidade</td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ39">
+            RQ39
+          </a>
+        </td>
       </tr>
     </tbody>
   </table>
