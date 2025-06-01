@@ -236,7 +236,7 @@ Para contextualizar, cada épico abaixo traz uma descrição sucinta de seu prop
 ---
 
 ### Épico 5: Gerenciamento de Ingressos
-**Histórias de usuário relacionadas:** [US32](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
+**Histórias de usuário relacionadas:** [US32](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) e [US05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
 
 **Descrição:** Este épico otimiza o acesso aos ingressos adquiridos, proporcionando localização imediata e visualização rápida para uso no cinema.
 
