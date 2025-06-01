@@ -18,11 +18,11 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 						<th>Nome</th>
 						<th>O que fez</th>
 					</tr>
-			</thead>
-		<tbody>
+				</thead>
+			<tbody>
 					<tr>
 						<td><a  href="https://github.com/ArturDCR">Artur de Camargos</a></td>
-						<td>Adição das features relacionadas as histórias de usuário: US31, US32, US33, US34, US35 e US36</td>
+						<td>Adição das features relacionadas às histórias de usuário: US31, US32, US33, US34, US35 e US36</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
@@ -34,7 +34,14 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
-						<td>Lorem Ipsum</td>
+						<td>Adicionou os épicos 11 a 14 e suas features relacionadas às histórias de usuário:
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US13</a>,
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US14</a>,
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US15</a>,
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US16</a>,
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US17</a> e
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US18</a>
+						</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
@@ -46,7 +53,7 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
-						<td>Adição das features relacionadas as histórias de usuário:
+						<td>Adição das features relacionadas às histórias de usuário:
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US01</a>,
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US02</a>,
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US03</a>,
@@ -55,8 +62,8 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US06</a>
 						</td>
 					</tr>
-			</tbody>
-		</table>
+				</tbody>
+			</table>
 	</div>
 </div>
 
