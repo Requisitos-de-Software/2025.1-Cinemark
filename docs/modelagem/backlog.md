@@ -77,8 +77,15 @@ Cada épico (descrito abaixo) foi desdobrado em features, que representam capaci
 |                               | Feature 4 – Filtragem por Categoria        |
 |                               | Feature 5 – Exibição de Trailers           |
 | Épico 3 – Compra e Finalização     | Feature 6 – Fluxo de Compra Simplificado   |
+| Épico 4 – Hub de Conteúdo Cinematográfico | Feature 7 – Críticas de Filmes            |
+| Épico 5 – Gerenciamento de Ingressos | Feature 8 – Salvar ingressos automaticamente |
+|                               | Feature 9 – Acesso Rápido aos Ingressos    |
+| Épico 6 – Autenticação e Gerenciamento da Conta | Feature 10 – Autenticação Tradicional       |
+|                               | Feature 11 – Logout Seguro                 |
+| Épico 7 – Personalização Geográfica | Feature 12 – Detecção de Localização       |
+| Épico 8 – Feedback do Sistema       | Feature 13 – Mensagens de Feedback          |
 
-<sub><p align="center">Autores: [Arthur Evangelista](https://github.com/arthurevg)</p></sub>
+<sub><p align="center">Autores: [Arthur Evangelista](https://github.com/arthurevg) e [Gabriel Castelo](https://github.com/GabrielCastelo-31) </p></sub>
 
 ---
 
@@ -142,7 +149,8 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 | Feature                              | História de Usuário (ID)                                   | Priorização |
 |--------------------------------------|------------------------------------------------------------|-------------|
-| Feature 8 – Acesso Rápido            | [US32](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Acesso Rápido aos Ingressos |             |
+| Feature 8 – Salvar ingressos automaticamente | [US26](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Salvamento automático de ingressos |             |
+| Feature 9 – Acesso Rápido            | [US32](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Acesso Rápido aos Ingressos |             |
 
 <sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR) e [Gabriel Castelo](https://github.com/GabrielCastelo-31) </p></sub>
 
