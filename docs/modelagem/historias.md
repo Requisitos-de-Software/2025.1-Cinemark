@@ -1331,7 +1331,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 ### US29 - Área dedicada ao Cinemark Club
 
 <details>
-  <summary><strong>Tabela 30 - História de Usuário Alerta sobre Área dedicada ao Cinemark Club</strong></summary>
+  <summary><strong>Tabela 31 - História de Usuário Alerta sobre Área dedicada ao Cinemark Club</strong></summary>
 
   <table>
     <thead>
@@ -1369,6 +1369,53 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       <tr>
   <td>Rastreabilidade</td>
   <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq34" target="_blank">RQ34</a></td>
+</tr>
+    </tbody>
+  </table>
+
+</details>
+
+<font size="3"><p style="text-align: center">Autor:  [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
+### US30 - Sugestão de cinemas personalizada
+
+<details>
+  <summary><strong>Tabela 32 - História de Usuário Alerta sobre Sugestão de cinemas personalizada</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US30</td>
+        <td>Sugestão de cinemas personalizada</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como </em> usuário do aplicativo Cinemark, <em>desejo</em> receber sugestões de cinemas com base no meu histórico de visitas e na minha localização atual, <em>para</em>facilitar a escolha do cinema mais conveniente para mim.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>
+          - O sistema deve acessar a localização atual do usuário (com permissão) para sugerir cinemas próximos.<br>
+          - O sistema deve considerar o histórico de visitas do usuário para priorizar sugestões personalizadas.<br>
+          - A lista de cinemas sugeridos deve aparecer de forma destacada na tela inicial ou na busca por sessões.<br>
+          - O sistema deve permitir que o usuário veja o motivo da sugestão (ex: "Próximo a você" ou "Você já visitou").<br>
+          - O usuário deve ter a opção de desativar as sugestões personalizadas nas configurações do aplicativo.<br>
+          - As sugestões devem ser atualizadas sempre que o usuário abrir o aplicativo ou mudar de localização.
+        </td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>xxxx</td>
+      </tr>
+      <tr>
+  <td>Rastreabilidade</td>
+  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq29" target="_blank">RQ29</a></td>
 </tr>
     </tbody>
   </table>
