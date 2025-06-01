@@ -1,3 +1,21 @@
+## Introdução
+
+Uma forma de garantir que o software atenda às expectativas dos usuários e stakeholders é por meio da definição de requisitos não funcionais (NFRs). Esses requisitos abrangem aspectos como desempenho, segurança, usabilidade, manutenibilidade e portabilidade. O NFR Framework é uma abordagem que ajuda a identificar, categorizar e priorizar esses requisitos, garantindo que o software seja desenvolvido de acordo com as necessidades do negócio e dos usuários.
+
+## Softgoal Interdependency Graph
+
+Um Softgoal Interdependency Graph (SIG) é uma representação gráfica usada no framework de Requisitos Não Funcionais (NFR) para ilustrar como diferentes objetivos de qualidade (softgoals) se influenciam mutuamente. Nele, cada softgoal aparece como um nó, e as arestas indicam relações de contribuição—como “ajuda”, “prejudica”, “faz” ou “quebra”—entre esses objetivos. Isso permite visualizar conflitos e sinergias entre requisitos de qualidade (por exemplo, segurança vs. usabilidade) e apoiar a tomada de decisões durante o projeto de sistemas.
+
+### Tipos de Softgoals
+
+Existem 3 tipos de softgoals: Softgoals NFR, Softgoals de Operacionalização e Softgoals de Afirmação. Softgoals NFR correspondem diretamente aos requisitos não-funcionais, podendo aparecer organizados em catálogos e hierarquias ao longo do projeto de modo a capturar qualidades desejadas (por exemplo, “Desempenho” ou “Segurança”) . Já os Softgoals de Operacionalização representam alternativas concretas de implementação para atender a esses softgoals NFR ou a outros softgoals de operacionalização, envolvendo processos, estruturas de dados ou restrições no sistema-alvo (como “usar comunicação via SSL” para satisfazer o softgoal de segurança) . Por fim, os Softgoals de Afirmação—também chamados de claims—reúnem características do domínio (por exemplo, prioridades, carga de trabalho ou restrições de negócio) que fundamentam decisões de design; eles servem de justificativa para apoiar ou negar formas de priorização e refinamento, fornecendo razões claras para escolhas arquiteturais e facilitando rastreabilidade e revisão futura
+
+**Figura 1 - Tipos de Softgoal**
+
+![SOFTGOALS](/docs/assets/modelagem/softgoals.png)
+
+<p align="center"><em>Fonte: SILVA, 2019</em></p>
+
 ## Integrantes do grupo envolvidos
 
 **Tabela 1**
@@ -14,35 +32,35 @@
 		<tbody>
 					<tr>
 						<td><a  href="https://github.com/ArturDCR">Artur de Camargos</a></td>
-						<td>Lorem Ipsum</td>	
+						<td>Lorem Ipsum</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
-						<td>Lorem Ipsum</td>	
+						<td>Lorem Ipsum</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
-						<td>Lorem Ipsum</td>	
+						<td>Lorem Ipsum</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
-						<td>Lorem Ipsum</td>	
+						<td>Lorem Ipsum</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
-						<td>Lorem Ipsum</td>	
+						<td>Lorem Ipsum</td>
 					</tr>
                     <tr>
 						<td><a  href="https://github.com/pedroeverton217">Pedro Everton</a></td>
-						<td>Lorem Ipsum</td>	
+						<td>Lorem Ipsum</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
-						<td>Lorem Ipsum</td>	
+						<td>Lorem Ipsum</td>
 					</tr>
 			</tbody>
 		</table>
-	</div>  
+	</div>
 </div>
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>

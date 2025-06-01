@@ -30,7 +30,7 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
-						<td>Lorem Ipsum</td>
+						<td>Elaborou as Histórias de Usuário US13, US14, US15, US16, US17 e US18 (tabelas 15 a 20)</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
@@ -646,7 +646,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 ### US13 - Reservar salas para eventos
 
 <details>
-  <summary><strong>Tabela 3 - História de Usuário Reservar salas para eventos</strong></summary>
+  <summary><strong>Tabela 15 - História de Usuário Reservar salas para eventos</strong></summary>
 
   <table>
     <thead>
@@ -690,7 +690,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 ### US14 - Alterar preferências de idioma
 
 <details>
-  <summary><strong>Tabela 3 - História de Usuário Alterar preferências de idioma</strong></summary>
+  <summary><strong>Tabela 16 - História de Usuário Alterar preferências de idioma</strong></summary>
 
   <table>
     <thead>
@@ -732,7 +732,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 ### US15 - Detectar localização automaticamente
 
 <details>
-  <summary><strong>Tabela 3 - História de Usuário Detectar localização automaticamente</strong></summary>
+  <summary><strong>Tabela 17 - História de Usuário Detectar localização automaticamente</strong></summary>
 
   <table>
     <thead>
@@ -776,7 +776,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 ### US16 - Selecionar assento obrigatório
 
 <details>
-  <summary><strong>Tabela 3 - História de Usuário Selecionar assento obrigatório</strong></summary>
+  <summary><strong>Tabela 18 - História de Usuário Selecionar assento obrigatório</strong></summary>
 
   <table>
     <thead>
@@ -819,7 +819,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 ### US17 - Permitir cancelar compras
 
 <details>
-  <summary><strong>Tabela 3 - História de Usuário Cancelar compras</strong></summary>
+  <summary><strong>Tabela 19 - História de Usuário Cancelar compras</strong></summary>
 
   <table>
     <thead>
@@ -863,7 +863,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 ### US18 - Excluir conta permanentemente
 
 <details>
-  <summary><strong>Tabela 3 - História de Usuário Excluir conta permanentemente</strong></summary>
+  <summary><strong>Tabela 20 - História de Usuário Excluir conta permanentemente</strong></summary>
 
   <table>
     <thead>
@@ -1758,3 +1758,4 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 | `1.6`  | 31/05/2025 | Adição das histórias de usuário US25, US26, US27, US28, US29 e US30 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |  [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.7`  | 01/06/2025 | Adição das histórias de usuário US31, US32, US33, US34, US35 e US36 | [Artur de Camargos](https://github.com/ArturDCR) |  [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.8`  | 01/06/2025 | Adição das histórias de usuário US01, US02, US04, US05, US06 e US07 | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |  [Euller Júlio da Silva](https://github.com/Potatoyz908) |
+|`1.9`| 1/06/2025|Correção nas tabelas de histórias de usuário US13, US14, US15, US16, US17 e US18|[Euller Júlio da Silva](https://github.com/Potatoyz908)|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
