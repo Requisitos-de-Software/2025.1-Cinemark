@@ -82,6 +82,18 @@ Tabela 2 - Modelo de tabela de Cartão de Especificação
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
+## Tabela X - Requisitos Não-Funcionais Não Implementados
+
+| ID    | Descrição                                                                 | Tipo         |
+|-------|---------------------------------------------------------------------------|--------------|
+| RQ54 | Ocultar parcialmente o e-mail recuperado para segurança (exibir com asteriscos). | Segurança     |
+| RQ40 | Tempo de resposta de até 3 segundos em telas críticas (seleção de assentos, pagamento). | Eficiência    |
+| RQ44 | Interface acessível para pessoas com deficiência visual (leitores de tela) e baixo-visão. | Usabilidade   |
+| RQ47 | Atualizar automaticamente o valor total conforme seleção de ingressos e produtos. | Eficiência    |
+| RQ49 | Autenticação por biometria ou PIN para operações sensíveis. | Segurança     |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
