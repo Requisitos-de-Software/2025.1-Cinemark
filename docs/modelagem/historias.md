@@ -18,35 +18,35 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 		<tbody>
 					<tr>
 						<td><a  href="https://github.com/ArturDCR">Artur de Camargos</a></td>
-						<td>Lorem Ipsum</td>	
+						<td>Lorem Ipsum</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
-						<td>Lorem Ipsum</td>	
+						<td>Lorem Ipsum</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
-						<td>Elaborou as Histórias de Usuário US19, US20, US21, US22, US23 e US24 (tabelas 21 a 26)</td>	
+						<td>Lorem Ipsum</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
-						<td>Lorem Ipsum</td>	
+						<td>Lorem Ipsum</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
-						<td>Lorem Ipsum</td>	
+						<td>Lorem Ipsum</td>
 					</tr>
                     <tr>
 						<td><a  href="https://github.com/pedroeverton217">Pedro Everton</a></td>
-						<td>Lorem Ipsum</td>	
+						<td>Lorem Ipsum</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
-						<td>Lorem Ipsum</td>	
+						<td>Lorem Ipsum</td>
 					</tr>
 			</tbody>
 		</table>
-	</div>  
+	</div>
 </div>
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
@@ -62,9 +62,9 @@ Para garantir **rastreabilidade**, cada história de usuário está associada ex
 
 A priorização foi feita utilizando a técnica **Three-Level Scale estendida**, com os seguintes níveis:
 
-- **Alta**: deve ser implementada no primeiro ciclo de desenvolvimento. É essencial para o funcionamento do sistema.  
-- **Média**: relevante, mas pode ser implementada em ciclos posteriores.  
-- **Baixa**: desejável, mas opcional; agrega valor, mas não é crítica.  
+- **Alta**: deve ser implementada no primeiro ciclo de desenvolvimento. É essencial para o funcionamento do sistema.
+- **Média**: relevante, mas pode ser implementada em ciclos posteriores.
+- **Baixa**: desejável, mas opcional; agrega valor, mas não é crítica.
 - **Não deve ser implementada**: identificada durante a elicitação, mas foi descartada por motivos de viabilidade, escopo ou prioridade estratégica.
 
 Essa escala ajuda a organizar os esforços da equipe de forma mais estratégica, focando nas entregas que realmente trazem valor imediato ao usuário e ao negócio, ao mesmo tempo em que documenta funcionalidades que podem ser revisitadas no futuro ou que foram explicitamente desconsideradas.
@@ -1159,6 +1159,51 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
+### US19 - Utilização de pontos para desconto
+
+<details>
+  <summary><strong>Tabela 21 - História de Usuário Utilização de pontos para desconto</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US18</td>
+        <td>Utilização de pontos para desconto</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> usuário do programa de fidelidade da Cinemark <em>desejo</em> utilizar meus pontos acumulados <em>para</em> obter desconto em ingressos e produtos.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>
+          - O sistema deve exibir o saldo atual de pontos do usuário autenticado.<br>
+          - O sistema deve permitir selecionar o uso de pontos no momento do pagamento de ingressos e/ou produtos.<br>
+          - O valor do desconto correspondente aos pontos utilizados deve ser claramente informado antes da confirmação da compra.
+          - O sistema deve atualizar corretamente o saldo de pontos após a utilização.
+          - O sistema deve impedir a utilização de pontos se o saldo for insuficiente.
+        </td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>xxxx</td>
+      </tr>
+      <tr>
+  <td>Rastreabilidade</td>
+  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq27" target="_blank">RQ27</a></td>
+</tr>
+    </tbody>
+  </table>
+
+</details>
+
+<font size="3"><p style="text-align: center">Autor:  [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
