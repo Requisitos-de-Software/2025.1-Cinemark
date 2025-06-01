@@ -4,7 +4,7 @@ O Product Backlog é um artefato essencial no processo de desenvolvimento ágil,
 
 ## Metodologia
 
-As histórias de usuário foram previamente definidas com base nos objetivos do projeto, considerando as principais funcionalidades esperadas para o sistema. A equipe de desenvolvimento ficou responsável por organizá-las, estruturando-as em uma hierarquia de temas, épicos e funcionalidades (features), de forma a facilitar o entendimento e a gestão do escopo. Após essa organização inicial, o Product Owner (PO) ficou encarregado de realizar a priorização, [botar aqui dps a priorização usada]. As tabelas a seguir apresentam o backlog estruturado com os respectivos épicos, funcionalidades e histórias de usuário, além de uma explicação sobre a hierarquia e os termos utilizados.
+As histórias de usuário foram previamente definidas com base nos objetivos do projeto, considerando as principais funcionalidades esperadas para o sistema. A equipe de desenvolvimento ficou responsável por organizá-las, estruturando-as em uma hierarquia de temas, épicos e funcionalidades (features), de forma a facilitar o entendimento e a gestão do escopo. Após essa organização inicial, o Product Owner (PO) ficou encarregado de realizar a priorização, \[botar aqui dps a priorização usada]. As tabelas a seguir apresentam o backlog estruturado com os respectivos épicos, funcionalidades e histórias de usuário, além de uma explicação sobre a hierarquia e os termos utilizados.
 
 ## Integrantes do grupo envolvidos
 
@@ -63,7 +63,7 @@ Analisando as histórias de usuário definidas para o projeto Cinemark, agrupamo
 2. **Exploração de Filmes**: funcionalidades que permitem ao usuário navegar, filtrar e visualizar informações relacionadas aos filmes.
 3. **Compra e Finalização**: todo o fluxo de compra de ingressos e produtos, desde a seleção até a confirmação.
 
----
+***
 
 # Features
 
@@ -84,22 +84,29 @@ Cada épico (descrito abaixo) foi desdobrado em features, que representam capaci
 |                               | Feature 11 – Logout Seguro                 |
 | Épico 7 – Personalização Geográfica | Feature 12 – Detecção de Localização       |
 | Épico 8 – Feedback do Sistema       | Feature 13 – Mensagens de Feedback          |
+| Épico 9 – Sistema de Fidelidade e Benefícios (Cinemark Club) | Feature 14 – Utilizar pontos para obter desconto ou resgatar ingressos |
+|                               | Feature 15 – Alertar usuário sobre a expiração de seus pontos e possibilidade de resgate de ingresso gratuito utilizando pontuação |
+|                               | Feature 16 – Exibir área dedicada ao Cinemark Club |
+| Épico 10 – Experiência personalizada com cinemas | Feature 17 – Salvar cinemas como favoritos |
+|                               | Feature 18 – Sugerir cinemas de forma personalizada com base em localização e histórico de visita |
+
 
 <sub><p align="center">Autores: [Arthur Evangelista](https://github.com/arthurevg) e [Gabriel Castelo](https://github.com/GabrielCastelo-31) </p></sub>
 
----
+***
 
 ## Histórias de Usuário
 
-As [Histórias de Usuário]((https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)	) estão detalhadas numa seção dedicada a elas. Elas ajudam a transformar os épicos em funcionalidades mais claras e focadas no ponto de vista de quem vai usar o sistema. Elas servem como um guia prático para o desenvolvimento, mostrando o que o usuário espera fazer e por quê. Geralmente, obedecem o seguinte formato:
+As [Histórias de Usuário](\(https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario\)) estão detalhadas numa seção dedicada a elas. Elas ajudam a transformar os épicos em funcionalidades mais claras e focadas no ponto de vista de quem vai usar o sistema. Elas servem como um guia prático para o desenvolvimento, mostrando o que o usuário espera fazer e por quê. Geralmente, obedecem o seguinte formato:
 
-> “Eu, como [tipo de usuário], desejo [funcionalidade] para [objetivo].”
+> “Eu, como \[tipo de usuário], desejo \[funcionalidade] para \[objetivo].”
 
 Cada uma está ligada a um épico, servindo como base para decisões de projeto, testes e validações futuras.
 
 ## Product Backlog
 
 ### Épico 1 – Autenticação e Gerenciamento de Conta
+
 > *Objetivo: Permitir ao usuário gerenciar sua conta de forma prática e segura, incluindo funcionalidades como cadastro, login, recuperação de senha, gerenciamento de métodos de pagamento e acesso ao histórico de compras.*
 
 | Feature                           | História de Usuário (ID)                                 | Priorização |
@@ -110,9 +117,10 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 <sub><p align="center">Autores: [Arthur Evangelista](https://github.com/arthurevg)</p></sub>
 
----
+***
 
 ### Épico 2 – Exploração de Filmes
+
 > *Objetivo: oferecer ao usuário formas rápidas de navegar pelo catálogo, ver detalhes sobre os filmes e assistir trailers.*
 
 | Feature                              | História de Usuário (ID)                                   | Priorização |
@@ -122,9 +130,10 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 <sub><p align="center">Autores: [Arthur Evangelista](https://github.com/arthurevg)</p></sub>
 
----
+***
 
 ### Épico 3 – Compra e Finalização
+
 > *Objetivo: garantir que o usuário consiga concluir sua compra (ingressos/produtos) de forma ágil e intuitiva.*
 
 | Feature                             | História de Usuário (ID)                                    | Priorização |
@@ -134,6 +143,7 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 <sub><p align="center">Autores: [Arthur Evangelista](https://github.com/arthurevg)</p></sub>
 
 ### Épico 4 – Hub de Conteúdo Cinematográfico
+
 > *Objetivo: Centralizar informações relevantes sobre filmes para auxiliar na decisão de compra.*
 
 | Feature                           | História de Usuário (ID)                                 | Priorização |
@@ -142,9 +152,10 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 <sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR)</p></sub>
 
----
+***
 
 ### Épico 5 – Gerenciamento de Ingressos
+
 > *Objetivo: Facilitar o acesso e utilização dos ingressos adquiridos.*
 
 | Feature                              | História de Usuário (ID)                                   | Priorização |
@@ -154,9 +165,10 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 <sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR) e [Gabriel Castelo](https://github.com/GabrielCastelo-31) </p></sub>
 
----
+***
 
 ### Épico 6 – Autenticação e Gerenciamento da Conta
+
 > *Objetivo: Prover mecanismos seguros para autenticação e controle da conta do usuário.*
 
 | Feature                             | História de Usuário (ID)                                    | Priorização |
@@ -166,9 +178,10 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 <sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR)</p></sub>
 
----
+***
 
 ### Épico 7 – Personalização Geográfica
+
 > *Objetivo: Adaptar a experiência do usuário com base em sua localização.*
 
 | Feature                             | História de Usuário (ID)                                    | Priorização |
@@ -177,9 +190,10 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 <sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR)</p></sub>
 
----
+***
 
 ### Épico 8 – Feedback do Sistema
+
 > *Objetivo: Garantir feedback claro e acessível durante a interação com o sistema.*
 
 | Feature                           | História de Usuário (ID)                                 | Priorização |
@@ -188,69 +202,121 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 <sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR)</p></sub>
 
----
+***
+
+### Épico 9 – Sistema de Fidelidade e Benefícios (Cinemark Club)
+
+> *Objetivo: Prover um sistema de fidelidade que ofereça benefícios aos usuários, como descontos e promoções exclusivas.*
+
+| Feature                             | História de Usuário (ID)                                    | Priorização |
+|-------------------------------------|-------------------------------------------------------------|-------------|
+| Feature 14 – Utilizar pontos para obter desconto ou resgatar ingressos | [US25](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Utilização de pontos para desconto |             |
+| Feature 15 – Alertar usuário sobre a expiração de seus pontos e possibilidade de resgate de ingresso gratuito utilizando pontuação| [US27](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Alerta sobre pontos acumulados |             |
+| Feature 16 – Exibir área dedicada ao Cinemark Club| [US29](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Área dedicada ao Cinemark Club |             |
+
+<sub><p align="center">Autores: [Gabriel Castelo](https://github.com/GabrielCastelo-31) </p></sub>
+
+***
+
+### Épico 10 – Experiência personalizada com cinemas
+
+> *Objetivo: Oferecer ao usuário uma experiência personalizada com as unidades Cinemark*
+
+| Feature                             | História de Usuário (ID)                                    | Priorização |
+|-------------------------------------|-------------------------------------------------------------|-------------|
+| Feature 17 – Salvar cinemas como favoritos| [US28](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Favoritar cinemas |             |
+| Feature 18 – Sugerir cinemas de forma personalizada com base em localizaçaõ e histórico de visita| [US30](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Sugestão de cinemas personalizada|             |
+
+<sub><p align="center">Autores: [Gabriel Castelo](https://github.com/GabrielCastelo-31) </p></sub>
+
+***
+
 ## Épicos
 
 Para contextualizar, cada épico abaixo traz uma descrição sucinta de seu propósito e suas histórias de usuário relacionadas(ID).
 
----
+***
 
 ### Épico 1: Autenticação e Gerenciamento da Conta
+
 **Histórias de usuário relacionadas:** [US07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario), [US08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) e [US09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
 
 **Descrição:** Este épico agrupa tudo o que é necessário para que um usuário crie uma conta Cinemark (inclusive usando redes sociais), faça login no app e recupere sua conta caso tenha problemas com suas credenciais.
 
----
+***
 
 ### Épico 2: Exploração de Filmes
+
 **Histórias de usuário relacionadas:** [US10](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) e [US11](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
 
 **Descrição:** Foca nas funcionalidades de navegação pelo catálogo de filmes:
-- Filtrar a lista de filmes por categorias (gênero, classificação etária etc.);
-- Assistir trailers diretamente no próprio app Cinemark.
 
----
+* Filtrar a lista de filmes por categorias (gênero, classificação etária etc.);
+* Assistir trailers diretamente no próprio app Cinemark.
+
+***
 
 ### Épico 3: Compra e Finalização
+
 **Histórias de usuário relacionadas:** [US12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
 
 **Descrição:**  Este épico engloba as funcionalidades para o usuário criar, acessar e recuperar sua conta de forma simples e segura, incluindo login com redes sociais. Também abrange o gerenciamento da conta, com recursos como a visualização do histórico de compras realizadas.
 
----
+***
 
 ### Épico 4: Hub de Conteúdo Cinematográfico
+
 **Histórias de usuário relacionadas:** [US31](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
 
 **Descrição:** Este épico centraliza informações sobre filmes através de críticas profissionais e de usuários, auxiliando na decisão de compra de ingressos.
 
----
+***
 
 ### Épico 5: Gerenciamento de Ingressos
-**Histórias de usuário relacionadas:** [US32](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
+
+**Histórias de usuário relacionadas:** [US26, US32](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
 
 **Descrição:** Este épico otimiza o acesso aos ingressos adquiridos, proporcionando localização imediata e visualização rápida para uso no cinema.
 
----
+***
+
 ### Épico 6: Autenticação e Gerenciamento da Conta
+
 **Histórias de usuário relacionadas:** [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario), [US33](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
 
 **Descrição:** Este épico agrupa funcionalidades essenciais para autenticação segura e gerenciamento de sessão do usuário, incluindo login com credenciais tradicionais e logout seguro para proteção da conta.
 
----
+***
 
 ### Épico 7: Personalização Geográfica
+
 **Histórias de usuário relacionadas:** [US34](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
 
 **Descrição:** Este épico trata da detecção e seleção de localização para personalizar a experiência do usuário com base em sua região geográfica, facilitando o acesso a cinemas próximos.
 
----
+***
 
 ### Épico 8: Feedback do Sistema
+
 **Histórias de usuário relacionadas:** [US36](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
 
 **Descrição:** Este épico garante comunicação clara com o usuário através de mensagens de erro compreensíveis e confirmações de ações críticas, melhorando a usabilidade e prevenindo erros.
 
----
+***
+
+### Épico 9: Sistema de Fidelidade e Benefícios (Cinemark Club)
+
+**Histórias de usuário relacionadas:** [US25,US27,US29](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
+
+**Descrição:** Este épico implementa um sistema de fidelidade que permite aos usuários acumular pontos e trocá-los por descontos ou ingressos gratuitos, além de receber alertas sobre a expiração dos pontos e promoções exclusivas.
+
+***
+
+### Épico 10: Experiência personalizada com cinemas
+
+**Histórias de usuário relacionadas:** [US28, US30](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
+
+**Descrição:** Este épico visa oferecer uma experiência personalizada com as unidades Cinemark, permitindo que os usuários salvem cinemas favoritos e recebam sugestões baseadas em sua localização e histórico de visitas.
 
 ## Histórico de Versão
 
@@ -261,3 +327,4 @@ Para contextualizar, cada épico abaixo traz uma descrição sucinta de seu prop
 | `1.2`  | 31/05/2025 | Adição da introdução, metodologia, descrição dos temas, épicos, features e histórias de usuário. Foi adicionado as features relacionadas a US07, US08, US09, US10, US11 e US12 | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.3`  | 01/06/2025 | Foi adicionado as features relacionadas a US31, US32, US33, US34, US35 e US36 | [Artur de Camargos](https://github.com/ArturDCR) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.3.1`  | 01/06/2025 | Correção da ordem dos épicos 4 a 8| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Artur de Camargos](https://github.com/ArturDCR) |
+| `1.4`  | 02/06/2025 | Adição ao épico 5 de feature relacionada a US26. Adição de épico 9 e 10 e suas features relacionadas a US25, US27,US28, US29 e US30 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |  [Davi Camilo](https://github.com/Davicamilo23) |
