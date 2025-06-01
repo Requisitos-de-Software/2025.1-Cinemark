@@ -1557,10 +1557,10 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor:  [Artur de Camargos](https://github.com/ArturDCR).</p></font>
 
-### US33 - Acesso Offline a Ingressos
+### US33 - Logout da Conta
 
 <details>
-  <summary><strong>Tabela 35 - História de Usuário Acesso Offline a Ingressos</strong></summary>
+  <summary><strong>Tabela 35 - História de Usuário Logout da Conta</strong></summary>
 
   <table>
     <thead>
@@ -1571,21 +1571,23 @@ Tabela 2: Modelo de tabela para histórias de usuário.
     </thead>
     <tbody>
       <tr>
-        <td>US33</td>
-        <td>Acesso Offline a Ingressos</td>
+        <td>US65</td>
+        <td>Logout da Conta</td>
       </tr>
       <tr>
         <td>Descrição</td>
-        <td><em>Eu, como</em> usuário do aplicativo Cinemark, <em>desejo</em> acessar meus ingressos sem internet, <em>para</em> apresentá-los na entrada mesmo com falhas de rede.</td>
+        <td><em>Eu, como</em> usuário do aplicativo Cinemark, <em>desejo</em> realizar logout de minha conta, <em>para</em> garantir minha segurança e privacidade ao compartilhar o dispositivo ou encerrar o uso.</td>
       </tr>
       <tr>
         <td>Critérios de Aceitação</td>
         <td>
-          - Armazenamento local após primeira visualização online<br>
-          - Opção "Salvar para Offline" com confirmação<br>
-          - QR Codes legíveis offline<br>
-          - Funcionamento da seção sem conexão<br>
-          - Alertas para ingressos expirados
+          - Opção de logout visível na área do usuário<br>
+          - Confirmação antes de efetivar o logout<br>
+          - Redirecionamento para tela inicial após logout<br>
+          - Encerramento de todas as sessões ativas<br>
+          - Feedback visual claro de logout bem-sucedido<br>
+          - Remoção segura de credenciais locais<br>
+          - Compatibilidade com leitores de tela
         </td>
       </tr>
       <tr>
@@ -1594,14 +1596,14 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Rastreabilidade</td>
-        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq66" target="_blank">RQ66</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq65" target="_blank">RQ65</a></td>
       </tr>
     </tbody>
   </table>
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor:  [Artur de Camargos](https://github.com/ArturDCR).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos](https://github.com/ArturDCR).</p></font>
 
 ### US34 - Detecção de Localização
 
@@ -1696,10 +1698,10 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor:  [Artur de Camargos](https://github.com/ArturDCR).</p></font>
 
-### US36 - Acessibilidade Visual
+### US36 - Mensagens de Erro e Confirmação
 
 <details>
-  <summary><strong>Tabela 38 - História de Usuário Acessibilidade Visual</strong></summary>
+  <summary><strong>Tabela 38 - História de Usuário Mensagens de Erro e Confirmação</strong></summary>
 
   <table>
     <thead>
@@ -1710,22 +1712,22 @@ Tabela 2: Modelo de tabela para histórias de usuário.
     </thead>
     <tbody>
       <tr>
-        <td>US36</td>
-        <td>Acessibilidade Visual</td>
+        <td>US38</td>
+        <td>Mensagens de Erro e Confirmação</td>
       </tr>
       <tr>
         <td>Descrição</td>
-        <td><em>Eu, como</em> usuário com deficiência visual, <em>desejo</em> uma interface acessível, <em>para</em> navegar independentemente com recursos de acessibilidade.</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> receber mensagens de erro compreensíveis e confirmações explícitas após ações críticas, <em>para</em> entender falhas e evitar operações involuntárias.</td>
       </tr>
       <tr>
         <td>Critérios de Aceitação</td>
         <td>
-          - Compatibilidade com TalkBack/VoiceOver<br>
-          - Alto contraste e redimensionamento de fonte (até 200%)<br>
-          - Descrições audíveis para elementos<br>
-          - Navegação por gestos intuitiva<br>
-          - Dark Mode certificado WCAG AA<br>
-          - Feedback tátil para ações
+          - Mensagens de erro em linguagem simples, com causa e solução<br>
+          - Confirmações para ações irreversíveis (ex: compras/exclusões)<br>
+          - Feedback visual imediato (toast/notificação) para todas as interações<br>
+          - Formatação acessível (contraste WCAG AA + ícones intuitivos)<br>
+          - Compatibilidade com leitores de tela (TalkBack/VoiceOver)<br>
+          - Opção de "Desfazer" em confirmações quando aplicável
         </td>
       </tr>
       <tr>
@@ -1734,14 +1736,14 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Rastreabilidade</td>
-        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq44" target="_blank">RQ44</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq38" target="_blank">RQ38</a></td>
       </tr>
     </tbody>
   </table>
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor:  [Artur de Camargos](https://github.com/ArturDCR).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos](https://github.com/ArturDCR).</p></font>
 
 ## Histórico de Versão
 
