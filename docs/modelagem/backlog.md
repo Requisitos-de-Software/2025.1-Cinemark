@@ -22,7 +22,7 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 		<tbody>
 					<tr>
 						<td><a  href="https://github.com/ArturDCR">Artur de Camargos</a></td>
-						<td>Lorem Ipsum</td>
+						<td>Adição das features relacionadas a US31, US32, US33, US34, US35 e US36</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
@@ -126,6 +126,60 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 <sub><p align="center">Autores: [Arthur Evangelista](https://github.com/arthurevg)</p></sub>
 
+### Épico 4 – Hub de Conteúdo Cinematográfico
+> *Objetivo: Centralizar informações relevantes sobre filmes para auxiliar na decisão de compra.*
+
+| Feature                           | História de Usuário (ID)                                 | Priorização |
+|-----------------------------------|----------------------------------------------------------|-------------|
+| Feature 7 – Críticas de Filmes    | [US31](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Hub de Críticas de Filmes |             |
+
+<sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR)</p></sub>
+
+---
+
+### Épico 5 – Gerenciamento de Ingressos  
+> *Objetivo: Facilitar o acesso e utilização dos ingressos adquiridos.*
+
+| Feature                              | História de Usuário (ID)                                   | Priorização |
+|--------------------------------------|------------------------------------------------------------|-------------|
+| Feature 8 – Acesso Rápido            | [US32](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Acesso Rápido aos Ingressos |             |
+
+<sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR)</p></sub>
+
+---
+
+### Épico 6 – Gerenciamento de Conta  
+> *Objetivo: Prover mecanismos seguros para autenticação e controle da conta do usuário.*
+
+| Feature                             | História de Usuário (ID)                                    | Priorização |
+|-------------------------------------|-------------------------------------------------------------|-------------|
+| Feature 10 – Autenticação Tradicional | [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Autenticação por E-mail e Senha |             |
+| Feature 11 – Logout Seguro          | [US33](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Logout da Conta |             |
+
+<sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR)</p></sub>
+
+---
+
+### Épico 7 – Personalização Geográfica  
+> *Objetivo: Adaptar a experiência do usuário com base em sua localização.*
+
+| Feature                             | História de Usuário (ID)                                    | Priorização |
+|-------------------------------------|-------------------------------------------------------------|-------------|
+| Feature 12 – Detecção de Localização | [US34](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Detecção de Localização |             |
+
+<sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR)</p></sub>
+
+---
+
+### Épico 8 – Comunicação com o Usuário  
+> *Objetivo: Garantir feedback claro e acessível durante a interação com o sistema.*
+
+| Feature                           | História de Usuário (ID)                                 | Priorização |
+|-----------------------------------|----------------------------------------------------------|-------------|
+| Feature 13 – Mensagens de Feedback| [US36](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Mensagens de Erro e Confirmação |             |
+
+<sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR)</p></sub>
+
 ---
 ## Épicos
 
@@ -156,9 +210,38 @@ Para contextualizar, cada épico abaixo traz uma descrição sucinta de seu prop
 
 ---
 
+### Épico 4: Autenticação e Gerenciamento da Conta
+**Histórias de usuário relacionadas:** [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario), [US33](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
 
+**Descrição:** Este épico agrupa funcionalidades essenciais para autenticação segura e gerenciamento de sessão do usuário, incluindo login com credenciais tradicionais e logout seguro para proteção da conta.
 
+---
 
+### Épico 5: Personalização Geográfica
+**Histórias de usuário relacionadas:** [US34](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
+
+**Descrição:** Este épico trata da detecção e seleção de localização para personalizar a experiência do usuário com base em sua região geográfica, facilitando o acesso a cinemas próximos.
+
+---
+
+### Épico 6: Feedback do Sistema
+**Histórias de usuário relacionadas:** [US36](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
+
+**Descrição:** Este épico garante comunicação clara com o usuário através de mensagens de erro compreensíveis e confirmações de ações críticas, melhorando a usabilidade e prevenindo erros.
+
+---
+
+### Épico 7: Conteúdo Cinematográfico
+**Histórias de usuário relacionadas:** [US31](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
+
+**Descrição:** Este épico centraliza informações sobre filmes através de críticas profissionais e de usuários, auxiliando na decisão de compra de ingressos.
+
+---
+
+### Épico 8: Acesso a Ingressos
+**Histórias de usuário relacionadas:** [US32](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario)
+
+**Descrição:** Este épico otimiza o acesso aos ingressos adquiridos, proporcionando localização imediata e visualização rápida para uso no cinema.
 
 ## Histórico de Versão
 
@@ -167,4 +250,4 @@ Para contextualizar, cada épico abaixo traz uma descrição sucinta de seu prop
 | `1.0`  |  22/05/2025 |  Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23)  | [Euller Júlio da Silva](https://github.com/Potatoyz908) |
 | `1.1`  | 26/05/2025 | Adição do modelo da tabela de participantes | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.2`  | 31/05/2025 | Adição da introdução, metodologia, descrição dos temas, épicos, features e histórias de usuário. Foi adicionado as features relacionadas a US07, US08, US09, US10, US11 e US12 | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos](https://github.com/ArturDCR) |
-
+| `1.3`  | 01/06/2025 | Foi adicionado as features relacionadas a US31, US32, US33, US34, US35 e US36 | [Artur de Camargos](https://github.com/ArturDCR) | [Arthur Evangelista](https://github.com/arthurevg) |
