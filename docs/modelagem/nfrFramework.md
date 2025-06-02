@@ -73,23 +73,36 @@ Segundo Silva, 2019, existem 3 tipos de SIG:
 
 ### Contribuições e Tipos no NFR Framework
 
-- **AND**: Todos os softgoals filhos precisam ser satisfeitos para que o pai seja satisfeito.
+Durante o processo de refinamento, um softgoal mais específico (descendente) pode influenciar a realização de um softgoal mais amplo (ascendente), seja ajudando ou prejudicando sua satisfação, em maior ou menor grau.
+A “satisfação de um softgoal” significa que o requisito não funcional foi atendido de maneira aceitável, ainda que não completamente ou de forma exata. Abaixo estão os tipos de contribuição e suas descrições:
 
-- **OR**: A satisfação de pelo menos um softgoal filho é suficiente para satisfazer o pai.
+* **AND**: Todos os softgoals filhos precisam ser satisfeitos para que o pai seja satisfeito.
 
-- **MAKE (++)**: Contribuição fortemente positiva; se o filho for satisfeito, o pai também será.
+* **OR**: A satisfação de pelo menos um softgoal filho é suficiente para satisfazer o pai.
 
-- **BREAK (−−)**: Contribuição fortemente negativa; se o filho for satisfeito, o pai será negado.
+* **MAKE (++)**: Contribuição fortemente positiva; se o filho for satisfeito, o pai também será.
 
-- **HELP (+)**: Contribuição parcialmente positiva; satisfação parcial do filho implica em satisfação parcial do pai.
+* **BREAK (−−)**: Contribuição fortemente negativa; se o filho for satisfeito, o pai será negado.
 
-- **HURT (−)**: Contribuição parcialmente negativa; satisfação do filho implica em negação parcial do pai.
+* **HELP (+)**: Contribuição parcialmente positiva; satisfação parcial do filho implica em satisfação parcial do pai.
 
-- **UNKNOWN (?)**: Contribuição incerta; não se sabe se é positiva ou negativa.
+* **HURT (−)**: Contribuição parcialmente negativa; satisfação do filho implica em negação parcial do pai.
 
-- **EQUALS**: O filho reflete exatamente o estado do pai (satisfeito ou negado).
+* **UNKNOWN (?)**: Contribuição incerta; não se sabe se é positiva ou negativa.
 
-- **SOME**: A direção da contribuição (positiva ou negativa) é conhecida, mas não sua intensidade (parcial ou total).
+* **EQUALS**: O filho reflete exatamente o estado do pai (satisfeito ou negado).
+
+* **SOME**: A direção da contribuição (positiva ou negativa) é conhecida, mas não sua intensidade (parcial ou total).
+
+### Avaliação dos Softgoals
+O processo de avaliação dos softgoals envolve determinar se eles foram atendidos, parcialmente atendidos ou não atendidos. A seguir estão os tipos de avaliação e suas descrições:
+
+- Satisfeito(✓): O softgoal foi atendido dentro de um nível considerado aceitável.
+- Fracamente satisfeito (𝒲+): Satisfação parcial; O softgoal foi atendido de forma limitada, sem atingir sua totalidade.
+- Negado (X): O requisito O softgoal foi claramente não atendidoe pode até contradizer os objetivos do sistema.
+- Fracamente negado(𝒲-): O softgoal sofreu impacto negativo parcial, mas não foi totalmente negado.
+- Conflitante (🗲): O softgoal recebeu contribuições contraditórias (ex.: uma solução ajuda e outra prejudica), impedindo uma avaliação conclusiva.
+- Indeterminado(u): Não é possível determinar com clareza se o softgoal foi atendido ou não.
 
 ## Modelo de Cartão de Especificação
 
@@ -106,7 +119,7 @@ Tabela 2 - Modelo de tabela de Cartão de Especificação
   <tr><td><strong>Origem do Requisito</strong></td><td>Origem do requisito (stakeholder, norma técnica e etc...)</td></tr>
   <tr><td><strong>Critério de Aceitação</strong></td><td>Métrica do requisito que possa ser testada e que deve ser satisfeita.</td></tr>
   <tr><td><strong>Dependências</strong></td><td>Requisitos relacionados a este.</td></tr>
-  <tr><td><strong>Prioridade</strong></td><td>Um número usado para decidir a importância relativa deste requisito entre os outros RNFs (varia de 1 a 10). A prioridade mínima é 1 e a máxima é 10.</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>A prioridade foi definida pelo método Three-Level-Scale, sendo Alta, média ou baixa.</td></tr>
   <tr><td><strong>Conflitos</strong></td><td>Requisitos conflitantes com este.</td></tr>
   <tr><td><strong>História</strong></td><td>Data de criação e de modificações.</td></tr>
 </table>
@@ -116,13 +129,37 @@ Tabela 2 - Modelo de tabela de Cartão de Especificação
 
 ## NFR 01 - Usabilidade
 
-A usabilidade é um dos principais requisitos não funcionais que garantem que o software seja fácil de usar e atenda às expectativas dos usuários. Ela abrange aspectos como a facilidade de aprendizado, eficiência, memorização, erros e satisfação do usuário. A seguir, são apresentados os softgoals relacionados à usabilidade:
+Este softgoal representa a facilidade de uso e a experiência do usuário com o sistema. A seguir estão os requisitos não-funcionais de usabilidade modelados com o NFR Framework:
+
+### Tabela 3 - Requisitos Não-Funcionais de Usabilidade
+
+| ID    | Descrição                                                                 | Tipo         |
+|-------|---------------------------------------------------------------------------|--------------|
+|[RQ44](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ44) | Interface acessível para pessoas com deficiência visual (leitores de tela) e baixo-visão. | Usabilidade   |
 
 ## NFR 02 - Segurança
 
+Este softgoal abrange a proteção de dados e a segurança do sistema. A seguir estão os requisitos não-funcionais de segurança modelados com o NFR Framework:
+
+### Tabela 4 - Requisitos Não-Funcionais de Segurança
+
+| ID    | Descrição                                                                 | Tipo         |
+|-------|---------------------------------------------------------------------------|--------------|
+| [RQ49](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ49) | Autenticação por biometria ou PIN para operações sensíveis. | Segurança     |
+| [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ50) | Notificações push customizáveis pelo usuário. | Segurança     |
+| [RQ53](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ53) | Manter informações da sessão (filme, data, hora e sala) visíveis em todas as etapas do fluxo de compra. | Segurança     |
+| [RQ54](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ54) | Ocultar parcialmente o e-mail recuperado para segurança (exibir com asteriscos). | Segurança     |
+
 ## NFR 03 - Desempenho
 
-## NFR 04 - Funcionalidade
+Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão os requisitos não-funcionais de desempenho modelados com o NFR Framework:
+
+### Tabela 5 - Requisitos Não-Funcionais de Desempenho
+
+| ID    | Descrição                                                                 | Tipo         |
+|-------|---------------------------------------------------------------------------|--------------|
+| [RQ40](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ40) | Tempo de resposta de até 3 segundos em telas críticas (seleção de assentos, pagamento). | Desempenho    |
+| [RQ47](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ47) | Atualizar automaticamente o valor total conforme seleção de ingressos e produtos. | Desempenho    |
 
 ---
 
