@@ -98,7 +98,7 @@ A “satisfação de um softgoal” significa que o requisito não funcional foi
 
 O processo de avaliação dos softgoals envolve determinar se eles foram atendidos, parcialmente atendidos ou não atendidos. A seguir estão os tipos de avaliação e suas descrições:
 
-* Satisfeito(✓): O softgoal foi atendido dentro de um nível considerado aceitável.
+* Satisfeito(✓): O Softgoal totalmente atendido, com todos os critérios de aceitação cumpridos.
 * Fracamente satisfeito (𝒲+): Satisfação parcial; O softgoal foi atendido de forma limitada, sem atingir sua totalidade.
 * Negado (X): O requisito O softgoal foi claramente não atendidoe pode até contradizer os objetivos do sistema.
 * Fracamente negado(𝒲-): O softgoal sofreu impacto negativo parcial, mas não foi totalmente negado.
@@ -167,6 +167,17 @@ Tabela 2 - Modelo de tabela de Cartão de Especificação
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel Castelo](https://github.com/GabrielCastelo-31) </p></font>
+
+### 3. **Avaliação dos Softgoals**:
+
+A avaliação dos softgoals foi realizada com base nas contribuições recebidas de cada softgoal filho, considerando a direção e intensidade dessas contribuições. A avaliação foi feita seguindo a hierarquia dos softgoals, começando pelos mais específicos e subindo até os mais amplos. Foi seguida a notação de avaliação do NFR Framework, que inclui os tipos de satisfação (satisfeito, fracamente satisfeito, negado, fracamente negado, conflitante e indeterminado):
+
+* Satisfeito (✓): Softgoal totalmente atendido, com todos os critérios de aceitação cumpridos.
+* Fracamente satisfeito (𝒲+): Parcialemente satisfeito
+* Negado (X): Softgoal não atendido.
+* Fracamente negado (𝒲-): Parcialmente não atendido.
+* Conflitante (🗲): O softgoal recebeu contribuições contraditórias
+* Indeterminado (u): Não é possível determinar com clareza se o softgoal foi atendido ou não.
 
 ## NFR 01 - Usabilidade
 
