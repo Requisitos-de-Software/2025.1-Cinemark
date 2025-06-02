@@ -67,6 +67,30 @@ Segundo Silva, 2019, existem 3 tipos de SIG:
 
 <p align="center"><em>Fonte: SILVA, 2019</em></p>
 
+### Interdependências de Softgoals no NFR Framework
+
+O NFR Framework utiliza um modelo de interdependência de softgoals para representar como diferentes objetivos de qualidade se relacionam entre si. Essas interdependências são fundamentais para entender como a satisfação de um softgoal pode impactar outros, ajudando a identificar conflitos e sinergias entre requisitos não funcionais.
+
+O refinamento é uma interdependência top-down, na qual um softgoal pai gera um ou mais softgoals filhos relacionados a ele. Esse processo é essencial para tornar os objetivos mais claros e específicos. O refinamento pode ser realizado de várias maneiras, incluindo:
+
+* **Decomposição de Softgoal NFR**: divide um softgoal genérico em outros mais especializados, facilitando o tratamento de problemas complexos e ambíguos.
+
+* **Decomposição de Operacionalização**: refina um softgoal de operacionalização em subsoftgoals mais detalhados, ajudando a transformar uma solução geral em alternativas específicas.
+
+* **Decomposição de Afirmação (Claim)**: subdivide softgoals de afirmação com o objetivo de reforçar ou questionar justificativas de projeto.
+
+* **Priorização**: é uma forma especial de decomposição em que um softgoal é replicado com o mesmo conteúdo, mas com nível de prioridade atribuído.
+
+Além disso, o framework prevê:
+
+* **Operacionalizações**: são refinamentos que propõem técnicas de desenvolvimento para alcançar softgoals NFR, representando a transição de um objetivo para uma solução prática.
+
+<p align="center">Figura 1 - Tipos de Softgoal</p>
+
+![REFINAMENTO](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/modelagem/refinamento.png)
+
+<p align="center"><em>Fonte: SILVA, 2019</em></p>
+
 ### Contribuições e Tipos no NFR Framework
 
 Durante o processo de refinamento, um softgoal mais específico (descendente) pode influenciar a realização de um softgoal mais amplo (ascendente), seja ajudando ou prejudicando sua satisfação, em maior ou menor grau.
