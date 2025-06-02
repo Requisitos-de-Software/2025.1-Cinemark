@@ -95,14 +95,17 @@ A “satisfação de um softgoal” significa que o requisito não funcional foi
 * **SOME**: A direção da contribuição (positiva ou negativa) é conhecida, mas não sua intensidade (parcial ou total).
 
 ### Avaliação dos Softgoals
+
 O processo de avaliação dos softgoals envolve determinar se eles foram atendidos, parcialmente atendidos ou não atendidos. A seguir estão os tipos de avaliação e suas descrições:
 
-- Satisfeito(✓): O softgoal foi atendido dentro de um nível considerado aceitável.
-- Fracamente satisfeito (𝒲+): Satisfação parcial; O softgoal foi atendido de forma limitada, sem atingir sua totalidade.
-- Negado (X): O requisito O softgoal foi claramente não atendidoe pode até contradizer os objetivos do sistema.
-- Fracamente negado(𝒲-): O softgoal sofreu impacto negativo parcial, mas não foi totalmente negado.
-- Conflitante (🗲): O softgoal recebeu contribuições contraditórias (ex.: uma solução ajuda e outra prejudica), impedindo uma avaliação conclusiva.
-- Indeterminado(u): Não é possível determinar com clareza se o softgoal foi atendido ou não.
+* Satisfeito(✓): O softgoal foi atendido dentro de um nível considerado aceitável.
+* Fracamente satisfeito (𝒲+): Satisfação parcial; O softgoal foi atendido de forma limitada, sem atingir sua totalidade.
+* Negado (X): O requisito O softgoal foi claramente não atendidoe pode até contradizer os objetivos do sistema.
+* Fracamente negado(𝒲-): O softgoal sofreu impacto negativo parcial, mas não foi totalmente negado.
+* Conflitante (🗲): O softgoal recebeu contribuições contraditórias (ex.: uma solução ajuda e outra prejudica), impedindo uma avaliação conclusiva.
+* Indeterminado(u): Não é possível determinar com clareza se o softgoal foi atendido ou não.
+  O processo de avaliação é crucial para entender o estado atual dos softgoals e identificar áreas que precisam de atenção ou ajustes.
+  Para isso, a avaliação inicia-se a partir dos softgoals mais específicos (filhos) e vai subindo na hierarquia até chegar aos softgoals mais amplos (pais). A avaliação é feita com base nas contribuições recebidas de cada softgoal filho, considerando a direção e intensidade dessas contribuições.
 
 ## Modelo de Cartão de Especificação
 
@@ -119,7 +122,7 @@ Tabela 2 - Modelo de tabela de Cartão de Especificação
   <tr><td><strong>Origem do Requisito</strong></td><td>Origem do requisito (stakeholder, norma técnica e etc...)</td></tr>
   <tr><td><strong>Critério de Aceitação</strong></td><td>Métrica do requisito que possa ser testada e que deve ser satisfeita.</td></tr>
   <tr><td><strong>Dependências</strong></td><td>Requisitos relacionados a este.</td></tr>
-  <tr><td><strong>Prioridade</strong></td><td>A prioridade foi definida pelo método Three-Level-Scale, sendo Alta, média ou baixa.</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>A prioridade foi definida pelo método MoSCoW sendo Must(Deve), Should(Deveria), Could(Poderia), Won't(Não fazer) </td></tr>
   <tr><td><strong>Conflitos</strong></td><td>Requisitos conflitantes com este.</td></tr>
   <tr><td><strong>História</strong></td><td>Data de criação e de modificações.</td></tr>
 </table>
@@ -161,7 +164,7 @@ Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão 
 | [RQ40](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ40) | Tempo de resposta de até 3 segundos em telas críticas (seleção de assentos, pagamento). | Desempenho    |
 | [RQ47](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ47) | Atualizar automaticamente o valor total conforme seleção de ingressos e produtos. | Desempenho    |
 
----
+***
 
 **Tabela 2 - Cartão de Especificação 1**
 
@@ -180,7 +183,7 @@ Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão 
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
 
----
+***
 
 ## Tabela X - Requisitos Não-Funcionais Não Implementados
 
@@ -205,3 +208,4 @@ Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão 
 | `1.2`  | 01/06/2025 | Adição do modelo da tabela de Cartão de Especificação e correção da imagem dos tipos de Softgoal | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.3`  | 01/06/2025 | Adição de introdução e Softgoal Interdependency Graph | [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.4`  | 01/06/2025 | Adição da Tabela 2 | [Arthur Evangelista](https://github.com/arthurevg)| [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.5`  | 01/06/2025 | Adição de fundamentação teórica e alteração do modelo de tabela de Cartão de Especificação | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
