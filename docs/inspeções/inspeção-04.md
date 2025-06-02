@@ -8,7 +8,7 @@ Abaixo se encontra a inspeção da entrega do grupo. A inspeção foi realizada 
 
 ## 🔗 Link da reunião
 
-[Assista ao vídeo no YouTube]()
+[Assista ao vídeo no YouTube](https://youtu.be/6JddZSgglJo)
 
 ---
 
@@ -84,3 +84,4 @@ Abaixo se encontra a inspeção da entrega do grupo. A inspeção foi realizada 
 | `1.4`  | 01/06/2025 | Criação de item na Lista de Inspeção - Histórias de Usuário | [Arthur Evangelista](https://github.com/arthurevg) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
 | `1.5`  | 01/06/2025 | Criação de item na Lista de Inspeção - Histórias de Usuário | [Artur De Camargos](https://github.com/ArturDCR) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
 | `1.6`  | 01/06/2025 | Adição da conformidade da inspeção | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.6.1` | 01/06/2025 | Adição do link da gravação | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
