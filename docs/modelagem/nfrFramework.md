@@ -85,7 +85,7 @@ Além disso, o framework prevê:
 
 * **Operacionalizações**: são refinamentos que propõem técnicas de desenvolvimento para alcançar softgoals NFR, representando a transição de um objetivo para uma solução prática.
 
-<p align="center">Figura 1 - Tipos de Softgoal</p>
+<p align="center">Figura 3 - Tipos de interdependências</p>
 
 ![REFINAMENTO](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/modelagem/refinamento.png)
 
@@ -252,7 +252,7 @@ Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão 
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
 
-**Tabela 7 - Cartão de Especificação 2**  
+**Tabela 7 - Cartão de Especificação 2**
 
 | Campo                 | Descrição                                                                                                                                 |
 | :-------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
