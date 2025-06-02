@@ -232,6 +232,23 @@ Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão 
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
 
+**Tabela 3 - Cartão de Especificação 2**  
+
+| Campo                 | Descrição                                                                                                                                 |
+| :-------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Requisito:**        | [RQ44](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ44)                                                                                |
+| **Classificação:**    | Acessibilidade / Usabilidade                                                                                                              |
+| **Descrição:**        | A interface deve ser compatível com leitores de tela (ex: NVDA, VoiceOver) e oferecer recursos adaptativos para usuários com baixa visão, como redimensionamento de texto e navegação por teclado.        |
+| **Justificativa:**    | Garantir autonomia e usabilidade para pessoas com deficiência visual, assegurando conformidade com a Lei Brasileira de Inclusão (LBI) e diretrizes internacionais de acessibilidade digital (WCAG 2.1).   |
+| **Origem do Requisito:** | [Introspecção](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS35)                                                                                         |
+| **Critério de Aceitação:** | <ul><li>Todos os elementos interativos devem ser identificáveis por leitores de tela, com rótulos descritivos e estados claros (ex: foco/seleção)</li><li>Funcionalidades críticas devem ser operáveis via teclado (tabulação, atalhos)</li><li>Texto deve ser redimensionável até 200% sem perda de funcionalidade</li><li>Validação realizada por ferramentas automatizadas (ex: Axe, Lighthouse) e testes manuais com usuários reais</li></ul> |
+| **Dependências:**     | Implementação de componentes semânticos (HTML5/ARIA), biblioteca de UI compatível com acessibilidade, Guia de estilo da interface.                                                                       |
+| **Prioridade:**       | Must                                                                                                                                      |
+| **Conflitos:**        | Restrições técnicas de frameworks não acessíveis ou componentes de terceiros que violam padrões WCAG.                                                                                                     |
+| **História:**         | 01/06/2025                                                                                                                                |
+
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos](https://github.com/ArturDCR).</p></font>
+
 ***
 
 ## Tabela X - Requisitos Não-Funcionais Não Implementados
@@ -259,3 +276,4 @@ Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão 
 | `1.4`  | 01/06/2025 | Adição da Tabela 2 | [Arthur Evangelista](https://github.com/arthurevg)| [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.5`  | 01/06/2025 | Adição de fundamentação teórica e alteração do modelo de tabela de Cartão de Especificação | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.6`  | 01/06/2025 | Adição de metodologia | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
+| `1.7`  | 01/06/2025 | Adição da tabela 3 referente ao requisisto 44 | [Artur de Camargos](https://github.com/ArturDCR) |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
