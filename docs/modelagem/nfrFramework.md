@@ -244,6 +244,12 @@ A seguir estão os cartões de especificação para os requisitos não-funcionai
 
 <font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></p></font>
 
+<p align="center">Figura 4 - Segurança</p>
+
+![SATISFACAO](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/modelagem/seguranca.png)
+
+<p align="center"><em>Fonte: SILVA, 2019</em></p>
+
 ### Tabela de Impactos
 
 A tabela abaixo apresenta a avaliação da propagação dos impactos dos requisitos não funcionais modelados no NFR Framework.
@@ -318,7 +324,7 @@ Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão 
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
-  
+
 
 **Tabela 9 - Cartão de Especificação 4**
 
@@ -337,7 +343,7 @@ Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão 
 
 <font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
 
-**Tabela 10 - Cartão de Especificação 5**  
+**Tabela 10 - Cartão de Especificação 5**
 
 | Campo                 | Descrição                                                                                                                               |
 | :-------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
