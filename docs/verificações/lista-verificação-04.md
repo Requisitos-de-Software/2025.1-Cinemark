@@ -30,8 +30,9 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 |------|-------|------------|
 | **1.** O backlog possui épicos e temas bem definidos e descritos? | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Lista de Verificação da Etapa 4](../assets/Listas%20do%20Professor.pdf) |
 | **2.** O backlog foi feito buscando a priorização das funcionalidades do produto desejadas pelo cliente? | [Davi Camilo](https://github.com/Davicamilo23) | PRESSMAN, Roger S.; MAXIM, Bruce R. *Engenharia de Software: uma abordagem profissional*. 9. ed. Porto Alegre: AMGH, 2021. P. 96. <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/modelagem/backlogDavi.png" alt="Referência do item" width="100px"> |
+| **3.** O backlog permite alterações dinâmicas, com itens sendo adicionados e priorizados continuamente para refletir as mudanças nos requisitos do cliente? | [Euller Júlio](https://github.com/tiagobalieiro) | PRESSMAN, Roger S.; MAXIM, Bruce R. *Engenharia de Software: uma abordagem profissional*. 9. ed. Porto Alegre: AMGH, 2021. P. 96. |
 
-<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23)e [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
 ---
 
@@ -62,3 +63,4 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
 | `1.0`  | 01/06/2025 | Criação do Documento com todas as listas de verificação da Entrega 4 | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.1`  | 01/06/2025 | Criação de item na Lista de Verificação - Backlogs | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
