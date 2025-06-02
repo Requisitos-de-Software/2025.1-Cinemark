@@ -361,7 +361,7 @@ A seguir estão os cartões de especificação para os requisitos não-funcionai
 
 <p align="center"><em>Fonte: Gabriel Castelo, 2025</em></p>
 
-### Propagação dos Impactos
+### Propagação dos impactos
 
 A tabela abaixo apresenta a avaliação da propagação dos impactos dos requisitos não funcionais modelados no NFR Framework.
 
@@ -407,7 +407,7 @@ A seguir está o cartão de especificação para o requisito não-funcional de d
 
 <p align="center"><em>Fonte: Davi Camilo, 2025</em></p>
 
-### Propagação dos Impactos
+### Propagação dos impactos
 
 A tabela abaixo apresenta a avaliação da propagação dos impactos dos requisitos não funcionais modelados no NFR Framework.
 
