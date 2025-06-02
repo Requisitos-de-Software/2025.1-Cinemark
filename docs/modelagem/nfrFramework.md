@@ -14,15 +14,15 @@
 		<tbody>
 					<tr>
 						<td><a  href="https://github.com/ArturDCR">Artur de Camargos</a></td>
-						<td>Adição do Cartão de Especificação 2</td>
+						<td>Adição do Cartão de Especificação 2 referente ao <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ44">RQ44</a></td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
-						<td>Adição do Cartão de Especificação 1</td>
+						<td>Adição do Cartão de Especificação 1 referente ao <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ45">RQ45</a></td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
-						<td>Adição do Cartão de Especificação 3</td>
+						<td>Adição do Cartão de Especificação 3 referente ao <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ47">RQ47</a></td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
@@ -30,11 +30,11 @@
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
-						<td>Lorem Ipsum</td>
+						<td>Adição do Cartão de Especificação 6 referente ao <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ54">RQ54</a></td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
-						<td>Adicionou o Modelo de tabela de Cartão de Especificação</td>
+						<td>Adicionou o Modelo de tabela de Cartão de Especificação e Adição do Cartão de Especificação 5 referente ao <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ50">RQ50</a></td>
 					</tr>
 			</tbody>
 		</table>
@@ -212,66 +212,7 @@ Este softgoal representa a facilidade de uso e a experiência do usuário com o 
 | [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ50) | Notificações push customizáveis pelo usuário. | Usabilidade     |
 | [RQ53](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ53) | Manter informações da sessão (filme, data, hora e sala) visíveis em todas as etapas do fluxo de compra. | Usabilidade     |
 
-## NFR 02 - Segurança
-
-Este softgoal abrange a proteção de dados e a segurança do sistema. A seguir estão os requisitos não-funcionais de segurança modelados com o NFR Framework:
-
-### Tabela 4 - Requisitos Não-Funcionais de Segurança
-
-| ID    | Descrição                                                                 | Tipo         |
-|-------|---------------------------------------------------------------------------|--------------|
-| [RQ49](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ49) | Autenticação por biometria ou PIN para operações sensíveis. | Segurança     |
-| [RQ54](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ54) | Ocultar parcialmente o e-mail recuperado para segurança (exibir com asteriscos). | Segurança     |
-
-A seguir estão os cartões de especificação para os requisitos não-funcionais de segurança:
-
-<p style="text-align: center"><strong>Tabela 7: Cartão de Especificação 5</strong></p>
-
-<center>
-<table border="1" cellpadding="6" cellspacing="0">
-  <tr><th colspan="2">Requisito Não Funcional – RNF54</th></tr>
-  <tr><td><strong>Classificação</strong></td><td>Segurança</td></tr>
-  <tr><td><strong>Descrição</strong></td><td>O sistema deve ocultar parcialmente o endereço de e-mail recuperado, substituindo parte dos caracteres por asteriscos (*), de forma a proteger dados sensíveis do usuário.</td></tr>
-  <tr><td><strong>Justificativa</strong></td><td>Evitar a exposição completa do e-mail em tela pública ou compartilhada, reduzindo riscos de acesso indevido e aumentando a segurança da informação.</td></tr>
-  <tr><td><strong>Origem do Requisito</strong></td><td>Stakeholder (equipe de segurança da informação)</td></tr>
-  <tr><td><strong>Critério de Aceitação</strong></td><td>Ao exibir o e-mail recuperado, o sistema deve mascarar parte do nome de usuário (antes do @), mantendo os três primeiros e o domínio visível. Exemplo: **joh***@exemplo.com.</td></tr>
-  <tr><td><strong>Dependências</strong></td><td>RQ12 – Recuperação de Conta<br>RQ51 – Política de privacidade de dados</td></tr>
-  <tr><td><strong>Prioridade</strong></td><td>Must (Deve)</td></tr>
-  <tr><td><strong>Conflitos</strong></td><td>Nenhum identificado</td></tr>
-  <tr><td><strong>História</strong></td><td>Criado em 01/06/2025</td></tr>
-</table>
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></p></font>
-
-<p align="center">Figura 4 - Segurança</p>
-
-![SATISFACAO](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/modelagem/seguranca.png)
-
-<p align="center"><em>Fonte: Gabriel Castelo, 2025</em></p>
-
-### Tabela de Impactos
-
-A tabela abaixo apresenta a avaliação da propagação dos impactos dos requisitos não funcionais modelados no NFR Framework.
-
-| NFR                                | Impacto | Avaliador                          |
-|------------------------------------|---------|------------------------------------|
-| Autenticação por biometria ou PIN (RNF49) | ✓       | Euller Júlio                      |
-| Notificações push customizáveis (RNF50)   | 𝒲+      | Gabriel Castelo            |
-
-<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
-
-## NFR 03 - Desempenho
-
-Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão os requisitos não-funcionais de desempenho modelados com o NFR Framework:
-
-### Tabela 5 - Requisitos Não-Funcionais de Desempenho
-
-| ID    | Descrição                                                                 | Tipo         |
-|-------|---------------------------------------------------------------------------|--------------|
-| [RQ47](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ47) | Atualizar automaticamente o valor total conforme seleção de ingressos e produtos. | Desempenho    |
-
-***
+A seguir estão os cartões de especificação para os requisitos não-funcionais de usabilidade:
 
 **Tabela 6 - Cartão de Especificação 1**
 
@@ -307,42 +248,6 @@ Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão 
 
 <font size="3"><p style="text-align: center">Autor: [Artur de Camargos](https://github.com/ArturDCR).</p></font>
 
-**Tabela 8 - Cartão de Especificação 3**
-
-| Campo                     | Descrição                                                                                                                                                                                                                      |
-| :------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Requisito:**            | [RQ47](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ47)                                                                                                                                              |
-| **Classificação:**        | Desempenho                                                                                                                                                                                                       |
-| **Descrição:**            | O sistema deve recalcular e exibir automaticamente o valor total da compra sempre que o usuário adicionar, remover ou modificar a quantidade de ingressos e produtos selecionados.                                           |
-| **Justificativa:**        | Garantir uma experiência de compra transparente e compreensível, permitindo que o usuário tenha controle imediato sobre os valores finais antes de concluir o pedido.                                                              |
-| **Origem do Requisito:**  | [Análise de Interface](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/analiseUI/)              |
-| **Critério de Aceitação:**| Ao adicionar ou remover ingressos e produtos, o valor total exibido na tela deve ser atualizado automaticamente, sem necessidade de recarregar a página ou confirmar manualmente.                                           |
-| **Dependências:**         | Funcionalidade de seleção de ingressos e produtos implementada, integração com lógica de precificação.                                                                                                                       |
-| **Prioridade:**           | Must                                                                                                                                                                                                                          |
-| **Conflitos:**            | Pode exigir tratamento de erros em casos de valores inválidos ou sincronização inadequada entre diferentes componentes da interface.                                                                                          |
-| **História:**             | 01/06/2025                                                                                                                                                                                                                     |
-
-<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
-
-
-
-**Tabela 9 - Cartão de Especificação 4**
-
-| Campo                 | Descrição                                                                                                                               |
-| :-------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
-| **Requisito:**        | [RQ49](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ49)                                                                                                         |
-| **Classificação:**    | Segurança                                                                                                                              |
-| **Descrição:**        | Autenticação por biometria ou PIN para operações sensíveis.                                                                            |
-| **Justificativa:**    | Garantir maior segurança nas operações sensíveis, protegendo dados do usuário contra acessos não autorizados.                          |
-| **Origem do Requisito:** | [Introspecção](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS35)                                                                                         |
-| **Critério de Aceitação:** | <ul><li>O sistema deve permitir autenticação por biometria ou PIN em todas as operações sensíveis.</li><li>Validação realizada por testes de segurança e conformidade com padrões de autenticação.</li></ul> |
-| **Dependências:**     | Implementação de mecanismos de autenticação biométrica e PIN, integração com dispositivos compatíveis.                                  |
-| **Prioridade:**       | Must                                                                                                                                   |
-| **Conflitos:**        | Possíveis incompatibilidades com dispositivos que não suportam biometria ou PIN.                                                       |
-| **História:**         | 01/06/2025                                                                                                                             |
-
-<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
-
 **Tabela 10 - Cartão de Especificação 5**
 
 | Campo                 | Descrição                                                                                                                               |
@@ -360,6 +265,157 @@ Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão 
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
+## NFR 02 - Segurança
+
+Este softgoal abrange a proteção de dados e a segurança do sistema. A seguir estão os requisitos não-funcionais de segurança modelados com o NFR Framework:
+
+### Tabela 4 - Requisitos Não-Funcionais de Segurança
+
+| ID    | Descrição                                                                 | Tipo         |
+|-------|---------------------------------------------------------------------------|--------------|
+| [RQ49](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ49) | Autenticação por biometria ou PIN para operações sensíveis. | Segurança     |
+| [RQ54](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ54) | Ocultar parcialmente o e-mail recuperado para segurança (exibir com asteriscos). | Segurança     |
+
+A seguir estão os cartões de especificação para os requisitos não-funcionais de segurança:
+
+<p style="text-align: center"><strong>Tabela 11: Cartão de Especificação 6</strong></p>
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Requisito Não Funcional – RNF54</th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Segurança</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>O sistema deve ocultar parcialmente o endereço de e-mail recuperado, substituindo parte dos caracteres por asteriscos (*), de forma a proteger dados sensíveis do usuário.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Evitar a exposição completa do e-mail em tela pública ou compartilhada, reduzindo riscos de acesso indevido e aumentando a segurança da informação.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td>Stakeholder (equipe de segurança da informação)</td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>Ao exibir o e-mail recuperado, o sistema deve mascarar parte do nome de usuário (antes do @), mantendo os três primeiros e o domínio visível. Exemplo: **joh***@exemplo.com.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>RQ12 – Recuperação de Conta<br>RQ51 – Política de privacidade de dados</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>Must (Deve)</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Nenhum identificado</td></tr>
+  <tr><td><strong>História</strong></td><td>Criado em 01/06/2025</td></tr>
+</table>
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></p></font>
+
+<p style="text-align: center"><strong>Tabela 9: Cartão de Especificação 4</strong></p>
+
+<center>
+<table border="1" cellspacing="0" cellpadding="8">
+  <tr>
+    <th>Campo</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>Requisito:</strong></td>
+    <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ49" target="_blank">RQ49</a></td>
+  </tr>
+  <tr>
+    <td><strong>Classificação:</strong></td>
+    <td>Segurança</td>
+  </tr>
+  <tr>
+    <td><strong>Descrição:</strong></td>
+    <td>Autenticação por biometria ou PIN para operações sensíveis.</td>
+  </tr>
+  <tr>
+    <td><strong>Justificativa:</strong></td>
+    <td>Garantir maior segurança nas operações sensíveis, protegendo dados do usuário contra acessos não autorizados.</td>
+  </tr>
+  <tr>
+    <td><strong>Origem do Requisito:</strong></td>
+    <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS35" target="_blank">Introspecção</a></td>
+  </tr>
+  <tr>
+    <td><strong>Critério de Aceitação:</strong></td>
+    <td>
+      <ul>
+        <li>O sistema deve permitir autenticação por biometria ou PIN em todas as operações sensíveis.</li>
+        <li>Validação realizada por testes de segurança e conformidade com padrões de autenticação.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Dependências:</strong></td>
+    <td>Implementação de mecanismos de autenticação biométrica e PIN, integração com dispositivos compatíveis.</td>
+  </tr>
+  <tr>
+    <td><strong>Prioridade:</strong></td>
+    <td>Must</td>
+  </tr>
+  <tr>
+    <td><strong>Conflitos:</strong></td>
+    <td>Possíveis incompatibilidades com dispositivos que não suportam biometria ou PIN.</td>
+  </tr>
+  <tr>
+    <td><strong>História:</strong></td>
+    <td>01/06/2025</td>
+  </tr>
+</table>
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/Potatoyz908">Euller Júlio</a></p></font>
+
+<p align="center">Figura 4 - Segurança</p>
+
+![SATISFACAO](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/modelagem/seguranca.png)
+
+<p align="center"><em>Fonte: Gabriel Castelo, 2025</em></p>
+
+### Tabela de Impactos
+
+A tabela abaixo apresenta a avaliação da propagação dos impactos dos requisitos não funcionais modelados no NFR Framework.
+
+| NFR                                | Impacto | Avaliador                          |
+|------------------------------------|---------|------------------------------------|
+| Autenticação por biometria ou PIN (RNF49) | ✓       | Euller Júlio                      |
+| Notificações push customizáveis (RNF50)   | 𝒲+      | Gabriel Castelo            |
+
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
+
+## NFR 03 - Desempenho
+
+Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão os requisitos não-funcionais de desempenho modelados com o NFR Framework:
+
+### Tabela 5 - Requisitos Não-Funcionais de Desempenho
+
+| ID    | Descrição                                                                 | Tipo         |
+|-------|---------------------------------------------------------------------------|--------------|
+| [RQ47](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ47) | Atualizar automaticamente o valor total conforme seleção de ingressos e produtos. | Desempenho    |
+
+A seguir está o cartão de especificação para o requisito não-funcional de desempenho:
+
+**Tabela 8 - Cartão de Especificação 3**
+
+| Campo                     | Descrição                                                                                                                                                                                                                      |
+| :------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Requisito:**            | [RQ47](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ47)                                                                                                                                              |
+| **Classificação:**        | Desempenho                                                                                                                                                                                                       |
+| **Descrição:**            | O sistema deve recalcular e exibir automaticamente o valor total da compra sempre que o usuário adicionar, remover ou modificar a quantidade de ingressos e produtos selecionados.                                           |
+| **Justificativa:**        | Garantir uma experiência de compra transparente e compreensível, permitindo que o usuário tenha controle imediato sobre os valores finais antes de concluir o pedido.                                                              |
+| **Origem do Requisito:**  | [Análise de Interface](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/analiseUI/)              |
+| **Critério de Aceitação:**| Ao adicionar ou remover ingressos e produtos, o valor total exibido na tela deve ser atualizado automaticamente, sem necessidade de recarregar a página ou confirmar manualmente.                                           |
+| **Dependências:**         | Funcionalidade de seleção de ingressos e produtos implementada, integração com lógica de precificação.                                                                                                                       |
+| **Prioridade:**           | Must                                                                                                                                                                                                                          |
+| **Conflitos:**            | Pode exigir tratamento de erros em casos de valores inválidos ou sincronização inadequada entre diferentes componentes da interface.                                                                                          |
+| **História:**             | 01/06/2025                                                                                                                                                                                                                     |
+
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
+
+<p align="center">Figura 5 - Desempenho</p>
+
+![SATISFACAO](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/modelagem/desempenho.png)
+
+<p align="center"><em>Fonte: Davi Camilo, 2025</em></p>
+
+### Tabela de Impactos
+
+A tabela abaixo apresenta a avaliação da propagação dos impactos dos requisitos não funcionais modelados no NFR Framework.
+
+| NFR                                | Impacto | Avaliador                          |
+|------------------------------------|---------|------------------------------------|
+| Atualizar automaticamente o valor total conforme seleção de ingressos e produtos (RNF47) | 𝒲+       | Davi Camilo                      |
+
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
 
 ***
 
@@ -395,6 +451,4 @@ Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão 
 | `1.9`  | 01/06/2025 | Adição do cartão 4 | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.10`  | 01/06/2025 | Adição do cartão 5 | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.11`  | 01/06/2025 | Adição da tabela de impacto - segurança | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
-
-
-
+| `1.12`  | 01/06/2025 | Adição da tabela de impacto - desempenho e o SIG | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
