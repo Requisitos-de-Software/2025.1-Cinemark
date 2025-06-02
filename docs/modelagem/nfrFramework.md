@@ -26,7 +26,7 @@
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
-						<td>Lorem Ipsum</td>
+						<td>Adição do Cartão de Especificação 4 referente ao <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ49">RQ49</a></td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
@@ -221,7 +221,6 @@ Este softgoal abrange a proteção de dados e a segurança do sistema. A seguir 
 | ID    | Descrição                                                                 | Tipo         |
 |-------|---------------------------------------------------------------------------|--------------|
 | [RQ49](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ49) | Autenticação por biometria ou PIN para operações sensíveis. | Segurança     |
-| [RQ53](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ53) | Manter informações da sessão (filme, data, hora e sala) visíveis em todas as etapas do fluxo de compra. | Segurança     |
 | [RQ54](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ54) | Ocultar parcialmente o e-mail recuperado para segurança (exibir com asteriscos). | Segurança     |
 
 ## NFR 03 - Desempenho
@@ -270,7 +269,7 @@ Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão 
 
 <font size="3"><p style="text-align: center">Autor: [Artur de Camargos](https://github.com/ArturDCR).</p></font>
 
-**Tabela 8 - Cartão de Especificação 2**
+**Tabela 8 - Cartão de Especificação 3**
 
 | Campo                     | Descrição                                                                                                                                                                                                                      |
 | :------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -286,6 +285,43 @@ Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão 
 | **História:**             | 01/06/2025                                                                                                                                                                                                                     |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
+
+  
+
+**Tabela 9 - Cartão de Especificação 4**
+
+| Campo                 | Descrição                                                                                                                               |
+| :-------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| **Requisito:**        | [RQ49](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ49)                                                                                                         |
+| **Classificação:**    | Segurança                                                                                                                              |
+| **Descrição:**        | Autenticação por biometria ou PIN para operações sensíveis.                                                                            |
+| **Justificativa:**    | Garantir maior segurança nas operações sensíveis, protegendo dados do usuário contra acessos não autorizados.                          |
+| **Origem do Requisito:** | [Introspecção](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS35)                                                                                         |
+| **Critério de Aceitação:** | <ul><li>O sistema deve permitir autenticação por biometria ou PIN em todas as operações sensíveis.</li><li>Validação realizada por testes de segurança e conformidade com padrões de autenticação.</li></ul> |
+| **Dependências:**     | Implementação de mecanismos de autenticação biométrica e PIN, integração com dispositivos compatíveis.                                  |
+| **Prioridade:**       | Must                                                                                                                                   |
+| **Conflitos:**        | Possíveis incompatibilidades com dispositivos que não suportam biometria ou PIN.                                                       |
+| **História:**         | 01/06/2025                                                                                                                             |
+
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
+
+**Tabela 10 - Cartão de Especificação 5**  
+
+| Campo                 | Descrição                                                                                                                               |
+| :-------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| **Requisito:**        | [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ50)                                                                               |
+| **Classificação:**    | Usabilidade / Personalização                                                                                                            |
+| **Descrição:**        | O sistema deve permitir que usuários personalizem suas preferências para recebimento de notificações push, incluindo tipos de alertas e frequência. |
+| **Justificativa:**    | Garantir que os usuários recebam apenas notificações relevantes, melhorando a experiência e reduzindo perturbações, conforme boas práticas de UX e leis de proteção de dados (LGPD). |
+| **Origem do Requisito:** | [Introspecção](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS35)                                                                         |
+| **Critério de Aceitação:** | <ul><li>Opções de personalização devem incluir: promoções, alertas de sessão, novidades de cinema e atualizações de conta</li><li>Configurações devem ser salvas automaticamente no perfil do usuário</li><li>Estado "silenciar notificações" deve ser respeitado pelo sistema</li><li>Teste A/B deve mostrar redução de 40% em desativamentos de notificações</li></ul> |
+| **Dependências:**     | Sistema de notificações push implementado, módulo de preferências do usuário.                                                            |
+| **Prioridade:**       | Could                                                                                                                                  |
+| **Conflitos:**        | Estratégias de marketing que dependem de notificações em massa podem ter alcance reduzido.                                              |
+| **História:**         | 01/06/2025                                                                                                                              |
+
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
+
 
 ***
 
@@ -317,4 +353,8 @@ Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão 
 | `1.5`  | 01/06/2025 | Adição de fundamentação teórica e alteração do modelo de tabela de Cartão de Especificação | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.6`  | 01/06/2025 | Adição de metodologia | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
 | `1.7`  | 01/06/2025 | Adição da tabela 3 referente ao requisisto 44 | [Artur de Camargos](https://github.com/ArturDCR) |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
-| `1.8`  | 01/06/2025 | Adição do cartão 2 | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
+| `1.8`  | 01/06/2025 | Adição do cartão 3 | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
+| `1.9`  | 01/06/2025 | Adição do cartão 4 | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
+| `1.10`  | 01/06/2025 | Adição do cartão 5 | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
+
+
