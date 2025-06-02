@@ -61,6 +61,10 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 > **PRESSMAN, Roger S.; MAXIM, Bruce R.** *Engenharia de Software: uma abordagem profissional*. 9. ed. Porto Alegre: AMGH, 2021.
 
+> **SERRANO, Milene; SERRANO, Maurício.** Requisitos – Aula 13. Universidade de Brasília, Campus Gama (UnB Gama). Material de aula.
+
+> **SERRANO, Milene; SERRANO, Maurício.** Requisitos – Aula 15. Universidade de Brasília, Campus Gama (UnB Gama). Material de aula.
+
 ---
 
 ## Histórico de Versão
