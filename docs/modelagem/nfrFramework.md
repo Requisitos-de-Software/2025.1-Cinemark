@@ -258,3 +258,4 @@ Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão 
 | `1.3`  | 01/06/2025 | Adição de introdução e Softgoal Interdependency Graph | [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.4`  | 01/06/2025 | Adição da Tabela 2 | [Arthur Evangelista](https://github.com/arthurevg)| [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.5`  | 01/06/2025 | Adição de fundamentação teórica e alteração do modelo de tabela de Cartão de Especificação | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.6`  | 01/06/2025 | Adição de metodologia | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
