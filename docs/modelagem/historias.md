@@ -68,6 +68,15 @@ A priorização foi feita utilizando a técnica **Three-Level Scale estendida**,
 
 Essa escala ajuda a organizar os esforços da equipe de forma mais estratégica, focando nas entregas que realmente trazem valor imediato ao usuário e ao negócio, ao mesmo tempo em que documenta funcionalidades que podem ser revisitadas no futuro ou que foram explicitamente desconsideradas.
 
+## Priorização das Histórias de Usuário
+
+Gravação da priorização das Histórias de Usuário com o PO
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3dxCPchVsd4?si=YwXD59wJWi6b4_EK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">[Clique aqui para acessar a gravação](https://youtu.be/3dxCPchVsd4).</p></font>
+
+
 Tabela 2: Modelo de tabela para histórias de usuário.
 
 <div align="center">
@@ -1761,3 +1770,4 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 |`1.9`| 1/06/2025|Correção nas tabelas de histórias de usuário US13, US14, US15, US16, US17 e US18|[Euller Júlio da Silva](https://github.com/Potatoyz908)|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
 |`1.10`| 1/06/2025|Adição das prioridades conforme reunião com Usuário|[Arthur Evangelista](https://github.com/arthurevg), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), [Davi Camilo](https://github.com/Davicamilo23) e [Gabriel Castelo](https://github.com/gabrielcastelo-31)|[Artur de Camargos](https://github.com/ArturDCR)|
 |`1.11`| 1/06/2025| Correções gramaticais nas tabelas de histórias de usuário e adição na tabela de participantes |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|[Arthur Evangelista](https://github.com/arthurevg)|
+|`1.12`| 1/06/2025| Adição da gravação da priorização com o PO |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|[Arthur Evangelista](https://github.com/arthurevg)|
