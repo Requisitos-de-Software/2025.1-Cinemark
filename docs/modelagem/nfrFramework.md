@@ -22,7 +22,7 @@
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
-						<td>Adição do Cartão de Especificação 3 referente ao <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ47">RQ47</a></td>
+						<td>Adição do Cartão de Especificação 3 referente ao <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ47">RQ47</a> e do SIG de desempenho</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
@@ -30,7 +30,7 @@
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
-						<td>Adição do Cartão de Especificação 6 referente ao <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ54">RQ54</a></td>
+						<td>Adição do Cartão de Especificação 6 referente ao <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ54">RQ54</a> e do SIG de segurança</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
@@ -415,7 +415,7 @@ A tabela abaixo apresenta a avaliação da propagação dos impactos dos requisi
 |------------------------------------|---------|------------------------------------|
 | Atualizar automaticamente o valor total conforme seleção de ingressos e produtos (RNF47) | 𝒲+       | Davi Camilo                      |
 
-<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
 ***
 
