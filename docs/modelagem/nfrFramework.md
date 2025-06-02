@@ -248,7 +248,7 @@ A seguir estão os cartões de especificação para os requisitos não-funcionai
 
 ![SATISFACAO](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/modelagem/seguranca.png)
 
-<p align="center"><em>Fonte: SILVA, 2019</em></p>
+<p align="center"><em>Fonte: Gabriel Castelo, 2025</em></p>
 
 ### Tabela de Impactos
 
