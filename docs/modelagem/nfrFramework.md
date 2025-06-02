@@ -244,6 +244,17 @@ A seguir estão os cartões de especificação para os requisitos não-funcionai
 
 <font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></p></font>
 
+### Tabela de Impactos
+
+A tabela abaixo apresenta a avaliação da propagação dos impactos dos requisitos não funcionais modelados no NFR Framework.
+
+| NFR                                | Impacto | Avaliador                          |
+|------------------------------------|---------|------------------------------------|
+| Autenticação por biometria ou PIN (RNF49) | ✓       | Euller Júlio                      |
+| Notificações push customizáveis (RNF50)   | 𝒲+      | Gabriel Castelo            |
+
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
+
 ## NFR 03 - Desempenho
 
 Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão os requisitos não-funcionais de desempenho modelados com o NFR Framework:
@@ -377,5 +388,7 @@ Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão 
 | `1.8`  | 01/06/2025 | Adição do cartão 3 | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.9`  | 01/06/2025 | Adição do cartão 4 | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.10`  | 01/06/2025 | Adição do cartão 5 | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
+| `1.11`  | 01/06/2025 | Adição da tabela de impacto - segurança | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
+
 
 
