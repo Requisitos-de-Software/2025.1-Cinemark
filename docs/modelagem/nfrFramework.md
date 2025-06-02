@@ -124,12 +124,33 @@ A usabilidade é um dos principais requisitos não funcionais que garantem que o
 
 ## NFR 04 - Funcionalidade
 
+---
+
+**Tabela 2 - Cartão de Especificação 1**
+
+| Campo                 | Descrição                                                                                                                               |
+| :-------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| **Requisito:** |  [RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ45)                                                                                                         |
+| **Classificação:** | Acessibilidade / Usabilidade                                                                                                              |
+| **Descrição:** | A interface do sistema deve atender aos critérios de contraste de cores definidos pelas Diretrizes de Acessibilidade para Conteúdo Web (WCAG) nos níveis A e AA. |
+| **Justificativa:** | Garantir que o conteúdo textual e visual seja perceptível por usuários com baixa visão ou daltonismo, promovendo uma experiência inclusiva e em conformidade com padrões internacionais de acessibilidade. |
+| **Origem do Requisito:** | [Análise de Interface](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/analiseUI/)                                                                           |
+| **Critério de Aceitação:** | Todas as combinações de cores entre texto e plano de fundo, e entre componentes de interface significativos e seus planos de fundo, devem atingir uma taxa de contraste mínima de 4.5:1 para texto normal e 3:1 para texto grande (ou conforme especificado para componentes gráficos na WCAG 2.1 AA). A conformidade deve ser validada utilizando ferramentas de análise de contraste reconhecidas. |
+| **Dependências:** | Definição da paleta de cores do sistema, Guia de estilo da interface.                                                                     |
+| **Prioridade:** | Must                                                                                                                       |
+| **Conflitos:** | Pode haver conflito com escolhas estéticas de design que não considerem os requisitos de contraste desde o início.                       |
+| **História:** | 01/06/2025                                                                                                                              |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+
+---
+
 ## Tabela X - Requisitos Não-Funcionais Não Implementados
 
 | ID    | Descrição                                                                 | Tipo         |
 |-------|---------------------------------------------------------------------------|--------------|
 | [RQ54](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ54) | Ocultar parcialmente o e-mail recuperado para segurança (exibir com asteriscos). | Segurança     |
-| [RQ40](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ40) | Tempo de resposta de até 3 segundos em telas críticas (seleção de assentos, pagamento). | Desempenho    |
+| [RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ45) | Contraste de interface conforme WCAG A/AA. | Usabilidade    |
 | [RQ44](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ44) | Interface acessível para pessoas com deficiência visual (leitores de tela) e baixo-visão. | Usabilidade   |
 | [RQ47](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ47) | Atualizar automaticamente o valor total conforme seleção de ingressos e produtos. | Desempenho    |
 | [RQ53](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ53) | Manter informações da sessão (filme, data, hora e sala) visíveis em todas as etapas do fluxo de compra. | Segurança     |
@@ -146,3 +167,4 @@ A usabilidade é um dos principais requisitos não funcionais que garantem que o
 | `1.1`  | 26/05/2025 | Adição do modelo da tabela de participantes | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.2`  | 01/06/2025 | Adição do modelo da tabela de Cartão de Especificação e correção da imagem dos tipos de Softgoal | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.3`  | 01/06/2025 | Adição de introdução e Softgoal Interdependency Graph | [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.4`  | 01/06/2025 | Adição da Tabela 2 | [Arthur Evangelista](https://github.com/arthurevg)| [Davi Camilo](https://github.com/Davicamilo23) |
