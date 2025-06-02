@@ -107,7 +107,45 @@ O processo de avaliação dos softgoals envolve determinar se eles foram atendid
   O processo de avaliação é crucial para entender o estado atual dos softgoals e identificar áreas que precisam de atenção ou ajustes.
   Para isso, a avaliação inicia-se a partir dos softgoals mais específicos (filhos) e vai subindo na hierarquia até chegar aos softgoals mais amplos (pais). A avaliação é feita com base nas contribuições recebidas de cada softgoal filho, considerando a direção e intensidade dessas contribuições.
 
-## Modelo de Cartão de Especificação
+<p align="center">Figura 2 - Tipos de avaliação NFR Framework</p>
+
+![SATISFACAO](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/modelagem/satisfacao_softgoal.png)
+
+<p align="center"><em>Fonte: SILVA, 2019</em></p>
+
+## Metodologia
+
+A metodologia utilizada para a modelagem dos requisitos não funcionais foi baseada no NFR Framework, que é uma abordagem estruturada para identificar, categorizar e priorizar requisitos não funcionais. O processo envolveu as seguintes etapas:
+
+### 1. **Identificação dos Softgoals**:
+
+Os softgoals foram identificados com base nas necessidades e expectativas dos stakeholders, considerando aspectos como usabilidade, segurança e desempenho. Cada softgoal foi definido de forma clara e concisa, refletindo um objetivo de qualidade específico.
+
+### 2. **Modelagem dos Softgoals**:
+
+Cada softgoal foi modelado como um nó no Softgoal Interdependency Graph (SIG), representando suas relações de contribuição com outros softgoals utilizando a notação do NFR Framework evidenciada por Silva, 2019. A notação pode ser vista lida abaixo:
+
+* **AND**
+
+* **OR**
+
+* **MAKE (++)**
+
+* **BREAK (−−)**
+
+* **HELP (+)**
+
+* **HURT (−)**
+
+* **EQUALS**
+
+* **SOME**
+
+* **UNKNOWN (?)**
+
+#### Cartão de Especificação
+
+O Cartão de Especificação é uma ferramenta utilizada para documentar requisitos não funcionais de forma estruturada. Ele contém informações essenciais sobre cada requisito, como classificação, descrição, justificativa, origem, critério de aceitação, dependências, prioridade, conflitos e histórico (SILVA,2019). A tabela abaixo apresenta um modelo de Cartão de Especificação que foi utilizado para documentar os requisitos não funcionais modelados no NFR.
 
 Tabela 2 - Modelo de tabela de Cartão de Especificação
 
