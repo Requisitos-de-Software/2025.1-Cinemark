@@ -44,8 +44,11 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 | **5.** Há participação do cliente e/ou persona na elicitação de requisitos? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Davi Camilo](https://github.com/Davicamilo23) |  |
 | **6.** Todas as histórias de usuário podem ser testadas? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Artur de Camargos](https://github.com/ArturDCR) |  |
 | **7.** As histórias de usuário seguem algum modelo ou padrão? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Arthur Evangelista](https://github.com/arthurevg) |  |
+| **8.** As histórias de usuário são pequenas? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Arthur Evangelista](https://github.com/arthurevg) |  |
+| **9.** As histórias de usuário são detalhadas? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |  |
 
-<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), [Arthur Evangelista](https://github.com/arthurevg) e [Artur De Camargos](https://github.com/ArturDCR), 2025.</p></font>
+
 
 ---
 
@@ -55,8 +58,10 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------ | ------------ |
 | **1.** O backlog possui épicos e temas bem definidos e descritos? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Tiago Antunes](https://github.com/TiagoBalieiro) |  |
 | **2.** O backlog foi feito buscando a priorização das funcionalidades do produto desejadas pelo cliente? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Pedro Everton](https://github.com/pedroeverton217) |  |
+| **3.** O backlog permite alterações dinâmicas, com itens sendo adicionados e priorizados continuamente para refletir as mudanças nos requisitos do cliente? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Pedro Everton](https://github.com/pedroeverton217) |  |
+| **4.** O Product Owner (PO) participou da elaboração ou priorização do Backlog? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Pedro Everton](https://github.com/pedroeverton217) |  |
 
-<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
 ---
 
@@ -69,8 +74,9 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 | **3.** Os softgoals condizem com o contexto? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Davi Camilo](https://github.com/Davicamilo23) |  |
 | **4.** Softgoals representam metas bem definidas? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Artur de Camargos](https://github.com/ArturDCR) |  |
 | **5.** Os impactos foram corretamente propagados? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Arthur Evangelista](https://github.com/arthurevg) |  |
+| **6.** Foram usados apenas Requisitos Não Funcionais? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Arthur Evangelista](https://github.com/arthurevg) |  |
 
-<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23) e [Gabriel Castelo](https://github.com/gabrielcastelo-31), 2025.</p></font>
 
 ---
 
@@ -86,6 +92,10 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 > **PRESSMAN, Roger S.; MAXIM, Bruce R.** *Engenharia de Software: uma abordagem profissional*. 9. ed. Porto Alegre: AMGH, 2021.
 
+> **SERRANO, Milene; SERRANO, Maurício.** Requisitos – Aula 13. Universidade de Brasília, Campus Gama (UnB Gama). Material de aula.
+
+> **SERRANO, Milene; SERRANO, Maurício.** Requisitos – Aula 15. Universidade de Brasília, Campus Gama (UnB Gama). Material de aula.
+
 ---
 
 ## Histórico de Versão
@@ -93,3 +103,8 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
 | `1.0`  | 01/06/2025 | Criação do Documento com todas as listas de inspeção da Entrega 4 | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.1`  | 01/06/2025 | Criação de item na Lista de Inspeção - Backlogs | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.2`  | 01/06/2025 | Criação de item na Lista de Inspeção - Backlogs | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Euller Júlio](https://github.com/Potatoyz908) |
+| `1.3`  | 01/06/2025 | Criação de item na Lista de Inspeção - NFR | [Gabriel Castelo](https://github.com/gabrielcastelo-31) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
+| `1.4`  | 01/06/2025 | Criação de item na Lista de Inspeção - Histórias de Usuário | [Arthur Evangelista](https://github.com/arthurevg) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
+| `1.5`  | 01/06/2025 | Criação de item na Lista de Inspeção - Histórias de Usuário | [Artur De Camargos](https://github.com/ArturDCR) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
