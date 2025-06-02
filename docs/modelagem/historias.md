@@ -22,7 +22,7 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
-						<td>Elaborou a metodologia, as Histórias de usuário US07, US08, US09, US10, US11 e US12(tabelas 9 a 14) e participou como entrevistador na piorização das histórias de usuário.</td>
+						<td>Elaborou a metodologia, as Histórias de usuário US07, US08, US09, US10, US11 e US12 (tabelas 9 a 14) e participou como entrevistador na piorização das histórias de usuário.</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
@@ -38,7 +38,7 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
-						<td>Elaborou a introdução, o modelo de tabela para histórias de usuário, as Histórias de Usuário US01, US02, US03, US04, US05 e US06 (tabelas 6 a 8) e participou como entrevistador na piorização das histórias de usuário.</td>
+						<td>Elaborou a introdução, o modelo de tabela para histórias de usuário, as Histórias de Usuário US01, US02, US03, US04, US05 e US06 (tabelas 3 a 8) e participou como entrevistador na piorização das histórias de usuário.</td>
 					</tr>
           <tr>
 						<td>Victor Magalhães (Product Owner)</td>
@@ -70,7 +70,7 @@ Essa escala ajuda a organizar os esforços da equipe de forma mais estratégica,
 
 ## Priorização das Histórias de Usuário
 
-Gravação da priorização das Histórias de Usuário com o PO
+Gravação da priorização das Histórias de Usuário com o PO.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3dxCPchVsd4?si=YwXD59wJWi6b4_EK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -637,7 +637,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>Baixo</td>
+        <td>Baixa</td>
       </tr>
       <tr>
         <td>Rastreabilidade</td>
@@ -1767,7 +1767,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 | `1.6`  | 31/05/2025 | Adição das histórias de usuário US25, US26, US27, US28, US29 e US30 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |  [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.7`  | 01/06/2025 | Adição das histórias de usuário US31, US32, US33, US34, US35 e US36 | [Artur de Camargos](https://github.com/ArturDCR) |  [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.8`  | 01/06/2025 | Adição das histórias de usuário US01, US02, US04, US05, US06 e US07 | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |  [Euller Júlio da Silva](https://github.com/Potatoyz908) |
-|`1.9`| 1/06/2025|Correção nas tabelas de histórias de usuário US13, US14, US15, US16, US17 e US18|[Euller Júlio da Silva](https://github.com/Potatoyz908)|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
-|`1.10`| 1/06/2025|Adição das prioridades conforme reunião com Usuário|[Arthur Evangelista](https://github.com/arthurevg), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), [Davi Camilo](https://github.com/Davicamilo23) e [Gabriel Castelo](https://github.com/gabrielcastelo-31)|[Artur de Camargos](https://github.com/ArturDCR)|
-|`1.11`| 1/06/2025| Correções gramaticais nas tabelas de histórias de usuário e adição na tabela de participantes |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|[Arthur Evangelista](https://github.com/arthurevg)|
-|`1.12`| 1/06/2025| Adição da gravação da priorização com o PO |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|[Arthur Evangelista](https://github.com/arthurevg)|
+|`1.9`| 01/06/2025|Correção nas tabelas de histórias de usuário US13, US14, US15, US16, US17 e US18|[Euller Júlio da Silva](https://github.com/Potatoyz908)|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
+|`1.10`| 01/06/2025|Adição das prioridades conforme reunião com Usuário|[Arthur Evangelista](https://github.com/arthurevg), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), [Davi Camilo](https://github.com/Davicamilo23) e [Gabriel Castelo](https://github.com/gabrielcastelo-31)|[Artur de Camargos](https://github.com/ArturDCR)|
+|`1.11`| 01/06/2025| Correções gramaticais nas tabelas de histórias de usuário e adição na tabela de participantes |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|[Arthur Evangelista](https://github.com/arthurevg)|
+|`1.12`| 01/06/2025| Adição da gravação da priorização com o PO |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|[Arthur Evangelista](https://github.com/arthurevg)|

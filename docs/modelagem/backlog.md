@@ -102,7 +102,7 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 
 ## Priorização das Features
 
-Gravação da priorização das Features com o PO
+Gravação da priorização das Features com o PO.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3dxCPchVsd4?si=YwXD59wJWi6b4_EK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -184,12 +184,12 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 | Feature                           | História de Usuário (ID)                                 | Priorização |
 |-----------------------------------|----------------------------------------------------------|-------------|
-| Feature 1 – Criação de Conta e Login   | [US07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Criação de conta e login com redes sociais        |         |
-| Feature 2 – Recuperação de Conta       | [US08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Recuperação de conta via e-mail ou CPF            |         |
-| Feature 3 – Histórico de Compras   | [US09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Exibir histórico de filmes e compras                |       |
-| Feature 35 – Autenticação Tradicional | [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Autenticação por E-mail e Senha |             |
-| Feature 33 – Logout Seguro          | [US33](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Logout da Conta |             |
-| Feature 24 – Exclusão Permanente de Conta | [US18](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Excluir conta permanentemente |             |
+| Feature 1 – Criação de Conta e Login   | [US07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Criação de conta e login com redes sociais        | Alta |
+| Feature 2 – Recuperação de Conta       | [US08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Recuperação de conta via e-mail ou CPF            | Alta |
+| Feature 3 – Histórico de Compras   | [US09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Exibir histórico de filmes e compras                | Média |
+| Feature 35 – Autenticação Tradicional | [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Autenticação por E-mail e Senha | Alta |
+| Feature 33 – Logout Seguro          | [US33](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Logout da Conta | Baixa |
+| Feature 24 – Exclusão Permanente de Conta | [US18](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Excluir conta permanentemente | Alta |
 
 <sub><p align="center">Autores: [Arthur Evangelista](https://github.com/arthurevg), [Artur de Camargos](https://github.com/ArturDCR) e </p></sub>
 
@@ -201,12 +201,12 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 | Feature                              | História de Usuário (ID)                                   | Priorização |
 |--------------------------------------|------------------------------------------------------------|-------------|
-| Feature 4 – Filtragem por Categoria        | [US10](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Filtrar filmes por categoria                         |         |
-| Feature 5 – Exibição de Trailers           | [US11](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Exibir trailers dentro do app                        |       |
-| Feature 12 – Exibir e Permitir Avaliações           | [US06](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) –  Exibir e Permitir Avaliações                       |       |
-| Feature 26 - Comparação de Preços entre Cinemas | [US20](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) –  Fornecer comparação de preços entre cinemas                       |       |
-| Feature 28 - Busca por Nome de Filme | [US22](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) –  Buscar filmes por nome                       |       |
-| Feature 29 - Listagem por Status de Exibição | [US23](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) –  Listar filmes em cartaz, pré-venda e futuros lançamentos                       |       |
+| Feature 4 – Filtragem por Categoria        | [US10](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Filtrar filmes por categoria                         | Baixa |
+| Feature 5 – Exibição de Trailers           | [US11](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Exibir trailers dentro do app                        | Média |
+| Feature 12 – Exibir e Permitir Avaliações           | [US06](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) –  Exibir e Permitir Avaliações                       | Baixa |
+| Feature 26 - Comparação de Preços entre Cinemas | [US20](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) –  Fornecer comparação de preços entre cinemas                       | Alta |
+| Feature 28 - Busca por Nome de Filme | [US22](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) –  Buscar filmes por nome                       | Alta |
+| Feature 29 - Listagem por Status de Exibição | [US23](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) –  Listar filmes em cartaz, pré-venda e futuros lançamentos                       | Alta |
 
 <sub><p align="center">Autores: [Arthur Evangelista](https://github.com/arthurevg), [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) e [Davi Camilo](https://github.com/Davicamilo23)</p></sub>
 
@@ -218,11 +218,11 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 | Feature                             | História de Usuário (ID)                                    | Priorização |
 |-------------------------------------|-------------------------------------------------------------|-------------|
-| Feature 6 – Fluxo de Compra Simplificado  | [US12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Fluxo de compra simplificado                         |       |
-| Feature 7 – Armazenar Cartões de pagamento  | [US01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Armazenar Cartões de pagamento                         |       |
-| Feature 8 – Compra de Múltiplos Ingressos  | [US02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Compra de Múltiplos Ingressos                        |       |
-| Feature 9 – Mapa Gráfico da Sala  | [US03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Mapa Gráfico da Sala                         |       |
-| Feature 10 – Definir Tipo de Ingresso  | [US04](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Definir Tipo de Ingresso                         |       |
+| Feature 6 – Fluxo de Compra Simplificado  | [US12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Fluxo de compra simplificado                         | Baixa |
+| Feature 7 – Armazenar Cartões de pagamento  | [US01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Armazenar Cartões de pagamento                         | Baixa |
+| Feature 8 – Compra de Múltiplos Ingressos  | [US02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Compra de Múltiplos Ingressos                        | Alta |
+| Feature 9 – Mapa Gráfico da Sala  | [US03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Mapa Gráfico da Sala                         | Alta |
+| Feature 10 – Definir Tipo de Ingresso  | [US04](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Definir Tipo de Ingresso                         | Alta |
 
 <sub><p align="center">Autores: [Arthur Evangelista](https://github.com/arthurevg), [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)</p></sub>
 
@@ -234,8 +234,8 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 | Feature                           | História de Usuário (ID)                                 | Priorização |
 |-----------------------------------|----------------------------------------------------------|-------------|
-| Feature 31 – Críticas de Filmes    | [US31](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Hub de Críticas de Filmes |             |
-| Feature 30 - Exibição de Informações do Filme | [US24](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) –  Exibir informações do filme                       |       |
+| Feature 31 – Críticas de Filmes    | [US31](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Hub de Críticas de Filmes | Baixa |
+| Feature 30 - Exibição de Informações do Filme | [US24](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) –  Exibir informações do filme                       | Alta |
 
 <sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR) e [Davi Camilo](https://github.com/Davicamilo23)</p></sub>
 
@@ -247,9 +247,9 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 | Feature                              | História de Usuário (ID)                                   | Priorização |
 |--------------------------------------|------------------------------------------------------------|-------------|
-| Feature 14 – Salvar ingressos automaticamente | [US26](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Salvamento automático de ingressos |             |
-| Feature 32 – Acesso Rápido aos Ingressos | [US32](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Acesso Rápido aos Ingressos |             |
-| Feature 11 – Salvar Ingresso na carteira            | [US05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Salvar Ingresso na carteira digital do dispositivo |             |
+| Feature 14 – Salvar ingressos automaticamente | [US26](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Salvamento automático de ingressos | Alta |
+| Feature 32 – Acesso Rápido aos Ingressos | [US32](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Acesso Rápido aos Ingressos | Alta |
+| Feature 11 – Salvar Ingresso na carteira            | [US05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Salvar Ingresso na carteira digital do dispositivo | Baixa |
 
 <sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR), [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)</p></sub>
 
@@ -261,7 +261,7 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 | Feature                             | História de Usuário (ID)                                    | Priorização |
 |-------------------------------------|-------------------------------------------------------------|-------------|
-| Feature 34 – Detecção de Localização | [US34](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Detecção de Localização |             |
+| Feature 34 – Detecção de Localização | [US34](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Detecção de Localização | Média |
 
 <sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR)</p></sub>
 
@@ -273,7 +273,7 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 | Feature                           | História de Usuário (ID)                                 | Priorização |
 |-----------------------------------|----------------------------------------------------------|-------------|
-| Feature 36 – Mensagens de Feedback| [US36](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Mensagens de Erro e Confirmação |             |
+| Feature 36 – Mensagens de Feedback| [US36](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Mensagens de Erro e Confirmação | Alta |
 
 <sub><p align="center">Autor: [Artur de Camargos](https://github.com/ArturDCR)</p></sub>
 
@@ -285,9 +285,9 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 | Feature                             | História de Usuário (ID)                                    | Priorização |
 |-------------------------------------|-------------------------------------------------------------|-------------|
-| Feature 13 – Utilizar pontos para obter desconto ou resgatar ingressos | [US25](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Utilização de pontos para desconto |             |
-| Feature 15 – Alertar usuário sobre a expiração de seus pontos e possibilidade de resgate de ingresso gratuito utilizando pontuação| [US27](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Alerta sobre pontos acumulados |             |
-| Feature 17 – Exibir área dedicada ao Cinemark Club| [US29](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Área dedicada ao Cinemark Club |             |
+| Feature 13 – Utilizar pontos para obter desconto ou resgatar ingressos | [US25](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Utilização de pontos para desconto | Alta |
+| Feature 15 – Alertar usuário sobre a expiração de seus pontos e possibilidade de resgate de ingresso gratuito utilizando pontuação| [US27](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Alerta sobre pontos acumulados | Alta |
+| Feature 17 – Exibir área dedicada ao Cinemark Club| [US29](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Área dedicada ao Cinemark Club | Alta |
 
 <sub><p align="center">Autores: [Gabriel Castelo](https://github.com/GabrielCastelo-31) </p></sub>
 
@@ -299,10 +299,10 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 | Feature                             | História de Usuário (ID)                                    | Priorização |
 |-------------------------------------|-------------------------------------------------------------|-------------|
-| Feature 16 – Salvar cinemas como favoritos| [US28](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Favoritar cinemas |             |
-| Feature 18 – Sugerir cinemas de forma personalizada com base em localizaçaõ e histórico de visita| [US30](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Sugestão de cinemas personalizada|             |
-| Feature 25 - Recomendação Personalizada | [US19](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) –  Exibir recomendações de filmes baseadas em histórico e preferências                       |       |
-| Feature 27 - Notificações Inteligentes | [US21](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) –  Permitir notificações personalizadas                       |       |
+| Feature 16 – Salvar cinemas como favoritos| [US28](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Favoritar cinemas | Média |
+| Feature 18 – Sugerir cinemas de forma personalizada com base em localizaçaõ e histórico de visita| [US30](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Sugestão de cinemas personalizada| Baixa |
+| Feature 25 - Recomendação Personalizada | [US19](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) –  Exibir recomendações de filmes baseadas em histórico e preferências                       | Baixa |
+| Feature 27 - Notificações Inteligentes | [US21](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) –  Permitir notificações personalizadas                       | Média |
 
 <sub><p align="center">Autores: [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Davi Camilo](https://github.com/Davicamilo23)</p></sub>
 
@@ -313,7 +313,7 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 | Feature                             | História de Usuário (ID)                                    | Priorização |
 |-------------------------------------|-------------------------------------------------------------|-------------|
-| Feature 19 – Reservar Salas para Eventos | [US13](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Reservar salas para eventos |             |
+| Feature 19 – Reservar Salas para Eventos | [US13](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Reservar salas para eventos | Média |
 
 <sub><p align="center">Autor: [Euller Júlio da Silva](https://github.com/Potatoyz908)</p></sub>
 
@@ -324,7 +324,7 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 | Feature                             | História de Usuário (ID)                                    | Priorização |
 |-------------------------------------|-------------------------------------------------------------|-------------|
-| Feature 20 – Alterar Preferências de Idioma | [US14](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Alterar preferências de idioma |             |
+| Feature 20 – Alterar Preferências de Idioma | [US14](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Alterar preferências de idioma | Baixa |
 
 <sub><p align="center">Autor: [Euller Júlio da Silva](https://github.com/Potatoyz908)</p></sub>
 
@@ -335,8 +335,8 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 | Feature                             | História de Usuário (ID)                                    | Priorização |
 |-------------------------------------|-------------------------------------------------------------|-------------|
-| Feature 21 – Detectar Localização Automaticamente | [US15](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Detectar localização automaticamente |             |
-| Feature 22 – Seleção Obrigatória de Assentos | [US16](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Selecionar assento obrigatório |             |
+| Feature 21 – Detectar Localização Automaticamente | [US15](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Detectar localização automaticamente | Média |
+| Feature 22 – Seleção Obrigatória de Assentos | [US16](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Selecionar assento obrigatório | Alta |
 
 <sub><p align="center">Autor: [Euller Júlio da Silva](https://github.com/Potatoyz908)</p></sub>
 
@@ -347,7 +347,7 @@ Cada uma está ligada a um épico, servindo como base para decisões de projeto,
 
 | Feature                             | História de Usuário (ID)                                    | Priorização |
 |-------------------------------------|-------------------------------------------------------------|-------------|
-| Feature 23 – Cancelamento de Compras | [US17](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Permitir cancelar compras |             |
+| Feature 23 – Cancelamento de Compras | [US17](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario) – Permitir cancelar compras | Alta |
 
 <sub><p align="center">Autor: [Euller Júlio da Silva](https://github.com/Potatoyz908)</p></sub>
 
@@ -478,3 +478,4 @@ Para contextualizar, cada épico abaixo traz uma descrição sucinta de seu prop
 | `1.7`  | 01/06/2025 | Adição das features relacionadas a US19, US20, US21, US22, US23 e US24 | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.8`  | 01/06/2025 | Ajuste nas tabelas e adição de épicos faltantes na tabela de mapeamento | [Euller Júlio da Silva](https://github.com/Potatoyz908) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.9`  | 01/06/2025 | Ajuste na tabela de participantes, correção dos números das features e adição da gravação com PO | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio da Silva](https://github.com/Potatoyz908) |
+| `1.10` | 01/06/2025 | Adição da priorização das features | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
