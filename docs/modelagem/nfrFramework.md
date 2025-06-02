@@ -433,7 +433,7 @@ A tabela abaixo apresenta a avaliação da propagação dos impactos dos requisi
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
 
----
+***
 
 ## Histórico de Versão
 
@@ -452,3 +452,7 @@ A tabela abaixo apresenta a avaliação da propagação dos impactos dos requisi
 | `1.10`  | 01/06/2025 | Adição do cartão 5 | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.11`  | 01/06/2025 | Adição da tabela de impacto - segurança | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.12`  | 01/06/2025 | Adição da tabela de impacto - desempenho e o SIG | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
+
+## Referências
+
+> SILVA, Reinaldo Antônio da. NFR4ES: um catálogo de requisitos não-funcionais para sistemas embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Universidade Federal de Pernambuco, Recife, 2019.
