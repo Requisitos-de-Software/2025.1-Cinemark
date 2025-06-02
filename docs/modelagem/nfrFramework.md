@@ -223,6 +223,27 @@ Este softgoal abrange a proteção de dados e a segurança do sistema. A seguir 
 | [RQ49](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ49) | Autenticação por biometria ou PIN para operações sensíveis. | Segurança     |
 | [RQ54](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ54) | Ocultar parcialmente o e-mail recuperado para segurança (exibir com asteriscos). | Segurança     |
 
+A seguir estão os cartões de especificação para os requisitos não-funcionais de segurança:
+
+<p style="text-align: center"><strong>Tabela 7: Cartão de Especificação 5</strong></p>
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Requisito Não Funcional – RNF54</th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Segurança</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>O sistema deve ocultar parcialmente o endereço de e-mail recuperado, substituindo parte dos caracteres por asteriscos (*), de forma a proteger dados sensíveis do usuário.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Evitar a exposição completa do e-mail em tela pública ou compartilhada, reduzindo riscos de acesso indevido e aumentando a segurança da informação.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td>Stakeholder (equipe de segurança da informação)</td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>Ao exibir o e-mail recuperado, o sistema deve mascarar parte do nome de usuário (antes do @), mantendo os três primeiros e o domínio visível. Exemplo: **joh***@exemplo.com.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>RQ12 – Recuperação de Conta<br>RQ51 – Política de privacidade de dados</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>Must (Deve)</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Nenhum identificado</td></tr>
+  <tr><td><strong>História</strong></td><td>Criado em 01/06/2025</td></tr>
+</table>
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></p></font>
+
 ## NFR 03 - Desempenho
 
 Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão os requisitos não-funcionais de desempenho modelados com o NFR Framework:
