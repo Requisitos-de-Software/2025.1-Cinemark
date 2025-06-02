@@ -14,15 +14,15 @@
 		<tbody>
 					<tr>
 						<td><a  href="https://github.com/ArturDCR">Artur de Camargos</a></td>
-						<td>Lorem Ipsum</td>
+						<td>Adição do Cartão de Especificação 2</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
-						<td>Lorem Ipsum</td>
+						<td>Adição do Cartão de Especificação 1</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
-						<td>Lorem Ipsum</td>
+						<td>Adição do Cartão de Especificação 3</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
@@ -30,10 +30,6 @@
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
-						<td>Lorem Ipsum</td>
-					</tr>
-                    <tr>
-						<td><a  href="https://github.com/pedroeverton217">Pedro Everton</a></td>
 						<td>Lorem Ipsum</td>
 					</tr>
 					<tr>
@@ -68,6 +64,30 @@ Segundo Silva, 2019, existem 3 tipos de SIG:
 <p align="center">Figura 1 - Tipos de Softgoal</p>
 
 ![SOFTGOALS](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/modelagem/softgoals.png)
+
+<p align="center"><em>Fonte: SILVA, 2019</em></p>
+
+### Interdependências de Softgoals no NFR Framework
+
+O NFR Framework utiliza um modelo de interdependência de softgoals para representar como diferentes objetivos de qualidade se relacionam entre si. Essas interdependências são fundamentais para entender como a satisfação de um softgoal pode impactar outros, ajudando a identificar conflitos e sinergias entre requisitos não funcionais.
+
+O refinamento é uma interdependência top-down, na qual um softgoal pai gera um ou mais softgoals filhos relacionados a ele. Esse processo é essencial para tornar os objetivos mais claros e específicos. O refinamento pode ser realizado de várias maneiras, incluindo:
+
+* **Decomposição de Softgoal NFR**: divide um softgoal genérico em outros mais especializados, facilitando o tratamento de problemas complexos e ambíguos.
+
+* **Decomposição de Operacionalização**: refina um softgoal de operacionalização em subsoftgoals mais detalhados, ajudando a transformar uma solução geral em alternativas específicas.
+
+* **Decomposição de Afirmação (Claim)**: subdivide softgoals de afirmação com o objetivo de reforçar ou questionar justificativas de projeto.
+
+* **Priorização**: é uma forma especial de decomposição em que um softgoal é replicado com o mesmo conteúdo, mas com nível de prioridade atribuído.
+
+Além disso, o framework prevê:
+
+* **Operacionalizações**: são refinamentos que propõem técnicas de desenvolvimento para alcançar softgoals NFR, representando a transição de um objetivo para uma solução prática.
+
+<p align="center">Figura 3 - Tipos de interdependências</p>
+
+![REFINAMENTO](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/modelagem/refinamento.png)
 
 <p align="center"><em>Fonte: SILVA, 2019</em></p>
 
@@ -188,6 +208,9 @@ Este softgoal representa a facilidade de uso e a experiência do usuário com o 
 | ID    | Descrição                                                                 | Tipo         |
 |-------|---------------------------------------------------------------------------|--------------|
 |[RQ44](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ44) | Interface acessível para pessoas com deficiência visual (leitores de tela) e baixo-visão. | Usabilidade   |
+|[RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ45) | Contraste de interface conforme WCAG A/AA. | Usabilidade    |
+| [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ50) | Notificações push customizáveis pelo usuário. | Usabilidade     |
+| [RQ53](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ53) | Manter informações da sessão (filme, data, hora e sala) visíveis em todas as etapas do fluxo de compra. | Usabilidade     |
 
 ## NFR 02 - Segurança
 
@@ -198,7 +221,6 @@ Este softgoal abrange a proteção de dados e a segurança do sistema. A seguir 
 | ID    | Descrição                                                                 | Tipo         |
 |-------|---------------------------------------------------------------------------|--------------|
 | [RQ49](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ49) | Autenticação por biometria ou PIN para operações sensíveis. | Segurança     |
-| [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ50) | Notificações push customizáveis pelo usuário. | Segurança     |
 | [RQ53](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ53) | Manter informações da sessão (filme, data, hora e sala) visíveis em todas as etapas do fluxo de compra. | Segurança     |
 | [RQ54](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ54) | Ocultar parcialmente o e-mail recuperado para segurança (exibir com asteriscos). | Segurança     |
 
@@ -210,12 +232,11 @@ Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão 
 
 | ID    | Descrição                                                                 | Tipo         |
 |-------|---------------------------------------------------------------------------|--------------|
-| [RQ40](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ40) | Tempo de resposta de até 3 segundos em telas críticas (seleção de assentos, pagamento). | Desempenho    |
 | [RQ47](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ47) | Atualizar automaticamente o valor total conforme seleção de ingressos e produtos. | Desempenho    |
 
 ***
 
-**Tabela 2 - Cartão de Especificação 1**
+**Tabela 6 - Cartão de Especificação 1**
 
 | Campo                 | Descrição                                                                                                                               |
 | :-------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
@@ -232,7 +253,7 @@ Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão 
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
 
-**Tabela 3 - Cartão de Especificação 2**  
+**Tabela 7 - Cartão de Especificação 2**
 
 | Campo                 | Descrição                                                                                                                                 |
 | :-------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -249,9 +270,26 @@ Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão 
 
 <font size="3"><p style="text-align: center">Autor: [Artur de Camargos](https://github.com/ArturDCR).</p></font>
 
+**Tabela 8 - Cartão de Especificação 2**
+
+| Campo                     | Descrição                                                                                                                                                                                                                      |
+| :------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Requisito:**            | [RQ47](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ47)                                                                                                                                              |
+| **Classificação:**        | Desempenho                                                                                                                                                                                                       |
+| **Descrição:**            | O sistema deve recalcular e exibir automaticamente o valor total da compra sempre que o usuário adicionar, remover ou modificar a quantidade de ingressos e produtos selecionados.                                           |
+| **Justificativa:**        | Garantir uma experiência de compra transparente e compreensível, permitindo que o usuário tenha controle imediato sobre os valores finais antes de concluir o pedido.                                                              |
+| **Origem do Requisito:**  | [Análise de Interface](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/analiseUI/)              |
+| **Critério de Aceitação:**| Ao adicionar ou remover ingressos e produtos, o valor total exibido na tela deve ser atualizado automaticamente, sem necessidade de recarregar a página ou confirmar manualmente.                                           |
+| **Dependências:**         | Funcionalidade de seleção de ingressos e produtos implementada, integração com lógica de precificação.                                                                                                                       |
+| **Prioridade:**           | Must                                                                                                                                                                                                                          |
+| **Conflitos:**            | Pode exigir tratamento de erros em casos de valores inválidos ou sincronização inadequada entre diferentes componentes da interface.                                                                                          |
+| **História:**             | 01/06/2025                                                                                                                                                                                                                     |
+
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
+
 ***
 
-## Tabela X - Requisitos Não-Funcionais Não Implementados
+## Tabela 12 - Requisitos Não-Funcionais Não Implementados
 
 | ID    | Descrição                                                                 | Tipo         |
 |-------|---------------------------------------------------------------------------|--------------|
@@ -259,11 +297,13 @@ Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão 
 | [RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ45) | Contraste de interface conforme WCAG A/AA. | Usabilidade    |
 | [RQ44](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ44) | Interface acessível para pessoas com deficiência visual (leitores de tela) e baixo-visão. | Usabilidade   |
 | [RQ47](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ47) | Atualizar automaticamente o valor total conforme seleção de ingressos e produtos. | Desempenho    |
-| [RQ53](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ53) | Manter informações da sessão (filme, data, hora e sala) visíveis em todas as etapas do fluxo de compra. | Segurança     |
+| [RQ53](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ53) | Manter informações da sessão (filme, data, hora e sala) visíveis em todas as etapas do fluxo de compra. | Usabilidade     |
 | [RQ49](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ49) | Autenticação por biometria ou PIN para operações sensíveis. | Segurança     |
-| [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ50) | Notificações push customizáveis pelo usuário. | Segurança     |
+| [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ50) | Notificações push customizáveis pelo usuário. | Usabilidade     |
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+
+---
 
 ## Histórico de Versão
 
@@ -277,3 +317,4 @@ Este softgoal refere-se à eficiência e velocidade do sistema. A seguir estão 
 | `1.5`  | 01/06/2025 | Adição de fundamentação teórica e alteração do modelo de tabela de Cartão de Especificação | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.6`  | 01/06/2025 | Adição de metodologia | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
 | `1.7`  | 01/06/2025 | Adição da tabela 3 referente ao requisisto 44 | [Artur de Camargos](https://github.com/ArturDCR) |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
+| `1.8`  | 01/06/2025 | Adição do cartão 2 | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
