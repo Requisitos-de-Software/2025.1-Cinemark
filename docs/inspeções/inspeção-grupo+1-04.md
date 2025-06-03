@@ -8,7 +8,7 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 ## 🔗 Link da reunião
 
-[Assista ao vídeo no YouTube]()
+<iframe width="560" height="315" src="https://www.youtube.com/embed/smVYX3H_hjM?si=sCPbNhMwAuEgwKsG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -108,4 +108,4 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 | `1.3`  | 01/06/2025 | Criação de item na Lista de Inspeção - NFR | [Gabriel Castelo](https://github.com/gabrielcastelo-31) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
 | `1.4`  | 01/06/2025 | Criação de item na Lista de Inspeção - Histórias de Usuário | [Arthur Evangelista](https://github.com/arthurevg) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
 | `1.5`  | 01/06/2025 | Criação de item na Lista de Inspeção - Histórias de Usuário | [Artur De Camargos](https://github.com/ArturDCR) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
-| `1.6`  | 01/06/2025 | Inspeção do grupo + 1 | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.6`  | 01/06/2025 | Inspeção do grupo + 1 | [Euller Júlio](https://github.com/Potatoyz908),  [Arthur Evangelista](https://github.com/arthurevg), [Artur de Camargos](https://github.com/ArturDCR) e [Pedro Everton](https://github.com/pedroeverton217)| [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
