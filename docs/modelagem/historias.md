@@ -22,7 +22,7 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
-						<td>Elaborou a metodologia, as Histórias de usuário US07, US08, US09, US10, US11 e US12 (tabelas 9 a 14) e participou como entrevistador na piorização das histórias de usuário.</td>
+						<td>Elaborou a metodologia, as Histórias de usuário US07, US08, US09, US10, US11 e US12(tabelas 9 a 14) e participou como entrevistador na piorização das histórias de usuário.</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
@@ -36,9 +36,13 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
 						<td>Elaborou as Histórias de Usuário US25, US26, US27, US28, US29 e US30 (tabelas 27 a 32) e participou como entrevistador na piorização das histórias de usuário</td>
 					</tr>
+          <tr>
+						<td><a  href="https://github.com/pedroeverton217">Pedro Everton</a></td>
+						<td>Elaborou as Histórias de Usuário US37, US38, US39, US40, US41 e US42 (tabelas 39 a 44)</td>
+					</tr>
 					<tr>
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
-						<td>Elaborou a introdução, o modelo de tabela para histórias de usuário, as Histórias de Usuário US01, US02, US03, US04, US05 e US06 (tabelas 3 a 8) e participou como entrevistador na piorização das histórias de usuário.</td>
+						<td>Elaborou a introdução, o modelo de tabela para histórias de usuário, as Histórias de Usuário US01, US02, US03, US04, US05 e US06 (tabelas 6 a 8) e participou como entrevistador na piorização das histórias de usuário.</td>
 					</tr>
           <tr>
 						<td>Victor Magalhães (Product Owner)</td>
@@ -70,7 +74,7 @@ Essa escala ajuda a organizar os esforços da equipe de forma mais estratégica,
 
 ## Priorização das Histórias de Usuário
 
-Gravação da priorização das Histórias de Usuário com o PO.
+Gravação da priorização das Histórias de Usuário com o PO
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3dxCPchVsd4?si=YwXD59wJWi6b4_EK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -637,7 +641,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>Baixa</td>
+        <td>Baixo</td>
       </tr>
       <tr>
         <td>Rastreabilidade</td>
@@ -1754,6 +1758,234 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor: [Artur de Camargos](https://github.com/ArturDCR).</p></font>
 
+### US37 - Garantir contraste visual adequado
+<details>
+  <summary><strong>Tabela 39 - História de Usuário - Contraste WCAG</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US37</td>
+        <td>Garantir contraste visual adequado</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> usuário com deficiência visual, <em>desejo</em> que a interface atenda aos padrões de contraste WCAG A/AA <em>para</em> conseguir ler todos os conteúdos com facilidade.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>- Texto deve ter razão de contraste mínimo de 4.5:1 contra o fundo <br> - Elementos de interface devem ter contraste de 3:1 contra adjacentes <br> - Testes automáticos validam 100% das páginas</td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>Alta</td>
+      </tr>
+      <tr>
+        <td>Rastreabilidade</td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq45" target="_blank">RQ45</a></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor:  [Pedro Everton](https://github.com/pedroeverton217).</p></font>
+
+### US38 - Limitar compras no Snack Bar
+<details>
+  <summary><strong>Tabela 40 - História de Usuário - Limite de itens</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US38</td>
+        <td>Limitar compras no Snack Bar</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> cliente, <em>desejo</em> que o sistema limite a 20 unidades por item no Snack Bar <em>para</em> garantir disponibilidade para outros usuários.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>- Sistema bloqueia adição além de 20 unidades no carrinho <br> - Mensagem clara informando o limite é exibida <br> - Limite aplica-se individualmente por item</td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>Não Fazer</td>
+      </tr>
+      <tr>
+        <td>Rastreabilidade</td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq52" target="_blank">RQ52</a></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor:  [Pedro Everton](https://github.com/pedroeverton217).</p></font>
+
+### US39 - Remover promoções expiradas
+<details>
+  <summary><strong>Tabela 41 - História de Usuário - Promoções atualizadas</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US39</td>
+        <td>Remover promoções expiradas</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> que promoções expiradas sejam removidas automaticamente <em>para</em> visualizar apenas ofertas válidas.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>- Promoções são removidas imediatamente após expiração <br> - Atualização diária automática às 00:01 <br> - Notificação para admin sobre remoções</td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>Alta</td>
+      </tr>
+      <tr>
+        <td>Rastreabilidade</td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq56" target="_blank">RQ56</a></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor:  [Pedro Everton](https://github.com/pedroeverton217).</p></font>
+
+### US40 - Validar dados do perfil
+<details>
+  <summary><strong>Tabela 42 - História de Usuário - Validação de perfil</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US40</td>
+        <td>Validar dados do perfil</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> que meus dados pessoais sejam validados antes de salvar <em>para</em> evitar informações incorretas no sistema.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>- Validação em tempo real de CPF, e-mail e telefone <br> - Bloqueio de salvamento com dados inválidos <br> - Mensagens específicas por tipo de erro</td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>Alta</td>
+      </tr>
+      <tr>
+        <td>Rastreabilidade</td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq57" target="_blank">RQ57</a></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor:  [Pedro Everton](https://github.com/pedroeverton217).</p></font>
+
+### US41 - Manter sessão ativa
+<details>
+  <summary><strong>Tabela 43 - História de Usuário - Sessão persistente</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US43</td>
+        <td>Manter sessão ativa</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> permanecer logado após o login <em>para</em> acessar rapidamente minha conta a cada uso.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>- Sessão mantida por 30 dias de inatividade <br> - Opção "Lembrar-me" no login <br> - Logout seguro após expiração</td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>Alta</td>
+      </tr>
+      <tr>
+        <td>Rastreabilidade</td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq61" target="_blank">RQ61</a></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor:  [Pedro Everton](https://github.com/pedroeverton217).</p></font>
+
+### US42 - Acesso offline a ingressos
+<details>
+  <summary><strong>Tabela 44 - História de Usuário - Ingressos offline</strong></summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>ID</strong></th>
+        <th><strong>Nome</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>US42</td>
+        <td>Acesso offline a ingressos</td>
+      </tr>
+      <tr>
+        <td>Descrição</td>
+        <td><em>Eu, como</em> cliente, <em>desejo</em> acessar meus ingressos sem internet <em>para</em> entrar na sessão mesmo com falha de conexão.</td>
+      </tr>
+      <tr>
+        <td>Critérios de Aceitação</td>
+        <td>- Ingressos ficam disponíveis no app após compra <br> - Código QR acessível offline <br> - Sincronização automática quando online</td>
+      </tr>
+      <tr>
+        <td>Prioridade</td>
+        <td>Alta</td>
+      </tr>
+      <tr>
+        <td>Rastreabilidade</td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq66" target="_blank">RQ66</a></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor:  [Pedro Everton](https://github.com/pedroeverton217).</p></font>
+
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
@@ -1767,7 +1999,8 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 | `1.6`  | 31/05/2025 | Adição das histórias de usuário US25, US26, US27, US28, US29 e US30 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |  [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.7`  | 01/06/2025 | Adição das histórias de usuário US31, US32, US33, US34, US35 e US36 | [Artur de Camargos](https://github.com/ArturDCR) |  [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.8`  | 01/06/2025 | Adição das histórias de usuário US01, US02, US04, US05, US06 e US07 | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |  [Euller Júlio da Silva](https://github.com/Potatoyz908) |
-|`1.9`| 01/06/2025|Correção nas tabelas de histórias de usuário US13, US14, US15, US16, US17 e US18|[Euller Júlio da Silva](https://github.com/Potatoyz908)|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
-|`1.10`| 01/06/2025|Adição das prioridades conforme reunião com Usuário|[Arthur Evangelista](https://github.com/arthurevg), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), [Davi Camilo](https://github.com/Davicamilo23) e [Gabriel Castelo](https://github.com/gabrielcastelo-31)|[Artur de Camargos](https://github.com/ArturDCR)|
-|`1.11`| 01/06/2025| Correções gramaticais nas tabelas de histórias de usuário e adição na tabela de participantes |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|[Arthur Evangelista](https://github.com/arthurevg)|
-|`1.12`| 01/06/2025| Adição da gravação da priorização com o PO |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|[Arthur Evangelista](https://github.com/arthurevg)|
+|`1.9`| 1/06/2025|Correção nas tabelas de histórias de usuário US13, US14, US15, US16, US17 e US18|[Euller Júlio da Silva](https://github.com/Potatoyz908)|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
+|`1.10`| 1/06/2025|Adição das prioridades conforme reunião com Usuário|[Arthur Evangelista](https://github.com/arthurevg), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), [Davi Camilo](https://github.com/Davicamilo23) e [Gabriel Castelo](https://github.com/gabrielcastelo-31)|[Artur de Camargos](https://github.com/ArturDCR)|
+|`1.11`| 1/06/2025| Correções gramaticais nas tabelas de histórias de usuário e adição na tabela de participantes |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|[Arthur Evangelista](https://github.com/arthurevg)|
+|`1.12`| 1/06/2025| Adição da gravação da priorização com o PO |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|[Arthur Evangelista](https://github.com/arthurevg)|
+| `1.13`  | 01/06/2025 | Adição das histórias de usuário US37, US38, US39, US40, US41 e US42 | [Pedro Everton](https://github.com/pedroeverton217) |  [Euller Júlio da Silva](https://github.com/Potatoyz908) |
