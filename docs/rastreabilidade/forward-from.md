@@ -452,7 +452,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |                 [RF33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq33)                 |                            Permitir alteração de preferências de idioma.                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E11](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#épico-11--configurações-de-idioma)                                             |
-|                 Tema                 |                                                        Personalização da Experiência Cinemark                                                        |
+|                 Tema                 |                                                        Configurações de Idioma                                                        |
 |         História de Usuário          | [US14](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us14-alterar-preferências-de-idioma) Eu, como usuário, desejo alterar as preferências de idioma do aplicativo para acessar o conteúdo em meu idioma de preferência. |
 |                Léxico                |                                              [L2](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#2-preferência-de-idioma)                                                |
 |             Casos de uso             |                                            [UC06](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/casosDeUso/#tabela-8-alterar-preferências-de-idioma)                                            |
@@ -466,7 +466,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |                 [RF34](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq34)                 |                            Disponibilizar área dedicada ao Cinemark Club: ingressos, pontos acumulados e validade.                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#épico-8-sistema-de-fidelidade-e-benefícios-cinemark-club)                                             |
-|                 Tema                 |                                                        Personalização da Experiência Cinemark                                                        |
+|                 Tema                 |                                                        Sistema de Fidelidade e Benefícios (Cinemark Club)                                                        |
 |         História de Usuário          | [US29](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us29-área-dedicada-ao-cinemark-club) Eu, como usuário, desejo ter acesso a uma área dedicada ao Cinemark Club para visualizar meus ingressos, pontos acumulados e validade dos benefícios. |
 |                Léxico                |                                              Não se aplica                                                |
 |             Casos de uso             |                                            Não se aplica                                            |
@@ -481,7 +481,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas)                                             |
 |                 Tema                 |                                                        Personalização da Experiência Cinemark                                                        |
-|         História de Usuário          | Não se aplica |
+|         História de Usuário          | [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us35-autenticacao-por-e-mail-e-senha) Eu, como usuário do aplicativo Cinemark, desejo visualizar notificações e promoções com informações completas (título, descrição e validade) para poder aproveitar as ofertas disponíveis antes que expirem. |
 |                Léxico                |                                              Não se aplica                                                |
 |             Casos de uso             |                                            Não se aplica                                            |
 |               Cenários               |                                              Não se aplica                                               |
@@ -495,7 +495,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#features)                                             |
 |                 Tema                 |                                                        Compra e Acompanhamento de Pedidos                                                        |
-|         História de Usuário          | Não se aplica |
+|         História de Usuário          | [US38](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us36-mensagens-de-erro-e-confirmacao) Eu, como usuário do aplicativo Cinemark, desejo ser impedido de avançar para a tela de pagamento quando meu carrinho estiver vazio para evitar confusão durante o processo de compra. |
 |                Léxico                |                                              Não se aplica                                                |
 |             Casos de uso             |                                            Não se aplica                                            |
 |               Cenários               |                                              Não se aplica                                               |
