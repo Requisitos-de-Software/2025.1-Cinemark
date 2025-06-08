@@ -116,7 +116,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 ### Requisitos Funcionais
 
-#### **Tabela 5 - RF01**
+#### **RF01**
 
 |                 [RF01](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq01)                 |                            Exibir na tela inicial filmes em cartaz, com pôsteres, novidades e promoções.                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -131,7 +131,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) .</p></font>
 
 
-#### **Tabela 6 - RF02**
+#### **RF02**
 
 |                 [RF02](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq01)                 |                            Detectar localização automaticamente e permitir alteração manual.                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -146,7 +146,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) .</p></font>
 
 
-#### **Tabela 7 - RF03**
+#### **RF03**
 
 |                 [RF03](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq01)                 |                            Navegar por abas: Home, Filmes, Cinemas, Snack Bar, Club e Mais.                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -161,7 +161,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) .</p></font>
 
 
-#### **Tabela 8 - RF04**
+#### **RF04**
 
 |                 [RF04](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq01)                 |                            Autenticar usuário por e-mail e senha.                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -176,7 +176,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) .</p></font>
 
 
-#### **Tabela 9 - RF05**
+#### **RF05**
 
 |                 [RF05](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq01)                 |                            Buscar filmes por nome.	                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -191,7 +191,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) .</p></font>
 
 
-#### **Tabela 10 - RF06**
+#### **RF06**
 
 |                 [RF06](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq01)                 |                            Listar filmes em cartaz, pré-venda e futuros lançamentos.	                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -206,7 +206,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) .</p></font>
 
 
-#### **Tabela 11 - RF07**
+#### **RF07**
 
 |                 [RF07](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq01)                 |                            Exibir informações do filme (título, sinopse, gênero, duração, direção, elenco, distribuidor, origem).	                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -221,7 +221,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) .</p></font>
 
 
-#### **Tabela 12 - RF08**
+#### **RF08**
 
 |                 [RF08](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq01)                 |                            Exibir sessões com data, horário, idioma, formato e sala.	                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -236,7 +236,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) .</p></font>
 
 
-#### **Tabela 13 - RF09**
+#### **RF09**
 
 |                 [RF09](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq01)                 |                            Permitir compra de ingressos com cartão de crédito, débito ou Pix.	                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -250,7 +250,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) .</p></font>
 
-#### **Tabela 14 - RF10**
+#### **RF10**
 
 |                 [RF10](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq10)                |                            Descrição                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -264,7 +264,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg) .</p></font>
 
-#### **Tabela 15 - RF11**
+#### **RF11**
 
 |                 [RF11](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq11)                |                            Descrição                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -278,7 +278,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg) .</p></font>
 
-#### **Tabela 16 - RF12**
+#### **RF12**
 
 |                 [RF12](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq12)                 |                            Descrição                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -292,7 +292,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg) .</p></font>
 
-#### **Tabela 17 - RF13**
+#### **RF13**
 
 |                 [RF13](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq13)                 |                            Descrição                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -306,7 +306,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg) .</p></font>
 
-#### **Tabela 18 - RF14**
+#### **RF14**
 
 |                 [RF14](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq14)                |                            Descrição                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -320,7 +320,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg) .</p></font>
 
-#### **Tabela 19 - RF15**
+#### **RF15**
 
 |             [RF15](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq15)                |                            Descrição                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -334,7 +334,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg) .</p></font>
 
-#### **Tabela 20 - RF16**
+#### **RF16**
 
 |             [RF16](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq16)                 |                            Descrição                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -348,7 +348,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg) .</p></font>
 
-#### **Tabela 21 - RF17**
+#### **RF17**
 
 |             [RF17](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq17)                 |                            Descrição                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -362,7 +362,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg) .</p></font>
 
-#### **Tabela 22 - RF18**
+#### **RF18**
 
 |             [RF18](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq18)                 |                            Descrição                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
