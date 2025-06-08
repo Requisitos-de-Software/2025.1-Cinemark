@@ -453,7 +453,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E11](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#épico-11--configurações-de-idioma)                                             |
 |                 Tema                 |                                                        Personalização da Experiência Cinemark                                                        |
-|         História de Usuário          | [US14](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us14-alterar-preferências-de-idioma) |
+|         História de Usuário          | [US14](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us14-alterar-preferências-de-idioma) Eu, como usuário, desejo alterar as preferências de idioma do aplicativo para acessar o conteúdo em meu idioma de preferência. |
 |                Léxico                |                                              [L2](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#2-preferência-de-idioma)                                                |
 |             Casos de uso             |                                            [UC06](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/casosDeUso/#tabela-8-alterar-preferências-de-idioma)                                            |
 |               Cenários               |                                              [C4](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#44-cenário-4-alterar-preferências-de-idioma)                                               |
@@ -467,7 +467,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#épico-8-sistema-de-fidelidade-e-benefícios-cinemark-club)                                             |
 |                 Tema                 |                                                        Personalização da Experiência Cinemark                                                        |
-|         História de Usuário          | [US29](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us29-área-dedicada-ao-cinemark-club) |
+|         História de Usuário          | [US29](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us29-área-dedicada-ao-cinemark-club) Eu, como usuário, desejo ter acesso a uma área dedicada ao Cinemark Club para visualizar meus ingressos, pontos acumulados e validade dos benefícios. |
 |                Léxico                |                                              Não se aplica                                                |
 |             Casos de uso             |                                            Não se aplica                                            |
 |               Cenários               |                                              Não se aplica                                               |
@@ -479,8 +479,8 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 |                 [RF35](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq35)                 |                            Exibir notificações e promoções com título, descrição e validade.                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-|                Épico                 |                                            Não se aplica                                             |
-|                 Tema                 |                                                        Não se aplica                                                        |
+|                Épico                 |                                            [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas)                                             |
+|                 Tema                 |                                                        Personalização da Experiência Cinemark                                                        |
 |         História de Usuário          | Não se aplica |
 |                Léxico                |                                              Não se aplica                                                |
 |             Casos de uso             |                                            Não se aplica                                            |
