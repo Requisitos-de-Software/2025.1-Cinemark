@@ -60,7 +60,7 @@ Na Tabela 1, é apresentado o modelo de matriz de rastreabilidade backward-from 
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
-						<td>Adicionou a Introdução, Metodologia, modelo de tabela Backward-From e rastreabilidade dos seguintes requisitos: RQ19, RQ20, RQ21, RQ22, RQ23, RQ24, RQ25, RQ26, RQ27, RQ28</td>
+						<td>Adicionou a Introdução, Metodologia, modelo de tabela Backward-From e rastreabilidade dos seguintes requisitos: <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ19">RQ19</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ20">RQ20</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ21">RQ21</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ22">RQ22</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ23">RQ23</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ24">RQ24</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ25">RQ25</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ26">RQ26</a> e <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ27">RQ27</a>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
@@ -161,5 +161,5 @@ Na Tabela 3, apresentamos a matriz de rastreabilidade backward-from, que relacio
 | `1.1`  |  07/06/2025 |  Adição da tabela de integrantes do grupo |  [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Pedro Everton](https://github.com/pedroeverton217) |
 | `1.2`  |  07/06/2025 |  Adição de introdução e metodologia de rastreabilidade Backward-From | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.3`  |  07/06/2025 |  Adição da tabela Backward-From | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |[Davi Camilo](https://github.com/Davicamilo23)
-| `1.4`  |  07/06/2025 |  Adição de rastreabilidade dos requisitos RQ19, RQ20, RQ21, RQ22, RQ23, RQ24, RQ25, RQ26, RQ27, RQ28  | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Euller Júlio](https://github.com/Potatoyz908) |
+| `1.4`  |  07/06/2025 |  Adição de rastreabilidade dos requisitos RQ19, RQ20, RQ21, RQ22, RQ23, RQ24, RQ25, RQ26, RQ27  | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Euller Júlio](https://github.com/Potatoyz908) |
 | `1.5`  |  08/06/2025 |  Adição de rastreabilidade dos requisitos RQ28 a RQ36  | [Euller Júlio](https://github.com/Potatoyz908) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
