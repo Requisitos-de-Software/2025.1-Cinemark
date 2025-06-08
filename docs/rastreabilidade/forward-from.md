@@ -376,13 +376,14 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg) .</p></font>
 
+
 #### **RF28**
 
 |                 [RF28](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq28)                 |                            Alertar usuário sobre pontos suficientes para ingresso grátis e antes da expiração.                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-|                Épico                 |                                            Não se aplica                                             |
-|                 Tema                 |                                                        Não se aplica                                                        |
-|         História de Usuário          | Não se aplica |
+|                Épico                 |                                            [E08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-8-sistema-de-fidelidade-e-beneficios-cinemark-club)                                             |
+|                 Tema                 |                                                        Personalização da Experiência Cinemark                                                        |
+|         História de Usuário          | [US27](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us27-alerta-sobre-pontos-acumulados) Eu, como usuário do aplicativo Cinemark, desejo receber alertas quando a quantidade de pontos permitir resgate de ingresso grátis e antes da expiração dos pontos para não perder a oportunidade de usá-los a tempo. |
 |                Léxico                |                                              Não se aplica                                                |
 |             Casos de uso             |                                            Não se aplica                                            |
 |               Cenários               |                                              Não se aplica                                               |
@@ -394,12 +395,12 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 |                 [RF29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq29)                 |                            Sugerir cinemas com base no histórico de visitas e na localização atual.                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-|                Épico                 |                                            Não se aplica                                             |
-|                 Tema                 |                                                        Não se aplica                                                        |
-|         História de Usuário          | Não se aplica |
+|                Épico                 |                                            [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas)                                             |
+|                 Tema                 |                                                        Personalização da Experiência Cinemark                                                        |
+|         História de Usuário          | [US30](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us30-sugestao-de-cinemas-personalizada) Eu, como usuário do aplicativo Cinemark, desejo receber sugestões de cinemas baseadas na minha localização e histórico de visitas para encontrar mais facilmente unidades relevantes para mim. |
 |                Léxico                |                                              Não se aplica                                                |
 |             Casos de uso             |                                            Não se aplica                                            |
-|               Cenários               |                                              Não se aplica                                               |
+|               Cenários               |                                             [C09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#tabela-9-cenario-de-sugerir-cinemas-personalizados)                                              |
 | Artefatos (elicitação de requisitos) |                                            [IS21](../elicitação/introspecção.md#IS21) |
 
 <font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908) .</p></font>
@@ -408,23 +409,23 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 |                 [RF30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq30)                 |                            Permitir que o usuário salve cinemas como favoritos.                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-|                Épico                 |                                            Não se aplica                                             |
-|                 Tema                 |                                                        Não se aplica                                                        |
-|         História de Usuário          | Não se aplica |
+|                Épico                 |                                            [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas)                                             |
+|                 Tema                 |                                                        Personalização da Experiência Cinemark                                                        |
+|         História de Usuário          | [US28](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us28-favoritar-cinemas) Eu, como usuário do aplicativo Cinemark, desejo salvar cinemas como favoritos para acessar rapidamente minhas unidades preferidas ao procurar sessões ou realizar compras. |
 |                Léxico                |                                              Não se aplica                                                |
 |             Casos de uso             |                                            Não se aplica                                            |
-|               Cenários               |                                              Não se aplica                                               |
+|               Cenários               |                                              [C10](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#tabela-10-cenario-de-permitir-salvar-cinemas-favoritos)                                               |
 | Artefatos (elicitação de requisitos) |                                            [IS22](../elicitação/introspecção.md#IS22) |
 
 <font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908) .</p></font>
 
 #### **RF31**
 
-|                 [RF31](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq31)                 |                            Permitir notificações personalizadas (ex.: “avise-me quando o filme X entrar em cartaz”).                             |
+|                 [RF31](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq31)                 |                            Permitir notificações personalizadas (ex.: "avise-me quando o filme X entrar em cartaz").                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-|                Épico                 |                                            Não se aplica                                             |
-|                 Tema                 |                                                        Não se aplica                                                        |
-|         História de Usuário          | Não se aplica |
+|                Épico                 |                                            [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas)                                             |
+|                 Tema                 |                                                        Personalização da Experiência Cinemark                                                        |
+|         História de Usuário          | [US21](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us21-permitir-notificacoes-personalizadas) Eu, como usuário, desejo configurar notificações personalizadas como "avise-me quando o filme X entrar em cartaz" para não perder lançamentos que são de meu interesse. |
 |                Léxico                |                                              Não se aplica                                                |
 |             Casos de uso             |                                            Não se aplica                                            |
 |               Cenários               |                                              Não se aplica                                               |
@@ -436,12 +437,12 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 |                 [RF32](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq32)                 |                            Exibir recomendações de filmes baseadas em histórico e preferências.                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-|                Épico                 |                                            Não se aplica                                             |
-|                 Tema                 |                                                        Não se aplica                                                        |
-|         História de Usuário          | Não se aplica |
-|                Léxico                |                                              Não se aplica                                                |
+|                Épico                 |                                            [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas)                                             |
+|                 Tema                 |                                                        Personalização da Experiência Cinemark                                                        |
+|         História de Usuário          | [US19](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us19-exibir-recomendacoes-de-filmes-baseadas-em-historico-e-preferencias) Eu, como usuário, desejo visualizar recomendações personalizadas de filmes com base no meu histórico de navegação e preferências para descobrir novos títulos que são de interesse. |
+|                Léxico                |                                              [L07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#7-exibir-recomendacoes-de-filmes) [L08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#8-recomendacoes-de-filmes)                                                |
 |             Casos de uso             |                                            Não se aplica                                            |
-|               Cenários               |                                              Não se aplica                                               |
+|               Cenários               |                                              [C05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#45-cenario-5-exibir-recomendacoes-de-filmes-baseadas-em-historico-e-preferencias)                                               |
 | Artefatos (elicitação de requisitos) |                                            [IS24](../elicitação/introspecção.md#IS24) |
 
 <font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908) .</p></font>
