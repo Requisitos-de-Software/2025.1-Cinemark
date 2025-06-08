@@ -376,6 +376,132 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg) .</p></font>
 
+#### **RF28**
+
+|                 [RF28](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq28)                 |                            Alertar usuário sobre pontos suficientes para ingresso grátis e antes da expiração.                             |
+| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                Épico                 |                                            Não se aplica                                             |
+|                 Tema                 |                                                        Não se aplica                                                        |
+|         História de Usuário          | Não se aplica |
+|                Léxico                |                                              Não se aplica                                                |
+|             Casos de uso             |                                            Não se aplica                                            |
+|               Cenários               |                                              Não se aplica                                               |
+| Artefatos (elicitação de requisitos) |                                            [IS20](../elicitação/introspecção.md#IS20) |
+
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908) .</p></font>
+
+#### **RF29**
+
+|                 [RF29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq29)                 |                            Sugerir cinemas com base no histórico de visitas e na localização atual.                             |
+| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                Épico                 |                                            Não se aplica                                             |
+|                 Tema                 |                                                        Não se aplica                                                        |
+|         História de Usuário          | Não se aplica |
+|                Léxico                |                                              Não se aplica                                                |
+|             Casos de uso             |                                            Não se aplica                                            |
+|               Cenários               |                                              Não se aplica                                               |
+| Artefatos (elicitação de requisitos) |                                            [IS21](../elicitação/introspecção.md#IS21) |
+
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908) .</p></font>
+
+#### **RF30**
+
+|                 [RF30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq30)                 |                            Permitir que o usuário salve cinemas como favoritos.                             |
+| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                Épico                 |                                            Não se aplica                                             |
+|                 Tema                 |                                                        Não se aplica                                                        |
+|         História de Usuário          | Não se aplica |
+|                Léxico                |                                              Não se aplica                                                |
+|             Casos de uso             |                                            Não se aplica                                            |
+|               Cenários               |                                              Não se aplica                                               |
+| Artefatos (elicitação de requisitos) |                                            [IS22](../elicitação/introspecção.md#IS22) |
+
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908) .</p></font>
+
+#### **RF31**
+
+|                 [RF31](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq31)                 |                            Permitir notificações personalizadas (ex.: “avise-me quando o filme X entrar em cartaz”).                             |
+| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                Épico                 |                                            Não se aplica                                             |
+|                 Tema                 |                                                        Não se aplica                                                        |
+|         História de Usuário          | Não se aplica |
+|                Léxico                |                                              Não se aplica                                                |
+|             Casos de uso             |                                            Não se aplica                                            |
+|               Cenários               |                                              Não se aplica                                               |
+| Artefatos (elicitação de requisitos) |                                            [IS23](../elicitação/introspecção.md#IS23) |
+
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908) .</p></font>
+
+#### **RF32**
+
+|                 [RF32](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq32)                 |                            Exibir recomendações de filmes baseadas em histórico e preferências.                             |
+| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                Épico                 |                                            Não se aplica                                             |
+|                 Tema                 |                                                        Não se aplica                                                        |
+|         História de Usuário          | Não se aplica |
+|                Léxico                |                                              Não se aplica                                                |
+|             Casos de uso             |                                            Não se aplica                                            |
+|               Cenários               |                                              Não se aplica                                               |
+| Artefatos (elicitação de requisitos) |                                            [IS24](../elicitação/introspecção.md#IS24) |
+
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908) .</p></font>
+
+#### **RF33**
+
+|                 [RF33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq33)                 |                            Permitir alteração de preferências de idioma.                             |
+| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                Épico                 |                                            Não se aplica                                             |
+|                 Tema                 |                                                        Não se aplica                                                        |
+|         História de Usuário          | Não se aplica |
+|                Léxico                |                                              Não se aplica                                                |
+|             Casos de uso             |                                            Não se aplica                                            |
+|               Cenários               |                                              Não se aplica                                               |
+| Artefatos (elicitação de requisitos) |                                            [IS25](../elicitação/introspecção.md#IS25) |
+
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908) .</p></font>
+
+#### **RF34**
+
+|                 [RF34](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq34)                 |                            Disponibilizar área dedicada ao Cinemark Club: ingressos, pontos acumulados e validade.                             |
+| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                Épico                 |                                            Não se aplica                                             |
+|                 Tema                 |                                                        Não se aplica                                                        |
+|         História de Usuário          | Não se aplica |
+|                Léxico                |                                              Não se aplica                                                |
+|             Casos de uso             |                                            Não se aplica                                            |
+|               Cenários               |                                              Não se aplica                                               |
+| Artefatos (elicitação de requisitos) |                                            [IS12](../elicitação/introspecção.md#IS12) |
+
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908) .</p></font>
+
+#### **RF35**
+
+|                 [RF35](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq35)                 |                            Exibir notificações e promoções com título, descrição e validade.                             |
+| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                Épico                 |                                            Não se aplica                                             |
+|                 Tema                 |                                                        Não se aplica                                                        |
+|         História de Usuário          | Não se aplica |
+|                Léxico                |                                              Não se aplica                                                |
+|             Casos de uso             |                                            Não se aplica                                            |
+|               Cenários               |                                              Não se aplica                                               |
+| Artefatos (elicitação de requisitos) |                                            [AI32](../elicitação/analiseUI.md#AI32) |
+
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908) .</p></font>
+
+#### **RF36**
+
+|                 [RF36](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq36)                 |                            Impedir avanço para pagamento com carrinho vazio.                             |
+| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                Épico                 |                                            Não se aplica                                             |
+|                 Tema                 |                                                        Não se aplica                                                        |
+|         História de Usuário          | Não se aplica |
+|                Léxico                |                                              Não se aplica                                                |
+|             Casos de uso             |                                            Não se aplica                                            |
+|               Cenários               |                                              Não se aplica                                               |
+| Artefatos (elicitação de requisitos) |                                            [AI30](../elicitação/analiseUI.md#AI30) |
+
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908) .</p></font>
+
 ### Requisitos Não Funcionais
 
 ---
