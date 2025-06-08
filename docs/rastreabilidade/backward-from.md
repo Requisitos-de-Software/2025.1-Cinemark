@@ -164,6 +164,12 @@ Na Tabela 3, apresentamos a matriz de rastreabilidade backward-from, que relacio
 | [RQ66](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ66) | xxxxx | xxxxx | xxxxx |
 | [RQ67](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ67) | xxxxx | xxxxx | xxxxx |
 
+## Referências Bibliográficas
+
+> **SAYÃO, Miriam; LEITE, Julio Cesar Sampaio do Prado.** Rastreabilidade de requisitos. Rio de Janeiro: Departamento de Informática, Pontifícia Universidade Católica do Rio de Janeiro, 2005. (Monografias em Ciência da Computação, n. 20/05). ISSN 0103-9741.
+
+> **SERRANO, Milene; SERRANO, Maurício.** Requisitos – Aula 26. Universidade de Brasília, Campus Gama (UnB Gama). Material de aula.
+
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
