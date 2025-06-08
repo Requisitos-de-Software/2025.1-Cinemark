@@ -56,7 +56,7 @@ Na Tabela 1, é apresentado o modelo de matriz de rastreabilidade backward-from 
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
-						<td>Lorem Ipsum</td>
+						<td>Adicionou rastreabilidade dos requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ28">RQ28</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ29">RQ29</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ30">RQ30</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ31">RQ31</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ32">RQ32</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ33">RQ33</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ34">RQ34</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ35">RQ35</a> e <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ36">RQ36</a> na matriz backward-from.</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
@@ -113,14 +113,14 @@ Na Tabela 3, apresentamos a matriz de rastreabilidade backward-from, que relacio
 | [RQ26](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ26) | Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc). | [IS18](../elicitação/introspecção.md#IS18) | Introspecção |
 | [RQ27](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ27) | Permitir uso de pontos acumulados para desconto em ingressos e produtos. | [IS19](../elicitação/introspecção.md#IS19), [Q03](../elicitação/questionario.md#Q03) | Introspecção, Questionário |
 | [RQ28](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ28) | Alertar usuário sobre pontos suficientes para ingresso grátis e antes da expiração. | [IS20](../elicitação/introspecção.md#IS20) | Introspecção |
-| [RQ29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ29) | xxxxx | xxxxx | xxxxx |
-| [RQ30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ30) | xxxxx | xxxxx | xxxxx |
-| [RQ31](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ31) | xxxxx | xxxxx | xxxxx |
-| [RQ32](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ32) | xxxxx | xxxxx | xxxxx |
-| [RQ33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ33) | xxxxx | xxxxx | xxxxx |
-| [RQ34](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ34) | xxxxx | xxxxx | xxxxx |
-| [RQ35](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ35) | xxxxx | xxxxx | xxxxx |
-| [RQ36](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ36) | xxxxx | xxxxx | xxxxx |
+| [RQ29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ29) | Sugerir cinemas com base no histórico de visitas e na localização atual. | [IS21](../elicitação/introspecção.md#IS21) | Introspecção |
+| [RQ30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ30) | Permitir que o usuário salve cinemas como favoritos. | [IS22](../elicitação/introspecção.md#IS22) | Introspecção |
+| [RQ31](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ31) | Permitir notificações personalizadas (ex.: “avise-me quando o filme X entrar em cartaz”). | [IS23](../elicitação/introspecção.md#IS23) | Introspecção |
+| [RQ32](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ32) | Exibir recomendações de filmes baseadas em histórico e preferências. | [IS24](../elicitação/introspecção.md#IS24) | Introspecção |
+| [RQ33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ33) | Permitir alteração de preferências de idioma. | [IS25](../elicitação/introspecção.md#IS25) | Introspecção |
+| [RQ34](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ34) | Disponibilizar área dedicada ao Cinemark Club: ingressos, pontos acumulados e validade. | [IS12](../elicitação/introspecção.md#IS12) | Introspecção |
+| [RQ35](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ35) | Exibir notificações e promoções com título, descrição e validade. | [AI32](../elicitação/analiseUI.md#AI32) | Análise de Interface |
+| [RQ36](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ36) | Impedir avanço para pagamento com carrinho vazio. | [AI30](../elicitação/analiseUI.md#AI30) | Análise de Interface |
 | [RQ37](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ37) | xxxxx | xxxxx | xxxxx |
 | [RQ38](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ38) | xxxxx | xxxxx | xxxxx |
 | [RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ39) | xxxxx | xxxxx | xxxxx |
@@ -162,3 +162,4 @@ Na Tabela 3, apresentamos a matriz de rastreabilidade backward-from, que relacio
 | `1.2`  |  07/06/2025 |  Adição de introdução e metodologia de rastreabilidade Backward-From | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.3`  |  07/06/2025 |  Adição da tabela Backward-From | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |[Davi Camilo](https://github.com/Davicamilo23)
 | `1.4`  |  07/06/2025 |  Adição de rastreabilidade dos requisitos RQ19, RQ20, RQ21, RQ22, RQ23, RQ24, RQ25, RQ26, RQ27, RQ28  | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Euller Júlio](https://github.com/Potatoyz908) |
+| `1.5`  |  08/06/2025 |  Adição de rastreabilidade dos requisitos RQ28 a RQ36  | [Euller Júlio](https://github.com/Potatoyz908) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
