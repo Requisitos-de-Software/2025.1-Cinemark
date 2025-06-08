@@ -551,9 +551,9 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 |                 [RQ40](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq40)                 |                            		Tempo de resposta de até 3 segundos em telas críticas (seleção de assentos, pagamento).                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-|                Épico                 |                                            [E13](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-13-gerenciamento-de-compras)                                             |
+|                Épico                 |                                            Não se aplica                                             |
 |                 Tema                 |                                                        	Desempenho em Telas Críticas de Compra                                                        |
-|         História de Usuário          | [US12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us12-fluxo-de-compra-simplificado) Eu, como usuário, desejo que telas críticas como seleção de assentos e pagamento carreguem em até 3 segundos, para que eu tenha uma experiência rápida e sem frustrações durante o processo de compra. |
+|         História de Usuário          | Não se aplica |
 |                Léxico                |                                              Não se aplica                                                |
 |             Casos de uso             |                                            Não se aplica                                            |
 |               Cenários               |                                              Não se aplica                                               |
@@ -565,9 +565,9 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 |                 [RQ41](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq41)                 |                            	Garantir uptime de 99,5% para funções críticas.                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-|                Épico                 |                                            [E13](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-13-gerenciamento-de-compras)                                             |
+|                Épico                 |                                            Não se aplica                                             |
 |                 Tema                 |                                                        	Alta Disponibilidade em Funções Sensíveis                                                        |
-|         História de Usuário          | [US12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us12-fluxo-de-compra-simplificado) Eu, como usuário, desejo que as principais funcionalidades do aplicativo estejam sempre disponíveis, para que eu consiga realizar ações importantes como comprar ingressos ou acessar minha conta a qualquer momento. |
+|         História de Usuário          | Não se aplica |
 |                Léxico                |                                              Não se aplica                                                |
 |             Casos de uso             |                                            Não se aplica                                            |
 |               Cenários               |                                              Não se aplica                                               |
@@ -581,7 +581,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas)                                             |
 |                 Tema                 |                                                        Responsividade em Diferentes Dispositivos                                                        |
-|         História de Usuário          | [US24](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us24-exibir-informacoes-do-filme) Eu, como usuário, desejo acessar o aplicativo em diferentes dispositivos, como smartphones e tablets, para ter uma experiência consistente e funcional independentemente do tamanho da tela. |
+|         História de Usuário          | Não se aplica |
 |                Léxico                |                                              Não se aplica                                                |
 |             Casos de uso             |                                            Não se aplica                                            |
 |               Cenários               |                                              Não se aplica                                               |
@@ -595,7 +595,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas)                                             |
 |                 Tema                 |                                                        Interface Intuitiva e Navegação Facilitada                                                        |
-|         História de Usuário          | [US10](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us10-filtrar-filmes-por-categoria) Eu, como usuário, desejo navegar pelo aplicativo de forma intuitiva e simples, para encontrar rapidamente as funcionalidades que preciso, sem confusão. |
+|         História de Usuário          | Não se aplica |
 |                Léxico                |                                              [L13](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#13-acesso-aos-ingressos-facil-e-visivel-na-interface-com-botao-dedicado-ou-atalho-no-menu-inicial) [L14](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#14-tornar-o-acesso-aos-ingressos-facil-e-visivel-na-interface-com-botao-dedicado-ou-atalho-no-menu-inicial)                                                |
 |             Casos de uso             |                                            [UC12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/casosDeUso/#tabela-14-tornar-o-acesso-aos-ingressos-facil-e-visivel-na-interface-com-botao-dedicado-ou-atalho-no-menu-inicial)                                            |
 |               Cenários               |                                               [C8](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#48-cenario-8-tornar-o-acesso-aos-ingressos-facil-e-visivel-na-interface-com-botao-dedicado-ou-atalho-no-menu-inicial)                                               |
@@ -609,7 +609,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas)                                             |
 |                 Tema                 |                                                        Acessibilidade para Usuários com Deficiência Visual                                                        |
-|         História de Usuário          | [US36](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us36-mensagens-de-erro-e-confirmacao) Eu, como usuário com deficiência visual, desejo que a interface seja compatível com leitores de tela e tenha elementos acessíveis, para que eu possa utilizar o aplicativo com autonomia. |
+|         História de Usuário          | Não se aplica |
 |                Léxico                |                                              Não se aplica                                                |
 |             Casos de uso             |                                            Não se aplica                                            |
 |               Cenários               |                                              Não se aplica                                               |
@@ -623,7 +623,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas)                                             |
 |                 Tema                 |                                                        	Contraste de Interface Adequado às Diretrizes WCAG                                                        |
-|         História de Usuário          | [US36](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us36-mensagens-de-erro-e-confirmacao) Eu, como usuário com baixa visão, desejo que os textos e elementos da interface tenham contraste adequado, para que eu possa enxergar e utilizar o sistema com conforto e clareza. |
+|         História de Usuário          | [US37](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us37-garantir-contraste-visual-adequado) Eu, como usuário com baixa visão, desejo que os textos e elementos da interface tenham contraste adequado, para que eu possa enxergar e utilizar o sistema com conforto e clareza. |
 |                Léxico                |                                              Não se aplica                                                |
 |             Casos de uso             |                                            Não se aplica                                            |
 |               Cenários               |                                              Não se aplica                                               |

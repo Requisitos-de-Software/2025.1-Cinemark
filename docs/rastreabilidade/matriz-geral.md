@@ -16,7 +16,7 @@ As matrizes de requisitos funcionais e não funcionais segue o seguinte modelo:
 
 | **Requisito** | **Descrição** | **Implementado** | **Versão** | **Elicitação** | **Modelagem** | **Elos** | **Autor** |
 |---------------------|--------------------------|--------------------|-----------------------|---------------------|---------------|----------------|------------|
-| RQXX | Descrição do requisito | Sim/Não | X.X | AIXX/ISXX/QXX/STXX | UCXX/ES/CXX/NFR/USXX | - | Integrante responsável |
+| RQXX | Descrição do requisito | Sim/Não | X.X | AIXX/ISXX/QXX/STXX | Artefatos utilizados para modelagem | - | Integrante responsável |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
@@ -27,7 +27,7 @@ As matrizes de requisitos funcionais e não funcionais segue o seguinte modelo:
 * **Implementado**: Indica o status de implementação do requisito.
 * **Versão**: Indica versão do requisito.
 * **Elicitação**: Identificador do artefato que elicitou o requisito em questão, sendo AIXX elicitados pela Análise de Interface de Usuário, ISXX elicitados pela Introspecção, QXX elicitados pelo Questionário e STXX elicitados pelo Storytelling.
-* **Modelagem**: Identificador do artefato que modelou o requisito em questão, sendo UCXX modelados pelo Caso de Uso, ES modelados pela Especificação Suplementar, CXX modelados pelo Cenário, NFR modelados pelo NFR Framework e USXX modelados pela História de Usuário.
+* **Modelagem**: Artefatos que foram usados para a modelagem do requisito em questão.
 * **Elos**: Ligações que conectam diferentes tipos de artefatos do processo de Engenharia de Software.
 * **Autor**: Integrante do grupo responsável pelo requisito.
 
@@ -55,7 +55,7 @@ As matrizes de requisitos funcionais e não funcionais segue o seguinte modelo:
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
-						<td>Elaborou a introdução, a metodologia, o modelo de matriz e as tabelas de requisitos funcionais e não funcionais. Também adicionou a rastreabilidade dos requisitos </td>
+						<td>Elaborou a introdução, a metodologia, o modelo de matriz e as tabelas de requisitos funcionais e não funcionais. Também elaborou a Rastreablidade Geral dos Requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq37" target="_blank">RQ37</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq38" target="_blank">RQ38</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq39" target="_blank">RQ39</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq40" target="_blank">RQ40</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq41" target="_blank">RQ41</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq42" target="_blank">RQ42</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq43" target="_blank">RQ43</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq44" target="_blank">RQ44</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq45" target="_blank">RQ45</a>, </td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
@@ -122,9 +122,9 @@ As matrizes de requisitos funcionais e não funcionais segue o seguinte modelo:
 | RQ34 |  |  |  |  |  |  |  |
 | RQ35 |  |  |  |  |  |  |  |
 | RQ36 |  |  |  |  |  |  |  |
-| RQ37 |  |  |  |  |  |  |  |
-| RQ38 |  |  |  |  |  |  |  |
-| RQ39 |  |  |  |  |  |  |  |
+| [RQ37](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq37) | Criar e editar perfil do usuário, gerenciar dados pessoais e métodos de pagamento. | Sim | 1.0 | [AI31](../elicitação/analiseUI.md#AI31) | [História de Usuário](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/), [Backlog do Produto](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/), [Léxico](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/) |  | [Davi Camilo](https://github.com/Davicamilo23) |
+| [RQ38](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq38) | Mensagens de erro claras e confirmações de ações para o usuário. | Sim | 1.0 | [ST05](../elicitação/storytelling.md#ST05), [IS37](../elicitação/introspecção.md#IS37) | [História de Usuário](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/), [Backlog do Produto](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/), [Léxico](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/) |  | [Davi Camilo](https://github.com/Davicamilo23) |
+| [RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq39) | Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas. | Não | 1.0 | [IS15](../elicitação/introspecção.md#IS15) | [História de Usuário](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/), [Backlog do Produto](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/), [Léxico](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/), [Caso de Uso](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/casosDeUso/), [Cenário](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/) |  | [Davi Camilo](https://github.com/Davicamilo23) |
 | RQ58 |  |  |  |  |  |  |  |
 | RQ59 |  |  |  |  |  |  |  |
 | RQ60 |  |  |  |  |  |  |  |
@@ -138,12 +138,12 @@ As matrizes de requisitos funcionais e não funcionais segue o seguinte modelo:
 
 | **Requisito** | **Descrição** | **Implementado** | **Versão** | **Elicitação** | **Modelagem** | **Elos** | **Autor** |
 |---------------------|--------------------------|--------------------|-----------------------|---------------------|---------------|----------------|------------|
-| RQ40 |  |  |  |  |  |  |  |
-| RQ41 |  |  |  |  |  |  |  |
-| RQ42 |  |  |  |  |  |  |  |
-| RQ43 |  |  |  |  |  |  |  |
-| RQ44 |  |  |  |  |  |  |  |
-| RQ45 |  |  |  |  |  |  |  |
+| [RQ40](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq40) | Tempo de resposta de até 3 segundos em telas críticas (seleção de assentos, pagamento). | Sim | 1.0 | [IS29](../elicitação/introspecção.md#IS29), [Q09](../elicitação/questionario.md#Q09), [Q12](../elicitação/questionario.md#Q12) | Não se aplica |  | [Davi Camilo](https://github.com/Davicamilo23) |
+| [RQ41](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq41) | Garantir uptime de 99,5% para funções críticas. | Sim | 1.0 | [AI28](../elicitação/analiseUI.md#AI28) | Não se aplica |  | [Davi Camilo](https://github.com/Davicamilo23) |
+| [RQ42](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq42) | 	Sistema responsivo e adaptável a diferentes tamanhos de tela (smartphone e tablet). | Sim | 1.0 | [AI24](../elicitação/analiseUI.md#AI24) | [Backlog do Produto](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/) |  | [Davi Camilo](https://github.com/Davicamilo23) |
+| [RQ43](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq43) | 	Interface intuitiva, com navegação fácil e boa usabilidade. | Sim | 1.0 | [IS28](../elicitação/introspecção.md#IS28) | [Backlog do Produto](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/), [Léxico](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/), [Caso de Uso](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/casosDeUso/),  [Cenário](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/) |  | [Davi Camilo](https://github.com/Davicamilo23) |
+| [RQ44](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq44) | 	Interface acessível para pessoas com deficiência visual (leitores de tela) e baixo-visão. | Não | 1.0 | [IS35](../elicitação/introspecção.md#IS35), [IS36](../elicitação/introspecção.md#IS36), [AI25](../elicitação/analiseUI.md#AI25), [ST05](../elicitação/storytelling.md#ST05) | [Backlog do Produto](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/) |  | [Davi Camilo](https://github.com/Davicamilo23) |
+| [RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq45) | 	Contraste de interface conforme WCAG A/AA. | Não | 1.0 | [AI25](../elicitação/analiseUI.md#AI25) | [História de Usuário](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/), [Backlog do Produto](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/) |  | [Davi Camilo](https://github.com/Davicamilo23) |
 | RQ46 |  |  |  |  |  |  |  |
 | RQ47 |  |  |  |  |  |  |  |
 | RQ48 |  |  |  |  |  |  |  |
@@ -176,3 +176,4 @@ As matrizes de requisitos funcionais e não funcionais segue o seguinte modelo:
 | `1.0`  |  06/06/2025 |  Criação do Documento | [Pedro Everton](https://github.com/pedroeverton217) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.1`  |  08/06/2025 | Adição da introdução, metodologia, modelo de matriz e matrizes de requisitos funcionais e não funcionais | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.1`  |  08/06/2025 | Adição da rastreabilidade dos requisitos de 10 a 18 | [Arthur Evangelista](https://github.com/arthurevg) | [Davi Camilo](https://github.com/Davicamilo23)|
+| `1.2`  |  08/06/2025 | Adição da rastreabilidade dos requisitos 37 a 45 | [Davi Camilo](https://github.com/Davicamilo23)| [Arthur Evangelista](https://github.com/arthurevg) |
