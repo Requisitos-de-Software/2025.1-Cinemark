@@ -33,7 +33,7 @@ Para a construção do artefato de rastreabilidade Forward-From, foram seguidos 
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
-						<td>Lorem Ipsum</td>	
+						<td>Elaborou a rastreablidade Forward-From dos Requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq37" target="_blank">RQ37</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq38" target="_blank">RQ38</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq39" target="_blank">RQ39</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq40" target="_blank">RQ40</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq41" target="_blank">RQ41</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq42" target="_blank">RQ42</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq43" target="_blank">RQ43</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq44" target="_blank">RQ44</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq45" target="_blank">RQ45</a>, </td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
@@ -100,7 +100,7 @@ A tabela 3 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                              [CXX](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#introducao)                                               |
 | Artefatos (elicitação de requisitos) |                                            _Ex: [QXX](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/questionario/#Q01)_                                            |
 
-<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
 A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisitos Não Funcionais.
 
@@ -111,14 +111,14 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |            NFR            |                      [NFR XXXXXXXXXXX](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/nfrFramework/#nfr-01-usabilidade)                      |
 | Especificação Suplementar |                [ES XXXXXXXXXXX](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especificaçãoSuplementar/#4-funcionalidade)                 |
 
-<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
 
 ### Requisitos Funcionais
 
-#### **RF01**
+#### **RQ01**
 
-|                 [RF01](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq01)                 |                            Exibir na tela inicial filmes em cartaz, com pôsteres, novidades e promoções.                             |
+|                 [RQ01](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq01)                 |                            Exibir na tela inicial filmes em cartaz, com pôsteres, novidades e promoções.                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                           Não se aplica                                             |
 |                 Tema                 |                                                       Não se aplica                                                      |
@@ -128,12 +128,12 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                              Não se aplica                                               |
 | Artefatos (elicitação de requisitos) |                                            Não se aplica
 
-<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
 
-#### **RF02**
+#### **RQ02**
 
-|                 [RF02](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq01)                 |                            Detectar localização automaticamente e permitir alteração manual.                             |
+|                 [RQ02](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq02)                 |                            Detectar localização automaticamente e permitir alteração manual.                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#features)                                             |
 |                 Tema                 |                                                        Compra e Acompanhamento de Pedidos                                                        |
@@ -143,12 +143,12 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                              Não se aplica                                               |
 | Artefatos (elicitação de requisitos) |                                            [IS02](../elicitação/introspecção.md#IS02), [AI02](../elicitação/analiseUI.md#AI02)
 
-<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
 
-#### **RF03**
+#### **RQ03**
 
-|                 [RF03](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq01)                 |                            Navegar por abas: Home, Filmes, Cinemas, Snack Bar, Club e Mais.                             |
+|                 [RQ03](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq03)                 |                            Navegar por abas: Home, Filmes, Cinemas, Snack Bar, Club e Mais.                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            Não se aplica                                             |
 |                 Tema                 |                                                        Não se aplica                                                        |
@@ -158,12 +158,12 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                              Não se aplica                                               |
 | Artefatos (elicitação de requisitos) |                                            [AI03](../elicitação/analiseUI.md#AI03)
 
-<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
 
-#### **RF04**
+#### **RQ04**
 
-|                 [RF04](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq01)                 |                            Autenticar usuário por e-mail e senha.                             |
+|                 [RQ04](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq04)                 |                            Autenticar usuário por e-mail e senha.                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#features)                                             |
 |                 Tema                 |                                                        Conta e Sessão do Usuário                                                        |
@@ -173,12 +173,12 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                              Não se aplica                                              |
 | Artefatos (elicitação de requisitos) |                                            [AI04](../elicitação/analiseUI.md#AI04)
 
-<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
 
-#### **RF05**
+#### **RQ05**
 
-|                 [RF05](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq01)                 |                            Buscar filmes por nome.	                             |
+|                 [RQ05](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq05)                 |                            Buscar filmes por nome.	                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#features)                                             |
 |                 Tema                 |                                                        Exploração e Descoberta de Filmes                                                        |
@@ -188,12 +188,12 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                              Não se aplica                                               |
 | Artefatos (elicitação de requisitos) |                                            [AI05](../elicitação/analiseUI.md#AI05) 
 
-<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
 
-#### **RF06**
+#### **RQ06**
 
-|                 [RF06](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq01)                 |                            Listar filmes em cartaz, pré-venda e futuros lançamentos.	                             |
+|                 [RQ06](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq06)                 |                            Listar filmes em cartaz, pré-venda e futuros lançamentos.	                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#features)                                             |
 |                 Tema                 |                                                        Exploração e Descoberta de Filmes                                                        |
@@ -203,12 +203,12 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                              Não se aplica                                               |
 | Artefatos (elicitação de requisitos) |                                            [AI06](../elicitação/analiseUI.md#AI06)  
 
-<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
 
-#### **RF07**
+#### **RQ07**
 
-|                 [RF07](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq01)                 |                            Exibir informações do filme (título, sinopse, gênero, duração, direção, elenco, distribuidor, origem).	                             |
+|                 [RQ07](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq07)                 |                            Exibir informações do filme (título, sinopse, gênero, duração, direção, elenco, distribuidor, origem).	                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E04](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#features)                                             |
 |                 Tema                 |                                                        Apoio à Decisão e Conteúdo Cinematográfico                                                        |
@@ -218,12 +218,12 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                              Não se aplica                                               |
 | Artefatos (elicitação de requisitos) |                                            [IS03](../elicitação/introspecção.md#IS03), [AI07](../elicitação/analiseUI.md#AI07) 
 
-<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
 
-#### **RF08**
+#### **RQ08**
 
-|                 [RF08](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq01)                 |                            Exibir sessões com data, horário, idioma, formato e sala.	                             |
+|                 [RQ08](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq08)                 |                            Exibir sessões com data, horário, idioma, formato e sala.	                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            Não se aplica                                             |
 |                 Tema                 |                                                        Não se aplica                                                        |
@@ -233,12 +233,12 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                              Não se aplica                                              |
 | Artefatos (elicitação de requisitos) |                                            [IS04](../elicitação/introspecção.md#IS04), [ST01](../elicitação/storytelling.md#ST01), [AI08](../elicitação/analiseUI.md#AI08), [Q01](../elicitação/questionario.md#Q01)
 
-<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
 
-#### **RF09**
+#### **RQ09**
 
-|                 [RF09](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq01)                 |                            Permitir compra de ingressos com cartão de crédito, débito ou Pix.	                             |
+|                 [RQ09](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq09)                 |                            Permitir compra de ingressos com cartão de crédito, débito ou Pix.	                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            Não se aplica                                             |
 |                 Tema                 |                                                        Não se aplica                                                        |
@@ -248,11 +248,11 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                             Não se aplica                                              |
 | Artefatos (elicitação de requisitos) |                                            [IS05](../elicitação/introspecção.md#IS05), [AI14](../elicitação/analiseUI.md#AI14), [Q02](../elicitação/questionario.md#Q02)
 
-<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
-#### **RF10**
+#### **RQ10**
 
-|                 [RF10](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq10)                |                            Descrição                             |
+|                 [RQ10](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq10)                |                            Descrição                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#features)                                             |
 |                 Tema                 |                                                        Compra e Acompanhamento de Pedidos                                                     |
@@ -262,11 +262,11 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                             Não se aplica                                             |
 | Artefatos (elicitação de requisitos) |                  [IS06](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS06)                        |
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
 
-#### **RF11**
+#### **RQ11**
 
-|                 [RF11](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq11)                |                            Descrição                             |
+|                 [RQ11](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq11)                |                            Descrição                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#features)                                             |
 |                 Tema                 |                                                       Compra e Finalização                                                      |
@@ -276,11 +276,11 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                              Não se aplica|
 | Artefatos (elicitação de requisitos) |  [IS07](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS07)                                          |
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
 
-#### **RF12**
+#### **RQ12**
 
-|                 [RF12](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq12)                 |                            Descrição                             |
+|                 [RQ12](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq12)                 |                            Descrição                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#features)                                             |
 |                 Tema                 |                                                        Compra e finalização                                                       |
@@ -290,11 +290,11 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                             Não se aplica|
 | Artefatos (elicitação de requisitos) |   [IS08](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS08), [AI09](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/analiseUI/#AI09)|
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
 
-#### **RF13**
+#### **RQ13**
 
-|                 [RF13](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq13)                 |                            Descrição                             |
+|                 [RQ13](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq13)                 |                            Descrição                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#features)                                             |
 |                 Tema                 |                                                       Localização e Assentos                                                       |
@@ -304,11 +304,11 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                             Não se aplica                                              |
 | Artefatos (elicitação de requisitos) |          [AI10](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/analiseUI/#AI10)                                          |
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
 
-#### **RF14**
+#### **RQ14**
 
-|                 [RF14](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq14)                |                            Descrição                             |
+|                 [RQ14](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq14)                |                            Descrição                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#features)                                             |
 |                 Tema                 |                                                        Compra e finalização|
@@ -318,11 +318,11 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                             Não se aplica|
 | Artefatos (elicitação de requisitos) |       [AI11](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/analiseUI/#AI11)                                           |
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
 
-#### **RF15**
+#### **RQ15**
 
-|             [RF15](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq15)                |                            Descrição                             |
+|             [RQ15](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq15)                |                            Descrição                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            Não se aplica                                             |
 |                 Tema                 |                                                        Não se aplica|
@@ -332,11 +332,11 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                             Não se aplica|
 | Artefatos (elicitação de requisitos) |    [IS11](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS11), [AI12](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/analiseUI/#AI12)                                             |
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
 
-#### **RF16**
+#### **RQ16**
 
-|             [RF16](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq16)                 |                            Descrição                             |
+|             [RQ16](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq16)                 |                            Descrição                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            Não se aplica                                             |
 |                 Tema                 |                                                       Não se aplica                                                  |
@@ -346,11 +346,11 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |   Nâo se aplica                                            |
 | Artefatos (elicitação de requisitos) |    [AI13](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/analiseUI/#AI13), [AI29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/analiseUI/#AI29)                                           |
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
 
-#### **RF17**
+#### **RQ17**
 
-|             [RF17](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq17)                 |                            Descrição                             |
+|             [RQ17](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq17)                 |                            Descrição                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            Não se aplica                                             |
 |                 Tema                 |                                                       Não se aplica                                                  |
@@ -360,11 +360,11 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |   Nâo se aplica                                            |
 | Artefatos (elicitação de requisitos) |   [AI15](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/analiseUI/#AI15)                                          |
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
 
-#### **RF18**
+#### **RQ18**
 
-|             [RF18](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq18)                 |                            Descrição                             |
+|             [RQ18](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq18)                 |                            Descrição                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            Não se aplica                                             |
 |                 Tema                 |                                                       Não se aplica                                                  |
@@ -374,12 +374,12 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |   Nâo se aplica                                            |
 | Artefatos (elicitação de requisitos) | [IS09](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS09), [ST03](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/storytelling/#ST03)|
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
 
 
-#### **RF28**
+#### **RQ28**
 
-|                 [RF28](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq28)                 |                            Alertar usuário sobre pontos suficientes para ingresso grátis e antes da expiração.                             |
+|                 [RQ28](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq28)                 |                            Alertar usuário sobre pontos suficientes para ingresso grátis e antes da expiração.                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-8-sistema-de-fidelidade-e-beneficios-cinemark-club)                                             |
 |                 Tema                 |                                                        Personalização da Experiência Cinemark                                                        |
@@ -389,11 +389,11 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                              Não se aplica                                               |
 | Artefatos (elicitação de requisitos) |                                            [IS20](../elicitação/introspecção.md#IS20) |
 
-<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
 
-#### **RF29**
+#### **RQ29**
 
-|                 [RF29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq29)                 |                            Sugerir cinemas com base no histórico de visitas e na localização atual.                             |
+|                 [RQ29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq29)                 |                            Sugerir cinemas com base no histórico de visitas e na localização atual.                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas)                                             |
 |                 Tema                 |                                                        Personalização da Experiência Cinemark                                                        |
@@ -403,11 +403,11 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                             [C09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#tabela-9-cenario-de-sugerir-cinemas-personalizados)                                              |
 | Artefatos (elicitação de requisitos) |                                            [IS21](../elicitação/introspecção.md#IS21) |
 
-<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
 
-#### **RF30**
+#### **RQ30**
 
-|                 [RF30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq30)                 |                            Permitir que o usuário salve cinemas como favoritos.                             |
+|                 [RQ30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq30)                 |                            Permitir que o usuário salve cinemas como favoritos.                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas)                                             |
 |                 Tema                 |                                                        Personalização da Experiência Cinemark                                                        |
@@ -417,11 +417,11 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                              [C10](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#tabela-10-cenario-de-permitir-salvar-cinemas-favoritos)                                               |
 | Artefatos (elicitação de requisitos) |                                            [IS22](../elicitação/introspecção.md#IS22) |
 
-<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
 
-#### **RF31**
+#### **RQ31**
 
-|                 [RF31](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq31)                 |                            Permitir notificações personalizadas (ex.: "avise-me quando o filme X entrar em cartaz").                             |
+|                 [RQ31](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq31)                 |                            Permitir notificações personalizadas (ex.: "avise-me quando o filme X entrar em cartaz").                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas)                                             |
 |                 Tema                 |                                                        Personalização da Experiência Cinemark                                                        |
@@ -431,11 +431,11 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                              Não se aplica                                               |
 | Artefatos (elicitação de requisitos) |                                            [IS23](../elicitação/introspecção.md#IS23) |
 
-<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
 
-#### **RF32**
+#### **RQ32**
 
-|                 [RF32](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq32)                 |                            Exibir recomendações de filmes baseadas em histórico e preferências.                             |
+|                 [RQ32](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq32)                 |                            Exibir recomendações de filmes baseadas em histórico e preferências.                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas)                                             |
 |                 Tema                 |                                                        Personalização da Experiência Cinemark                                                        |
@@ -445,11 +445,11 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                              [C05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#45-cenario-5-exibir-recomendacoes-de-filmes-baseadas-em-historico-e-preferencias)                                               |
 | Artefatos (elicitação de requisitos) |                                            [IS24](../elicitação/introspecção.md#IS24) |
 
-<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
 
-#### **RF33**
+#### **RQ33**
 
-|                 [RF33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq33)                 |                            Permitir alteração de preferências de idioma.                             |
+|                 [RQ33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq33)                 |                            Permitir alteração de preferências de idioma.                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E11](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#épico-11--configurações-de-idioma)                                             |
 |                 Tema                 |                                                        Configurações de Idioma                                                        |
@@ -459,11 +459,11 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                              [C4](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#44-cenário-4-alterar-preferências-de-idioma)                                               |
 | Artefatos (elicitação de requisitos) |                                            [IS25](../elicitação/introspecção.md#IS25) |
 
-<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
 
-#### **RF34**
+#### **RQ34**
 
-|                 [RF34](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq34)                 |                            Disponibilizar área dedicada ao Cinemark Club: ingressos, pontos acumulados e validade.                             |
+|                 [RQ34](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq34)                 |                            Disponibilizar área dedicada ao Cinemark Club: ingressos, pontos acumulados e validade.                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#épico-8-sistema-de-fidelidade-e-benefícios-cinemark-club)                                             |
 |                 Tema                 |                                                        Sistema de Fidelidade e Benefícios (Cinemark Club)                                                        |
@@ -473,11 +473,11 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                              Não se aplica                                               |
 | Artefatos (elicitação de requisitos) |                                            [IS12](../elicitação/introspecção.md#IS12) |
 
-<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
 
-#### **RF35**
+#### **RQ35**
 
-|                 [RF35](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq35)                 |                            Exibir notificações e promoções com título, descrição e validade.                             |
+|                 [RQ35](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq35)                 |                            Exibir notificações e promoções com título, descrição e validade.                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas)                                             |
 |                 Tema                 |                                                        Personalização da Experiência Cinemark                                                        |
@@ -487,11 +487,11 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                              Não se aplica                                               |
 | Artefatos (elicitação de requisitos) |                                            [AI32](../elicitação/analiseUI.md#AI32) |
 
-<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
 
-#### **RF36**
+#### **RQ36**
 
-|                 [RF36](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq36)                 |                            Impedir avanço para pagamento com carrinho vazio.                             |
+|                 [RQ36](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq36)                 |                            Impedir avanço para pagamento com carrinho vazio.                             |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#features)                                             |
 |                 Tema                 |                                                        Compra e Acompanhamento de Pedidos                                                        |
@@ -501,9 +501,135 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |               Cenários               |                                              Não se aplica                                               |
 | Artefatos (elicitação de requisitos) |                                            [AI30](../elicitação/analiseUI.md#AI30) |
 
-<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908) .</p></font>
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
+
+#### **RQ37**
+
+|                 [RQ37](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq37)                 |                            Criar e editar perfil do usuário, gerenciar dados pessoais e métodos de pagamento.                             |
+| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                Épico                 |                                            [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta)                                             |
+|                 Tema                 |                                                        	Gerenciamento de Perfil e Dados do Usuário                                                        |
+|         História de Usuário          | [US07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us07-criacao-de-conta-e-login-com-redes-sociais) Eu, como usuário, desejo acessar e editar meu perfil, incluindo dados pessoais e métodos de pagamento, para manter minhas informações atualizadas e facilitar compras futuras no aplicativo. |
+|                Léxico                |                                              Não se aplica                                                |
+|             Casos de uso             |                                            Não se aplica                                            |
+|               Cenários               |                                              Não se aplica                                               |
+| Artefatos (elicitação de requisitos) |                                            [AI31](../elicitação/analiseUI.md#AI31) |
+
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
+
+#### **RQ38**
+
+|                 [RQ38](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq38)                 |                            	Mensagens de erro claras e confirmações de ações para o usuário.                             |
+| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                Épico                 |                                            [E07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-7–feedback-do-sistema)                                             |
+|                 Tema                 |                                                        Mensagens de Feedback e Confirmações Visuais                                                        |
+|         História de Usuário          | [US36](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us36-mensagens-de-erro-e-confirmacao) Eu, como usuário, desejo receber mensagens de erro compreensíveis e confirmações visuais sempre que realizar uma ação, para entender claramente o que aconteceu e como proceder dentro do aplicativo. |
+|                Léxico                |                                              Não se aplica                                                |
+|             Casos de uso             |                                            Não se aplica                                            |
+|               Cenários               |                                              Não se aplica                                               |
+| Artefatos (elicitação de requisitos) |                                            [ST05](../elicitação/storytelling.md#ST05), [IS37](../elicitação/introspecção.md#IS37) |
+
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
+
+#### **RQ39**
+
+|                 [RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq39)                 |                            	Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas.                             |
+| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                Épico                 |                                            [E04](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-4-hub-de-conteudo-cinematografico)                                             |
+|                 Tema                 |                                                        	Avaliação de Filmes pelos Usuários                                                        |
+|         História de Usuário          | [US06](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us06-exibir-e-permitir-avaliações) Eu, como usuário, desejo visualizar avaliações de outros usuários e registrar minha própria nota para os filmes em uma escala de 1 a 5 estrelas, para compartilhar minha opinião e usar o feedback da comunidade ao escolher um filme. |
+|                Léxico                |                                              Não se aplica                                                |
+|             Casos de uso             |                                            Não se aplica                                            |
+|               Cenários               |                                              Não se aplica                                               |
+| Artefatos (elicitação de requisitos) |                                            [IS15](../elicitação/introspecção.md#IS15) |
+
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
 ### Requisitos Não Funcionais
+
+#### **RQ40**
+
+|                 [RQ40](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq40)                 |                            		Tempo de resposta de até 3 segundos em telas críticas (seleção de assentos, pagamento).                             |
+| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                Épico                 |                                            [E13](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-13-gerenciamento-de-compras)                                             |
+|                 Tema                 |                                                        	Desempenho em Telas Críticas de Compra                                                        |
+|         História de Usuário          | [US12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us12-fluxo-de-compra-simplificado) Eu, como usuário, desejo que telas críticas como seleção de assentos e pagamento carreguem em até 3 segundos, para que eu tenha uma experiência rápida e sem frustrações durante o processo de compra. |
+|                Léxico                |                                              Não se aplica                                                |
+|             Casos de uso             |                                            Não se aplica                                            |
+|               Cenários               |                                              Não se aplica                                               |
+| Artefatos (elicitação de requisitos) |                                            [IS29](../elicitação/introspecção.md#IS29), [Q09](../elicitação/questionario.md#Q09), [Q12](../elicitação/questionario.md#Q12) |
+
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
+
+#### **RQ41**
+
+|                 [RQ41](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq41)                 |                            	Garantir uptime de 99,5% para funções críticas.                             |
+| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                Épico                 |                                            [E13](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-13-gerenciamento-de-compras)                                             |
+|                 Tema                 |                                                        	Alta Disponibilidade em Funções Sensíveis                                                        |
+|         História de Usuário          | [US12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us12-fluxo-de-compra-simplificado) Eu, como usuário, desejo que as principais funcionalidades do aplicativo estejam sempre disponíveis, para que eu consiga realizar ações importantes como comprar ingressos ou acessar minha conta a qualquer momento. |
+|                Léxico                |                                              Não se aplica                                                |
+|             Casos de uso             |                                            Não se aplica                                            |
+|               Cenários               |                                              Não se aplica                                               |
+| Artefatos (elicitação de requisitos) |                                            [AI28](../elicitação/analiseUI.md#AI28) |
+
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
+
+#### **RQ42**
+
+|                 [RQ42](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq42)                 |                            		Sistema responsivo e adaptável a diferentes tamanhos de tela (smartphone e tablet).                             |
+| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                Épico                 |                                            [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas)                                             |
+|                 Tema                 |                                                        Responsividade em Diferentes Dispositivos                                                        |
+|         História de Usuário          | [US24](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us24-exibir-informações-do-filme) Eu, como usuário, desejo acessar o aplicativo em diferentes dispositivos, como smartphones e tablets, para ter uma experiência consistente e funcional independentemente do tamanho da tela. |
+|                Léxico                |                                              Não se aplica                                                |
+|             Casos de uso             |                                            Não se aplica                                            |
+|               Cenários               |                                              Não se aplica                                               |
+| Artefatos (elicitação de requisitos) |                                            [AI24](../elicitação/analiseUI.md#AI24) |
+
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
+
+#### **RQ43**
+
+|                 [RQ43](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq43)                 |                            	Interface intuitiva, com navegação fácil e boa usabilidade.                             |
+| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                Épico                 |                                            [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas)                                             |
+|                 Tema                 |                                                        Interface Intuitiva e Navegação Facilitada                                                        |
+|         História de Usuário          | [US10](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us10-filtrar-filmes-por-categoria) Eu, como usuário, desejo navegar pelo aplicativo de forma intuitiva e simples, para encontrar rapidamente as funcionalidades que preciso, sem confusão. |
+|                Léxico                |                                              Não se aplica                                                |
+|             Casos de uso             |                                            Não se aplica                                            |
+|               Cenários               |                                              Não se aplica                                               |
+| Artefatos (elicitação de requisitos) |                                            [IS28](../elicitação/introspecção.md#IS28) |
+
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
+
+#### **RQ44**
+
+|                 [RQ44](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq44)                 |                            	Interface acessível para pessoas com deficiência visual (leitores de tela) e baixo-visão.                             |
+| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                Épico                 |                                            [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas)                                             |
+|                 Tema                 |                                                        Acessibilidade para Usuários com Deficiência Visual                                                        |
+|         História de Usuário          | [US36](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us36-mensagens-de-erro-e-confirmacao) Eu, como usuário com deficiência visual, desejo que a interface seja compatível com leitores de tela e tenha elementos acessíveis, para que eu possa utilizar o aplicativo com autonomia. |
+|                Léxico                |                                              Não se aplica                                                |
+|             Casos de uso             |                                            Não se aplica                                            |
+|               Cenários               |                                              Não se aplica                                               |
+| Artefatos (elicitação de requisitos) |                                            [IS35](../elicitação/introspecção.md#IS35), [IS36](../elicitação/introspecção.md#IS36), [AI25](../elicitação/analiseUI.md#AI25), [ST05](../elicitação/storytelling.md#ST05) |
+
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
+
+#### **RQ45**
+
+|                 [RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq45)                 |                            	Contraste de interface conforme WCAG A/AA.                             |
+| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                Épico                 |                                            [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas)                                             |
+|                 Tema                 |                                                        	Contraste de Interface Adequado às Diretrizes WCAG                                                        |
+|         História de Usuário          | [US36](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us36-mensagens-de-erro-e-confirmacao) Eu, como usuário com baixa visão, desejo que os textos e elementos da interface tenham contraste adequado, para que eu possa enxergar e utilizar o sistema com conforto e clareza. |
+|                Léxico                |                                              Não se aplica                                                |
+|             Casos de uso             |                                            Não se aplica                                            |
+|               Cenários               |                                              Não se aplica                                               |
+| Artefatos (elicitação de requisitos) |                                            [AI25](../elicitação/analiseUI.md#AI25) |
+
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
 ---
 
@@ -524,3 +650,4 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 | `1.2`  |  06/06/2025 |  Adição da rastreabilidade dos requisitos [RQ01](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq01), [RQ02](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq02), [RQ03](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq03), [RQ04](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq04), [RQ05](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq05), [RQ06](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq06), [RQ07](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq07), [RQ08](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq08), [RQ09](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq09) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Pedro Everton](https://github.com/pedroeverton217) |
 | `1.3`  |  06/06/2025 |  Adição da rastreabilidade dos requisitos [RQ10](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq10), [RQ11](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq11), [RQ12](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq12), [RQ13](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq13), [RQ14](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq14), [RQ15](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq15), [RQ16](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq16), [RQ17](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq17), [RQ18](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq18) | [Arthur Evangelista](https://github.com/arthuevg) | [Pedro Everton](https://github.com/pedroeverton217) |
 | `1.4`  |  08/06/2025 |  Adição da rastreabilidade dos requisitos [RQ28](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq28), [RQ29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq29), [RQ30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq30), [RQ31](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq31), [RQ32](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq32), [RQ33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq33), [RQ34](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq34), [RQ35](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq35), [RQ36](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq36) | [Euller Júlio da Silva](https://github.com/Potatoyz908) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
+| `1.5`  |  08/06/2025  | Adição da rastreabilidade dos requisitos [RQ37](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq37), [RQ38](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq38), [RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq39), [RQ40](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq40), [RQ41](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq41), [RQ42](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq42), [RQ43](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq43), [RQ44](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq44), [RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq45) | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio da Silva](https://github.com/Potatoyz908) |
