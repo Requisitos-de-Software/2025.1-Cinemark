@@ -34,22 +34,23 @@ nav:
     - Especificação Suplementar: modelagem/especificaçãoSuplementar.md
     - Cenários: modelagem/cenarios.md
     - Léxicos: modelagem/lexicos.md
-  
-  - Modelagem Ágil:
-    - NFR Framework: modelagem/nfrFramework.md
-    - Backlog: modelagem/backlog.md
-    - Histórias de Usuário: modelagem/historias.md
+    - Modelagem Ágil:
+      - NFR Framework: modelagem/nfrFramework.md
+      - Backlog: modelagem/backlog.md
+      - Histórias de Usuário: modelagem/historias.md
 
-  - Pós-rastreabilidade:
+  - Rastreabilidade:
     - Backward-From: rastreabilidade/backward-from.md
     - Forward-From: rastreabilidade/forward-from.md
     - Matriz Geral de Rastreabilidade: rastreabilidade/matriz-geral.md
+    - Pós-Rastreabilidade: rastreabilidade/pos-rastreabilidade.md
 
   - Apresentação:
     - Entrega 01: apresentações/apresentação-01.md
     - Entrega 02: apresentações/apresentação-02.md
     - Entrega 03: apresentações/apresentação-03.md
     - Entrega 04: apresentações/apresentação-04.md
+    - Entrega 05: apresentações/apresentação-05.md
 
   - Verificação:
     - Grupo:
@@ -57,11 +58,13 @@ nav:
       - Entrega 02: verificações/lista-verificação-02.md
       - Entrega 03: verificações/lista-verificação-03.md
       - Entrega 04: verificações/lista-verificação-04.md
+      - Entrega 05: verificações/lista-verificação-05.md
     - Grupo+1:
       - Entrega 01: verificações/lista-verificação-01+1.md
       - Entrega 02: verificações/lista-verificação-02+1.md
       - Entrega 03: verificações/lista-verificação-03+1.md
       - Entrega 04: verificações/lista-verificação-04+1.md
+      - Entrega 05: verificações/lista-verificação-05+1.md
 
   - Inspeção:
     - Grupo:
@@ -69,11 +72,13 @@ nav:
       - Entrega 02: inspeções/inspeção-02.md
       - Entrega 03: inspeções/inspeção-03.md
       - Entrega 04: inspeções/inspeção-04.md
+      - Entrega 05: inspeções/inspeção-05.md
     - Grupo+1:
       - Entrega 01: inspeções/inspeção-grupo+1-01.md
       - Entrega 02: inspeções/inspeção-grupo+1-02.md
       - Entrega 03: inspeções/inspeção-grupo+1-03.md
       - Entrega 04: inspeções/inspeção-grupo+1-04.md
+      - Entrega 05: inspeções/inspeção-grupo+1-05.md
 
   - Atas:
     - Reunião 01: atas/Ata Reunião 01.md

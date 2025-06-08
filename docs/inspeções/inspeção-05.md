@@ -1,0 +1,63 @@
+# Inspeção do grupo
+
+## Introdução
+
+Abaixo se encontra a inspeção da entrega do grupo. A inspeção foi realizada no dia 08/06/2025 e foi feita com base na lista de verificação da entrega 5.
+
+---
+
+## 🔗 Link da reunião
+
+[Assista ao vídeo no YouTube]()
+
+---
+
+## Lista de Inspeção
+
+### Tabela 1: Lista de Inspeção — Backward-From
+
+| Item                                                                                                                    | Inspetor(es)                                                                                                                                                                                                                                                                                                                                                          | Data       | Revisor(es)        | Avaliação    |
+| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------ | ------------ |
+| **1.**  | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 08/06/2025 | [Tiago Antunes](https://github.com/TiagoBalieiro) |  |
+| **2.**  | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 08/06/2025 | [Pedro Everton](https://github.com/pedroeverton217) |  |
+| **3.**  | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 08/06/2025 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |  |
+
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+
+---
+
+### Tabela 2: Lista de Inspeção — Forward-From
+
+| Item                                                                                                                    | Inspetor(es)                                                                                                                                                                                                                                                                                                                                                          | Data       | Revisor(es)        | Avaliação    |
+| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------ | ------------ |
+| **1.**  | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 08/06/2025 | [Tiago Antunes](https://github.com/TiagoBalieiro) |  |
+| **2.**  | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 08/06/2025 | [Pedro Everton](https://github.com/pedroeverton217) |  |
+| **3.**  | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 08/06/2025 | [Pedro Everton](https://github.com/pedroeverton217) |  |
+
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+
+---
+
+### Tabela 3: Lista de Inspeção — Matriz Geral de Rastreabilidade
+
+| Item                                                                                                                    | Inspetor(es)                                                                                                                                                                                                                                                                                                                                                          | Data       | Revisor(es)        | Avaliação    |
+| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------ | ------------ |
+| **1.**  | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 08/06/2025 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |  |
+| **2.**  | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 08/06/2025 | [Euller Júlio](https://github.com/Potatoyz908) |  |
+| **3.**  | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 08/06/2025 | [Davi Camilo](https://github.com/Davicamilo23) |  |
+
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+
+---
+
+## Referências Bibliográficas
+
+
+
+---
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+|--------|------|-----------|-----------|-------------|
+| `1.0`  | 08/06/2025 | Criação do Documento com todas as listas de inspeção da Entrega 5 | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
