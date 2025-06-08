@@ -47,6 +47,10 @@ Para a construção do artefato de rastreabilidade Forward-From, foram seguidos 
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
 						<td>Elaborou a Introdução, Metodologia, Tabela Modelo para rastreabilidade Forward-From e a rastreablidade Forward-From dos Requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq01" target="_blank">RQ01</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq02" target="_blank">RQ02</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq03" target="_blank">RQ03</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq04" target="_blank">RQ04</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq05" target="_blank">RQ05</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq06" target="_blank">RQ06</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq07" target="_blank">RQ07</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq08" target="_blank">RQ08</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq09" target="_blank">RQ09</a>, </td>	
 					</tr>
+					<tr>
+						<td><a  href="https://github.com/pedroeverton217">Pedro Everton</a></td>
+						<td>Lorem Ipsum</td>
+					</tr>
 			</tbody>
 		</table>
 	</div>  
