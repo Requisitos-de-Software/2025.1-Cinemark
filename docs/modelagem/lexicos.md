@@ -181,7 +181,7 @@ Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 <p align="center"><br>
 Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 
-### 11. **Fornecer um Hub para crítica de filmes**
+### 11. **Fornecimento de um Hub para crítica de filmes**
 
 - **Tipo**: Objeto
 - **Sinônimos**: Central de Críticas, Seção de Avaliações, Espaço de Opiniões
@@ -203,7 +203,7 @@ Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 <p align="center"><br>
 Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 
-### 13. **Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial**
+### 13. **Acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial**
 
 - **Tipo**: Objeto
 - **Sinônimos**: Compra de ingressos, Seção de ingressos, Botão de ingressos
