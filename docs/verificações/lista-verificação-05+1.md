@@ -34,7 +34,9 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 
 | Item | Autor | Referência |
 |------|-------|------------|
-| **1.**  |  |  |
+| **5.** A matriz apresenta uma coluna com as **técnicas de elicitação** de cada requisito? | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 26. Universidade de Brasília, Campus Gama (UnB Gama). Material de aula. Slide 30. <br> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/verificacao/itemEntrega05tiago.png" alt="Referência do item" width="100px"> |
+
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), [Arthur Evangelista](https://github.com/arthurevg), [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
 <font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
@@ -52,3 +54,4 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 |--------|------|-----------|-----------|-------------|
 | `1.0`  | 08/06/2025 | Criação do Documento com todas as listas de verificação da Entrega 5 | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.1`  | 08/06/2025 | Adição de itens nas listas de verificação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.2`  | 08/06/2025 | Adição de itens nas listas de verificação | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)  |[Davi Camilo](https://github.com/Davicamilo23)  |
