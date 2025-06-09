@@ -41,7 +41,7 @@ Para a construção do artefato de rastreabilidade Forward-From, foram seguidos 
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
-						<td>Lorem Ipsum</td>
+						<td>Elaborou a rastreabilidade Foward-From dos seguintes requisitos: <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq19" target="_blank">RQ19</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq20" target="_blank">RQ20</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq21" target="_blank">RQ21</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq22" target="_blank">RQ22</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq23" target="_blank">RQ23</a> </td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
@@ -371,7 +371,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-5-gerenciamento-de-ingressos)|
 |                 Tema                 | Compra e Acompanhamento de Pedidos                                       |
-|         História de Usuário          | [US26](https://127.0.0.1:8000/modelagem/historias/#us26-salvamento-automatico-de-ingressos)                                     |
+|         História de Usuário          | [US26](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us26-salvamento-automatico-de-ingressos) Eu, como usuário do aplicativo Cinemark, desejo que meus ingressos sejam salvos automaticamente na seção “Meus Ingressos” após a confirmação da compra para acessá-los facilmente quando precisar apresentá-los no cinema.                                     |
 |                Léxico                |                                              Não se aplica                                             |
 |             Casos de uso             |  Não se aplica  |
 |               Cenários               |   Nâo se aplica                                            |
@@ -385,7 +385,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                           [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta)                                            |
 |                 Tema                 |                                                       Conta e Sessão do Usuário                                                 |
-|         História de Usuário          | [US07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us07-criacao-de-conta-e-login-com-redes-sociais)|
+|         História de Usuário          | [US07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us07-criacao-de-conta-e-login-com-redes-sociais) Eu, como usuário, desejo criar uma conta informando nome, e-mail, senha e CPF ou fazer login via Google/redes sociais para acessar o aplicativo de forma segura e rápida. |
 |                Léxico                |                                              Não se aplica                                             |
 |             Casos de uso             |             Não se aplica                                         |
 |               Cenários               |   Nâo se aplica                                            |
@@ -399,7 +399,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                           [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta)                                            |
 |                 Tema                 |                                                       Conta e Sessão do Usuário                                                 |
-|         História de Usuário          | [US08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us08-recuperacao-de-conta-via-e-mail-ou-cpf)|
+|         História de Usuário          | [US08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us08-recuperacao-de-conta-via-e-mail-ou-cpf) Eu, como usuário, desejo recuperar meu acesso ao aplicativo enviando um link de redefinição de senha por e-mail ou recuperando meu e-mail através do CPF para, então, redefinir minha senha com código para voltar a usar minha conta quando esquecer minhas credenciais. |
 |                Léxico                |                                              Não se aplica                                             |
 |             Casos de uso             |             Não se aplica                                         |
 |               Cenários               |   Nâo se aplica                                            |
@@ -413,11 +413,25 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                           [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta)                                            |
 |                 Tema                 |                                                       Conta e Sessão do Usuário                                                 |
-|         História de Usuário          | [US09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us09-exibir-historico-de-filmes-e-compras)|
+|         História de Usuário          | [US09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us09-exibir-historico-de-filmes-e-compras) Eu, como usuário autenticado, desejo visualizar meu histórico de filmes assistidos (com data, horário e cinema) e meu histórico de compras na bomboniere para acompanhar meus registros, visualizar minhas compras e avalar possíveis reembolsos. |
 |                Léxico                |                                              Não se aplica                                             |
 |             Casos de uso             |             Não se aplica                                         |
 |               Cenários               |   Nâo se aplica                                            |
 | Artefatos (elicitação de requisitos) | [IS13](../elicitação/introspecção.md#IS13), [IS14](../elicitação/introspecção.md#IS14)  |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
+#### **RQ23**
+
+|             [RQ23](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq23)                 |                            Filtrar filmes por categoria e exibir avaliações de público e plataformas externas.                     |
+| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                Épico                 |                                           [E02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-2-exploracao-de-filmes)                                            |
+|                 Tema                 |                                                       Exploração e Descoberta de Filmes                                               |
+|         História de Usuário          | [US10](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us10-filtrar-filmes-por-categoria) Eu, como usuário, desejo aplicar filtros por categoria de filme e visualizar avaliações de público e plataformas externas para encontrar rapidamente produções de meu interesse com base em reviews confiáveis. |
+|                Léxico                | [L03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#3-filtrar-filmes), [L04](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#4-avaliacoes-de-filmes)                                          |
+|             Casos de uso             |             Não se aplica                                         |
+|               Cenários               |   [UC01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#41-cenario-1-filtrar-filmes-por-categoria-e-exibir-avaliacoes)                                              |
+| Artefatos (elicitação de requisitos) | [IS15](../elicitação/introspecção.md#IS15)  |
 
 <font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
 
@@ -696,4 +710,4 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 | `1.4`  |  08/06/2025 |  Adição da rastreabilidade dos requisitos [RQ28](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq28), [RQ29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq29), [RQ30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq30), [RQ31](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq31), [RQ32](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq32), [RQ33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq33), [RQ34](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq34), [RQ35](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq35), [RQ36](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq36) | [Euller Júlio da Silva](https://github.com/Potatoyz908) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
 | `1.5`  |  08/06/2025  | Adição da rastreabilidade dos requisitos [RQ37](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq37), [RQ38](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq38), [RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq39), [RQ40](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq40), [RQ41](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq41), [RQ42](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq42), [RQ43](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq43), [RQ44](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq44), [RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq45) | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio da Silva](https://github.com/Potatoyz908) |
 | `1.6` | 08/06/2025 | Ajuste na rastreabilidade de léxicos, casos de uso e cenários nos requisitos 37 a 45 | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio da Silva](https://github.com/Potatoyz908) |
-| `1.7` | 08/06/2025 | Adiciona rastreabilidade dos requisitos: RQ19,RQ20,RQ21 | [Gabriel Castelo](https://github.com/GabrielCastelo-31)| [Euller Júlio da Silva](https://github.com/Potatoyz908) |
+| `1.7` | 08/06/2025 | Adiciona rastreabilidade dos requisitos: RQ19,RQ20,RQ21,RQ22,RQ23 | [Gabriel Castelo](https://github.com/GabrielCastelo-31)| [Euller Júlio da Silva](https://github.com/Potatoyz908) |
