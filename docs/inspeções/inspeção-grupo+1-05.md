@@ -64,8 +64,11 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 | **1.**  | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 08/06/2025 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |  |
 | **2.**  | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 08/06/2025 | [Euller Júlio](https://github.com/Potatoyz908) |  |
 | **3.**  | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 08/06/2025 | [Davi Camilo](https://github.com/Davicamilo23) |  |
+| **5.**  A matriz apresenta uma coluna com as **técnicas de elicitação** de cada requisito?  | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 08/06/2025 | [Davi Camilo](https://github.com/Davicamilo23) |  |
 
-<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), [Arthur Evangelista](https://github.com/arthurevg), [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
+
 
 ***
 
@@ -85,3 +88,4 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 |--------|------|-----------|-----------|-------------|
 | `1.0`  | 08/06/2025 | Criação do Documento com todas as listas de inspeção da Entrega 5 | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.1`  | 08/06/2025 | Adição de itens nas listas de inspeção | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.2`  | 08/06/2025 | Adição de itens nas listas de verificação | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)  |[Davi Camilo](https://github.com/Davicamilo23)  |
