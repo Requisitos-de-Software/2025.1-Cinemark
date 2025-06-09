@@ -73,7 +73,8 @@ Essa abordagem metodológica permite visualizar de forma clara e organizada como
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthuevg">Arthur Evangelista</a></td>
-						<td>Lorem Ipsum</td>
+						<td>Elaborou a Pós-Rastreablidade dos Requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq10" target="_blank">RQ10</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq11" target="_blank">RQ11</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq12" target="_blank">RQ12</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq13" target="_blank">RQ13</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq14" target="_blank">RQ14</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq15" target="_blank">RQ15</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq16" target="_blank">RQ16</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq17" target="_blank">RQ17</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq18" target="_blank">RQ18</a>.</td>
+					</tr>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
@@ -251,7 +252,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
-#### **RQ39 - 	Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas**
+#### **RQ39 -  Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas**
 
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
