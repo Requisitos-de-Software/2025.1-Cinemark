@@ -2,7 +2,24 @@
 
 ## Introdução
 
-Lorem Ipsum Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A **rastreabilidade backward-from** (para trás, a partir de) descreve o processo de vincular um requisito à sua fonte ou origem. Esse tipo de rastreabilidade é fundamental para entender o contexto e a justificativa por trás de cada requisito, permitindo que a equipe de desenvolvimento compreenda por que um requisito foi criado e quais necessidades ele visa atender.
+
+Em essência, a rastreabilidade backward-from permite que, a partir de um requisito já documentado, seja possível rastrear sua "vida" em direção ao passado, respondendo a perguntas como:
+
+* **Quem** sugeriu o requisito?
+* **De qual artefato** ou discussão ele se originou?
+* **Por que** o requisito existe?
+
+As fontes de um requisito podem incluir planos de negócio, documentos de estratégia da empresa, legislação, atas de reuniões, ou solicitações diretas de stakeholders.
+
+### Aplicações e Vantagens
+
+A principal vantagem da rastreabilidade backward-from é garantir que cada requisito tenha uma justificativa clara e documentada. Isso auxilia em diversas atividades do desenvolvimento de software:
+
+* **Resolução de conflitos**: Permite identificar as origens de requisitos conflitantes, o que ajuda na busca por uma solução de consenso.
+* **Análise de impacto**: Ao entender a origem e a motivação de um requisito, torna-se mais fácil avaliar as consequências de uma possível mudança ou exclusão.
+* **Identificação de "gold-plating"**: Ajuda a identificar requisitos que não contribuem para nenhum objetivo de negócio ou não estão associados a nenhuma fonte, ou seja, requisitos que não precisariam ser implementados.
+* **Gerenciamento do conhecimento**: Estabelece uma base para o gerenciamento do conhecimento organizacional, conectando as necessidades dos usuários à evolução do sistema.
 
 ## Metodologia
 
@@ -172,6 +189,11 @@ Na Tabela 3, apresentamos a matriz de rastreabilidade backward-from, que relacio
 | [RQ66](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ66) | xxxxx | xxxxx | xxxxx |
 | [RQ67](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ67) | xxxxx | xxxxx | xxxxx |
 
+## Referências Bibliográficas
+
+> **SAYÃO, Miriam; LEITE, Julio Cesar Sampaio do Prado.** Rastreabilidade de requisitos. Rio de Janeiro: Departamento de Informática, Pontifícia Universidade Católica do Rio de Janeiro, 2005. (Monografias em Ciência da Computação, n. 20/05). ISSN 0103-9741.
+> **SERRANO, Milene; SERRANO, Maurício.** Requisitos – Aula 26. Universidade de Brasília, Campus Gama (UnB Gama). Material de aula.
+
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
@@ -184,4 +206,6 @@ Na Tabela 3, apresentamos a matriz de rastreabilidade backward-from, que relacio
 | `1.5`  |  08/06/2025 |  Adição de rastreabilidade dos requisitos RQ28 a RQ36  | [Euller Júlio](https://github.com/Potatoyz908) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.6`  |  08/06/2025 |  Adição de rastreabilidade dos requisitos RQ10 a RQ18  | [Arthur Evangelista](https://github.com/arthurevg) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.7`  |  08/06/2025 |  Adição de rastreabilidade dos requisitos RQ37 a RQ45  | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+
 | `1.8`  |  08/06/2025 |  Adição de rastreabilidade dos requisitos RQ01 a RQ09  | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Euller Júlio](https://github.com/Potatoyz908) |
+
