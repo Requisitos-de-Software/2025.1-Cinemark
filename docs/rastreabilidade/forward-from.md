@@ -395,7 +395,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 #### **RQ21**
 
-|             [RQ20](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq20)                 |                            Recuperação de conta: enviar link de redefinição de senha por e-mail, recuperar e-mail via CPF e redefinir com código.                            |
+|             [RQ21](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq21)                 |                            Recuperação de conta: enviar link de redefinição de senha por e-mail, recuperar e-mail via CPF e redefinir com código.                            |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                           [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta)                                            |
 |                 Tema                 |                                                       Conta e Sessão do Usuário                                                 |
@@ -404,6 +404,20 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |             Casos de uso             |             Não se aplica                                         |
 |               Cenários               |   Nâo se aplica                                            |
 | Artefatos (elicitação de requisitos) | [AI18](../elicitação/analiseUI.md#AI18), [AI19](../elicitação/analiseUI.md#AI19), [AI20](../elicitação/analiseUI.md#AI20) |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
+#### **RQ22**
+
+|             [RQ22](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq22)                 |                            Exibir histórico de filmes assistidos (data, horário, cinema) e histórico de compras na bomboniere.                      |
+| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                Épico                 |                                           [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta)                                            |
+|                 Tema                 |                                                       Conta e Sessão do Usuário                                                 |
+|         História de Usuário          | [US09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us09-exibir-historico-de-filmes-e-compras)|
+|                Léxico                |                                              Não se aplica                                             |
+|             Casos de uso             |             Não se aplica                                         |
+|               Cenários               |   Nâo se aplica                                            |
+| Artefatos (elicitação de requisitos) | [IS13](../elicitação/introspecção.md#IS13), [IS14](../elicitação/introspecção.md#IS14)  |
 
 <font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
 

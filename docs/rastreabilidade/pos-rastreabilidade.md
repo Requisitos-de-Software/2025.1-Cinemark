@@ -73,7 +73,8 @@ Essa abordagem metodológica permite visualizar de forma clara e organizada como
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthuevg">Arthur Evangelista</a></td>
-						<td>Lorem Ipsum</td>
+						<td>Elaborou a Pós-Rastreablidade dos Requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq10" target="_blank">RQ10</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq11" target="_blank">RQ11</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq12" target="_blank">RQ12</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq13" target="_blank">RQ13</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq14" target="_blank">RQ14</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq15" target="_blank">RQ15</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq16" target="_blank">RQ16</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq17" target="_blank">RQ17</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq18" target="_blank">RQ18</a>.</td>
+					</tr>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
@@ -108,6 +109,123 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 
 ### Requisitos Funcionais
 
+#### **RQ10 - Armazenar cartões de pagamento cadastrados para uso em compras futuras.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | - |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+
+#### **RQ11 - Permitir compra de múltiplos ingressos em uma única transação.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | - |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+
+#### **RQ12 - Exibir mapa da sala com indicação gráfica de assentos ocupados, livres e especiais, e permitir seleção pelos usuários.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | - |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+
+#### **RQ13 - Exigir seleção de ao menos um assento antes de prosseguir.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | - |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+
+#### **RQ14 - Definir tipo de ingresso por assento (inteira, meia, convênio, voucher).**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | - |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+
+#### **RQ15 - Integrar bomboniere ao app para compra antecipada de itens e retirada rápida.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | - |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+
+#### **RQ16 - Exibir resumo da compra e permitir aplicação de cupom de desconto.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | - |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+
+#### **RQ17 - Gerar QR Code e chave Pix para pagamentos via Pix.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | - |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+
+#### **RQ18 - Disponibilizar ingresso digital no app, eliminando a necessidade de impressão.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | - |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+
 #### **RQ37 - Criar e editar perfil do usuário, gerenciar dados pessoais e métodos de pagamento**
 
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
@@ -134,7 +252,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
-#### **RQ39 - 	Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas**
+#### **RQ39 -  Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas**
 
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
@@ -243,3 +361,4 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |  08/06/2025 |  Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.1`  |  08/06/2025 | Adição da introdução, metodologia, modelo de pós-rastreabilidade, tabela dos integrantes e tabelas relacionadas aos requisitos 37 a 45 | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+| `1.2`  |  08/06/2025 | Adição das tabelas relacionadas aos requisitos 10 ao 18 | [Arthur Evangelista](https://github.com/arthurevg) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
