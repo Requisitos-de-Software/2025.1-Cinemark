@@ -126,7 +126,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |                Léxico                |                                              Não se aplica                                                |
 |             Casos de uso             |                                            Não se aplica                                       |
 |               Cenários               |                                              Não se aplica                                               |
-| Artefatos (elicitação de requisitos) |                                            Não se aplica
+| Artefatos (elicitação de requisitos) |    [IS01](../elicitação/introspecção.md#IS01), [AI01](../elicitação/analiseUI.md#AI01)   |     
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
