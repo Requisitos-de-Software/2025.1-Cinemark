@@ -68,32 +68,12 @@ Essa abordagem metodológica permite visualizar de forma clara e organizada como
 			</thead>
 		<tbody>
 					<tr>
-						<td><a  href="https://github.com/ArturDCR">Artur de Camargos</a></td>
-						<td>Lorem Ipsum</td>
-					</tr>
-					<tr>
 						<td><a  href="https://github.com/arthuevg">Arthur Evangelista</a></td>
-						<td>Lorem Ipsum</td>
+						<td>Elaborou a Pós-Rastreablidade dos Requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq10" target="_blank">RQ10</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq11" target="_blank">RQ11</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq12" target="_blank">RQ12</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq13" target="_blank">RQ13</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq14" target="_blank">RQ14</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq15" target="_blank">RQ15</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq16" target="_blank">RQ16</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq17" target="_blank">RQ17</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq18" target="_blank">RQ18</a>.</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
 						<td>Elaborou a introdução, a metodologia e o modelo de pós-rastreabilidade. Também elaborou a Pós-Rastreablidade dos Requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq37" target="_blank">RQ37</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq38" target="_blank">RQ38</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq39" target="_blank">RQ39</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq40" target="_blank">RQ40</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq41" target="_blank">RQ41</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq42" target="_blank">RQ42</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq43" target="_blank">RQ43</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq44" target="_blank">RQ44</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq45" target="_blank">RQ45</a>.</td>
-					</tr>
-					<tr>
-						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
-						<td>Lorem Ipsum</td>
-					</tr>
-					<tr>
-						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
-						<td>Lorem Ipsum</td>
-					</tr>
-					<tr>
-						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
-						<td> Lorem Ipsum</td>
-					</tr>
-					<tr>
-						<td><a  href="https://github.com/pedroeverton217">Pedro Everton</a></td>
-						<td>Lorem Ipsum</td>
 					</tr>
 			</tbody>
 		</table>
@@ -108,7 +88,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 
 ### Requisitos Funcionais
 
-#### **RQ37 - Criar e editar perfil do usuário, gerenciar dados pessoais e métodos de pagamento**
+#### **RQ10 - Armazenar cartões de pagamento cadastrados para uso em compras futuras.**
 
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
@@ -118,6 +98,123 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Representação | - |
 | Alocado | - |
 | Agregação | - |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+
+#### **RQ11 - Permitir compra de múltiplos ingressos em uma única transação.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | - |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+
+#### **RQ12 - Exibir mapa da sala com indicação gráfica de assentos ocupados, livres e especiais, e permitir seleção pelos usuários.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | - |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+
+#### **RQ13 - Exigir seleção de ao menos um assento antes de prosseguir.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | - |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+
+#### **RQ14 - Definir tipo de ingresso por assento (inteira, meia, convênio, voucher).**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | - |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+
+#### **RQ15 - Integrar bomboniere ao app para compra antecipada de itens e retirada rápida.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | - |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+
+#### **RQ16 - Exibir resumo da compra e permitir aplicação de cupom de desconto.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | - |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+
+#### **RQ17 - Gerar QR Code e chave Pix para pagamentos via Pix.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | - |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+
+#### **RQ18 - Disponibilizar ingresso digital no app, eliminando a necessidade de impressão.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | - |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+
+#### **RQ37 - Criar e editar perfil do usuário, gerenciar dados pessoais e métodos de pagamento**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | [L23](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#23-usuario) |
+| Recurso | [US07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us07-criacao-de-conta-e-login-com-redes-sociais) |
+| Representação | - |
+| Alocado | [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta) |
+| Agregação | [AI31](../elicitação/analiseUI.md#AI31) |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
@@ -126,24 +223,24 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
-| Recurso | - |
+| Satisfação | [L23](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#23-usuario) |
+| Recurso | [US36](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us36-mensagens-de-erro-e-confirmacao) |
 | Representação | - |
-| Alocado | - |
-| Agregação | - |
+| Alocado | [E07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-7–feedback-do-sistema) |
+| Agregação | [ST05](../elicitação/storytelling.md#ST05), [IS37](../elicitação/introspecção.md#IS37) |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
-#### **RQ39 - 	Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas**
+#### **RQ39 -  Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas**
 
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
-| Recurso | - |
+| Satisfação | [UC08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/casosDeUso/#tabela-10-permitir-que-usuarios-avaliem-filmes-com-escala-de-1-a-5-estrelas), [C12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#412-cenario-12-exibir-avaliacoes-e-permitir-que-usuarios-avaliem-filmes-com-escala-de-1-a-5-estrelas), [L4](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#4-avaliacoes-de-filmes), [L22](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#22-avaliar-filmes), [L23](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#23-usuario) |
+| Recurso | [US06](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us06-exibir-e-permitir-avaliacoes) |
 | Representação | - |
-| Alocado | - |
-| Agregação | - |
+| Alocado | [E04](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-4-hub-de-conteudo-cinematografico) |
+| Agregação | [IS15](../elicitação/introspecção.md#IS15) |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
@@ -154,11 +251,11 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
+| Satisfação | [Especificação Suplementar - Desempenho](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especifica%C3%A7%C3%A3oSuplementar/#7-desempenho) |
 | Recurso | - |
 | Representação | - |
 | Alocado | - |
-| Agregação | - |
+| Agregação | [IS29](../elicitação/introspecção.md#IS29), [Q09](../elicitação/questionario.md#Q09), [Q12](../elicitação/questionario.md#Q12) |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
@@ -167,11 +264,11 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
+| Satisfação | [Especificação Suplementar - Confiabilidade](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especifica%C3%A7%C3%A3oSuplementar/#6-confiabilidade) |
 | Recurso | - |
 | Representação | - |
 | Alocado | - |
-| Agregação | - |
+| Agregação | [AI28](../elicitação/analiseUI.md#AI28) |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
@@ -180,11 +277,11 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
+| Satisfação | [Especificação Suplementar - Usabilidade](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especifica%C3%A7%C3%A3oSuplementar/#5-usabilidade) |
 | Recurso | - |
 | Representação | - |
-| Alocado | - |
-| Agregação | - |
+| Alocado | [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas) |
+| Agregação | [AI24](../elicitação/analiseUI.md#AI24) |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
@@ -193,11 +290,11 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
+| Satisfação | [Especificação Suplementar - Usabilidade](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especifica%C3%A7%C3%A3oSuplementar/#5-usabilidade), [L13](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#13-acesso-aos-ingressos-facil-e-visivel-na-interface-com-botao-dedicado-ou-atalho-no-menu-inicial), [L14](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#14-tornar-o-acesso-aos-ingressos-facil-e-visivel-na-interface-com-botao-dedicado-ou-atalho-no-menu-inicial), [UC12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/casosDeUso/#tabela-14-tornar-o-acesso-aos-ingressos-facil-e-visivel-na-interface-com-botao-dedicado-ou-atalho-no-menu-inicial), [C8](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#48-cenario-8-tornar-o-acesso-aos-ingressos-facil-e-visivel-na-interface-com-botao-dedicado-ou-atalho-no-menu-inicial) |
 | Recurso | - |
 | Representação | - |
-| Alocado | - |
-| Agregação | - |
+| Alocado | [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas) |
+| Agregação | [IS28](../elicitação/introspecção.md#IS28) |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
@@ -206,11 +303,11 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
+| Satisfação | [Especificação Suplementar - Usabilidade](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especifica%C3%A7%C3%A3oSuplementar/#5-usabilidade) |
 | Recurso | - |
 | Representação | - |
-| Alocado | - |
-| Agregação | - |
+| Alocado | [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas) |
+| Agregação | [IS35](../elicitação/introspecção.md#IS35), [IS36](../elicitação/introspecção.md#IS36), [AI25](../elicitação/analiseUI.md#AI25), [ST05](../elicitação/storytelling.md#ST05) |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
@@ -219,11 +316,11 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
-| Recurso | - |
+| Satisfação | [Especificação Suplementar - Usabilidade](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especifica%C3%A7%C3%A3oSuplementar/#5-usabilidade) |
+| Recurso | [US37](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us37-garantir-contraste-visual-adequado) |
 | Representação | - |
-| Alocado | - |
-| Agregação | - |
+| Alocado | [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas) |
+| Agregação | [AI25](../elicitação/analiseUI.md#AI25) |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
@@ -243,3 +340,4 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |  08/06/2025 |  Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.1`  |  08/06/2025 | Adição da introdução, metodologia, modelo de pós-rastreabilidade, tabela dos integrantes e tabelas relacionadas aos requisitos 37 a 45 | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+| `1.2`  |  08/06/2025 | Adição das tabelas relacionadas aos requisitos 10 ao 18 | [Arthur Evangelista](https://github.com/arthurevg) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |

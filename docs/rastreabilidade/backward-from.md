@@ -60,10 +60,6 @@ Na Tabela 1, é apresentado o modelo de matriz de rastreabilidade backward-from 
 			</thead>
 		<tbody>
 					<tr>
-						<td><a  href="https://github.com/ArturDCR">Artur de Camargos</a></td>
-						<td>Lorem Ipsum</td>
-					</tr>
-					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
 						<td>Adicionou rastreabilidade dos seguintes requisitos: <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ10">RQ10</a>,
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ11">RQ11</a>,
@@ -101,10 +97,6 @@ Na Tabela 1, é apresentado o modelo de matriz de rastreabilidade backward-from 
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ08">RQ08</a> e
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ09">RQ09</a>.
 						</td>
-					</tr>
-					<tr>
-						<td><a  href="https://github.com/pedroeverton217">Pedro Everton</a></td>
-						<td>Lorem Ipsum</td>
 					</tr>
 			</tbody>
 		</table>
