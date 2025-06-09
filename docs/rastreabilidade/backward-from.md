@@ -48,7 +48,7 @@ Na Tabela 1, é apresentado o modelo de matriz de rastreabilidade backward-from 
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
-						<td>Adicionou rastreabilidade dos requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ10">RQ10</a>,
+						<td>Adicionou rastreabilidade dos seguintes requisitos: <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ10">RQ10</a>,
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ11">RQ11</a>,
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ12">RQ12</a>,
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ13">RQ13</a>,
@@ -57,17 +57,16 @@ Na Tabela 1, é apresentado o modelo de matriz de rastreabilidade backward-from 
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ15">RQ15</a>,
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ16">RQ16</a>,
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ17">RQ17</a> e
-						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ18">RQ18</a>
-						na Tabela 3
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ18">RQ18</a>.
 						</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
-						<td>Adicionou rastreabilidade dos requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ37">RQ37</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ38">RQ38</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ39">RQ39</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ40">RQ40</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ41">RQ41</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ42">RQ42</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ43">RQ43</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ44">RQ44</a> e <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ45">RQ45</a> na matriz backward-from.</td>
+						<td>Adicionou rastreabilidade dos seguintes requisitos: <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ37">RQ37</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ38">RQ38</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ39">RQ39</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ40">RQ40</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ41">RQ41</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ42">RQ42</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ43">RQ43</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ44">RQ44</a> e <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ45">RQ45</a>.</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
-						<td>Adicionou rastreabilidade dos requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ28">RQ28</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ29">RQ29</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ30">RQ30</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ31">RQ31</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ32">RQ32</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ33">RQ33</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ34">RQ34</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ35">RQ35</a> e <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ36">RQ36</a> na matriz backward-from.</td>
+						<td>Adicionou rastreabilidade dos seguintes requisitos: <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ28">RQ28</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ29">RQ29</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ30">RQ30</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ31">RQ31</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ32">RQ32</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ33">RQ33</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ34">RQ34</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ35">RQ35</a> e <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ36">RQ36</a>.</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
@@ -75,7 +74,16 @@ Na Tabela 1, é apresentado o modelo de matriz de rastreabilidade backward-from 
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
-						<td> Lorem Ipsum</td>
+						<td>Adicionou rastreabilidade dos seguintes requisitos: <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ01">RQ01</a>,
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ02">RQ02</a>,
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ03">RQ03</a>,
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ04">RQ04</a>,
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ05">RQ05</a>,
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ06">RQ06</a>,
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ07">RQ07</a>,
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ08">RQ08</a> e
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ09">RQ09</a>.
+						</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/pedroeverton217">Pedro Everton</a></td>
@@ -96,15 +104,15 @@ Na Tabela 3, apresentamos a matriz de rastreabilidade backward-from, que relacio
 
 | **ID do Requisito** | **Descrição do Requisito** | **Fontes de Origem** | **Atividade de Elicitação** |
 |---------------------|----------------------------|-----------------------|----------------------|
-| [RQ01](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ01) | xxxxx | xxxxx | xxxxx |
-| [RQ02](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ02) | xxxxx | xxxxx | xxxxx |
-| [RQ03](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ03) | xxxxx | xxxxx | xxxxx |
-| [RQ04](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ04) | xxxxx | xxxxx | xxxxx |
-| [RQ05](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ05) | xxxxx | xxxxx | xxxxx |
-| [RQ06](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ06) | xxxxx | xxxxx | xxxxx |
-| [RQ07](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ07) | xxxxx | xxxxx | xxxxx |
-| [RQ08](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ08) | xxxxx | xxxxx | xxxxx |
-| [RQ09](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ09) | xxxxx | xxxxx | xxxxx |
+| [RQ01](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ01) | Exibir na tela inicial filmes em cartaz, com pôsteres, novidades e promoções. | [IS01](../elicitação/introspecção.md#IS01), [AI01](../elicitação/analiseUI.md#AI01) | Instrospecção, Análise de Interface |
+| [RQ02](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ02) | Detectar localização automaticamente e permitir alteração manual. |  [IS02](../elicitação/introspecção.md#IS02), [AI02](../elicitação/analiseUI.md#AI02) | Instrospecção, Análise de Interface |
+| [RQ03](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ03) | Navegar por abas: Home, Filmes, Cinemas, Snack Bar, Club e Mais. | [AI03](../elicitação/analiseUI.md#AI03) | Análise de Interface |
+| [RQ04](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ04) | Autenticar usuário por e-mail e senha. | [AI04](../elicitação/analiseUI.md#AI04) | Análise de Interface |
+| [RQ05](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ05) | Buscar filmes por nome. | [AI05](../elicitação/analiseUI.md#AI05) | Análise de Interface |
+| [RQ06](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ06) | Listar filmes em cartaz, pré-venda e futuros lançamentos. | [AI06](../elicitação/analiseUI.md#AI06) | Análise de Interface |
+| [RQ07](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ07) | Exibir informações do filme (título, sinopse, gênero, duração, direção, elenco, distribuidor, origem). | [IS03](../elicitação/introspecção.md#IS03), [AI07](../elicitação/analiseUI.md#AI07) | Instrospecção, Análise de Interface |
+| [RQ08](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ08) | Exibir sessões com data, horário, idioma, formato e sala. | [IS04](../elicitação/introspecção.md#IS04), [ST01](../elicitação/storytelling.md#ST01), [AI08](../elicitação/analiseUI.md#AI08), [Q01](../elicitação/questionario.md#Q01) | Introspecção, Storytelling, Análise de Interface, Questionário |
+| [RQ09](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ09) | Permitir compra de ingressos com cartão de crédito, débito ou Pix. | [IS05](../elicitação/introspecção.md#IS05), [AI14](../elicitação/analiseUI.md#AI14), [Q02](../elicitação/questionario.md#Q02) | Introspecção, Análise de Interface, Questionário |
 | [RQ10](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ10) | Armazenar cartões de pagamento cadastrados para uso em compras futuras. | [IS06](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS06) | Introspecção |
 | [RQ11](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ11) | Permitir compra de múltiplos ingressos em uma única transação. | [IS07](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS07) | Introspecção |
 | [RQ12](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ12) |Exibir mapa da sala com indicação gráfica de assentos ocupados, livres e especiais, e permitir seleção pelos usuários. | [IS08](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS08), [AI09](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/analiseUI/#AI09) | Introspecção, Análise de Interface |
@@ -176,3 +184,4 @@ Na Tabela 3, apresentamos a matriz de rastreabilidade backward-from, que relacio
 | `1.5`  |  08/06/2025 |  Adição de rastreabilidade dos requisitos RQ28 a RQ36  | [Euller Júlio](https://github.com/Potatoyz908) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.6`  |  08/06/2025 |  Adição de rastreabilidade dos requisitos RQ10 a RQ18  | [Arthur Evangelista](https://github.com/arthurevg) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.7`  |  08/06/2025 |  Adição de rastreabilidade dos requisitos RQ37 a RQ45  | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.8`  |  08/06/2025 |  Adição de rastreabilidade dos requisitos RQ01 a RQ09  | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Euller Júlio](https://github.com/Potatoyz908) |
