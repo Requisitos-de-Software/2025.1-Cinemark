@@ -113,11 +113,11 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
-| Recurso | - |
+| Satisfação | [L23](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#23-usuario) |
+| Recurso | [US07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us07-criacao-de-conta-e-login-com-redes-sociais) |
 | Representação | - |
-| Alocado | - |
-| Agregação | - |
+| Alocado | [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta) |
+| Agregação | [AI31](../elicitação/analiseUI.md#AI31) |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
@@ -126,11 +126,11 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
-| Recurso | - |
+| Satisfação | [L23](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#23-usuario) |
+| Recurso | [US36](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us36-mensagens-de-erro-e-confirmacao) |
 | Representação | - |
-| Alocado | - |
-| Agregação | - |
+| Alocado | [E07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-7–feedback-do-sistema) |
+| Agregação | [ST05](../elicitação/storytelling.md#ST05), [IS37](../elicitação/introspecção.md#IS37) |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
@@ -139,11 +139,11 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
-| Recurso | - |
+| Satisfação | [UC08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/casosDeUso/#tabela-10-permitir-que-usuarios-avaliem-filmes-com-escala-de-1-a-5-estrelas), [C12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#412-cenario-12-exibir-avaliacoes-e-permitir-que-usuarios-avaliem-filmes-com-escala-de-1-a-5-estrelas), [L4](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#4-avaliacoes-de-filmes), [L22](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#22-avaliar-filmes), [L23](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#23-usuario) |
+| Recurso | [US06](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us06-exibir-e-permitir-avaliacoes) |
 | Representação | - |
-| Alocado | - |
-| Agregação | - |
+| Alocado | [E04](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-4-hub-de-conteudo-cinematografico) |
+| Agregação | [IS15](../elicitação/introspecção.md#IS15) |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
@@ -154,11 +154,11 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
+| Satisfação | [Especificação Suplementar - Desempenho](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especifica%C3%A7%C3%A3oSuplementar/#7-desempenho) |
 | Recurso | - |
 | Representação | - |
 | Alocado | - |
-| Agregação | - |
+| Agregação | [IS29](../elicitação/introspecção.md#IS29), [Q09](../elicitação/questionario.md#Q09), [Q12](../elicitação/questionario.md#Q12) |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
@@ -167,11 +167,11 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
+| Satisfação | [Especificação Suplementar - Confiabilidade](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especifica%C3%A7%C3%A3oSuplementar/#6-confiabilidade) |
 | Recurso | - |
 | Representação | - |
 | Alocado | - |
-| Agregação | - |
+| Agregação | [AI28](../elicitação/analiseUI.md#AI28) |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
@@ -180,11 +180,11 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
+| Satisfação | [Especificação Suplementar - Usabilidade](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especifica%C3%A7%C3%A3oSuplementar/#5-usabilidade) |
 | Recurso | - |
 | Representação | - |
-| Alocado | - |
-| Agregação | - |
+| Alocado | [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas) |
+| Agregação | [AI24](../elicitação/analiseUI.md#AI24) |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
@@ -193,11 +193,11 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
+| Satisfação | [Especificação Suplementar - Usabilidade](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especifica%C3%A7%C3%A3oSuplementar/#5-usabilidade), [L13](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#13-acesso-aos-ingressos-facil-e-visivel-na-interface-com-botao-dedicado-ou-atalho-no-menu-inicial), [L14](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#14-tornar-o-acesso-aos-ingressos-facil-e-visivel-na-interface-com-botao-dedicado-ou-atalho-no-menu-inicial), [UC12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/casosDeUso/#tabela-14-tornar-o-acesso-aos-ingressos-facil-e-visivel-na-interface-com-botao-dedicado-ou-atalho-no-menu-inicial), [C8](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#48-cenario-8-tornar-o-acesso-aos-ingressos-facil-e-visivel-na-interface-com-botao-dedicado-ou-atalho-no-menu-inicial) |
 | Recurso | - |
 | Representação | - |
-| Alocado | - |
-| Agregação | - |
+| Alocado | [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas) |
+| Agregação | [IS28](../elicitação/introspecção.md#IS28) |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
@@ -206,11 +206,11 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
+| Satisfação | [Especificação Suplementar - Usabilidade](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especifica%C3%A7%C3%A3oSuplementar/#5-usabilidade) |
 | Recurso | - |
 | Representação | - |
-| Alocado | - |
-| Agregação | - |
+| Alocado | [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas) |
+| Agregação | [IS35](../elicitação/introspecção.md#IS35), [IS36](../elicitação/introspecção.md#IS36), [AI25](../elicitação/analiseUI.md#AI25), [ST05](../elicitação/storytelling.md#ST05) |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
@@ -219,11 +219,11 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
-| Recurso | - |
+| Satisfação | [Especificação Suplementar - Usabilidade](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especifica%C3%A7%C3%A3oSuplementar/#5-usabilidade) |
+| Recurso | [US37](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us37-garantir-contraste-visual-adequado) |
 | Representação | - |
-| Alocado | - |
-| Agregação | - |
+| Alocado | [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas) |
+| Agregação | [AI25](../elicitação/analiseUI.md#AI25) |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
