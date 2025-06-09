@@ -6,7 +6,7 @@ Pode-se dizer que uma matriz de rastreabilidade pode ser tão complexa quanto se
 
 ## Metodologia
 
-Após a elaboração das matrizes de rastreabilidade, divididas em requisitos funcionais e não funcionais, cada integrante do grupo ficou responsável por parte dos requisitos do projeto, adicionando a rastreabilidade de cada requisito com base no modelo de matriz (tabela 1).
+Após a elaboração das matrizes de rastreabilidade, divididas em requisitos funcionais e não funcionais, cada integrante do grupo ficou responsável por parte dos requisitos do projeto, adicionando a rastreabilidade de cada requisito com base no modelo de matriz (Tabela 1).
 
 ### Modelo de Matriz
 
