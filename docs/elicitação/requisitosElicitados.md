@@ -22,7 +22,7 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 - ST: Requisito elicitado pela técnica de [Storytelling](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/storytelling/)
 - Q: Requisito elicitado pela técnica de [Questionário](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/questionario/)
 
-## Tabela 1 – Requisitos Elicitados (Versão 1)
+## Tabela 1 – Requisitos Elicitados (Versão 1.2)
 
 | ID   | Descrição                                                                                                             | Rastreabilidade      | Categoria | Implementado |
 | ---- | --------------------------------------------------------------------------------------------------------------------- | -------------------- | --------- | ------------ |
