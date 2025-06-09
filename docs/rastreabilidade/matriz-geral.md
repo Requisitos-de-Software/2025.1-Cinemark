@@ -177,3 +177,4 @@ As matrizes de requisitos funcionais e não funcionais segue o seguinte modelo:
 | `1.1`  |  08/06/2025 | Adição da introdução, metodologia, modelo de matriz e matrizes de requisitos funcionais e não funcionais | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.1`  |  08/06/2025 | Adição da rastreabilidade dos requisitos de 10 a 18 | [Arthur Evangelista](https://github.com/arthurevg) | [Davi Camilo](https://github.com/Davicamilo23)|
 | `1.2`  |  08/06/2025 | Adição da rastreabilidade dos requisitos 37 a 45 | [Davi Camilo](https://github.com/Davicamilo23)| [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.3`  |  08/06/2025 | Adição da rastreabilidade dos requisitos 1 a 9 | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)| [Pedro Everton](https://github.com/pedroeverton217) |
