@@ -271,7 +271,7 @@ A seguir estão os cartões de especificação para os requisitos não-funcionai
 
 <p align="center"><em>Fonte: [Arthur Evangelista](https://github.com/arthurevg), 2025</em></p>
 
-### Propagação dos Impactos para os Requisitos do App Cinemark
+### Propagação dos Impactos
 
 A tabela abaixo apresenta a avaliação da propagação dos impactos dos requisitos não funcionais de usabilidade modelados no NFR Framework.
 
