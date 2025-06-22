@@ -14,7 +14,7 @@ Infelizmente, até a data atual(22/06/2025), ainda não obtivemos resposta nem p
 <p align="center">Imagem 1: Captura de tela do email enviado à equipe do Cinemark no dia 17/06/2025</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/validacao/email.png" alt="Captura de tela do email enviado à equipe do Cinemark" width="250px">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/validacao/email.png" alt="Captura de tela do email enviado à equipe do Cinemark">
 </p>
 
 <p align="center"><br>
