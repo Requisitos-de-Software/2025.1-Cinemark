@@ -8,26 +8,21 @@ Um ponto crucial da nossa metodologia foi a validação individual de cada prot�
 
 ## Validação 
 
-<center>
-
 |Participante|Função|
 |---|---|
 |[Arthur Evangelista](https://github.com/arthurevg)|Entrevistador|
 |Mariana|Usuária|
-</center>
 
 ## Requisitos Contemplados nos Protótipos
 A Tabela 1 detalha os requisitos que foram incorporados e o autor de cada protótipo.
 
 <p align="center">Tabela 1: Requisitos utilizados</p>
-<center>
 
 |Requisito|Descrição|Protótipo|Autor|
 |---|---|---|---|
 |[RQ23A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Filtrar filmes por categoria|Protótipo 1|[Arthur Evangelista](https://github.com/arthurevg)|
 |[RQ24](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Exibir trailers dentro do app.|Protótipo 2|[Arthur Evangelista](https://github.com/arthurevg)|
 
-</center>
 <p align="center"><br>
 Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
