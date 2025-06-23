@@ -48,6 +48,8 @@ Autores: [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https:/
 
 ## Protótipos
 
+Disponível ao clicar no [Link do protótipo](https://www.figma.com/design/Bw0oGL4oQ1Ntshne2LC1nH/Prot%C3%B3tipos-Cinemark?node-id=20-117&p=f&t=mxV8Oy0VJCR4zyxc-0)
+
 ### Protótipo 1
 
 
