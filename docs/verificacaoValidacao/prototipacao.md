@@ -24,11 +24,18 @@ A Tabela 1 detalha os requisitos que foram incorporados e o autor de cada protó
 |[RQ24](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Exibir trailers dentro do app.|Protótipo 2|[Arthur Evangelista](https://github.com/arthurevg)|
 |[RQ33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|permitir alteração de preferências de idioma.|Protótipo 3|[Euller Júlio](https://github.com/Potatoyz908)|
 |[RQ59](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Reservar sala para eventos privados.|Protótipo 4|[Euller Júlio](https://github.com/Potatoyz908)|
+|[RQ26](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc).|Protótipo 5|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
+|[RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas.|Protótipo 6|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
+|[RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas.|Protótipo 7|[Davi Camilo](https://github.com/Davicamilo23)|
+|[RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas.|Protótipo 8|[Davi Camilo](https://github.com/Davicamilo23)|
+|[RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas.|Protótipo 9|[Gabriel Castelo](https://github.com/GabrielCastelo-31)|
+|[RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas.|Protótipo 10|[Gabriel Castelo](https://github.com/GabrielCastelo-31)|
+|[RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas.|Protótipo 11|[Artur De Camargos](https://github.com/ArturDCR)|
+|[RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas.|Protótipo 12|[Artur De Camargos](https://github.com/ArturDCR)|
 
 
-
-<p align="center"><br>
-Autores: <a href="https://github.com/arthurevg">Arthur Evangelista</a> e <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
+<font size="3"><p style="text-align: center">
+Autores: [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg), [Tiago Antunes](https://github.com/TiagoBalieiro), 2025.</p></font>
 
 
 ## Protótipos
@@ -106,6 +113,134 @@ Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 <p align="center"><br>
 Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 
+### Protótipo 5
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Bw0oGL4oQ1Ntshne2LC1nH/Prot%C3%B3tipos-Cinemark?node-id=5-122&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A3&embed-host=share" allowfullscreen></iframe>
+
+<p align="center"><br>
+Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 2025.</p>
+
+<p align="center">Imagem 6: Capturas de tela do protótipo 5</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/prototipacao/p6.png" alt="Captura de tela do protótipo 5">
+</p>
+
+<p align="center"><br>
+Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 2025.</p>
+
+### Protótipo 6
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Bw0oGL4oQ1Ntshne2LC1nH/Prot%C3%B3tipos-Cinemark?node-id=5-122&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A3&embed-host=share" allowfullscreen></iframe>
+
+<p align="center"><br>
+Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 2025.</p>
+
+<p align="center">Imagem 7: Capturas de tela do protótipo 6</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/prototipacao/p7.png" alt="Captura de tela do protótipo 6">
+</p>
+
+<p align="center"><br>
+Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 2025.</p>
+
+### Protótipo 7
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Bw0oGL4oQ1Ntshne2LC1nH/Prot%C3%B3tipos-Cinemark?node-id=5-122&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A3&embed-host=share" allowfullscreen></iframe>
+
+<p align="center"><br>
+Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
+
+<p align="center">Imagem 8: Capturas de tela do protótipo 7</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/prototipacao/p8.png" alt="Captura de tela do protótipo 7">
+</p>
+
+<p align="center"><br>
+Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
+
+### Protótipo 8
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Bw0oGL4oQ1Ntshne2LC1nH/Prot%C3%B3tipos-Cinemark?node-id=5-122&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A3&embed-host=share" allowfullscreen></iframe>
+
+<p align="center"><br>
+Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
+
+<p align="center">Imagem 1: Capturas de tela do protótipo 1</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/prototipacao/p9.png" alt="Captura de tela do protótipo 8">
+</p>
+
+<p align="center"><br>
+Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
+
+### Protótipo 9
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Bw0oGL4oQ1Ntshne2LC1nH/Prot%C3%B3tipos-Cinemark?node-id=5-122&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A3&embed-host=share" allowfullscreen></iframe>
+
+<p align="center"><br>
+Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
+
+<p align="center">Imagem 10: Capturas de tela do protótipo 9</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/prototipacao/p10.png" alt="Captura de tela do protótipo 9">
+</p>
+
+<p align="center"><br>
+Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
+
+### Protótipo 10
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Bw0oGL4oQ1Ntshne2LC1nH/Prot%C3%B3tipos-Cinemark?node-id=5-122&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A3&embed-host=share" allowfullscreen></iframe>
+
+<p align="center"><br>
+Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
+
+<p align="center">Imagem 11: Capturas de tela do protótipo 10</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/prototipacao/p11.png" alt="Captura de tela do protótipo 10">
+</p>
+
+<p align="center"><br>
+Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
+
+### Protótipo 11
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Bw0oGL4oQ1Ntshne2LC1nH/Prot%C3%B3tipos-Cinemark?node-id=59-128&scaling=min-zoom&content-scaling=fixed&page-id=14%3A30&starting-point-node-id=60%3A339&embed-host=share" allowfullscreen></iframe>
+
+<p align="center"><br>
+Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
+
+<p align="center">Imagem 12: Capturas de tela do protótipo 11</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/prototipacao/p12.png" alt="Captura de tela do protótipo 11">
+</p>
+
+<p align="center"><br>
+Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
+
+### Protótipo 12
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Bw0oGL4oQ1Ntshne2LC1nH/Prot%C3%B3tipos-Cinemark?node-id=57-318&scaling=min-zoom&content-scaling=fixed&page-id=14%3A30&starting-point-node-id=57%3A318&embed-host=share" allowfullscreen></iframe>
+
+<p align="center"><br>
+Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
+
+<p align="center">Imagem 13: Capturas de tela do protótipo 12</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/prototipacao/p13.png" alt="Captura de tela do protótipo 12">
+</p>
+
+<p align="center"><br>
+Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
+
 ## Referências bibliográficas
 
 > BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário [livro eletrônico]. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. 
@@ -119,3 +254,4 @@ Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 |--------|------------|------------------------------------|---------------|-------------|
 | `1.0`  | 22/06/2025 | Criação do documento, com Introdução, Metodologia, Protótipos 1 e 2, Referência Bibliográfica e histórico de versão |[Arthur Evangelista](https://github.com/arthurevg)| [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.1`  | 22/06/2025 | Adição dos protótipos 3 do [RQ33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) (preferências de idioma) e 4 [RQ59](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) (reserva de sala para eventos privados) | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.2`  | 22/06/2025 | Adição dos protótipos 5 ao 12 | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Euller Júlio](https://github.com/Potatoyz908) |
