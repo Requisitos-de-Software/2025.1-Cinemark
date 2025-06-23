@@ -42,7 +42,7 @@ Autores: [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https:/
 
 ### Protótipo 1
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Bw0oGL4oQ1Ntshne2LC1nH/Prot%C3%B3tipos-Cinemark?node-id=5-122&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A3&embed-host=share" allowfullscreen></iframe>
+
 
 <p align="center"><br>
 Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
@@ -58,7 +58,7 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
 ### Protótipo 2
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Bw0oGL4oQ1Ntshne2LC1nH/Prot%C3%B3tipos-Cinemark?node-id=104-143&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A3&embed-host=share" allowfullscreen></iframe>
+
 
 <p align="center"><br>
 Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
@@ -74,7 +74,6 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
 ### Protótipo 3
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Bw0oGL4oQ1Ntshne2LC1nH/Prot%C3%B3tipos-Cinemark?node-id=80-661&scaling=scale-down&content-scaling=responsive&page-id=20%3A113&embed-host=share" allowfullscreen></iframe>
 
 <p align="center"><br>
 Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
@@ -90,9 +89,7 @@ Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 
 ### Protótipo 4
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Bw0oGL4oQ1Ntshne2LC1nH/Prot%C3%B3tipos-Cinemark?node-id=80-320&scaling=scale-down&content-scaling=fixed&page-id=20%3A113&embed-host=share" allowfullscreen></iframe>
 
-<p align="center"><br>
 Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 
 <p align="center">Imagem 4: Capturas de tela do protótipo 4</p>
@@ -115,7 +112,7 @@ Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 
 ### Protótipo 5
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Bw0oGL4oQ1Ntshne2LC1nH/Prot%C3%B3tipos-Cinemark?node-id=5-122&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A3&embed-host=share" allowfullscreen></iframe>
+
 
 <p align="center"><br>
 Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 2025.</p>
@@ -131,7 +128,7 @@ Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 20
 
 ### Protótipo 6
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Bw0oGL4oQ1Ntshne2LC1nH/Prot%C3%B3tipos-Cinemark?node-id=5-122&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A3&embed-host=share" allowfullscreen></iframe>
+
 
 <p align="center"><br>
 Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 2025.</p>
@@ -147,7 +144,7 @@ Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 20
 
 ### Protótipo 7
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Bw0oGL4oQ1Ntshne2LC1nH/Prot%C3%B3tipos-Cinemark?node-id=5-122&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A3&embed-host=share" allowfullscreen></iframe>
+
 
 <p align="center"><br>
 Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
@@ -163,7 +160,7 @@ Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 
 ### Protótipo 8
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Bw0oGL4oQ1Ntshne2LC1nH/Prot%C3%B3tipos-Cinemark?node-id=5-122&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A3&embed-host=share" allowfullscreen></iframe>
+
 
 <p align="center"><br>
 Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
@@ -179,7 +176,7 @@ Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 
 ### Protótipo 9
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Bw0oGL4oQ1Ntshne2LC1nH/Prot%C3%B3tipos-Cinemark?node-id=5-122&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A3&embed-host=share" allowfullscreen></iframe>
+
 
 <p align="center"><br>
 Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
@@ -195,7 +192,7 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 
 ### Protótipo 10
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Bw0oGL4oQ1Ntshne2LC1nH/Prot%C3%B3tipos-Cinemark?node-id=5-122&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A3&embed-host=share" allowfullscreen></iframe>
+
 
 <p align="center"><br>
 Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
@@ -211,7 +208,7 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 
 ### Protótipo 11
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Bw0oGL4oQ1Ntshne2LC1nH/Prot%C3%B3tipos-Cinemark?node-id=59-128&scaling=min-zoom&content-scaling=fixed&page-id=14%3A30&starting-point-node-id=60%3A339&embed-host=share" allowfullscreen></iframe>
+
 
 <p align="center"><br>
 Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
@@ -227,7 +224,7 @@ Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 
 ### Protótipo 12
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Bw0oGL4oQ1Ntshne2LC1nH/Prot%C3%B3tipos-Cinemark?node-id=57-318&scaling=min-zoom&content-scaling=fixed&page-id=14%3A30&starting-point-node-id=57%3A318&embed-host=share" allowfullscreen></iframe>
+
 
 <p align="center"><br>
 Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
