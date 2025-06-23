@@ -8,15 +8,22 @@ Um ponto crucial da nossa metodologia foi a validação individual de cada prot�
 
 ## Validação 
 
+<p align="center">Tabela 1: Participantes da gravação da validação</p>
+
 |Participante|Função|
 |---|---|
 |[Arthur Evangelista](https://github.com/arthurevg)|Entrevistador|
 |Mariana|Usuária|
 
-## Requisitos Contemplados nos Protótipos
-A Tabela 1 detalha os requisitos que foram incorporados e o autor de cada protótipo.
+### Vídeo da Validação
+O vídeo abaixo contém a validação do protótipo presente na tabela 2. O vídeo, embora gravado pelo Teams por conta de facilidade, foi realizado de forma presencial na data de 22 de junho de 2025.
 
-<p align="center">Tabela 1: Requisitos utilizados</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I1p8XuJSsts?si=kAMwCC7bmALDRLbZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Requisitos Contemplados nos Protótipos
+A Tabela 2 detalha os requisitos que foram incorporados e o autor de cada protótipo.
+
+<p align="center">Tabela 2: Requisitos utilizados</p>
 
 |Requisito|Descrição|Protótipo|Autor|
 |---|---|---|---|
@@ -252,3 +259,4 @@ Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 | `1.0`  | 22/06/2025 | Criação do documento, com Introdução, Metodologia, Protótipos 1 e 2, Referência Bibliográfica e histórico de versão |[Arthur Evangelista](https://github.com/arthurevg)| [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.1`  | 22/06/2025 | Adição dos protótipos 3 do [RQ33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) (preferências de idioma) e 4 [RQ59](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) (reserva de sala para eventos privados) | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.2`  | 22/06/2025 | Adição dos protótipos 5 ao 12 | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Euller Júlio](https://github.com/Potatoyz908) |
+| `1.3`  | 22/06/2025 | Adição do vídeo de validação | [Arthur Evangelista](https://github.com/tiagobalieiro) | [Euller Júlio](https://github.com/Potatoyz908) |
