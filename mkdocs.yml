@@ -45,16 +45,17 @@ nav:
     - Matriz Geral de Rastreabilidade: rastreabilidade/matriz-geral.md
     - Pós-Rastreabilidade: rastreabilidade/pos-rastreabilidade.md
 
+  - Verificação e Validação:
+    - Prototipação: verificacaoValidacao/prototipacao.md
+    - Comprovação Informal: verificacaoValidacao/comprovacaoInformal.md
+
   - Apresentação:
     - Entrega 01: apresentações/apresentação-01.md
     - Entrega 02: apresentações/apresentação-02.md
     - Entrega 03: apresentações/apresentação-03.md
     - Entrega 04: apresentações/apresentação-04.md
     - Entrega 05: apresentações/apresentação-05.md
-
-  - Verificação e Validação:
-    - Prototipação: verificacaoValidacao/prototipacao.md
-    - Comprovação Informal: verificacaoValidacao/comprovacaoInformal.md
+    - Entrega 06: apresentações/apresentação-06.md
 
   - Verificação:
     - Grupo:
