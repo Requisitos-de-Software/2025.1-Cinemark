@@ -1,12 +1,14 @@
 ## Introdução
+
 A prototipação é uma etapa fundamental no desenvolvimento de qualquer sistema interativo. Ela envolve a criação de representações funcionais ou simulações do aplicativo antes de sua implementação final. Quanto mais ciclos de prototipação e iteração forem realizados, maior a probabilidade de entregar um produto de alta qualidade e que realmente atenda aos usuários. Essa prática é indispensável para a validação, pois permite testar ideias, funcionalidades e o fluxo de interação com os usuários de forma antecipada. Por meio dos protótipos, conseguimos coletar feedback valioso, identificar possíveis problemas e realizar ajustes rápidos, garantindo que o aplicativo final seja mais eficiente e perfeitamente alinhado às necessidades do público Cinemark.
 
 ## Metodologia
+
 Para este projeto, desenvolvemos alguns protótipos cuidadosamente desenhados para abordar e apresentar requisitos não implementados, visando atender às necessidades prioritárias identificadas em nossas pesquisas. Os protótipos foram criados utilizando a ferramenta Figma, que nos permitiu construir interfaces interativas e simular os fluxos de navegação de forma dinâmica e realista. Para uma melhor experiência de visualização e interação, recomendamos que os protótipos sejam acessados em tela cheia.
 
 Um ponto crucial da nossa metodologia foi a validação individual de cada protótipo com um usuário real do aplicativo Cinemark. Isso garantiu que o feedback fosse colhido diretamente de quem realmente usaria as funcionalidades.
 
-## Validação 
+## Validação
 
 <p align="center">Tabela 1: Participantes da gravação da validação</p>
 
@@ -16,11 +18,13 @@ Um ponto crucial da nossa metodologia foi a validação individual de cada prot�
 |Mariana|Usuária|
 
 ### Vídeo da Validação
+
 O vídeo abaixo contém a validação do protótipo presente na tabela 2. O vídeo, embora gravado pelo Teams por conta de facilidade, foi realizado de forma presencial na data de 22 de junho de 2025.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I1p8XuJSsts?si=kAMwCC7bmALDRLbZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Requisitos Contemplados nos Protótipos
+
 A Tabela 2 detalha os requisitos que foram incorporados e o autor de cada protótipo.
 
 <p align="center">Tabela 2: Requisitos utilizados</p>
@@ -41,21 +45,18 @@ A Tabela 2 detalha os requisitos que foram incorporados e o autor de cada protó
 |[RQ60](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Fornecer um Hub para crítica de filmes.|Protótipo 11|[Artur De Camargos](https://github.com/ArturDCR)|
 |[RQ67](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.|Protótipo 12|[Artur De Camargos](https://github.com/ArturDCR)|
 
-
 <font size="3"><p style="text-align: center">
 Autores: [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
 
-
 ## Protótipos
 
-Disponível ao clicar no [Link do protótipo](https://www.figma.com/design/Bw0oGL4oQ1Ntshne2LC1nH/Prot%C3%B3tipos-Cinemark?node-id=20-117&p=f&t=mxV8Oy0VJCR4zyxc-0)
+Disponível ao clicar no [Link do protótipo](https://www.figma.com/design/Bw0oGL4oQ1Ntshne2LC1nH/Prot%C3%B3tipos-Cinemark?node-id=20-117\&p=f\&t=mxV8Oy0VJCR4zyxc-0)
 
 ### Protótipo 1
 
+Protótipo dos requisitos RQ23A.
 
 
-<p align="center"><br>
-Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
 <p align="center">Imagem 1: Capturas de tela do protótipo 1</p>
 
@@ -68,10 +69,9 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
 ### Protótipo 2
 
+Protótipo dos requisitos RQ24.
 
 
-<p align="center"><br>
-Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
 <p align="center">Imagem 2: Capturas de tela do protótipo 2</p>
 
@@ -84,9 +84,9 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
 ### Protótipo 3
 
+Protótipo dos requisitos RQ33.
 
-<p align="center"><br>
-Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
+
 
 <p align="center">Imagem 3: Capturas de tela do protótipo 3</p>
 
@@ -99,8 +99,9 @@ Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 
 ### Protótipo 4
 
+Protótipo dos requisitos RQ59.
 
-Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
+
 
 <p align="center">Imagem 4: Capturas de tela do protótipo 4</p>
 
@@ -122,10 +123,8 @@ Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 
 ### Protótipo 5
 
+Protótipo dos requisitos RQ26.
 
-
-<p align="center"><br>
-Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 2025.</p>
 
 <p align="center">Imagem 6: Capturas de tela do protótipo 5</p>
 
@@ -138,10 +137,8 @@ Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 20
 
 ### Protótipo 6
 
+Protótipo dos requisitos RQ39.
 
-
-<p align="center"><br>
-Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 2025.</p>
 
 <p align="center">Imagem 7: Capturas de tela do protótipo 6</p>
 
@@ -154,10 +151,8 @@ Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 20
 
 ### Protótipo 7
 
+Protótipo dos requisitos RQ32.
 
-
-<p align="center"><br>
-Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 
 <p align="center">Imagem 8: Capturas de tela do protótipo 7</p>
 
@@ -170,12 +165,10 @@ Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 
 ### Protótipo 8
 
+Protótipo dos requisitos RQ58.
 
 
-<p align="center"><br>
-Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
-
-<p align="center">Imagem 1: Capturas de tela do protótipo 1</p>
+<p align="center">Imagem 9: Capturas de tela do protótipo 8</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/prototipacao/p9.png" alt="Captura de tela do protótipo 8">
@@ -186,10 +179,8 @@ Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 
 ### Protótipo 9
 
+Protótipo dos requisitos RQ29A e RQ29B.
 
-
-<p align="center"><br>
-Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
 
 <p align="center">Imagem 10: Capturas de tela do protótipo 9</p>
 
@@ -202,10 +193,8 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 
 ### Protótipo 10
 
+Protótipo dos requisitos RQ30.
 
-
-<p align="center"><br>
-Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
 
 <p align="center">Imagem 11: Capturas de tela do protótipo 10</p>
 
@@ -218,10 +207,9 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 
 ### Protótipo 11
 
+Protótipo dos requisitos RQ60.
 
 
-<p align="center"><br>
-Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 
 <p align="center">Imagem 12: Capturas de tela do protótipo 11</p>
 
@@ -234,10 +222,9 @@ Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 
 ### Protótipo 12
 
+Protótipo dos requisitos RQ67.
 
 
-<p align="center"><br>
-Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 
 <p align="center">Imagem 13: Capturas de tela do protótipo 12</p>
 
@@ -250,10 +237,9 @@ Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 
 ## Referências bibliográficas
 
-> BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário [livro eletrônico]. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. 
+> BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário \[livro eletrônico]. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021.
 
-> FIGMA. Figma. [S. l.]: Figma, c2012-2025. Disponível em: [https://www.figma.com](https://www.figma.com)
-
+> FIGMA. Figma. \[S. l.]: Figma, c2012-2025. Disponível em: <https://www.figma.com>
 
 ## Histórico de Versão
 
@@ -264,3 +250,4 @@ Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 | `1.2`  | 22/06/2025 | Adição dos protótipos 5 ao 12 | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Euller Júlio](https://github.com/Potatoyz908) |
 | `1.3`  | 22/06/2025 | Adição do vídeo de validação | [Arthur Evangelista](https://github.com/tiagobalieiro) | [Euller Júlio](https://github.com/Potatoyz908) |
 | `1.4`  | 22/06/2025 | Adição dos RQ29A,RQ29B e RQ30 a tabela de requisitos| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23)
+| `1.5`  | 22/06/2025 | Adição da descrição dos protótipos. | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23)
