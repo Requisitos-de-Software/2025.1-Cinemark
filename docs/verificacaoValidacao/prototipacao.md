@@ -56,8 +56,7 @@ Disponível ao clicar no [Link do protótipo](https://www.figma.com/design/Bw0oG
 
 Protótipo dos requisitos RQ23A.
 
-<p align="center"><br>
-Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
+
 
 <p align="center">Imagem 1: Capturas de tela do protótipo 1</p>
 
@@ -72,8 +71,7 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
 Protótipo dos requisitos RQ24.
 
-<p align="center"><br>
-Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
+
 
 <p align="center">Imagem 2: Capturas de tela do protótipo 2</p>
 
@@ -88,8 +86,7 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
 Protótipo dos requisitos RQ33.
 
-<p align="center"><br>
-Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
+
 
 <p align="center">Imagem 3: Capturas de tela do protótipo 3</p>
 
@@ -104,7 +101,7 @@ Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 
 Protótipo dos requisitos RQ59.
 
-Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
+
 
 <p align="center">Imagem 4: Capturas de tela do protótipo 4</p>
 
@@ -128,8 +125,6 @@ Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 
 Protótipo dos requisitos RQ26.
 
-<p align="center"><br>
-Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 2025.</p>
 
 <p align="center">Imagem 6: Capturas de tela do protótipo 5</p>
 
@@ -144,8 +139,6 @@ Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 20
 
 Protótipo dos requisitos RQ39.
 
-<p align="center"><br>
-Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 2025.</p>
 
 <p align="center">Imagem 7: Capturas de tela do protótipo 6</p>
 
@@ -160,8 +153,6 @@ Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 20
 
 Protótipo dos requisitos RQ32.
 
-<p align="center"><br>
-Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 
 <p align="center">Imagem 8: Capturas de tela do protótipo 7</p>
 
@@ -176,10 +167,8 @@ Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 
 Protótipo dos requisitos RQ58.
 
-<p align="center"><br>
-Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 
-<p align="center">Imagem 1: Capturas de tela do protótipo 1</p>
+<p align="center">Imagem 9: Capturas de tela do protótipo 8</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/prototipacao/p9.png" alt="Captura de tela do protótipo 8">
@@ -192,8 +181,6 @@ Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 
 Protótipo dos requisitos RQ29A e RQ29B.
 
-<p align="center"><br>
-Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
 
 <p align="center">Imagem 10: Capturas de tela do protótipo 9</p>
 
@@ -208,8 +195,6 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 
 Protótipo dos requisitos RQ30.
 
-<p align="center"><br>
-Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
 
 <p align="center">Imagem 11: Capturas de tela do protótipo 10</p>
 
@@ -224,8 +209,7 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 
 Protótipo dos requisitos RQ60.
 
-<p align="center"><br>
-Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
+
 
 <p align="center">Imagem 12: Capturas de tela do protótipo 11</p>
 
@@ -240,8 +224,7 @@ Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 
 Protótipo dos requisitos RQ67.
 
-<p align="center"><br>
-Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
+
 
 <p align="center">Imagem 13: Capturas de tela do protótipo 12</p>
 
