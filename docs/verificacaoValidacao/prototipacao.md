@@ -43,7 +43,7 @@ A Tabela 2 detalha os requisitos que foram incorporados e o autor de cada protó
 
 
 <font size="3"><p style="text-align: center">
-Autores: [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg), [Tiago Antunes](https://github.com/TiagoBalieiro), 2025.</p></font>
+Autores: [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
 
 
 ## Protótipos
