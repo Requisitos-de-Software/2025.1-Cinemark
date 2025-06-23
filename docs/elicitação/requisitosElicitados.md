@@ -54,7 +54,8 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 | RQ26 | Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc).                      | [IS18](../elicitação/introspecção.md#IS18)                 | RF        | Não          |
 | RQ27 | Permitir uso de pontos acumulados para desconto em ingressos e produtos.                                               | [IS19](../elicitação/introspecção.md#IS19), [Q03](../elicitação/questionario.md#Q03)                 | RF        | Sim          |
 | RQ28 | Alertar usuário sobre pontos suficientes para ingresso grátis e antes da expiração.                                    | [IS20](../elicitação/introspecção.md#IS20)                 | RF        | Não          |
-| RQ29 | Sugerir cinemas com base no histórico de visitas e na localização atual.                                               | [IS21](../elicitação/introspecção.md#IS21)                 | RF        | Não          |
+| RQ29A | Sugerir cinemas com base no histórico de visitas                                              | [IS21](../elicitação/introspecção.md#IS21)                 | RF        | Não          |
+| RQ29B | Sugerir cinemas com base na localização atual.                                               | [IS21](../elicitação/introspecção.md#IS21)                 | RF        | Não          |
 | RQ30 | Permitir que o usuário salve cinemas como favoritos.                                                                   | [IS22](../elicitação/introspecção.md#IS22)                 | RF        | Não          |
 | RQ31 | Permitir notificações personalizadas (ex.: “avise-me quando o filme X entrar em cartaz”).                              | [IS23](../elicitação/introspecção.md#IS23)                 | RF        | Não          |
 | RQ32 | Exibir recomendações de filmes baseadas em histórico e preferências.                                                   | [IS24](../elicitação/introspecção.md#IS24)                 | RF        | Não          |
@@ -156,3 +157,4 @@ Os requisitos elicitados por meio de técnicas como introspecção, análise de 
 | `1.6`  | 12/05/2025 | Ajuste na legenda da tabela 1, na rastreabilidade e adição de RQ66 e RQ67 | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.6.1` | 14/05/2025 | Ajuste no RQ66 | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.7` | 24/05/2025 | Adição das tabelas 2 e 3 para melhor visualização dos requisitos não implementados | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
+| `1.8` | 24/05/2025 | Correção do RQ29. Foi desmebrado em dois requisitos: RQ29A e RQ29B | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
