@@ -26,35 +26,34 @@ A seguir apresentamos os nomes de cada integrante do grupo que participou da té
 		<tbody>
 					<tr>
 						<td><a  href="https://github.com/ArturDCR">Artur de Camargos</a></td>
-						<td>Elaborou as tabelas de especificação de caso de uso 13 e 14</td>	
+						<td>Elaborou as tabelas de especificação de caso de uso 13 e 14</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
-						<td>Elaborou a introdução, metodologia os Componentes e Símbolos, Diagrama de Casos de Uso e criou as tabelas de especificação de caso de uso 3 e 4</td>	
+						<td>Elaborou a introdução, metodologia os Componentes e Símbolos, Diagrama de Casos de Uso e criou as tabelas de especificação de caso de uso 3 e 4</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
-						<td>Elaborou as tabelas de especificação de caso de uso 5 e 6</td>	
+						<td>Elaborou as tabelas de especificação de caso de uso 5 e 6</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
-						<td>Elaborou as tabelas de especificação de caso de uso 7 e 8</td>	
+						<td>Elaborou as tabelas de especificação de caso de uso 7 e 8</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
-						<td>Elaborou as tabelas de especificação de caso de uso 11 12</td>	
+						<td>Elaborou as tabelas de especificação de caso de uso 11 12</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
-						<td>Elaborou as tabelas de especificação de caso de uso 9 e 10</td>	
+						<td>Elaborou as tabelas de especificação de caso de uso 9 e 10</td>
 					</tr>
 			</tbody>
 		</table>
-	</div>  
+	</div>
 </div>
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
-
 
 ## Componentes e Símbolos
 
@@ -103,14 +102,13 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
 * **Associação:** conecta atores a casos de uso, indicando participação direta do ator na execução do caso. É representada por uma linha simples ligando o ícone do ator à elipse do caso de uso.
 
- - **Associação:** conecta atores a casos de uso, indicando participação direta do ator na execução do caso. É representada por uma linha simples ligando o ícone do ator à elipse do caso de uso.
+- **Associação:** conecta atores a casos de uso, indicando participação direta do ator na execução do caso. É representada por uma linha simples ligando o ícone do ator à elipse do caso de uso.
 
 - **Inclusão:** indica reutilização de comportamento comum entre casos de uso (ex.: “Aplicar cupom” incluído em “Comprar ingresso”). Usa-se a estereotipagem «incluir».
 
 - **Extensão** adiciona variações opcionais a um caso base (ex.: “Filtrar por categoria” estendendo “Exibir filmes”). Usa-se a estereotipagem «extender».
 
 - **Generalização:** modela especializações de casos de uso ou atores, mostrando que um elemento filho herda o comportamento ou características do elemento pai. É representada por uma seta com ponta oca apontando para o pai.
-
 
 <p align="center">Figura 4: Exemplos de relacionamentos.</p>
 
@@ -141,16 +139,18 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
 | Id   | Descrição                                                   | Implementado |
 | ---- | ----------------------------------------------------------- | ------------ |
-| [IS15](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS15) | Filtrar Filmes por Categoria e Exibir Avaliações de Público | Não          |
-| [IS16](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS16) | Exibir Trailers dentro do App                               | Não          |
-| [IS24](../elicitação/introspecção.md#IS24) | Exibir recomendações de filmes baseadas em histórico e preferências | Não |
-| [Q04](../elicitação/questionario.md#Q04) | Fornecer comparação de preços entre cinemas | Não |
-| [Q05](../elicitação/questionario.md#Q05) | Permitir reserva de salas para eventos | Não |
-| [IS25](../elicitação/introspecção.md#IS25) | 	Permitir alteração de preferências de idioma | Não |
-| [IS18](../elicitação/introspecção.md#IS18) | 	Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc). | Não |
-| [IS15](../elicitação/introspecção.md#IS15) | 	Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas. | Não |
-| [IS21](../elicitação/introspecção.md#IS21) | Sugerir cinemas personalizados com base no histórico de visitas e localização atual do usuário. | Não |
-| [IS22](../elicitação/introspecção.md#IS22) | Permitir que o usuário salve cinemas como favoritos para facilitar acessos futuros. | Não |
+| [RQ23](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ23) | Filtrar Filmes por Categoria e Exibir Avaliações de Público | Não          |
+| [RQ24](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ24) | Exibir Trailers dentro do App                               | Não          |
+| [RQ32](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32) | Exibir recomendações de filmes baseadas em histórico e preferências | Não |
+| [RQ58](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ58) | Fornecer comparação de preços entre cinemas | Não |
+| [RQ59](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ59) | Permitir reserva de salas para eventos | Não |
+| [RQ26](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ26) | Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc). | Não |
+| [RQ33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ33) | Permitir alteração de preferências de idioma | Não |
+| [RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ39) | Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas. | Não |
+| [RQ29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ29) | Sugerir cinemas personalizados com base no histórico de visitas e localização atual do usuário. | Não |
+| [RQ30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ30) | Permitir que o usuário salve cinemas como favoritos para facilitar acessos futuros. | Não |
+| [RQ60](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ60) | Fornecer um Hub para crítica de filmes. | Não |
+| [RQ67](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ67) | Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial. | Não |
 
 ## Especialização dos Casos de Uso
 
@@ -190,7 +190,7 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 | **Fluxo de Exceção**| Falha ao obter avaliações externas: o sistema exibe apenas as avaliações internas e notifica o usuário. |
 | **Pós-condições**   | A lista de filmes filtrados e suas avaliações são apresentadas ao usuário.                         |
 | **Data de Criação** | 17/05/2025                                                                                        |
-| **Rastreabilidade** | [IS15](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS15)|
+| **Rastreabilidade** | [RQ23](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ23)|
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
 
@@ -208,7 +208,7 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 | **Fluxo de Exceção**| Falha de conexão ou erro no carregamento: o sistema exibe mensagem de erro e sugere tentar novamente. |
 | **Pós-condições**   | O trailer foi reproduzido com sucesso ou tratou o erro conforme o fluxo de exceção.          |
 | **Data de Criação** | 17/05/2025                                                           |
-|**Rastreabilidade** | [IS16](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS16)
+|**Rastreabilidade** | [RQ24](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ24) |
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
 
@@ -226,7 +226,7 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 | **Fluxo de Exceção**  | Falha na análise de dados do usuário: o sistema notifica a falha e exibe sugestões genéricas.                                                                                                                                                 |
 | **Pós-condições**     | Recomendações são apresentadas e o usuário pode explorá-las ou salvar para assistir depois as que desejar.                                                                                                                                                   |
 | **Data de Criação**   | 17/05/2025                                                                                                                                                                                                                                    |
-| **Rastreabilidade**   | [IS24](../elicitação/introspecção.md#IS24)                                                                                                                                                |
+| **Rastreabilidade**   | [RQ32](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32)                                                                                                                                              |
 
 <font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
@@ -244,7 +244,7 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 | **Fluxo de Exceção**  | Falha na obtenção de preços de um cinema: o sistema exibe os demais e sinaliza a ausência temporária de dados do cinema com falha.                                                                                                                                             |
 | **Pós-condições**     | O usuário visualiza e compara os preços, podendo escolher o cinema com melhor custo-benefício.                                                                                                                                                             |
 | **Data de Criação**   | 17/05/2025                                                                                                                                                                                                                                                 |
-| **Rastreabilidade**   | [Q04](../elicitação/questionario.md#Q04)                                                                                                                                                             |
+| **Rastreabilidade**   | [RQ58](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ58)                                                                                                                                                             |
 
 <font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
@@ -262,7 +262,7 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 | **Fluxo de Exceção**  | Nenhuma sala disponível na data/hora: o sistema informa indisponibilidade e sugere horários alternativos.                                                                                                                                                                                                         |
 | **Pós-condições**     | A reserva da sala é registrada no sistema e o usuário recebe um comprovante.                                                                                                                                                                                                                                      |
 | **Data de Criação**   | 18/05/2025                                                                                                                                                                                                                                                                                                        |
-| **Rastreabilidade**   | [Q05](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/questionario/#Q05)                                                                                                                                                                                                            |
+| **Rastreabilidade**   | [RQ59](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ59)                                                                                                                                                                                                           |
 
 <font size="3"><p style="text-align: center">Fonte: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
@@ -280,7 +280,7 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 | **Fluxo de Exceção**  | O idioma selecionado não está disponível ou há falha na aplicação da mudança: o sistema exibe mensagem de erro.                                                                                                                |
 | **Pós-condições**     | O idioma da interface é alterado com sucesso, refletindo em todas as telas subsequentes.                                                                                                                                       |
 | **Data de Criação**   | 18/05/2025                                                                                                                                                                                                                     |
-| **Rastreabilidade**   | [IS25](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS25)                                                                                                                         |
+| **Rastreabilidade**   | [RQ33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ33)                                                                                                                         |
 
 <font size="3"><p style="text-align: center">Fonte: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
@@ -298,7 +298,7 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 | **Fluxo de Exceção**  | O usuário não possui uma carteira digital no dispositivo: o sistema retorna à tela do pedido e exibe mensagem de erro.                                                                                                                 |
 | **Pós-condições**     | O ingresso é salvo na carteira digital e o sistema retorna à tela do pedido exibindo uma mensagem de sucesso.                                                                                                                                       |
 | **Data de Criação**   | 18/05/2025                                                                                                                                                                                                                     |
-| **Rastreabilidade**   | [IS18](../elicitação/introspecção.md#IS18)                                                                                                                        |
+| **Rastreabilidade**   | [RQ26](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ26)                                                                                                                       |
 
 <font size="3"><p style="text-align: center">Fonte: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
@@ -316,7 +316,7 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 | **Fluxo de Exceção**  | Falha no registro da avaliação: o sistema notifica a falha e pede para tentar novamente em alguns minutos.                                                                                                                 |
 | **Pós-condições**     | A avaliação do filme é apresentada ao usuário.                                                                                                                                       |
 | **Data de Criação**   | 18/05/2025                                                                                                                                                                                                                     |
-| **Rastreabilidade**   | [IS15](../elicitação/introspecção.md#IS15)                                                                                                                        |
+| **Rastreabilidade**   | [RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ39)                                                                                                                        |
 
 <font size="3"><p style="text-align: center">Fonte: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
@@ -334,7 +334,7 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 | **Fluxo de Exceção**  | Se a localização não estiver ativada, o sistema exibe uma mensagem solicitando permissão de acesso.                                                                                                                                        |
 | **Pós-condições**     | O sistema exibe uma lista de cinemas sugeridos e registra o comportamento de navegação do usuário para futuras sugestões.                                                                                                                      |
 | **Data de Criação**   | 18/05/2025                                                                                                                                                                                                                                     |
-| **Rastreabilidade**   | [IS21](../elicitação/introspecção.md#IS21)                                                                                                                                                                |
+| **Rastreabilidade**   | [RQ29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ29)                                                                                                                                                                |
 
 <p align="center"><br>
 Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
@@ -353,7 +353,7 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 | **Fluxo de Exceção**  | Se o usuário não estiver logado, o sistema redireciona para a tela de login.                                                                                                                                                                               |
 | **Pós-condições**     | O cinema é salvo na lista pessoal de favoritos do usuário e poderá ser acessado rapidamente no futuro.                                                                                                                                                         |
 | **Data de Criação**   | 18/05/2025                                                                                                                                                                                                                                                     |
-| **Rastreabilidade** |[IS22](../elicitação/introspecção.md#IS22)                                                                                                                                                                                                     |
+| **Rastreabilidade** |[RQ30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ30)                                                                                                                                                                                                    |
 
 <p align="center"><br>
 Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
@@ -370,10 +370,10 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 | **Fluxo Principal**   | 1. Usuário navega para "Filmes".<br> 2. Seleciona um filme.<br> 3. Sistema exibe opção "Críticas".<br> 4. Usuário acessa o Hub. |
 | **Fluxo Alternativo** | 1. Usuário abre menu.<br> 2. Seleciona "Hub de Críticas".<br> 3. Sistema lista filmes.                                                                                                                                                 |
 | **Fluxo de Exceção**  | 1. Nenhuma crítica disponível<br> 2. Falha ao publicar:
-                                                                                                                |
+|
 | **Pós-condições**     | Usuário visualiza/publica crítica ou recebe feedback.                                                                                                                                      |
 | **Data de Criação**   | 18/05/2025                                                                                                                                                                                                                     |
-| **Rastreabilidade**   | [Q06](../elicitação/questionario.md#Q06)                                                                                                                        |
+| **Rastreabilidade**   | [RQ60](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ60)                                                                                                                       |
 
 <font size="3"><p style="text-align: center">Fonte: [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
 
@@ -389,10 +389,10 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 | **Fluxo Principal**   | 1. Usuário abre o app.<br> 2. Sistema exibe botão "Ingressos" no menu inicial.<br> 3. Usuário clica no botão.<br> 4. Sistema redireciona para seleção de sessões. |
 | **Fluxo Alternativo** | 1. Usuário abre menu.<br> 2. Seleciona "Ingressos".<br> 3. Sistema redireciona.                                                                                                                                                 |
 | **Fluxo de Exceção**  | Sistema exibe mensagem de erro.
-                                                                                                                |
+|
 | **Pós-condições**     | Usuário acessa a tela de ingressos ou recebe feedback de erro                                                                                                                                      |
 | **Data de Criação**   | 18/05/2025                                                                                                                                                                                                                     |
-| **Rastreabilidade**   | [IS27](../elicitação/introspecção.md#IS27)   
+| **Rastreabilidade**   | [RQ67](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ67) |
 
 ***
 
@@ -417,3 +417,4 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 | `1.6`  | 18/05/2025 | Adição de uma tabela com o modelo da especificação dos casos de uso.| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
 | `1.7`  | 18/05/2025 | Adição das Tabelas 13 e 14 com os casos de uso para RQ60 (Fornecer um Hub para crítica de filmes.) e RQ67 (Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.); atualização da Tabela 1 com novos requisitos | [Artur de Camargos](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.8`  | 25/05/2025 | Adição da tabela de participantes | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
+| `1.9`  | 26/06/2025 | Correção da rastreabilidade dos requisitos utilizados nos casos de uso. | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
