@@ -1,8 +1,8 @@
-# Verificação do grupo
+# Verificação do grupo+1
 
 ## Introdução
 
-Este documento apresenta a **lista de verificação** elaborada para avaliar os artefatos produzidos na Entrega 5: *Pós-Rastreabilidade: Gerência II*.
+Este documento apresenta a **lista de verificação** elaborada para avaliar os artefatos produzidos na Entrega 6: *Pós-Rastreabilidade: Gerência II*.
 A lista foi baseada nos critérios definidos pelo professor [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) e será utilizada para inspeção tanto do próprio grupo quanto do grupo +1.
 
 ***
@@ -68,3 +68,4 @@ A lista foi baseada nos critérios definidos pelo professor [André Barros de Sa
 | `1.1`  | 08/06/2025 | Adição de itens nas listas de verificação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.2`  | 08/06/2025 | Adição de itens nas listas de verificação | [Arthur Evangelista](https://github.com/arthurevg)  |[Davi Camilo](https://github.com/Davicamilo23)  |
 | `1.3`  | 08/06/2025 | Adição de itens nas listas de verificação | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)  |[Davi Camilo](https://github.com/Davicamilo23)  |
+| `1.31` | 01/07/2025 | Correção do número da entrega/verificação | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |

@@ -5,8 +5,8 @@
 ## 📌 Identificação da Reunião
 
 - **Data:**  30/06/2025
-- **Hora de Início:**  -
-- **Hora de Término:**  -
+- **Hora de Início:**  19h57
+- **Hora de Término:**  21h42
 - **Local:**  Teams (online)
 - **Redator:**  [Davi Camilo](https://github.com/Davicamilo23)
 
@@ -51,7 +51,7 @@
 
 | Nº | Descrição | Tipo |
 |----|-----------|--------|
-| 1  | Os requisitos foram subdivididos e reescritos, conforme a necessidade. | Decisão |
+| 1  | Os requisitos foram subdivididos e reescritos, conforme a necessidade. | Definição |
 | 2  | Foram pensadas as dúvidas a serem tratadas com o professor. | Apresentação |
 
 ### Descrição dos tipos:
@@ -66,7 +66,7 @@
 
 ## 🎥 Link da gravação
 
-- <a href="" target="_blank">Gravação da reunião</a>
+- <a href="https://youtu.be/PyM-RBAbdwM" target="_blank">Gravação da reunião</a>
 
 ---
 
@@ -83,10 +83,11 @@
 
 | Nº | Compromisso | Responsável | Prazo |
 |----|-------------|-------------|-------|
-| 1  | Fazer todas as alterações e implementações necessárias no Git Pages. | Todos         | 08/07/2025 |
+| 1  | Fazer todas as alterações e implementações necessárias no Git Pages. | Todos | 07/07/2025 |
 
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |  30/06/2025 |  Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23)  | [Euller Júlio da Silva](https://github.com/Potatoyz908) |
+| `1.1`  |  01/07/2025 |  Adição do link da gravação e dos horários da reunião | [Davi Camilo](https://github.com/Davicamilo23)  | [Euller Júlio da Silva](https://github.com/Potatoyz908) |

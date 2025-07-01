@@ -1,4 +1,4 @@
-# Análise de Requisitos: Verificação e Validação
+# Técnicas Utilizadas
 
 ## Introdução
 

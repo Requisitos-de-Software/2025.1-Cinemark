@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Abaixo se encontra a inspeção da entrega do grupo. A inspeção foi realizada no dia 08/06/2025 e foi feita com base na lista de verificação da entrega 5.
+Abaixo se encontra a inspeção da entrega do grupo. A inspeção foi realizada no dia 08/06/2025 e foi feita com base na lista de verificação da entrega 6.
 
 ***
 
@@ -76,3 +76,4 @@ Abaixo se encontra a inspeção da entrega do grupo. A inspeção foi realizada 
 | `1.2`  | 08/06/2025 | Adição de itens nas listas de inspeção |[Arthur Evangelista](https://github.com/arthurevg) |  [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.3`  | 08/06/2025 | Adição de itens nas listas de verificação | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)  |[Davi Camilo](https://github.com/Davicamilo23)  |
 | `1.4` | 08/06/2025  | Adição da inspeção do grupo e do link da gravação | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
+| `1.41` | 01/07/2025 | Correção do número da entrega/inspeção | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
