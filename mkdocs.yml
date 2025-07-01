@@ -105,7 +105,7 @@ nav:
     - Artefatos Criados: entregaFinal/artefatosCriados.md
     - Tabela de Verificação e Validação: entregaFinal/tabelaVerificacaoValidacao.md
     - Vídeos das Apresentações: entregaFinal/videosApresentacoes.md
-    - Considerações Finais: entregFinal/consideracoesFinais.md
+    - Considerações Finais: entregaFinal/consideracoesFinais.md
 
 theme:
   name: material
