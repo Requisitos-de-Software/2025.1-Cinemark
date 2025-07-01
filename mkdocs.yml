@@ -98,14 +98,14 @@ nav:
     - Reunião 09: atas/Ata Reunião 09.md
   
   - Entrega Final:
-    - Execução do Projeto: execucaoProjeto.md
-    - Resultados Obtidos: resultadosObtidos.md
-    - Ferramentas Utilizadas: ferramentasUtilizadas.md
-    - Técnicas Utilizadas: tecnicasUtilizadas.md
-    - Artefatos Criados: artefatosCriados.md
-    - Tabela de Verificação e Validação: tabelaVerificacaoValidacao.md
-    - Vídeos das Apresentações: videosApresentacoes.md
-    - Considerações Finais: consideracoesFinais.md
+    - Execução do Projeto: entregaFinal/execucaoProjeto.md
+    - Resultados Obtidos: entregaFinal/resultadosObtidos.md
+    - Ferramentas Utilizadas: entregaFinal/ferramentasUtilizadas.md
+    - Técnicas Utilizadas: entregaFinal/tecnicasUtilizadas.md
+    - Artefatos Criados: entregaFinal/artefatosCriados.md
+    - Tabela de Verificação e Validação: entregaFinal/tabelaVerificacaoValidacao.md
+    - Vídeos das Apresentações: entregaFinal/videosApresentacoes.md
+    - Considerações Finais: entregFinal/consideracoesFinais.md
 
 theme:
   name: material
