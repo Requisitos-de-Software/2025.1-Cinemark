@@ -10,7 +10,7 @@ nav:
     - Ferramentas: planejamento/ferramentas.md
     - Heatmap: planejamento/heatmap.md
     - Metodologia: planejamento/metodologia.md
-    - Verificação e Validação: planejamento/verificacaoValidacao
+    - Verificação e Validação: planejamento/verificacaoValidacao.md
 
   - Pré-rastreabilidade:
     - Rich Picture: planejamento/richpicture.md
