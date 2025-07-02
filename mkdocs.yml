@@ -98,12 +98,14 @@ nav:
     - Reunião 09: atas/Ata Reunião 09.md
   
   - Entrega Final:
+    - Aplicativo Selecionado: entregaFinal/aplicativoSelecionado.md
+    - Planejamento dos Recursos e das Entregas: entregaFinal/planejamento.md
     - Execução do Projeto: entregaFinal/execucaoProjeto.md
     - Resultados Obtidos: entregaFinal/resultadosObtidos.md
     - Ferramentas Utilizadas: entregaFinal/ferramentasUtilizadas.md
     - Técnicas Utilizadas: entregaFinal/tecnicasUtilizadas.md
     - Artefatos Criados: entregaFinal/artefatosCriados.md
-    - Tabela de Verificação e Validação: entregaFinal/tabelaVerificacaoValidacao.md
+    - Verificação e Validação: entregaFinal/verificacaoValidacao.md
     - Vídeos das Apresentações: entregaFinal/videosApresentacoes.md
     - Considerações Finais: entregaFinal/consideracoesFinais.md
 

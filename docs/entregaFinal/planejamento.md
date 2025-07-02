@@ -1,4 +1,4 @@
-# Tabela de Verificação e Validação
+# Planejamento dos Recursos e das Entregas
 
 ## Introdução
 
