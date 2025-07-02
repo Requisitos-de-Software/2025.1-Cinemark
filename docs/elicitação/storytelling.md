@@ -18,19 +18,30 @@ A tabela 1 apresenta o cronograma da elicitação e as funções dos membros res
 
 <font size="3"><p style="text-align: center">Tabela 1: Cronograma do Storytelling.</p></font>
 
-| Nome                                                   | Data | Função            |
-| ------------------------------------------------------ | ---- | ----------------- |
-| [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31) | 01/05/2025 | Analista de requisitos |
-| [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | 01/05/2025 | Analista de requisitos |
-| Gabriel Villela | 01/05/2025 | Usuário do aplicativo |
+| Nome                                                   | Data | Função            | Reunião que participou
+| ------------------------------------------------------ | ---- | ----------------- |---|
+| [Arthur Evangelista de Oliveira](https://github.com/arthurevg1) | 01/07/2025 | Analista de requisitos |Presencial|
+| [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | 01/07/2025 | Analista de requisitos |Presencial|
+| [Davi Camilo Menezes](https://github.com/Davicamilo23) | 01/07/2025 | Analista de requisitos |Presencial|
+|  [Euller Júlio da Silva](https://github.com/Potatoyz908) | 01/07/2025 | Analista de requisitos |Presencial|
+| [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31) | 01/05/2025 | Analista de requisitos |Presencial e Remoto|
+| [Pedro Everton de Paula](https://github.com/pedroeverton217) | 01/07/2025 | Analista de requisitos |Presencial|
+| [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | 01/05/2025 | Analista de requisitos |Presencial e Remoto|
+| Gabriel Villela | 01/05/2025 | Usuário do aplicativo | Remoto|
+| João Igor | 01/05/2025 | Usuário do aplicativo | Remoto|
 
-<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23) e [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
+
 
 ---
 
-## Gravação com Usuário
+## Gravação Online com Usuário
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OHllSImnMqc?si=3Q9UxiKKIUTtkXL3&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Gravação presencial com Usuário
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ylChxKZ3SEc?si=Wr4KoWBjjNXxJOcY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
