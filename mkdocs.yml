@@ -12,7 +12,7 @@ nav:
     - Metodologia: planejamento/metodologia.md
     - Verificação e Validação: planejamento/verificacaoValidacao.md
 
-  - Pré-rastreabilidade:
+  - Pré-Rastreabilidade:
     - Rich Picture: planejamento/richpicture.md
 
   - Elicitação:
@@ -47,8 +47,8 @@ nav:
     - Pós-Rastreabilidade: rastreabilidade/pos-rastreabilidade.md
 
   - Validação:
-    - Prototipação: verificacaoValidacao/prototipacao.md
-    - Comprovação Informal: verificacaoValidacao/comprovacaoInformal.md
+    - Prototipação: validacao/prototipacao.md
+    - Comprovação Informal: validacao/comprovacaoInformal.md
 
   - Apresentação:
     - Entrega 01: apresentações/apresentação-01.md
