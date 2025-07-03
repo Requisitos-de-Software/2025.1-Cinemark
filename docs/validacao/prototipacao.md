@@ -33,7 +33,7 @@ A Tabela 2 detalha os requisitos que foram incorporados e o autor de cada protó
 |---|---|---|---|
 |[RQ23A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Filtrar filmes por categoria|Protótipo 1|[Arthur Evangelista](https://github.com/arthurevg)|
 |[RQ24](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Exibir trailers dentro do app.|Protótipo 2|[Arthur Evangelista](https://github.com/arthurevg)|
-|[RQ33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|permitir alteração de preferências de idioma.|Protótipo 3|[Euller Júlio](https://github.com/Potatoyz908)|
+|[RQ33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Permitir alteração de preferências de idioma.|Protótipo 3|[Euller Júlio](https://github.com/Potatoyz908)|
 |[RQ59](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Reservar sala para eventos privados.|Protótipo 4|[Euller Júlio](https://github.com/Potatoyz908)|
 |[RQ26](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc).|Protótipo 5|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
 |[RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas.|Protótipo 6|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
