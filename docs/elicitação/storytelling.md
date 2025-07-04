@@ -28,7 +28,7 @@ A tabela 1 apresenta o cronograma da elicitação e as funções dos membros res
 | [Pedro Everton de Paula](https://github.com/pedroeverton217) | 01/07/2025 | Analista de requisitos |Presencial|
 | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | 01/05/2025 | Analista de requisitos |Presencial e Remoto|
 | Gabriel Villela | 01/05/2025 | Usuário do aplicativo | Remoto|
-| João Igor | 01/05/2025 | Usuário do aplicativo | Remoto |
+| João Igor | 01/07/2025 | Usuário do aplicativo | Remoto |
 
 <font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23) e [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
 
