@@ -16,8 +16,9 @@ nav:
     - Rich Picture: planejamento/richpicture.md
 
   - Elicitação:
-    - Perfil de Usuário: elicitação/perfilusuario.md
-    - Personas: elicitação/personas.md
+    - Usuário:
+      - Perfil de Usuário: elicitação/perfilusuario.md
+      - Personas: elicitação/personas.md
     - Técnicas de Elicitação:
       - Análise de Interface de Usuário: elicitação/analiseUI.md
       - Introspecção: elicitação/introspecção.md
