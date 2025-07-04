@@ -46,3 +46,4 @@ A partir dos resultados analisados, os quais estão na página do questionário 
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |   02/05/2025  |  Criação do Documento | [Pedro Everton](https://github.com/pedroeverton217) e [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.1`  |   04/05/2025  | Adição da metodologia e do resultado do questionário | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
+| `1.2`  |   04/07/2025  |  Ajuste na introdução | [Pedro Everton](https://github.com/pedroeverton217) e [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
