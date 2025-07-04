@@ -19,7 +19,7 @@ A seguir apresentamos os nomes de cada integrante do grupo que participou da té
 <font size="3"><p style="text-align: center">Tabela 1: Participantes envolvidos na criação do Perfil de Usuário.</p></font>
 
 | Nome                                                   | O que fez                 |
-| ------------------------------------------------------ | ---------- | ---------------------- |
+| ------------------------------------------------------ | ---------------------- |
 | [Davi Camilo](https://github.com/Davicamilo23)         | Criou a estrutura da página, adicionou a metodologia e resultado do questionário     |
 | [Pedro Everton](https://github.com/pedroeverton217)    | Criou a estrutura da página    |
 | [Euller Júlio](https://github.com/Potatoyz908)      | Fez correções e ajustes na introdução e criou a tabela de integrantes do grupo envolvidos |
