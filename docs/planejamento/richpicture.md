@@ -5,6 +5,8 @@ O *Rich Picture* é uma ferramenta visual usada para compreender e representar c
 
 ---
 
+---
+
 ## Rich Picture Escolhido
 ### Cinemark
 <font size="3"><p style="text-align: center">Figura 1: *Rich Picture* versão 1.1.</p></font>
@@ -14,6 +16,10 @@ O *Rich Picture* é uma ferramenta visual usada para compreender e representar c
 <font size="3"><p style="text-align: center">Figura 2: Legenda do *Rich Picture* versão 1.1.</p></font>
 ![](../assets/richpicture/legenda_rich_picture_cinemark.png)
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Castelo](https://github.com/GabrielCastelo-31), 2025.</p></font>
+
+## Validação do Rich Picture com o Usuário
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8d_7kiy4Km4?si=87f1KvItbA3SGnn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
