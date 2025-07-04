@@ -103,3 +103,4 @@ Por meio do storytelling, foram criadas narrativas que representavam situações
 | `1.4`  | 12/05/2025 | Adição da tabela de participantes | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |[Tiago Antunes](https://github.com/TiagoBalieiro)  |
 | `1.5`  | 12/05/2025 | Adição da história do usuário| [Gabriel Castelo](https://github.com/GabrielCastelo-31) |[Tiago Antunes](https://github.com/TiagoBalieiro)  |
 | `1.6`  | 12/05/2025 | Adição do cronograma da técnica | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
+| `1.7`  |02/07/2025 | Adição da gravação presencial do storytelling | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |
