@@ -1,8 +1,6 @@
 # Perfil de Usuário
 
-## IntroduA partir dos resultados analisados, os quais estão na página do questionário (técnicas de elicitação) do projeto, a tabela 2 mostra o perfil de usuário obtido do aplicativo do Cinemark.
-
-<font size="3"><p style="text-align: center">Tabela 2: Características do Perfil de Usuário</p></font>
+## Introdução
 
 O **Perfil de Usuário** é uma representação detalhada das características e objetivos dos diferentes tipos de usuários que utilizarão o sistema. Ele fornece uma compreensão aprofundada sobre as necessidades, habilidades, comportamentos e contextos de uso, auxiliando na tomada de decisões de design centradas no usuário. Através da elaboração de perfis, é possível identificar grupos de usuários com características semelhantes, orientando o desenvolvimento de interfaces e funcionalidades que atendam às suas expectativas e facilitar uma experiência mais eficiente e satisfatória.
 
