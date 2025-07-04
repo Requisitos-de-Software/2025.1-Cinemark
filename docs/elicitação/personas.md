@@ -1,6 +1,6 @@
 # Personas
 
-## O que são Personas?
+## Introdução
 
 **Personas** são representações fictícias de usuários ideais baseadas em dados reais sobre o público-alvo de um produto ou serviço. Elas são criadas para ajudar equipes de desenvolvimento, design e negócios a entender melhor as necessidades, comportamentos, objetivos e desafios dos usuários. Cada persona é descrita com características detalhadas, como nome, idade, profissão, interesses e motivações, permitindo que as decisões do projeto sejam mais centradas no usuário.
 
