@@ -16,7 +16,7 @@ nav:
     - Rich Picture: planejamento/richpicture.md
 
   - Elicitação:
-    - Usuário:
+    - Usuários:
       - Perfil de Usuário: elicitação/perfilusuario.md
       - Personas: elicitação/personas.md
     - Técnicas de Elicitação:
