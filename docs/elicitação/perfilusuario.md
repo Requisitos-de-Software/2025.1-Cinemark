@@ -20,12 +20,11 @@ A seguir apresentamos os nomes de cada integrante do grupo que participou da té
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes envolvidos na criação do Perfil de Usuário.</p></font>
 
-| Nome                                                   | Data       | Função                 |
+| Nome                                                   | O que fez                 |
 | ------------------------------------------------------ | ---------- | ---------------------- |
-| [Davi Camilo](https://github.com/Davicamilo23)         | 02/05/2025 | Criador do artefato    |
-| [Pedro Everton](https://github.com/pedroeverton217)    | 02/05/2025 | Criador do artefato    |
-| [Tiago Antunes](https://github.com/TiagoBalieiro)      | 28/04/2025 | Elaborador do questionário |
-| [Artur de Camargos](https://github.com/ArturDCR)       | 28/04/2025 | Elaborador do questionário |
+| [Davi Camilo](https://github.com/Davicamilo23)         | Criou a estrutura da página, adicionou a metodologia e resultado do questionário     |
+| [Pedro Everton](https://github.com/pedroeverton217)    | Criou a estrutura da página    |
+| [Euller Júlio](https://github.com/Potatoyz908)      | Fez correções e ajustes na introdução e criou a tabela de integrantes do grupo envolvidos |
 
 <font size="3"><p style="text-align: center">Fonte: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
