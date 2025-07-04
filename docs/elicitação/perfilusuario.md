@@ -1,6 +1,8 @@
 # Perfil de Usuário
 
-## Introdução
+## IntroduA partir dos resultados analisados, os quais estão na página do questionário (técnicas de elicitação) do projeto, a tabela 2 mostra o perfil de usuário obtido do aplicativo do Cinemark.
+
+<font size="3"><p style="text-align: center">Tabela 2: Características do Perfil de Usuário</p></font>
 
 O **Perfil de Usuário** é uma representação detalhada das características e objetivos dos diferentes tipos de usuários que utilizarão o sistema. Ele fornece uma compreensão aprofundada sobre as necessidades, habilidades, comportamentos e contextos de uso, auxiliando na tomada de decisões de design centradas no usuário. Através da elaboração de perfis, é possível identificar grupos de usuários com características semelhantes, orientando o desenvolvimento de interfaces e funcionalidades que atendam às suas expectativas e facilitar uma experiência mais eficiente e satisfatória.
 
@@ -12,11 +14,28 @@ Para adquirir as informações necessárias para a elaboração do Perfil de Usu
 
 ---
 
+## Integrantes do grupo envolvidos
+
+A seguir apresentamos os nomes de cada integrante do grupo que participou da técnica e suas respectivas contribuições.
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes envolvidos na criação do Perfil de Usuário.</p></font>
+
+| Nome                                                   | Data       | Função                 |
+| ------------------------------------------------------ | ---------- | ---------------------- |
+| [Davi Camilo](https://github.com/Davicamilo23)         | 02/05/2025 | Criador do artefato    |
+| [Pedro Everton](https://github.com/pedroeverton217)    | 02/05/2025 | Criador do artefato    |
+| [Tiago Antunes](https://github.com/TiagoBalieiro)      | 28/04/2025 | Elaborador do questionário |
+| [Artur de Camargos](https://github.com/ArturDCR)       | 28/04/2025 | Elaborador do questionário |
+
+<font size="3"><p style="text-align: center">Fonte: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
+
+---
+
 ## Perfil de Usuário
 
 A partir dos resultados analisados, os quais estão na página do questionário (técnicas de elicitação) do projeto, a tabela 1 mostra o perfil de usuário obtido do aplicativo do Cinemark.
 
-<font size="3"><p style="text-align: center">Tabela 1: Características do Perfil de Usuário</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Características do Perfil de Usuário</p></font>
 
 | Critério | Detalhamento |
 | -------- | ------------ |
@@ -46,4 +65,6 @@ A partir dos resultados analisados, os quais estão na página do questionário 
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |   02/05/2025  |  Criação do Documento | [Pedro Everton](https://github.com/pedroeverton217) e [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.1`  |   04/05/2025  | Adição da metodologia e do resultado do questionário | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
-| `1.2`  |   04/07/2025  |  Ajuste na introdução | [Pedro Everton](https://github.com/pedroeverton217) e [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
+| `1.2`  |   04/07/2025  |  Ajuste na introdução | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
+| `1.3`  |   04/07/2025  |  Criação da tabela de integrantes do grupo envolvidos | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
+
