@@ -24,6 +24,22 @@ Para adquirir as informações necessárias para a elaboração de diferentes Pe
 
 ---
 
+## Integrantes do grupo envolvidos
+
+A seguir apresentamos os nomes de cada integrante do grupo que participou da técnica e suas respectivas contribuições.
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes envolvidos na criação das Personas.</p></font>
+
+| Nome                                                   | O que fez                 |
+| ------------------------------------------------------ | ---------------------- |
+| [Davi Camilo](https://github.com/Davicamilo23)         | Criou a estrutura da página, adicionou a metodologia e desenvolveu as personas     |
+| [Pedro Everton](https://github.com/pedroeverton217)    | Criou a estrutura da página e desenvolveu as personas    |
+| [Euller Júlio](https://github.com/Potatoyz908)      | Fez correções e ajustes na introdução e criou a tabela de integrantes do grupo envolvidos |
+
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23) e [Pedro Everton](https://github.com/pedroeverton217), 2025.</p></font>
+
+---
+
 ## Personas do Projeto:
 ### Persona 1 - Primária
 
@@ -241,3 +257,5 @@ Para adquirir as informações necessárias para a elaboração de diferentes Pe
 | `1.1`  |   04/05/2025  | Reformatação do Texto, Imagens e Links | [Pedro Everton](https://github.com/pedroeverton217) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.2`  |   04/05/2025  | Adição de novas informações e da metodologia, e ajustes de formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Pedro Everton](https://github.com/pedroeverton217) |
 | `1.3`  |  04/05/2025   | Ajuste na formatação dos tópicos | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+| `1.4`  |   04/07/2025  |  Ajuste na introdução | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
+| `1.5`  |   04/07/2025  |  Criação da tabela de integrantes do grupo envolvidos | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
