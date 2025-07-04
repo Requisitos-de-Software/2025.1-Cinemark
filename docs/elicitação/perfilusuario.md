@@ -1,6 +1,6 @@
 # Perfil de Usuário
 
-## O que é um Perfil de Usuário?
+## Introdução
 
 O **Perfil de Usuário** é uma representação detalhada das características e objetivos dos diferentes tipos de usuários que utilizarão o sistema. Ele fornece uma compreensão aprofundada sobre as necessidades, habilidades, comportamentos e contextos de uso, auxiliando na tomada de decisões de design centradas no usuário. Através da elaboração de perfis, é possível identificar grupos de usuários com características semelhantes, orientando o desenvolvimento de interfaces e funcionalidades que atendam às suas expectativas e facilitar uma experiência mais eficiente e satisfatória.
 
