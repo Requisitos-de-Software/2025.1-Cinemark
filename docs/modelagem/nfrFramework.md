@@ -277,9 +277,9 @@ A tabela abaixo apresenta a avaliação da propagação dos impactos dos requisi
 
 | NFR | Impacto | Avaliador |
 | :--- | :--- | :--- |
-| Acessibilidade Visual (leitores de tela e baixa visão) [(RQ44)](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ44) | ✓ | [Arthur Evangelista](https://github.com/arthurevg) |
+| Acessibilidade Visual (leitores de tela e baixa visão) [(RQ44)](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ44) | ✓ | [Artur de Camargos](https://github.com/arturdcr) |
 | Contraste de interface conforme WCAG A/AA [(RQ45)](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ45) | ✓ | [Arthur Evangelista](https://github.com/arthurevg) |
-| Notificações push customizáveis pelo usuário [(RQ50)](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ50) | W+ | [Arthur Evangelista](https://github.com/arthurevg) |
+| Notificações push customizáveis pelo usuário [(RQ50)](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ50) | W+ | [Tiago Antunes](https://github.com/tiagobalieiro) |
 | Manter informações da sessão visíveis na compra [(RQ53)](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ53)| ✓ | [Arthur Evangelista](https://github.com/arthurevg) |
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
@@ -479,4 +479,4 @@ A tabela abaixo apresenta a avaliação da propagação dos impactos dos requisi
 | `1.12`  | 01/06/2025 | Adição da tabela de impacto - desempenho e o SIG | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.12`  | 01/06/2025 | Adição da tabela de impacto - desempenho e o SIG | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.13`  | 01/06/2025 | Adição dos softgoals de impacto e propagação de impactos dos requisitos de usabilidade | [Arthur Evangelista](https://github.com/arthurevg)| [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
-
+| `1.14`  | 01/06/2025 | Atualização dos softgoals de usabilidade após instruções do professor | [Arthur Evangelista](https://github.com/arthurevg)| [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
