@@ -4,7 +4,7 @@
 O *Rich Picture* é uma ferramenta visual usada para compreender e representar contextos de trabalho complexos, especialmente no início do design de sistemas. Por meio de desenhos informais e simbólicos, ele retrata os envolvidos no processo (*stakeholders*), suas preocupações, estruturas organizacionais e os fluxos de trabalho, permitindo uma visão ampla e integrada do ambiente. Seu objetivo é facilitar o entendimento de diferentes pontos de vista, promovendo decisões de projeto mais alinhadas com a realidade e as necessidades dos usuários.
 
 ---
-<font size="3"><p style="text-align: center">Tabela 1: Cronograma do Storytelling.</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Cronograma do Rich Picture.</p></font>
 
 | Nome                                                   | Data | Função            | 
 | ------------------------------------------------------ | ---- | ----------------- |
@@ -16,6 +16,8 @@ O *Rich Picture* é uma ferramenta visual usada para compreender e representar c
 | [Pedro Everton de Paula](https://github.com/pedroeverton217) | 01/07/2025 | Analista de requisitos |
 | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | 01/07/2025 | Analista de requisitos |
 | João Igor | 01/07/2025 | Usuário do aplicativo | 
+
+<font size="3"><p style="text-align: center">Fonte: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
 
 ## Validação do Rich Picture com o Usuário
 

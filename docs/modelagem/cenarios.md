@@ -9,9 +9,36 @@ No contexto do aplicativo Cinemark Digital, os cenários elaborados visam repres
 
 Os cenários foram criados a partir da análise dos [requisitos levantados](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) na fase de elicitação, mapeando fluxos de uso com base nas descrições de funcionalidades. Cada passo foi revisado internamente pela equipe, garantindo que todas as pré-condições, restrições e exceções estivessem contempladas.
 
-## 3. Integrantes do grupo envolvidos
+## Validação dos cenários com usuário
 
-**Tabela 13**
+Para garantir que os cenários elaborados refletem fielmente as necessidades e expectativas dos usuários finais, realizamos uma validação com um usuário do aplicativo Cinemark Digital. Os cenários foram apresentados ao usuário, que analisou cada narrativa e forneceu um feedback. A gravação foi feita no dia 01/07/2025, na Faculdade de Ciência e Tecnologia em Engenharias.
+
+### Cronograma
+
+A tabela 1 apresenta o cronograma da priorização e as funções dos membros responsáveis pela técnica.
+
+<font size="3"><p style="text-align: center">Tabela 1: Cronograma de validação dos cenários.</p></font>
+
+| Nome                                                   | Data       | Função                 |
+| ------------------------------------------------------ | ---------- | ---------------------- |
+| [Arthur Evangelista de Oliveira](https://github.com/arthurevg1) | 01/07/2025 | Mediador |
+| [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | 01/07/2025 | Mediador |
+| [Davi Camilo Menezes](https://github.com/Davicamilo23) | 01/07/2025 | Mediador |
+|  [Euller Júlio da Silva](https://github.com/Potatoyz908) | 01/07/2025 | Mediador |
+| [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31) | 01/07/2025 | Mediador |
+| [Pedro Everton de Paula](https://github.com/pedroeverton217) | 01/07/2025 | Mediador |
+| [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | 01/07/2025 | Mediador |
+|Eduardo Pina|01/07/2025|Usuário do aplicativo|
+
+<font size="3"><p style="text-align: center">Fonte: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
+
+### Vídeo de Validação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mf1BDpeG03Y?si=PePF4QXZF06KBA0l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Integrantes do grupo envolvidos
+
+**Tabela 2**
 
 <div align="center">
 	<div>
@@ -25,27 +52,27 @@ Os cenários foram criados a partir da análise dos [requisitos levantados](http
 		<tbody>
 					<tr>
 						<td><a  href="https://github.com/ArturDCR">Artur de Camargos</a></td>
-						<td>Elaborou os Cenários dos requisitos RQ60 e RQ67 com suas respectivas tabelas (7 e 8)</td>	
+						<td>Elaborou os Cenários dos requisitos RQ60 e RQ67 com suas respectivas tabelas (9 e 10)</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
-						<td>Elaborou a Introdução, Metodologia e os Cenários dos requisitos RQ23 e RQ24 com sua respectivas tabelas (1 e 2)</td>	
+						<td>Elaborou a Introdução, Metodologia e os Cenários dos requisitos RQ23 e RQ24 com sua respectivas tabelas (3 e 4). Também adicionou a tabela 1, junto com o vídeo de validação dos cenários</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
-						<td>Elaborou os Cenários dos requisitos RQ32 e RQ58 com suas respectivas tabelas (5 e 6)</td>	
+						<td>Elaborou os Cenários dos requisitos RQ32 e RQ58 com suas respectivas tabelas (7 e 8)</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
-						<td>Elaborou os Cenários dos requisitos RQ59 e RQ33 com suas respectivas tabelas (3 e 4)</td>	
+						<td>Elaborou os Cenários dos requisitos RQ59 e RQ33 com suas respectivas tabelas (5 e 6)</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
-						<td>Elaborou os Cenários dos requisitos RQ29 e RQ30 com suas respectivas tabelas (9 e 10)</td>	
+						<td>Elaborou os Cenários dos requisitos RQ29 e RQ30 com suas respectivas tabelas (11 e 12)</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
-						<td>Elaborou os Cenários dos requisitos RQ26 e RQ39 com suas respectivas tabelas (11 e 12)</td>	
+						<td>Elaborou os Cenários dos requisitos RQ26 e RQ39 com suas respectivas tabelas (13 e 14), junto com a tabela 2.</td>	
 					</tr>
 			</tbody>
 		</table>
@@ -54,11 +81,11 @@ Os cenários foram criados a partir da análise dos [requisitos levantados](http
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
-## 4.1 Cenário 1: Filtrar filmes por categoria e exibir avaliações
+## Cenário 1: Filtrar filmes por categoria e exibir avaliações
 
 O primeiro cenário, apresentado na Tabela 1, faz referência ao requisito não-implementado [RQ23](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/): Filtrar filmes por categoria e exibir avaliações de público e plataformas externas.
 
-**Tabela 1: Cenário de filtrar filmes por categoria e exibir avaliações**
+**Tabela 3: Cenário de filtrar filmes por categoria e exibir avaliações**
 
 | Item     | Descrição                                                                                  |
 |-----------|--------------------------------------------------------------------------------------------|
@@ -73,11 +100,11 @@ O primeiro cenário, apresentado na Tabela 1, faz referência ao requisito não-
 <p align="center"><br>
 Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
-## 4.2 Cenário 2: Exibir trailers dentro do app
+## Cenário 2: Exibir trailers dentro do app
 
 O segundo cenário, apresentado na Tabela 2, faz referência ao requisito não-implementado [RQ24](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/): Exibir trailers dentro do app.
 
-**Tabela 2: Cenário de exibir trailers dentro do app**
+**Tabela 4: Cenário de exibir trailers dentro do app**
 
 | Item     | Descrição                                                                       |
 |-----------|---------------------------------------------------------------------------------|
@@ -92,11 +119,11 @@ O segundo cenário, apresentado na Tabela 2, faz referência ao requisito não-i
 <p align="center"><br>
 Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
-## 4.3 Cenário 3: Reservar salas para eventos
+## Cenário 3: Reservar salas para eventos
 
 O terceiro cenário, apresentado na Tabela 3, faz referência ao requisito não implementado [RQ59](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Reservar salas para eventos.
 
-**Tabela 3: Cenário de reservar salas para eventos**
+**Tabela 5: Cenário de reservar salas para eventos**
 
 | Item       | Descrição                                                                                                                                                                                                                           |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -111,11 +138,11 @@ O terceiro cenário, apresentado na Tabela 3, faz referência ao requisito não 
 <p align="center"><br>
 Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 
-## 4.4 Cenário 4: Alterar preferências de idioma
+## Cenário 4: Alterar preferências de idioma
 
 O quarto cenário, apresentado na Tabela 4, faz referência ao requisito não implementado [RQ33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Permitir alteração de preferências de idioma.
 
-**Tabela 4: Cenário de alterar preferências de idioma**
+**Tabela 6: Cenário de alterar preferências de idioma**
 
 | Item       | Descrição                                                                                                                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -130,11 +157,11 @@ O quarto cenário, apresentado na Tabela 4, faz referência ao requisito não im
 <p align="center"><br>
 Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 
-## 4.5 Cenário 5: Exibir recomendações de filmes baseadas em histórico e preferências
+## Cenário 5: Exibir recomendações de filmes baseadas em histórico e preferências
 
 O quinto cenário, apresentado na Tabela 5, faz referência ao requisito não implementado [RQ32](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Exibir recomendações de filmes baseadas em histórico e preferências.
 
-**Tabela 5: Cenário de exibir recomendações de filmes baseadas em histórico e preferências**
+**Tabela 7: Cenário de exibir recomendações de filmes baseadas em histórico e preferências**
 
 | Item           | Descrição                                                                                                                                                                                                                   |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -149,11 +176,11 @@ O quinto cenário, apresentado na Tabela 5, faz referência ao requisito não im
 <p align="center"><br>
 Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 
-## 4.6 Cenário 6: Fornecer comparação de preços entre cinemas
+## Cenário 6: Fornecer comparação de preços entre cinemas
 
 O sexto cenário, apresentado na Tabela 6, faz referência ao requisito não implementado [RQ58](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Fornecer comparação de preços entre cinemas.
 
-**Tabela 6: Cenário de fornecer comparação de preços entre cinemas**
+**Tabela 8: Cenário de fornecer comparação de preços entre cinemas**
 
 | Item           | Descrição                                                                                                                                                                                                |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -168,11 +195,11 @@ O sexto cenário, apresentado na Tabela 6, faz referência ao requisito não imp
 <p align="center"><br>
 Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 
-## 4.7 Cenário 7: Fornecer um Hub para crítica de filmes
+## Cenário 7: Fornecer um Hub para crítica de filmes
 
 O sétimo cenário, apresentado na Tabela 7, faz referência ao requisito não implementado [RQ60](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Fornecer um Hub para crítica de filmes.
 
-**Tabela 7: Cenário para Fornecer um Hub para crítica de filmes.**
+**Tabela 9: Cenário para Fornecer um Hub para crítica de filmes.**
 
 | Item       | Descrição                                                                                                                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -187,11 +214,11 @@ O sétimo cenário, apresentado na Tabela 7, faz referência ao requisito não i
 <p align="center"><br>
 Autor: <a href="https://github.com/ArturDCR">Artur De Camargos</a>, 2025.</p>
 
-## 4.8 Cenário 8: Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial
+## Cenário 8: Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial
 
 O oitavo cenário, apresentado na Tabela 8, faz referência ao requisito não implementado [RQ67](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.
 
-**Tabela 8: Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.**
+**Tabela 10: Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.**
 
 | Item       | Descrição                                                                                                                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -206,11 +233,11 @@ O oitavo cenário, apresentado na Tabela 8, faz referência ao requisito não im
 <p align="center"><br>
 Autor: <a href="https://github.com/ArturDCR">Artur De Camargos</a>, 2025.</p>
 
-## 4.9 Cenário 9: Sugerir cinemas para o usuário
+## Cenário 9: Sugerir cinemas para o usuário
 
 O 9º cenário, apresentado na Tabela 9, faz referência ao requisito não implementado [RQ29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Sugerir cinemas com base no histórico de visitas e na localização atual.
 
-**Tabela 9: Cenário de sugerir cinemas com base no histórico de visitas e na localização atual**
+**Tabela 11: Cenário de sugerir cinemas com base no histórico de visitas e na localização atual**
 
 | Item       | Descrição                                                                                                                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -225,11 +252,11 @@ O 9º cenário, apresentado na Tabela 9, faz referência ao requisito não imple
 <p align="center"><br>
 Autor: <a href="https://github.com/Davicamilo23">Gabriel Castelo</a>, 2025.</p>
 
-## 4.10 Cenário 10: Salvar cinemas como favoritos
+## Cenário 10: Salvar cinemas como favoritos
 
 O 10º cenário, apresentado na Tabela 10, faz referência ao requisito não implementado [RQ30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Permitir que o usuário salve cinemas como favoritos.
 
-**Tabela 10: Cenário de salvar cinemas como favoritos**
+**Tabela 12: Cenário de salvar cinemas como favoritos**
 
 | Item       | Descrição                                                                                                                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -244,11 +271,11 @@ O 10º cenário, apresentado na Tabela 10, faz referência ao requisito não imp
 <p align="center"><br>
 Autor: <a href="https://github.com/Davicamilo23">Gabriel Castelo</a>, 2025.</p>
 
-## 4.11 Cenário 11: Permitir salvar ingressos na carteira digital do dispositivo
+## Cenário 11: Permitir salvar ingressos na carteira digital do dispositivo
 
 O décimo primeiro cenário, apresentado na Tabela 11, faz referência ao requisito [RQ26](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc).
 
-**Tabela 11: Cenário de permitir salvar ingressos na carteira digital do dispositivo.**
+**Tabela 13: Cenário de permitir salvar ingressos na carteira digital do dispositivo.**
 
 | Item       | Descrição                                                                                                                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -263,11 +290,11 @@ O décimo primeiro cenário, apresentado na Tabela 11, faz referência ao requis
 <p align="center"><br>
 Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 2025.</p>
 
-## 4.12 Cenário 12: Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas
+## Cenário 12: Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas
 
 O décimo segundo cenário, apresentado na Tabela 12, faz referência ao requisito [RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas.
 
-**Tabela 12: Cenário de exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas**
+**Tabela 14: Cenário de exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas**
 
 | Item       | Descrição                                                                                                                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -307,3 +334,4 @@ Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 20
 | `1.6`  | 18/05/2025 | Adição do cenário 9 (RQ29 - Sugerir cinemas com base no histórico de visitas e na localização atual) e 10 (RQ30 - Salvar cinemas como favoritos) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.7`  | 18/05/2025 | Adição dos cenários 11 (RQ26 - Permitir salvar ingressos na carteira digital do dispositivo.) e 12 (RQ39- Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas.) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Euller Júlio](https://github.com/Potatoyz908) |
 | `1.8`  | 26/05/2025 | Adição da tabela de participantes | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
+| `1.9`  | 04/07/2025 | Organização do documento, agora as tabelas seguem a ordem de 1 a 14. Também foi adicionada a tabela 1 e o vídeo de validação dos cenários | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
