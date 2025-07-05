@@ -68,6 +68,10 @@ Essa abordagem metodológica permite visualizar de forma clara e organizada como
 			</thead>
 		<tbody>
 					<tr>
+						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
+						<td>Elaborou a Pós-Rastreablidade dos Requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq10" target="_blank">RQ10</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq11" target="_blank">RQ11</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq12a" target="_blank">RQ12A</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq12b" target="_blank">RQ12B</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq13" target="_blank">RQ13</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq14" target="_blank">RQ14</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq15" target="_blank">RQ15</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq16A" target="_blank">RQ16A</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq16B" target="_blank">RQ16B</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq17" target="_blank">RQ17</a> e <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq18" target="_blank">RQ18</a>.</td>
+					</tr>
+					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
 						<td>Elaborou a introdução, a metodologia e o modelo de pós-rastreabilidade. Também elaborou a Pós-Rastreablidade dos Requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq37" target="_blank">RQ37</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq38" target="_blank">RQ38</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq39" target="_blank">RQ39</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq40" target="_blank">RQ40</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq41" target="_blank">RQ41</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq42" target="_blank">RQ42</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq43" target="_blank">RQ43</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq44" target="_blank">RQ44</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq45" target="_blank">RQ45</a>.</td>
 					</tr>
@@ -89,117 +93,162 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
-| Recurso | - |
-| Representação | - |
-| Alocado | - |
-| Agregação | - |
+| Satisfação | [US01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us01-armazenar-cartoes-de-pagamento) |
+| Recurso | [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us35-autenticacao-por-e-mail-e-senha); [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta) |
+| Representação | |
+| Alocado | [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta) |
+| Agregação | [IS06](../elicitação/introspecção.md#IS06)  |
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
+
+---
 
 #### **RQ11 - Permitir compra de múltiplos ingressos em uma única transação.**
 
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
-| Recurso | - |
-| Representação | - |
-| Alocado | - |
-| Agregação | - |
+| Satisfação | [US02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us02-permitir-compra-de-multiplos-ingressos-em-uma-unica-transacao) |
+| Recurso | [RQ12A](#rq12a---exibir-mapa-da-sala-com-indicação-gráfica-de-assentos-ocupados-livres-e-especiais); [RQ12B](#rq12b---permitir-seleção-pelos-usuários); [RQ13](#rq13---exigir-seleção-de-ao-menos-um-assento-antes-de-prosseguir) |
+| Representação |  |
+| Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-compra-e-finalizacao) |
+| Agregação | [IS07](../elicitação/introspecção.md#IS07) |
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
 
-#### **RQ12 - Exibir mapa da sala com indicação gráfica de assentos ocupados, livres e especiais, e permitir seleção pelos usuários.**
+---
+
+#### **RQ12A - Exibir mapa da sala com indicação gráfica de assentos ocupados, livres e especiais.**
 
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
-| Recurso | - |
-| Representação | - |
-| Alocado | - |
-| Agregação | - |
+| Satisfação | [US03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us02-permitir-compra-de-multiplos-ingressos-em-uma-unica-transacao) |
+|Representação| |
+| Recurso | Dados de Ocupação de Assentos em Tempo Real | 
+| Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-compra-e-finalizacao) |
+| Agregação |[AI09](../elicitação/analiseUI.md#AI09) |
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
+
+#### **RQ12B - Permitir seleção pelos usuários.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | [US03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us02-permitir-compra-de-multiplos-ingressos-em-uma-unica-transacao) |
+| Recurso | [RQ12A](#rq12a---exibir-mapa-da-sala-com-indicação-gráfica-de-assentos-ocupados-livres-e-especiais) |
+| Representação | |
+| Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-compra-e-finalizacao) |
+| Agregação |[IS08](../elicitação/introspecção.md#IS08)  |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
+
+---
 
 #### **RQ13 - Exigir seleção de ao menos um assento antes de prosseguir.**
 
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
-| Recurso | - |
-| Representação | - |
-| Alocado | - |
-| Agregação | - |
+| Satisfação | [US02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us02-permitir-compra-de-multiplos-ingressos-em-uma-unica-transacao) |
+| Recurso | [RQ12A](#rq12a---exibir-mapa-da-sala-com-indicação-gráfica-de-assentos-ocupados-livres-e-especiais); [RQ12B](#rq12b---permitir-seleção-pelos-usuários) |
+| Representação | |
+| Alocado | [E12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-12-localizacao-e-assentos_1) |
+| Agregação |[AI10](../elicitação/analiseUI.md#AI10)|
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
+
+---
 
 #### **RQ14 - Definir tipo de ingresso por assento (inteira, meia, convênio, voucher).**
 
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
-| Recurso | - |
-| Representação | - |
-| Alocado | - |
-| Agregação | - |
+| Satisfação | [US04](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us04-definir-tipo-de-ingresso-por-assento) |
+| Recurso |[US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us35-autenticacao-por-e-mail-e-senha); [RQ12A](#rq12a---exibir-mapa-da-sala-com-indicação-gráfica-de-assentos-ocupados-livres-e-especiais); [RQ12B](#rq12b---permitir-seleção-pelos-usuários);  |
+| Representação | |
+| Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-compra-e-finalizacao_1) |
+| Agregação |[AI11](../elicitação/analiseUI.md#AI11)   |
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
+
+---
 
 #### **RQ15 - Integrar bomboniere ao app para compra antecipada de itens e retirada rápida.**
 
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
-| Recurso | - |
-| Representação | - |
-| Alocado | - |
-| Agregação | - |
+| Satisfação |  |
+| Recurso |  |
+| Representação | |
+| Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-compra-e-finalizacao) |
+| Agregação | [IS11](../elicitação/introspecção.md#IS11), [AI12](../elicitação/analiseUI.md#AI12) |
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
 
-#### **RQ16 - Exibir resumo da compra e permitir aplicação de cupom de desconto.**
+---
+
+#### **RQ16A - Exibir resumo da compra.**
 
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
-| Recurso | - |
-| Representação | - |
-| Alocado | - |
-| Agregação | - |
+| Satisfação | |
+| Recurso | [RQ11](#rq11---permitir-compra-de-múltiplos-ingressos-em-uma-única-transação); [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us35-autenticacao-por-e-mail-e-senha) |
+| Representação | |
+| Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-compra-e-finalizacao), [AI29](../elicitação/analiseUI.md#AI29) |
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
+
+---
+
+#### **RQ16B - Permitir aplicação de cupom de desconto.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação |  |
+| Recurso | [RQ16A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) |
+| Representação |  |
+| Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-processo-de-compra-de-ingressos) |
+| Agregação | [AI13](../elicitação/analiseUI.md#AI13), [AI29](../elicitação/analiseUI.md#AI29) |
+
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
+
+---
 
 #### **RQ17 - Gerar QR Code e chave Pix para pagamentos via Pix.**
 
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
-| Recurso | - |
-| Representação | - |
-| Alocado | - |
-| Agregação | - |
+| Satisfação | |
+| Recurso | [US02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us02-permitir-compra-de-multiplos-ingressos-em-uma-unica-transacao); [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us35-autenticacao-por-e-mail-e-senha)  |
+| Representação ||
+| Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-processo-de-compra-de-ingressos) |
+| Agregação | [AI15](../elicitação/analiseUI.md#AI15)     |
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
+
+---
 
 #### **RQ18 - Disponibilizar ingresso digital no app, eliminando a necessidade de impressão.**
 
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
-| Recurso | - |
-| Representação | - |
-| Alocado | - |
-| Agregação | - |
+| Satisfação | [L13](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#13-acesso-aos-ingressos-facil-e-visivel-na-interface-com-botao-dedicado-ou-atalho-no-menu-inicial), [L14](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#13-acesso-aos-ingressos-facil-e-visivel-na-interface-com-botao-dedicado-ou-atalho-no-menu-inicial)  |
+| Recurso | [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us35-autenticacao-por-e-mail-e-senha) |
+| Representação | |
+| Alocado | [E05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-5-gerenciamento-de-ingressos) |
+| Agregação | [IS09](../elicitação/introspecção.md#IS09), [ST03](../elicitação/storytelling.md#ST03) |
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
+
+---
 
 #### **RQ37 - Criar e editar perfil do usuário, gerenciar dados pessoais e métodos de pagamento**
 
@@ -337,3 +386,4 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | `1.0`  |  08/06/2025 |  Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.1`  |  08/06/2025 | Adição da introdução, metodologia, modelo de pós-rastreabilidade, tabela dos integrantes e tabelas relacionadas aos requisitos 37 a 45 | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.2`  |  08/06/2025 | Adição das tabelas relacionadas aos requisitos 10 ao 18 | [Arthur Evangelista](https://github.com/arthurevg) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+|`1.3`| 04/07/2025|Adição das tabelas referentes ao RQ12A, RQ12B, RQ16A e RQ16B|[Arthur Evangelista](https://github.com/arthurevg)|  [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
