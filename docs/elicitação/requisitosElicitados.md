@@ -90,9 +90,9 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 | RQ50 | Notificações push customizáveis pelo usuário.                                                                          | [IS34](../elicitação/introspecção.md#IS34)                 | RNF       | Não          |
 | RQ51 | Exibir mapa de assentos com indicação gráfica clara de ocupação e disponibilidade.                                     | [IS31](../elicitação/introspecção.md#IS31)                 | RNF       | Sim          |
 | RQ52 | Limitar quantidade máxima de 20 unidades por item no Snack Bar.                                                        | [AI26](../elicitação/analiseUI.md#AI26)                 | RNF       | Sim          |
-| RQ53 | O sistema deve validar e-mail e senha antes de criação ou redefinição de conta.                | [AI27](../elicitação/analiseUI.md#AI27)                 | RF       | Sim          |
+| RQ53 | O sistema deve manter informações da sessão (filme, data, hora e sala) visíveis em todas as etapas do fluxo de compra.               | [AI27](../elicitação/analiseUI.md#AI27)                 | RNF       | Sim          |
 | RQ54 | Ocultar parcialmente o e-mail recuperado para segurança (exibir com asteriscos).                                       | [AI33](../elicitação/analiseUI.md#AI33)                 | RNF       | Sim          |
-| RQ55 | Validar e-mail e senha antes de criação ou redefinição de conta.                                                       | [AI34](../elicitação/analiseUI.md#AI34)                 | RNF       | Sim          |
+| RQ55 | O sistema deve validar e-mail e senha antes de criação ou redefinição de conta.                | [AI34](../elicitação/analiseUI.md#AI34)                 | RNF       | Sim          |
 | RQ56 | Remover automaticamente promoções expiradas da interface.                                                              | [AI35](../elicitação/analiseUI.md#AI35)                 | RNF       | Sim          |
 | RQ57 | Validar dados pessoais no perfil antes de salvar.                                                                      | [AI36](../elicitação/analiseUI.md#AI36)                 | RNF       | Sim          |
 | RQ58 | Fornecer comparação de preços entre cinemas.                                                                          | [Q04](../elicitação/questionario.md#Q04)                 | RF       | Não          |
@@ -173,3 +173,4 @@ Os requisitos elicitados por meio de técnicas como introspecção, análise de 
 | `1.7` | 24/05/2025 | Adição das tabelas 2 e 3 para melhor visualização dos requisitos não implementados | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.8` | 24/05/2025 | Correção do RQ29. Foi desmebrado em dois requisitos: RQ29A e RQ29B | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `2.0` | 02/07/2025 | Correção de todos os requisitos do projeto | [Davi Camilo](https://github.com/Davicamilo23) | Todos |
+| `2.1`  |  05/07/2025 | Correções na rastreabilidade e na descrição dos RQ53 e RQ55 | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
