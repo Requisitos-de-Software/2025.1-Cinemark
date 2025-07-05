@@ -30,7 +30,7 @@ Uma forma de garantir que o software atenda às expectativas dos usuários e sta
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
-						<td>Adição do Cartão de Especificação 4 referente ao <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ49">RQ49</a></td>
+						<td>Adição do Cartão de Especificação 4 referente ao <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ49">RQ49</a>, reorganização das seções do documento, atualização das descrições dos requisitos RQ45 e RQ49, e correção das dependências do cartão de especificação 6</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
@@ -208,7 +208,7 @@ Este softgoal representa a facilidade de uso e a experiência do usuário com o 
 | ID    | Descrição                                                                 | Tipo         |
 |-------|---------------------------------------------------------------------------|--------------|
 |[RQ44](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ44) | Interface acessível para pessoas com deficiência visual (leitores de tela) e baixo-visão. | Usabilidade   |
-|[RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ45) | Contraste de interface conforme WCAG A/AA. | Usabilidade    |
+|[RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ45) | As cores da interface do aplicativo devem possuir nível de contraste conforme a WCAG A/AA. | Usabilidade    |
 | [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ50) | Notificações push customizáveis pelo usuário. | Usabilidade     |
 | [RQ53](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ53) | Manter informações da sessão (filme, data, hora e sala) visíveis em todas as etapas do fluxo de compra. | Usabilidade     |
 
@@ -292,7 +292,7 @@ Este softgoal abrange a proteção de dados e a segurança do sistema. A seguir 
 
 | ID    | Descrição                                                                 | Tipo         |
 |-------|---------------------------------------------------------------------------|--------------|
-| [RQ49](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ49) | Autenticação por biometria ou PIN para operações sensíveis. | Segurança     |
+| [RQ49](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ49) | Autenticação por biometria ou PIN para operações sensíveis, como exclusão de conta, visualização de dados de pagamento. | Segurança     |
 | [RQ54](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ54) | Ocultar parcialmente o e-mail recuperado para segurança (exibir com asteriscos). | Segurança     |
 
 A seguir estão os cartões de especificação para os requisitos não-funcionais de segurança:
@@ -307,7 +307,7 @@ A seguir estão os cartões de especificação para os requisitos não-funcionai
   <tr><td><strong>Justificativa</strong></td><td>Evitar a exposição completa do e-mail em tela pública ou compartilhada, reduzindo riscos de acesso indevido e aumentando a segurança da informação.</td></tr>
   <tr><td><strong>Origem do Requisito</strong></td><td>Stakeholder (equipe de segurança da informação)</td></tr>
   <tr><td><strong>Critério de Aceitação</strong></td><td>Ao exibir o e-mail recuperado, o sistema deve mascarar parte do nome de usuário (antes do @), mantendo os três primeiros e o domínio visível. Exemplo: **joh***@exemplo.com.</td></tr>
-  <tr><td><strong>Dependências</strong></td><td>RQ12 – Recuperação de Conta<br>RQ51 – Política de privacidade de dados</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>RQ21A – Recuperar conta por envio de link de redefinição de senha por e-mail.<br>RQ21B - Recuperar e-mail via CPF.<br>RQ21C - Redefinir e-mail com código de verificação.<br></td></tr>
   <tr><td><strong>Prioridade</strong></td><td>Must (Deve)</td></tr>
   <tr><td><strong>Conflitos</strong></td><td>Nenhum identificado</td></tr>
   <tr><td><strong>História</strong></td><td>Criado em 01/06/2025</td></tr>
@@ -443,7 +443,7 @@ A tabela abaixo apresenta a avaliação da propagação dos impactos dos requisi
 | ID    | Descrição                                                                 | Tipo         |
 |-------|---------------------------------------------------------------------------|--------------|
 | [RQ54](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ54) | Ocultar parcialmente o e-mail recuperado para segurança (exibir com asteriscos). | Segurança     |
-| [RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ45) | Contraste de interface conforme WCAG A/AA. | Usabilidade    |
+| [RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ45) | As cores da interface do aplicativo devem possuir nível de contraste conforme a WCAG A/AA. | Usabilidade    |
 | [RQ44](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ44) | Interface acessível para pessoas com deficiência visual (leitores de tela) e baixo-visão. | Usabilidade   |
 | [RQ47](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ47) | Atualizar automaticamente o valor total conforme seleção de ingressos e produtos. | Desempenho    |
 | [RQ53](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ53) | Manter informações da sessão (filme, data, hora e sala) visíveis em todas as etapas do fluxo de compra. | Usabilidade     |
@@ -477,6 +477,6 @@ A tabela abaixo apresenta a avaliação da propagação dos impactos dos requisi
 | `1.10`  | 01/06/2025 | Adição do cartão 5 | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.11`  | 01/06/2025 | Adição da tabela de impacto - segurança | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.12`  | 01/06/2025 | Adição da tabela de impacto - desempenho e o SIG | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
-| `1.12`  | 01/06/2025 | Adição da tabela de impacto - desempenho e o SIG | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.13`  | 01/06/2025 | Adição dos softgoals de impacto e propagação de impactos dos requisitos de usabilidade | [Arthur Evangelista](https://github.com/arthurevg)| [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
 | `1.14`  | 01/06/2025 | Atualização dos softgoals de usabilidade após instruções do professor | [Arthur Evangelista](https://github.com/arthurevg)| [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
+| `1.15`  | 04/07/2025 | Reorganização das seções (troca de ordem entre Introdução e Integrantes do grupo), atualização das descrições dos requisitos RQ45 e RQ49, e correção das dependências do cartão de especificação 6 | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
