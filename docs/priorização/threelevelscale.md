@@ -93,7 +93,7 @@ A tabela 1 apresenta o cronograma da priorização e as funções dos membros re
 | RQ22 | Exibir histórico de filmes assistidos (data, horário, cinema) e histórico de compras na bomboniere.                    | BAIXA | [IS13](../elicitação/introspecção.md#IS13), [IS14](../elicitação/introspecção.md#IS14)           |
 | RQ23 | Filtrar filmes por categoria e exibir avaliações de público e plataformas externas.                                    | NÃO FAZER | [IS15](../elicitação/introspecção.md#IS15)                 |
 | RQ24 | Exibir trailers dentro do app.                                                                                         | BAIXA | [IS16](../elicitação/introspecção.md#IS16)                 |
-| RQ25 | Oferecer fluxo de compra simplificado, com o mínimo de toques até a confirmação.                                       | ALTA | [IS17](../elicitação/introspecção.md#IS17)                 |
+| RQ25 | O fluxo de compra de ingresso do aplicativo deve possuir no máximo 5 etapas.                                       | ALTA | [IS17](../elicitação/introspecção.md#IS17)                 |
 | RQ26 | Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc).                      |BAIXA | [IS18](../elicitação/introspecção.md#IS18)                 |
 | RQ27 | Permitir uso de pontos acumulados para desconto em ingressos e produtos.                                               | NÃO FAZER| [IS19](../elicitação/introspecção.md#IS19), [Q03](../elicitação/questionario.md#Q03)                 |
 | RQ28 | Alertar usuário sobre pontos suficientes para ingresso grátis e antes da expiração.                                    |NÃO FAZER| [IS20](../elicitação/introspecção.md#IS20)                 |
