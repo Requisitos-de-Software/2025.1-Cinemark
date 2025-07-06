@@ -118,7 +118,13 @@ A tabela 1 apresenta o cronograma da priorização e as funções dos membros re
 
 ---
 
-## Bibliografia
+## Conclusão
+
+A técnica de priorização MoSCoW foi aplicada com sucesso para orientar a definição de prioridades dos [Requisitos elicitados](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/). Por meio da categorização em Must Have, Should Have, Could Have e Won’t Have, foi possível alinhar as funcionalidades às necessidades da usuária e às restrições do projeto, garantindo foco nos elementos essenciais para o funcionamento do sistema. A priorização foi realizada em conjunto com a usuária final, garantindo representatividade da perspectiva do usuário.
+
+---
+
+## Referência Bibliográfica
 
 > Interaction Design Foundation - IxDF. (2015, November 18). Making Your UX Life Easier with the MoSCoW. Interaction Design Foundation - IxDF. Disponível em: <https://www.interaction-design.org/literature/article/making-your-ux-life-easier-with-the-moscow>. Acesso em: 04 maio 2025.
 
