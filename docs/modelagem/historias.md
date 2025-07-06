@@ -1465,7 +1465,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
   <td>Rastreabilidade</td>
-  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq29" target="_blank">RQ29</a></td>
+  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq29" target="_blank">RQ29A RQ29B</a></td>
 </tr>
     </tbody>
   </table>
@@ -2009,3 +2009,4 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 | `1.2`  | 05/07/2025 | Correção da US12 com base na mudança do requisito RQ25 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.3`  | 05/07/2025 | Correção da US07 com base no requisito 20B | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Pedro Everton](https://github.com/pedroeverton217) |
 | `1.4`  | 06/07/2025 | Correção da US08 com base no requisito RQ21A | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.5`  | 06/07/2025 | Ajuste no RQ29, adicionando suas novas versões RQ29A e RQ29B | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
