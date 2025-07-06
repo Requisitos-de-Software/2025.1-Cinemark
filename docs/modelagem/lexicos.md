@@ -154,7 +154,7 @@ Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 - **Sinônimos**: Sugestões, Indicações, Lista personalizada
 - **Noção**: Conjunto de filmes apresentados ao usuário com base em dados como seu histórico, preferências e comportamento de uso.
 - **Impacto**: Influencia diretamente a decisão do usuário, aumentando as chances do mesmo assistir a um filme recomendado. Deve ser exibido em local de fácil acesso, com informações claras e atrativas.
-- **Rastreabilidade**: [RQ32](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Exibir recomendações de filmes baseadas em histórico e preferências.
+- **Rastreabilidade**: [RQ32A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Exibir recomendações de filmes baseadas em histórico e [RQ32B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Exibir recomendações de filmes baseadas em preferências. 
 
 <p align="center"><br>
 Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
