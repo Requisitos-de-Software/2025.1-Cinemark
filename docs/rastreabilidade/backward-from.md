@@ -198,6 +198,5 @@ Na Tabela 3, apresentamos a matriz de rastreabilidade backward-from, que relacio
 | `1.5`  |  08/06/2025 |  Adição de rastreabilidade dos requisitos RQ28 a RQ36  | [Euller Júlio](https://github.com/Potatoyz908) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.6`  |  08/06/2025 |  Adição de rastreabilidade dos requisitos RQ10 a RQ18  | [Arthur Evangelista](https://github.com/arthurevg) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.7`  |  08/06/2025 |  Adição de rastreabilidade dos requisitos RQ37 a RQ45  | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
-
 | `1.8`  |  08/06/2025 |  Adição de rastreabilidade dos requisitos RQ01 a RQ09  | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Euller Júlio](https://github.com/Potatoyz908) |
 
