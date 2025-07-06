@@ -147,7 +147,8 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 | [RQ26](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ26) | Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc). | Não |
 | [RQ33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ33) | Permitir alteração de preferências de idioma | Não |
 | [RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ39) | Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas. | Não |
-| [RQ29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ29) | Sugerir cinemas personalizados com base no histórico de visitas e localização atual do usuário. | Não |
+| [RQ29A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ29A) | Sugerir cinemas com base no histórico de visitas | Não |
+| [RQ29B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ29B) | Sugerir cinemas com base na localização atual. | Não |
 | [RQ30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ30) | Permitir que o usuário salve cinemas como favoritos para facilitar acessos futuros. | Não |
 | [RQ60](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ60) | Fornecer um Hub para crítica de filmes. | Não |
 | [RQ67](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ67) | Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial. | Não |
@@ -334,7 +335,7 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 | **Fluxo de Exceção**  | Se a localização não estiver ativada, o sistema exibe uma mensagem solicitando permissão de acesso.                                                                                                                                        |
 | **Pós-condições**     | O sistema exibe uma lista de cinemas sugeridos e registra o comportamento de navegação do usuário para futuras sugestões.                                                                                                                      |
 | **Data de Criação**   | 18/05/2025                                                                                                                                                                                                                                     |
-| **Rastreabilidade**   | [RQ29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ29)                                                                                                                                                                |
+| **Rastreabilidade**   | [RQ29A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ29A) e [RQ29B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ29B)                                                                                                                                                         |
 
 <p align="center"><br>
 Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
@@ -419,3 +420,4 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 | `1.8`  | 25/05/2025 | Adição da tabela de participantes | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.9`  | 26/06/2025 | Correção da rastreabilidade dos requisitos utilizados nos casos de uso. | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
 | `1.9`  | 26/06/2025 | Correção da rastreabilidade dos requisitos utilizados nos casos de uso. | [Arthur Evangelista](https://github.com/arthurevg) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
+| `1.10`  | 06/07/2025 | Ajuste no RQ29, adicionando suas novas versões RQ29A e RQ29B | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
