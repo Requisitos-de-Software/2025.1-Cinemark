@@ -418,10 +418,10 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg) e [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
 
-### US08 - Recuperação de conta via e-mail ou CPF
+### US08 - Recuperação de conta via e-mail
 
 <details>
-  <summary><strong>Tabela 10 - História de Usuário Recuperação de conta via e-mail ou CPF</strong></summary>
+  <summary><strong>Tabela 10 - História de Usuário Recuperação de conta via e-mail</strong></summary>
 
   <table>
     <thead>
@@ -433,18 +433,17 @@ Tabela 2: Modelo de tabela para histórias de usuário.
     <tbody>
       <tr>
         <td>US08</td>
-        <td>Recuperação de conta via e-mail ou CPF</td>
+        <td>Recuperação de conta via e-mail</td>
       </tr>
       <tr>
         <td>Descrição</td>
-        <td><em>Eu, como</em> usuário, <em>desejo</em> recuperar meu acesso ao aplicativo enviando um link de redefinição de senha por e-mail ou recuperando meu e-mail através do CPF para, então, redefinir minha senha com código <em>para</em> voltar a usar minha conta quando esquecer minhas credenciais.</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> recuperar meu acesso ao aplicativo através de um link de redefinição de senha enviado por e-mail <em>para</em> voltar a usar minha conta quando esquecer minhas credenciais.</td>
       </tr>
       <tr>
         <td>Critérios de Aceitação</td>
         <td>
-          - Na tela de login, deve haver link “Esqueci minha senha” que redireciona para um formulário pedindo e-mail ou CPF. <br>
-          - Ao informar o CPF, o sistema deve buscar o e-mail cadastrado e enviar um código de redefinição. <br>
-          - Ao informar o e-mail diretamente, o sistema deve enviar um link seguro para redefinição de senha. <br>
+          - Na tela de login, deve haver link “Esqueci minha senha” que redireciona para um formulário pedindo e-mail. <br>
+          - Ao informar o e-mail, o sistema deve enviar um link seguro para redefinição de senha. <br>
           - O usuário deve conseguir redefinir a senha usando o código ou o link enviado, com confirmação ao final, garantindo ao usuário que a operação foi concluída com sucesso. <br>
         </td>
       </tr>
@@ -455,8 +454,8 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       <tr>
         <td>Rastreabilidade</td>
         <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ21">
-            RQ21
+        <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ21A">
+            RQ21A
           </a>
         </td>
       </tr>
@@ -2009,3 +2008,4 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 | `1.13`  | 01/06/2025 | Adição das histórias de usuário US37, US38, US39, US40, US41 e US42 | [Pedro Everton](https://github.com/pedroeverton217) |  [Euller Júlio da Silva](https://github.com/Potatoyz908) |
 | `1.2`  | 05/07/2025 | Correção da US12 com base na mudança do requisito RQ25 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.3`  | 05/07/2025 | Correção da US07 com base no requisito 20B | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Pedro Everton](https://github.com/pedroeverton217) |
+| `1.4`  | 06/07/2025 | Correção da US08 com base no requisito RQ21A | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
