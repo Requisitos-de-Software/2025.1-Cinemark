@@ -52,27 +52,27 @@ A tabela 1 apresenta o cronograma da priorização e as funções dos membros re
 		<tbody>
 					<tr>
 						<td><a  href="https://github.com/ArturDCR">Artur de Camargos</a></td>
-						<td>Elaborou os Cenários dos requisitos RQ60 e RQ67 com suas respectivas tabelas (9 e 10)</td>	
+						<td>Elaborou os Cenários dos requisitos <a  href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/">RQ60</a> e <a  href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/">RQ67</a> com suas respectivas tabelas (9 e 10)</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
-						<td>Elaborou a Introdução, Metodologia e os Cenários dos requisitos RQ23 e RQ24 com sua respectivas tabelas (3 e 4). Também adicionou a tabela 1, junto com o vídeo de validação dos cenários</td>	
+						<td>Elaborou a Introdução, Metodologia e os Cenários dos requisitos <a  href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/">RQ23</a> e <a  href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/">RQ24</a> com sua respectivas tabelas (3 e 4). Também adicionou a tabela 1, junto com o vídeo de validação dos cenários</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
-						<td>Elaborou os Cenários dos requisitos RQ32A, RQ32B e RQ58 com suas respectivas tabelas (7 e 8)</td>	
+						<td>Elaborou os Cenários dos requisitos <a  href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/">RQ32</a> e <a  href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/">RQ58</a> com suas respectivas tabelas (7 e 8)</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
-						<td>Elaborou os Cenários dos requisitos RQ59 e RQ33 com suas respectivas tabelas (5 e 6)</td>	
+						<td>Elaborou os Cenários dos requisitos <a  href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/">RQ59</a> e <a  href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/">RQ33</a> com suas respectivas tabelas (5 e 6)</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
-						<td>Elaborou os Cenários dos requisitos RQ29A, RQ29B e RQ30 com suas respectivas tabelas (11 e 12)</td>	
+						<td>Elaborou os Cenários dos requisitos <a  href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/">RQ29</a> e <a  href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/">RQ30</a> com suas respectivas tabelas (11 e 12)</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
-						<td>Elaborou os Cenários dos requisitos RQ26 e RQ39 com suas respectivas tabelas (13 e 14), junto com a tabela 2.</td>	
+						<td>Elaborou os Cenários dos requisitos <a  href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/">RQ26</a> e <a  href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/">RQ39</a> com suas respectivas tabelas (13 e 14), junto com a tabela 2.</td>	
 					</tr>
 			</tbody>
 		</table>
@@ -89,8 +89,9 @@ O primeiro cenário, apresentado na Tabela 1, faz referência ao requisito não-
 
 | Item     | Descrição                                                                                  |
 |-----------|--------------------------------------------------------------------------------------------|
+| Título     | Filtrar filmes por categoria e exibir avaliações                                          |
 | Objetivo  | Permitir que o usuário encontre filmes disponíveis por categoria e veja suas avaliações.  |
-| Contexto  | Local: Tela inicial do aplicativo Cinemark Digital.</br>Tempo: Aproximadamente 1 min.</br>Pré-condição: Existirem filmes cadastrados para a categoria selecionada.                     |
+| Contexto  | Local: Tela inicial do aplicativo Cinemark Digital.</br>Tempo: Aproximadamente 1 min.</br>Pré-condição: Existirem filmes cadastrados para a categoria selecionada.</br>Acesso ao sistema: Por meio de dispositivo móvel     |
 | Atores    | Usuário do aplicativo Cinemark Digital.                                                    |
 | Recursos  | Internet; Smartphone com o aplicativo Cinemark Digital instalado.                          |
 | Episódios | 1. Usuário seleciona a opção de filtrar filmes na tela inicial.</br>2. Usuário escolhe a categoria desejada.</br>3. Aplicativo exibe filmes da categoria.</br>4. Sistema mostra avaliações de público e de plataformas externas.          |
@@ -108,8 +109,9 @@ O segundo cenário, apresentado na Tabela 2, faz referência ao requisito não-i
 
 | Item     | Descrição                                                                       |
 |-----------|---------------------------------------------------------------------------------|
+| Título     | Exibir trailers dentro do app                                                                       |
 | Objetivo  | Permitir que o usuário visualize trailers de filmes sem sair do aplicativo.     |
-| Contexto  | Local: Página de detalhes do filme.</br>Tempo: Aproximadamente 30 s.</br>Pré-condição: Trailer disponível para o filme.                   |
+| Contexto  | Local: Página de detalhes do filme.</br>Tempo: Aproximadamente 30 s.</br>Pré-condição: Trailer disponível para o filme.   </br>Acesso ao sistema: Por meio de dispositivo móvel                |
 | Atores    | Usuário do aplicativo Cinemark Digital.                                         |
 | Recursos  | Internet; Dispositivo móvel com o aplicativo Cinemark Digital instalado.               |
 | Episódios | 1. Usuário acessa detalhes do filme.</br>2. Aplicativo exibe botão "Assistir Trailer".</br>3. Usuário toca e reproduz trailer no player incorporado.</br>4. Usuário pode pausar, avançar ou fechar o trailer. |
@@ -127,8 +129,9 @@ O terceiro cenário, apresentado na Tabela 3, faz referência ao requisito não 
 
 | Item       | Descrição                                                                                                                                                                                                                           |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Título     | Reservar salas para eventos                                                                       |
 | Objetivo   | Permitir que o usuário reserve uma sala de cinema para eventos privados, como aniversários, sessões fechadas ou encontros corporativos.                                                                                             |
-| Contexto   | Local: Menu "Mais" > Opção "Reservar Sala".</br>Tempo: 3 a 5 minutos.</br>Pré-condição: Usuário autenticado; existência de salas disponíveis.                                                                                       |
+| Contexto   | Local: Menu "Mais" > Opção "Reservar Sala".</br>Tempo: 3 a 5 minutos.</br>Pré-condição: Usuário autenticado; existência de salas disponíveis.      </br>Acesso ao sistema: Por meio de dispositivo móvel                                                                                 |
 | Atores     | Usuário autenticado.                                                                                                                                                                                                                |
 | Recursos   | Internet; aplicativo Cinemark instalado em smartphone.                                                                                                                                                                              |
 | Episódios  | 1. Usuário acessa o menu "Mais" e clica em "Reservar Sala".</br>2. Escolhe data, horário e quantidade de pessoas.</br>3. Seleciona uma sala disponível.</br>4. Preenche os dados da reserva.</br>5. Confirma e realiza o pagamento. |
@@ -146,8 +149,9 @@ O quarto cenário, apresentado na Tabela 4, faz referência ao requisito não im
 
 | Item       | Descrição                                                                                                                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Título     | Alterar preferências de idioma                                                                       |
 | Objetivo   | Permitir que o usuário altere o idioma da interface do aplicativo para melhor compreensão e personalização da experiência.                                                                   |
-| Contexto   | Local: Menu "Mais" > Configurações > Idioma.</br>Tempo: Cerca de 1 minuto.</br>Pré-condição: Usuário autenticado.                                                                            |
+| Contexto   | Local: Menu "Mais" > Configurações > Idioma.</br>Tempo: Cerca de 1 minuto.</br>Pré-condição: Usuário autenticado.         </br>Acesso ao sistema: Por meio de dispositivo móvel                                                                   |
 | Atores     | Usuário logado no aplicativo.                                                                                                                                                                |
 | Recursos   | Internet; aplicativo Cinemark instalado em dispositivo móvel.                                                                                                                                |
 | Episódios  | 1. Usuário acessa a aba "Mais".</br>2. Entra em "Configurações".</br>3. Escolhe "Preferências de Idioma".</br>4. Seleciona novo idioma.</br>5. Confirma alteração e vê interface atualizada. |
@@ -165,8 +169,9 @@ O quinto cenário, apresentado na Tabela 5, faz referência aos requisitos não 
 
 | Item           | Descrição                                                                                                                                                                                                                   |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Título     | Exibir recomendações de filmes baseadas em histórico e preferências                                                                       |
 | Objetivo   | Oferecer ao usuário sugestões de filmes baseadas em seu histórico de visualização e preferências cadastradas.                                                                                                               |
-| Contexto   | Local: Página inicial do aplicativo ou seção "Para Você".<br>Tempo: Imediato após login.<br>Pré-condição: Usuário possuir histórico de navegação ou ter informado preferências ao sistema.                                             |
+| Contexto   | Local: Página inicial do aplicativo ou seção "Para Você".<br>Tempo: Imediato após login.<br>Pré-condição: Usuário possuir histórico de navegação ou ter informado preferências ao sistema.         </br>Acesso ao sistema: Por meio de dispositivo móvel                                    |
 | Atores     | Usuário do aplicativo Cinemark Digital.                                                                                                                                                                                     |
 | Recursos   | Conexão com a internet; aplicativo Cinemark Digital instalado e logado com perfil pessoal.                                                                                                                                  |
 | Episódios  | 1. Usuário acessa o aplicativo.<br>2. O sistema analisa o histórico e preferências do perfil.<br>3. O sistema exibe recomendações personalizadas com base nesses dados.<br>4. Usuário pode explorar as sugestões apresentadas. |
@@ -184,8 +189,9 @@ O sexto cenário, apresentado na Tabela 6, faz referência ao requisito não imp
 
 | Item           | Descrição                                                                                                                                                                                                |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Título     | Fornecer comparação de preços entre cinemas                                                                       |
 | Objetivo   | Permitir que o usuário compare os preços de ingressos e combos para um mesmo filme em diferentes cinemas.                                                                                                |
-| Contexto   | Local: Página de detalhes do filme ou seleção de sessão.<br>Tempo: Aproximadamente 1 minuto.<br>Pré-condição: Existência de múltiplos cinemas com o filme selecionado em cartaz.                      |
+| Contexto   | Local: Página de detalhes do filme ou seleção de sessão.<br>Tempo: Aproximadamente 1 minuto.<br>Pré-condição: Existência de múltiplos cinemas com o filme selecionado em cartaz.      </br>Acesso ao sistema: Por meio de dispositivo móvel                |
 | Atores     | Usuário do aplicativo Cinemark Digital.                                                                                                                                                                  |
 | Recursos   | Conexão com a internet; GPS habilitado (opcional para ordenar cinemas por proximidade); aplicativo Cinemark Digital atualizado.                                                                                                         |
 | Episódios  | 1. Usuário seleciona um filme.<br>2. O sistema lista cinemas que exibem o filme.<br>3. Usuário solicita comparação de preços.<br>4. O sistema apresenta tabela comparativa com valores de ingresso e combos. |
@@ -203,8 +209,9 @@ O sétimo cenário, apresentado na Tabela 7, faz referência ao requisito não i
 
 | Item       | Descrição                                                                                                                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Título     | Fornecer um Hub para crítica de filmes                                                                       |
 | Objetivo   | Oferecer aos usuários do aplicativo Cinemark um espaço integrado para criar, compartaltilhar e acessar críticas de filmes, promovendo interação social e auxiliando na decisão de escolha de filmes com base em opiniões de outros espectadores. |
-| Contexto   | O aplicativo Cinemark atualmente permite compra de ingressos, consulta de horários de sessões e visualização de trailers. No entanto, não há um espaço dedicado para críticas ou discussões sobre filmes. O Hub de Crítica visa preencher essa lacuna, incentivando a comunidade de cinéfilos a compartilhar análises, avaliações (como notas de 1 a 5) e debates, integrando-se às funcionalidades existentes (ex.: exibição de filmes em cartaz). |
+| Contexto   | O aplicativo Cinemark atualmente permite compra de ingressos, consulta de horários de sessões e visualização de trailers. No entanto, não há um espaço dedicado para críticas ou discussões sobre filmes. O Hub de Crítica visa preencher essa lacuna, incentivando a comunidade de cinéfilos a compartilhar análises, avaliações (como notas de 1 a 5) e debates, integrando-se às funcionalidades existentes (ex.: exibição de filmes em cartaz). </br>Acesso ao sistema: Por meio de dispositivo móvel|
 | Atores     | Crítico: Usuário que escreve e publica críticas.<br>Leitor: Usuário que consome críticas e interage com elas (curtidas, comentários).<br>Administrador Cinemark: Responsável por moderar conteúdo e gerenciar o Hub.<br>Sistema do Aplicativo: Processa e armazena críticas, notas e interações. |
 | Recursos   | Internet; aplicativo Cinemark instalado em dispositivo móvel. |
 | Episódios  | **Acesso ao Hub de Críticas**:<br>1- Usuário abre o app e seleciona "Críticas" no menu de um filme.<br>2- Sistema exibe críticas recentes e avaliação média.<br>3- Usuário visualiza opiniões e decide assistir ao filme.<br><br>**Publicação de uma Crítica**:<br>1- Trigger: Usuário clica em "Escrever Crítica".<br>2- Ação: Preenche texto, adiciona nota, marca spoiler e publica.<br>3- Resultado: Crítica é exibida no filme e em seu perfil.<br><br>**Interação com Críticas**:<br>1- Trigger: Leitor curte ou comenta uma crítica.<br>2- Ação: Sistema registra a interação e notifica o crítico.<br>3- Resultado: Engajamento aumenta a visibilidade da crítica.<br><br>**Moderação de Conteúdo**:<br>1- Trigger: Usuário denuncia uma crítica como inadequada.<br>2- Ação: Administrador avalia e remove conteúdo ofensivo.<br>3- Resultado: Crítica é excluída ou mantida, com feedback ao denunciante. |
@@ -222,8 +229,9 @@ O oitavo cenário, apresentado na Tabela 8, faz referência ao requisito não im
 
 | Item       | Descrição                                                                                                                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Título     | Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial                                                                       |
 | Objetivo   | Facilitar e tornar visível o acesso à compra de ingressos no aplicativo Cinemark, garantindo que os usuários encontrem a funcionalidade de forma rápida e intuitiva, com um botão dedicado ou atalho direto no menu inicial. |
-| Contexto   | Atualmente, a compra de ingressos está disponível no aplicativo, mas sua localização não é imediatamente visível, exigindo múltiplos cliques ou navegação por menus. Essa mudança visa reduzir etapas e destacar a funcionalidade como prioridade na interface. |
+| Contexto   | Atualmente, a compra de ingressos está disponível no aplicativo, mas sua localização não é imediatamente visível, exigindo múltiplos cliques ou navegação por menus. Essa mudança visa reduzir etapas e destacar a funcionalidade como prioridade na interface. </br>Acesso ao sistema: Por meio de dispositivo móvel|
 | Atores     | Usuário do Aplicativo: Cliente que deseja comprar ingressos.<br>Equipe de Design/UX: Responsável por implementar a mudança na interface.<br>Sistema do Aplicativo: Exibe o botão/atalho e direciona para a compra. |
 | Recursos   | Interface atualizada do aplicativo;<br>Ferramentas de desenvolvimento front-end (ex.: React Native, Figma);<br>Integração com a API de vendas de ingressos. |
 | Episódios  | **Acesso Rápido ao Ingresso**:<br>1- Usuário abre o app e visualiza o botão "Comprar Ingresso" no menu inicial.<br>2- Sistema redireciona para a seleção de filme, cinema e sessão.<br>3- Usuário conclui a compra em poucas etapas.<br><br>**Personalização de Atalho**:<br>1- Trigger: Usuário pressiona e segura o ícone do app (atalho).<br>2- Ação: Sistema exibe opção "Comprar Ingresso" no menu de contexto.<br>3- Resultado: Redirecionamento direto para a página de compra. |
@@ -241,8 +249,9 @@ O 9º cenário, apresentado na Tabela 9, faz referência ao requisito não imple
 
 | Item       | Descrição                                                                                                                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Título     | Sugerir cinemas para o usuário                                                                       |
 | Objetivo   | Sugerir ao usuário cinemas próximos com base em seu histórico de visitas e localização atual                                                              |
-| Contexto   | Local: Tela inicial do aplicativo após o login <br>Tempo: Após a abertura do app (até 10 segundos) <br>Pré-condição: Localização ativada no dispositivo e histórico de visitas registrado no perfil do usuário                                                                     |
+| Contexto   | Local: Tela inicial do aplicativo após o login <br>Tempo: Após a abertura do app (até 10 segundos) <br>Pré-condição: Localização ativada no dispositivo e histórico de visitas registrado no perfil do usuário      </br>Acesso ao sistema: Por meio de dispositivo móvel                                                               |
 | Atores     | Usuário logado no aplicativo.                                                                                                                                                                |
 | Recursos   | Internet; aplicativo Cinemark instalado em dispositivo móvel; Histórico de visitas aos cinemas; GPS do dispositivo ativado; Banco de dados de cinemas ativos na cidade;                                                                                                                                |
 | Episódios  | 1. Usuário abre o aplicativo<br>2. O sistema obtém a localização atual do usuário.<br>3. O sistema recupera o histórico de cinemas visitados anteriormente.</br>4. O sistema consulta cinemas próximos compatíveis com os estilos de visita anteriores.</br>5. O sistema ordena os resultados por proximidade e afinidade.</br>6. O sistema apresenta a lista personalizada ao usuário. |
@@ -260,8 +269,9 @@ O 10º cenário, apresentado na Tabela 10, faz referência ao requisito não imp
 
 | Item       | Descrição                                                                                                                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Título     | Salvar cinemas como favoritos                                                                       |
 | Objetivo   | Permitir que o usuário marque cinemas específicos como favoritos para acessá-los rapidamente no futuro.                                                            |
-| Contexto   | Usuário visualiza detalhes ou listas de cinemas no aplicativo.                                                                   |
+| Contexto   | Usuário visualiza detalhes ou listas de cinemas no aplicativo.           </br>Acesso ao sistema: Por meio de dispositivo móvel                                                        |
 | Atores     | Usuário logado no aplicativo.                                                                                                                                                                |
 | Recursos   | Internet; aplicativo Cinemark instalado em dispositivo móvel; Interface de cinemas; lista de cinemas favoritos do usuário; Banco de dados de cinemas ativos na cidade;                                                                                                                                |
 | Episódios  | 1. O usuário navega pela lista ou detalhes de cinemas.<br>2. O usuário clica no botão ou ícone "Favoritar" próximo ao cinema desejado..<br>3. O sistema adiciona o cinema selecionado à lista de favoritos do usuário.</br>4. O usuário recebe uma confirmação visual de que o cinema foi salvo.</br>5. O usuário acessa posteriormente a lista de cinemas favoritos diretamente na interface principal do aplicativo. |
@@ -279,8 +289,9 @@ O décimo primeiro cenário, apresentado na Tabela 11, faz referência ao requis
 
 | Item       | Descrição                                                                                                                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Título     | Permitir salvar ingressos na carteira digital do dispositivo                                                                       |
 | Objetivo   | Permitir que o usuário adicione seu ingresso do aplicativo diretamente na carteira digital do dispositivo (como Google Wallet ou Apple Wallet) para facilitar o acesso ao ingresso. |
-| Contexto   | Local: Tela de detalhes do pedido ou confirmação de compra.<br>Tempo: Imediato após a compra ou na tela de detalhes do ingresso.<br>Pré-condição: Usuário tenha um ingresso válido e carteira digital compatível instalada. |
+| Contexto   | Local: Tela de detalhes do pedido ou confirmação de compra.<br>Tempo: Imediato após a compra ou na tela de detalhes do ingresso.<br>Pré-condição: Usuário tenha um ingresso válido e carteira digital compatível instalada.</br>Acesso ao sistema: Por meio de dispositivo móvel |
 | Atores     | Usuário do aplicativo Cinemark Digital. |
 | Recursos   | Conexão com a internet; aplicativo Cinemark instalado e logado; carteira digital compatível instalada no dispositivo. |
 | Episódios  | 1. Usuário acessa o aplicativo e vai até "Meus Pedidos".<br>2. Usuário seleciona um ingresso válido para salvar na carteira digital.<br>3. O sistema apresenta a opção de adicionar à carteira digital.<br>4. O usuário confirma a adição.<br>5. O ingresso é adicionado à carteira digital do dispositivo. |
@@ -298,8 +309,9 @@ O décimo segundo cenário, apresentado na Tabela 12, faz referência ao requisi
 
 | Item       | Descrição                                                                                                                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Título     | Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas                                                                       |
 | Objetivo   | Permitir que os usuários vejam as avaliações de outros e também possam avaliar filmes, usando uma escala de 1 a 5 estrelas. |
-| Contexto   | Local: Tela de detalhes do filme ou seção de avaliações. <br>Tempo: Imediato após o carregamento da página do filme. <br>Pré-condição: O filme deve ter sido lançado e ter avaliações disponíveis ou o usuário deve já ter assistido o filme. |
+| Contexto   | Local: Tela de detalhes do filme ou seção de avaliações. <br>Tempo: Imediato após o carregamento da página do filme. <br>Pré-condição: O filme deve ter sido lançado e ter avaliações disponíveis ou o usuário deve já ter assistido o filme. </br>Acesso ao sistema: Por meio de dispositivo móvel|
 | Atores     | Usuário do aplicativo Cinemark Digital. |
 | Recursos   | 	Conexão com a internet; aplicativo Cinemark Digital instalado e logado; sistema de avaliação integrado. |
 | Episódios  | 1. Usuário acessa o aplicativo e vai até a página do filme. <br>2. O sistema exibe as avaliações anteriores de outros usuários. <br>3. O usuário pode clicar nas estrelas para dar sua própria avaliação. <br>4. O sistema registra a avaliação e a exibe. |
