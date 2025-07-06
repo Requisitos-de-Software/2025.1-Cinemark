@@ -141,7 +141,8 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 | ---- | ----------------------------------------------------------- | ------------ |
 | [RQ23A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ23) | Filtrar Filmes por Categoria e Exibir Avaliações de Público | Não          |
 | [RQ24](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ24) | Exibir Trailers dentro do App                               | Não          |
-| [RQ32](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32) | Exibir recomendações de filmes baseadas em histórico e preferências | Não |
+| [RQ32A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32A) | Exibir recomendações de filmes baseadas em histórico. | Não |
+| [RQ32B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32B) | Exibir recomendações de filmes baseadas em preferências. | Não |
 | [RQ58](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ58) | Fornecer comparação de preços entre cinemas | Não |
 | [RQ59](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ59) | Permitir reserva de salas para eventos | Não |
 | [RQ26](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ26) | Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc). | Não |
@@ -227,7 +228,7 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 | **Fluxo de Exceção**  | Falha na análise de dados do usuário: o sistema notifica a falha e exibe sugestões genéricas.                                                                                                                                                 |
 | **Pós-condições**     | Recomendações são apresentadas e o usuário pode explorá-las ou salvar para assistir depois as que desejar.                                                                                                                                                   |
 | **Data de Criação**   | 17/05/2025                                                                                                                                                                                                                                    |
-| **Rastreabilidade**   | [RQ32](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32)                                                                                                                                              |
+| **Rastreabilidade**   | [RQ32A RQ32B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32)                                                                                                                                              |
 
 <font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
@@ -421,3 +422,4 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 | `1.9`  | 26/06/2025 | Correção da rastreabilidade dos requisitos utilizados nos casos de uso. | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
 | `1.9`  | 26/06/2025 | Correção da rastreabilidade dos requisitos utilizados nos casos de uso. | [Arthur Evangelista](https://github.com/arthurevg) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
 | `1.10`  | 06/07/2025 | Ajuste no RQ29, adicionando suas novas versões RQ29A e RQ29B | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.11`  | 06/07/2025 | Ajuste no RQ32, adicionando suas novas versões RQ32A e RQ32B | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
