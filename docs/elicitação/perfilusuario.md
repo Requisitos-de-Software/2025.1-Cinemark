@@ -23,6 +23,7 @@ A seguir apresentamos os nomes de cada integrante do grupo que participou da té
 | [Davi Camilo](https://github.com/Davicamilo23)         | Criou a estrutura da página, adicionou a metodologia e resultado do questionário     |
 | [Pedro Everton](https://github.com/pedroeverton217)    | Criou a estrutura da página    |
 | [Euller Júlio](https://github.com/Potatoyz908)      | Fez correções e ajustes na introdução e criou a tabela de integrantes do grupo envolvidos |
+| [Arthur Evangelista](https://github.com/arthurevg)      | Fez correções conforme instruções da monitora e adicionou a conclusão |
 
 <font size="3"><p style="text-align: center">Fonte: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
