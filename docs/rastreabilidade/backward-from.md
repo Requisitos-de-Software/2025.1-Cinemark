@@ -109,7 +109,7 @@ Na Tabela 1, é apresentado o modelo de matriz de rastreabilidade backward-from 
 	</div>
 </div>
 
-<font size="3"><p style="text-align: center">Autores: [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Davi Camilo](https://github.com/Davicamilo23) 2025.</p></font>
+<font size="3"><p style="text-align: center">Autores: [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 ---
 
@@ -177,6 +177,8 @@ Na Tabela 3, apresentamos a matriz de rastreabilidade backward-from, que relacio
 | [RQ43](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ43) | 	O aplicativo deve permitir que o usuário realize todo o fluxo de seleção de assentos e compra de ingresso com, em média, 4 interações diretas com o sistema. | [IS28](../elicitação/introspecção.md#IS28) | Introspecção |
 | [RQ44](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ44) | 	Interface acessível para pessoas com deficiência visual (leitores de tela) e baixo-visão. | [IS35](../elicitação/introspecção.md#IS35), [IS36](../elicitação/introspecção.md#IS36), [AI25](../elicitação/analiseUI.md#AI25), [ST05](../elicitação/storytelling.md#ST05) | Introspecção, Análise de Interface, Storytelling |
 | [RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ45) | As cores da interface do aplicativo devem possuir nível de contraste conforme a WCAG A/AA. | [AI25](../elicitação/analiseUI.md#AI25) | Análise de Interface |
+
+<font size="3"><p style="text-align: center">Fonte: Autores, 2025.</p></font>
 
 ---
 
