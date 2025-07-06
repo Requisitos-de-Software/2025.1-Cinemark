@@ -143,7 +143,7 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 - **Sinônimos**: Sugerir filmes, Recomendação personalizada, Indicar títulos
 - **Noção**: Ação em que o sistema apresenta sugestões de filmes ao usuário com base em seu histórico de visualização, avaliações e preferências cadastradas no aplicativo.
 - **Impacto**: Melhora a personalização da experiência do usuário, aumentando o engajamento e a probabilidade de escolha de um filme por parte do usuário. Exige análise de dados comportamentais e preferência do usuário para entregar recomendações relevantes.
-- **Rastreabilidade**: [RQ32](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Exibir recomendações de filmes baseadas em histórico e preferências.
+- **Rastreabilidade**: [RQ32A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Exibir recomendações de filmes baseadas em histórico e [RQ32B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Exibir recomendações de filmes baseadas em preferências. 
 
 <p align="center"><br>
 Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
@@ -353,3 +353,4 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 | `1.10`  | 22/05/2025 | Ajuste no texto de introdução para torná-lo mais claro e objetivo | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.11`  | 26/05/2025 | Adição da tabela de participantes | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.12`  | 06/07/2025 | Ajuste no RQ29, adicionando suas novas versões RQ29A e RQ29B | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
+| `1.13`  | 06/07/2025 | Ajuste no RQ32, adicionando suas novas versões RQ32A e RQ32B | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
