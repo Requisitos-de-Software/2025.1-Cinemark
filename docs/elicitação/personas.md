@@ -245,8 +245,6 @@ A seguir apresentamos os nomes de cada integrante do grupo que participou da té
 
 > **BARBOSA, S. D. J.; SILVA, B. S.; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J.** *Interação Humano-Computador e Experiência do Usuário*. Autopublicação, 2021. ISBN 978-65-00-19677-1.
 
-> **REINEHR, Sheila.** *Engenharia de Requisitos*. 1. ed. Porto Alegre: Sagah, 2020. p. 56.
-
 ---
 
 ## Histórico de Versão
@@ -259,3 +257,4 @@ A seguir apresentamos os nomes de cada integrante do grupo que participou da té
 | `1.3`  |  04/05/2025   | Ajuste na formatação dos tópicos | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.4`  |   04/07/2025  |  Ajuste na introdução | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.5`  |   04/07/2025  |  Criação da tabela de integrantes do grupo envolvidos | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
+|`1.6`| 06/07/2025|Correção nas referências|[Arthur Evangelista](https://github.com/arthurevg)|[Pedro Everton](https://github.com/pedroeverton217)|

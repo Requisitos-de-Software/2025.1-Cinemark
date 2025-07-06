@@ -20,21 +20,21 @@ Para a condução da pós-rastreabilidade neste projeto, adotou-se como base o m
 
 As informações rastreadas são categorizadas em quatro níveis distintos:
 
-- **Ambiental:** inclui leis, normas, padrões e diretrizes externas que influenciam o sistema;
-- **Organizacional:** abrange os objetivos, metas e processos internos da organização;
-- **Gerencial:** trata das tarefas, prazos, responsáveis e decisões de projeto;
-- **Desenvolvimento:** refere-se diretamente aos artefatos do processo de software, como requisitos, modelos, código-fonte e testes.
+* **Ambiental:** inclui leis, normas, padrões e diretrizes externas que influenciam o sistema;
+* **Organizacional:** abrange os objetivos, metas e processos internos da organização;
+* **Gerencial:** trata das tarefas, prazos, responsáveis e decisões de projeto;
+* **Desenvolvimento:** refere-se diretamente aos artefatos do processo de software, como requisitos, modelos, código-fonte e testes.
 
 No escopo deste projeto, a rastreabilidade está concentrada no nível de Desenvolvimento, por se tratar da etapa em que há maior disponibilidade de artefatos concretos a serem analisados, como histórias de usuário, casos de uso, léxicos e cenários.
 
 O modelo de rastreabilidade proposto identifica seis tipos de elos (ou vínculos) entre os artefatos:
 
-- **Satisfação:** indica que um artefato satisfaz um requisito;
-- **Recurso:** representa dependência de um elemento em relação a outro;
-- **Representação:** mostra a modelagem de um requisito por meio de outro artefato;
-- **Alocação:** indica a designação de um artefato dentro de um subsistema;
-- **Agregação:** expressa composição ou junção de elementos relacionados;
-- **Responsabilidade:** representa o agente responsável por um artefato.
+* **Satisfação:** indica que um artefato satisfaz um requisito;
+* **Recurso:** representa dependência de um elemento em relação a outro;
+* **Representação:** mostra a modelagem de um requisito por meio de outro artefato;
+* **Alocação:** indica a designação de um artefato dentro de um subsistema;
+* **Agregação:** expressa composição ou junção de elementos relacionados;
+* **Responsabilidade:** representa o agente responsável por um artefato.
 
 Essa abordagem metodológica permite visualizar de forma clara e organizada como os requisitos elicitados estão conectados aos artefatos produzidos, favorecendo tanto a manutenção quanto a evolução do sistema. Para organizar essas informações, utilizou-se o modelo de pós-rastreabilidade (Tabela 1).
 
@@ -95,13 +95,13 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação | [US01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us01-armazenar-cartoes-de-pagamento) |
 | Recurso | [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us35-autenticacao-por-e-mail-e-senha); [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta) |
-| Representação | |
+| Representação | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/gifs/RQ10.gif" height="500" width="250"> |
 | Alocado | [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta) |
 | Agregação | [IS06](../elicitação/introspecção.md#IS06)  |
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
 
----
+***
 
 #### **RQ11 - Permitir compra de múltiplos ingressos em uma única transação.**
 
@@ -110,13 +110,13 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação | [US02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us02-permitir-compra-de-multiplos-ingressos-em-uma-unica-transacao) |
 | Recurso | [RQ12A](#rq12a---exibir-mapa-da-sala-com-indicação-gráfica-de-assentos-ocupados-livres-e-especiais); [RQ12B](#rq12b---permitir-seleção-pelos-usuários); [RQ13](#rq13---exigir-seleção-de-ao-menos-um-assento-antes-de-prosseguir) |
-| Representação |  |
+| Representação | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/gifs/RQ11.gif" height="500" width="250">  |
 | Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-compra-e-finalizacao) |
 | Agregação | [IS07](../elicitação/introspecção.md#IS07) |
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
 
----
+***
 
 #### **RQ12A - Exibir mapa da sala com indicação gráfica de assentos ocupados, livres e especiais.**
 
@@ -124,27 +124,27 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação | [US03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us02-permitir-compra-de-multiplos-ingressos-em-uma-unica-transacao) |
-|Representação| |
-| Recurso | Dados de Ocupação de Assentos em Tempo Real | 
+|Representação| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/gifs/RQ12A.gif" height="500" width="250">  |
+| Recurso | Dados de Ocupação de Assentos em Tempo Real |
 | Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-compra-e-finalizacao) |
 | Agregação |[AI09](../elicitação/analiseUI.md#AI09) |
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
 
-#### **RQ12B - Permitir seleção pelos usuários.**
+#### **RQ12B - Permitir seleção de assento pelos usuários.**
 
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação | [US03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us02-permitir-compra-de-multiplos-ingressos-em-uma-unica-transacao) |
 | Recurso | [RQ12A](#rq12a---exibir-mapa-da-sala-com-indicação-gráfica-de-assentos-ocupados-livres-e-especiais) |
-| Representação | |
+| Representação |<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/gifs/RQ12B.gif" height="500" width="250">  |
 | Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-compra-e-finalizacao) |
 | Agregação |[IS08](../elicitação/introspecção.md#IS08)  |
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
 
----
+***
 
 #### **RQ13 - Exigir seleção de ao menos um assento antes de prosseguir.**
 
@@ -153,13 +153,13 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação | [US02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us02-permitir-compra-de-multiplos-ingressos-em-uma-unica-transacao) |
 | Recurso | [RQ12A](#rq12a---exibir-mapa-da-sala-com-indicação-gráfica-de-assentos-ocupados-livres-e-especiais); [RQ12B](#rq12b---permitir-seleção-pelos-usuários) |
-| Representação | |
+| Representação | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/gifs/RQ13.gif" height="500" width="250"> |
 | Alocado | [E12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-12-localizacao-e-assentos_1) |
 | Agregação |[AI10](../elicitação/analiseUI.md#AI10)|
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
 
----
+***
 
 #### **RQ14 - Definir tipo de ingresso por assento (inteira, meia, convênio, voucher).**
 
@@ -168,13 +168,13 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação | [US04](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us04-definir-tipo-de-ingresso-por-assento) |
 | Recurso |[US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us35-autenticacao-por-e-mail-e-senha); [RQ12A](#rq12a---exibir-mapa-da-sala-com-indicação-gráfica-de-assentos-ocupados-livres-e-especiais); [RQ12B](#rq12b---permitir-seleção-pelos-usuários);  |
-| Representação | |
+| Representação | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/gifs/RQ14.gif" height="500" width="250"> |
 | Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-compra-e-finalizacao_1) |
 | Agregação |[AI11](../elicitação/analiseUI.md#AI11)   |
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
 
----
+***
 
 #### **RQ15 - Integrar bomboniere ao app para compra antecipada de itens e retirada rápida.**
 
@@ -183,13 +183,13 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação |  |
 | Recurso |  |
-| Representação | |
+| Representação | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/gifs/RQ15.gif" height="500" width="250">  |
 | Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-compra-e-finalizacao) |
 | Agregação | [IS11](../elicitação/introspecção.md#IS11), [AI12](../elicitação/analiseUI.md#AI12) |
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
 
----
+***
 
 #### **RQ16A - Exibir resumo da compra.**
 
@@ -198,12 +198,12 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação | |
 | Recurso | [RQ11](#rq11---permitir-compra-de-múltiplos-ingressos-em-uma-única-transação); [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us35-autenticacao-por-e-mail-e-senha) |
-| Representação | |
+| Representação | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/gifs/RQ16A.gif" height="500" width="250">  |
 | Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-compra-e-finalizacao), [AI29](../elicitação/analiseUI.md#AI29) |
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
 
----
+***
 
 #### **RQ16B - Permitir aplicação de cupom de desconto.**
 
@@ -212,13 +212,13 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação |  |
 | Recurso | [RQ16A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) |
-| Representação |  |
+| Representação | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/gifs/RQ16B.gif" height="500" width="250">  |
 | Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-processo-de-compra-de-ingressos) |
 | Agregação | [AI13](../elicitação/analiseUI.md#AI13), [AI29](../elicitação/analiseUI.md#AI29) |
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
 
----
+***
 
 #### **RQ17 - Gerar QR Code e chave Pix para pagamentos via Pix.**
 
@@ -233,7 +233,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
 
----
+***
 
 #### **RQ18 - Disponibilizar ingresso digital no app, eliminando a necessidade de impressão.**
 
@@ -242,13 +242,223 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação | [L13](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#13-acesso-aos-ingressos-facil-e-visivel-na-interface-com-botao-dedicado-ou-atalho-no-menu-inicial), [L14](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#13-acesso-aos-ingressos-facil-e-visivel-na-interface-com-botao-dedicado-ou-atalho-no-menu-inicial)  |
 | Recurso | [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us35-autenticacao-por-e-mail-e-senha) |
-| Representação | |
+| Representação |<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/gifs/RQ18.gif" height="500" width="250">  |
 | Alocado | [E05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-5-gerenciamento-de-ingressos) |
 | Agregação | [IS09](../elicitação/introspecção.md#IS09), [ST03](../elicitação/storytelling.md#ST03) |
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
 
----
+***
+
+#### **RQ19 - Salvar automaticamente ingressos na seção “Meus Ingressos” após confirmação de compra.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação |   |
+| Recurso | [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us35-autenticacao-por-e-mail-e-senha) |
+| Representação | |
+| Alocado | [E05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-5-gerenciamento-de-ingressos) |
+| Agregação | [AI16](../elicitação/analiseUI.md#AI16) |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
+***
+
+#### **RQ20A - Permitir criação de conta (nome, e-mail, senha, CPF).**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação |-|
+| Recurso |-|
+| Representação |-|
+| Alocado | [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta) |
+| Agregação | [AI17](../elicitação/analiseUI.md#AI17) |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
+***
+
+#### **RQ20B - Permitir login com Google/redes sociais.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação |[US07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us07-login-com-redes-sociais) |
+| Recurso | [RQ20A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados) |
+| Representação | |
+| Alocado | [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta) |
+| Agregação | [AI17](../elicitação/analiseUI.md#AI17) |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
+***
+
+#### **RQ21A - Recuperar conta por envio de link de redefinição de senha por e-mail.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação |[E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta),[US08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us08-recuperacao-de-conta-via-e-mail) |
+| Recurso | [RQ20A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados) |
+| Representação | |
+| Alocado | [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta) |
+| Agregação | [AI18](../elicitação/analiseUI.md#AI18) |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
+***
+
+#### **RQ21B - Recuperar e-mail via CPF.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação |-|
+| Recurso | [RQ20A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados) |
+| Representação | |
+| Alocado | [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta) |
+| Agregação | [AI19](../elicitação/analiseUI.md#AI19) |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
+***
+
+#### **RQ21C - Redefinir e-mail com código de verificação.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação |-|
+| Recurso | [RQ20A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados) |
+| Representação | |
+| Alocado | [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta) |
+| Agregação | [AI19](../elicitação/analiseUI.md#AI19) |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
+***
+
+#### **RQ22A - 	Exibir histórico de filmes assistidos (data, horário, cinema).**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação |[E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta),[US09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us09-exibir-historico-de-filmes-e-compras)|
+| Recurso | [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us35-autenticacao-por-e-mail-e-senha) |
+| Representação | |
+| Alocado | [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta) |
+| Agregação |  [IS13](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS13) |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
+***
+
+#### **RQ22B - 	Exibir histórico de compras na bomboniere.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação |[E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta),[US09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us09-exibir-historico-de-filmes-e-compras)|
+| Recurso | [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us35-autenticacao-por-e-mail-e-senha) |
+| Representação | |
+| Alocado | [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta) |
+| Agregação |  [IS14](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS14) |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
+***
+
+#### **RQ23A - Filtrar filmes por categoria.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação |[E02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-2-exploracao-de-filmes),[US10](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us10-filtrar-filmes-por-categoria),[L03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#3-filtrar-filmes), [L04](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#4-avaliacoes-de-filmes),[UC01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#41-cenario-1-filtrar-filmes-por-categoria-e-exibir-avaliacoes),[C01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#cenario-1-filtrar-filmes-por-categoria-e-exibir-avaliacoes)|
+| Recurso | - |
+| Representação | |
+| Alocado | [E02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-2-exploracao-de-filmes) |
+| Agregação | [IS15](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS15) |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
+***
+
+#### **RQ23B - O sistema deve exibir avaliações de plataformas externas, como o IMDB e Rotten Tomatoes.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação |[E02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-2-exploracao-de-filmes),[US10](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us10-filtrar-filmes-por-categoria),[L03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#3-filtrar-filmes), [L04](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#4-avaliacoes-de-filmes),[UC01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#41-cenario-1-filtrar-filmes-por-categoria-e-exibir-avaliacoes),[C01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#cenario-1-filtrar-filmes-por-categoria-e-exibir-avaliacoes)|
+| Recurso | - |
+| Representação | |
+| Alocado | [E02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-2-exploracao-de-filmes) |
+| Agregação | [IS15](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS15) |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
+***
+
+#### **RQ24 - Exibir trailers dentro do app.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação |[E02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-2-exploracao-de-filmes),[US11](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us11-exibir-trailers-dentro-do-app),[L05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#5-assistir-trailer), [L06](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#6-trailer),[UC04](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/casosDeUso/#tabela-4-exibir-trailers-dentro-do-app),[C02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#cenario-2-exibir-trailers-dentro-do-app)|
+| Recurso | - |
+| Representação | |
+| Alocado | [E02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-2-exploracao-de-filmes) |
+| Agregação | [IS16](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS16) |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
+***
+
+#### **RQ25 - O fluxo de compra de ingresso do aplicativo deve possuir no máximo 5 etapas.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação |[E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-compra-e-finalizacao),[US12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us12-fluxo-de-compra-simplificado)|
+| Recurso | - |
+| Representação | |
+| Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-compra-e-finalizacao) |
+| Agregação | [IS17](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS17) |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
+***
+
+#### **RQ26 - Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc).**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação |[E05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-5-gerenciamento-de-ingressos),[US05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us05-salvar-ingressos-na-carteira-digital-do-dispositivo),[L21](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#21-salvar-ingresso-na-carteira-digital), [UC09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/casosDeUso/#tabela-9-permitir-salvar-ingressos-na-carteira-digital-do-dispositivo),[C11](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#cenario-11-permitir-salvar-ingressos-na-carteira-digital-do-dispositivo)|
+| Recurso | [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us35-autenticacao-por-e-mail-e-senha)|
+| Representação | |
+| Alocado | [E05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-5-gerenciamento-de-ingressos) |
+| Agregação | [IS18](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS18) |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
+***
+
+#### **RQ27 - Permitir uso de pontos acumulados para desconto em ingressos e produtos.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação |[E08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-8-sistema-de-fidelidade-e-beneficios-cinemark-club),[US25](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us25-utilizacao-de-pontos-para-desconto)|
+| Recurso | [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us35-autenticacao-por-e-mail-e-senha)|
+| Representação | |
+| Alocado | [E08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-8-sistema-de-fidelidade-e-beneficios-cinemark-club) |
+| Agregação | [IS19](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS19),[Q03](../elicitação/questionario.md#Q03) |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
+***
 
 #### **RQ37 - Criar e editar perfil do usuário, gerenciar dados pessoais e métodos de pagamento**
 
@@ -256,7 +466,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação | [L23](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#23-usuario) |
-| Recurso | [US07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us07-criacao-de-conta-e-login-com-redes-sociais) |
+| Recurso | [US07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us07-login-com-redes-sociais) |
 | Representação | - |
 | Alocado | [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta) |
 | Agregação | [AI31](../elicitação/analiseUI.md#AI31) |
@@ -369,15 +579,15 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
----
+***
 
 ## Referências Bibliográficas
 
 > **SAYÃO, Miriam; LEITE, Julio Cesar Sampaio do Prado.** Rastreabilidade de requisitos. Rio de Janeiro: Departamento de Informática, Pontifícia Universidade Católica do Rio de Janeiro, 2005. (Monografias em Ciência da Computação, n. 20/05). ISSN 0103-9741.
 
-> **TORANZO, M.; CASTRO, J; MELLO, E.** Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/toranzo.pdf. Acesso em: 08 de jun de 2025.
+> **TORANZO, M.; CASTRO, J; MELLO, E.** Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: http://wer.inf.puc-rio.br/WERpapers/artigos/artigos\_WER02/toranzo.pdf. Acesso em: 08 de jun de 2025.
 
----
+***
 
 ## Histórico de Versão
 
@@ -387,3 +597,4 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | `1.1`  |  08/06/2025 | Adição da introdução, metodologia, modelo de pós-rastreabilidade, tabela dos integrantes e tabelas relacionadas aos requisitos 37 a 45 | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.2`  |  08/06/2025 | Adição das tabelas relacionadas aos requisitos 10 ao 18 | [Arthur Evangelista](https://github.com/arthurevg) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 |`1.3`| 04/07/2025|Adição das tabelas referentes ao RQ12A, RQ12B, RQ16A e RQ16B|[Arthur Evangelista](https://github.com/arthurevg)|  [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+|`1.4`| 06/07/2025|Adição das tabelas referentes ao RQ19, RQ20A, RQ20B, RQ21A, RQ21B, RQ21C, RQ22A, RQ22B, RQ23A,RQ23B,RQ24,RQ25,RQ26,RQ27|[Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Arthur Evangelista](https://github.com/arthurevg) |

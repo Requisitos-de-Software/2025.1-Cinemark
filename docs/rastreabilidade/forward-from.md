@@ -371,17 +371,31 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 <font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
 
-#### **RQ20**
+#### **RQ20A**
 
-|             [RQ20](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq20)                 |                            Permitir criação de conta (nome, e-mail, senha, CPF) e login com Google/redes sociais.                            |
+|             [RQ20A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq20)                 |                            Permitir criação de conta (nome, e-mail, senha, CPF).                            |
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-|                Épico                 |                                           [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta)                                            |
+|                Épico                 | Não se aplica                                            |
 |                 Tema                 |                                                       Conta e Sessão do Usuário                                                 |
-|         História de Usuário          | [US07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us07-criacao-de-conta-e-login-com-redes-sociais) Eu, como usuário, desejo criar uma conta informando nome, e-mail, senha e CPF ou fazer login via Google/redes sociais para acessar o aplicativo de forma segura e rápida. |
+|         História de Usuário          | Não se aplica |
 |                Léxico                |                                              Não se aplica                                             |
 |             Casos de uso             |             Não se aplica                                         |
 |               Cenários               |   Nâo se aplica                                            |
-| Artefatos (elicitação de requisitos) | [AI17](../elicitação/analiseUI.md#AI17), [IS26](../elicitação/introspecção.md#IS26) |
+| Artefatos (elicitação de requisitos) | [AI17](../elicitação/analiseUI.md#AI17) |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
+#### **RQ20B**
+
+|             [RQ20B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq20)                 |                            Permitir login com Google/redes sociais.                            |
+| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                Épico                 |                                           [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta)                                            |
+|                 Tema                 |                                                       Conta e Sessão do Usuário                                                 |
+|         História de Usuário          | [US07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us07-login-com-redes-sociais) Eu, como usuário, desejo fazer login via Google/redes sociais para acessar o aplicativo de forma segura e rápida. |
+|                Léxico                |                                              Não se aplica                                             |
+|             Casos de uso             |             Não se aplica                                         |
+|               Cenários               |   Nâo se aplica                                            |
+| Artefatos (elicitação de requisitos) | [IS26](../elicitação/introspecção.md#IS26) |
 
 <font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
 
@@ -391,7 +405,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                           [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta)                                            |
 |                 Tema                 |                                                       Conta e Sessão do Usuário                                                 |
-|         História de Usuário          | [US08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us08-recuperacao-de-conta-via-e-mail-ou-cpf) Eu, como usuário, desejo recuperar meu acesso ao aplicativo enviando um link de redefinição de senha por e-mail ou recuperando meu e-mail através do CPF para, então, redefinir minha senha com código para voltar a usar minha conta quando esquecer minhas credenciais. |
+|         História de Usuário          | [US08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us08-recuperacao-de-conta-via-e-mail) Eu, como usuário, desejo recuperar meu acesso ao aplicativo enviando um link de redefinição de senha por e-mail ou recuperando meu e-mail através do CPF para, então, redefinir minha senha com código para voltar a usar minha conta quando esquecer minhas credenciais. |
 |                Léxico                |                                              Não se aplica                                             |
 |             Casos de uso             |             Não se aplica                                         |
 |               Cenários               |   Nâo se aplica                                            |
@@ -615,7 +629,7 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 | :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |                Épico                 |                                            [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta)                                             |
 |                 Tema                 |                                                        	Gerenciamento de Perfil e Dados do Usuário                                                        |
-|         História de Usuário          | [US07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us07-criacao-de-conta-e-login-com-redes-sociais) Eu, como usuário, desejo acessar e editar meu perfil, incluindo dados pessoais e métodos de pagamento, para manter minhas informações atualizadas e facilitar compras futuras no aplicativo. |
+|         História de Usuário          | [US07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us07-login-com-redes-sociais) Eu, como usuário, desejo acessar e editar meu perfil, incluindo dados pessoais e métodos de pagamento, para manter minhas informações atualizadas e facilitar compras futuras no aplicativo. |
 |                Léxico                |                                              [L23](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#23-usuario)                                                |
 |             Casos de uso             |                                            Não se aplica                                            |
 |               Cenários               |                                              Não se aplica                                               |
@@ -759,3 +773,4 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 | `1.5`  |  08/06/2025  | Adição da rastreabilidade dos requisitos [RQ37](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq37), [RQ38](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq38), [RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq39), [RQ40](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq40), [RQ41](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq41), [RQ42](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq42), [RQ43](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq43), [RQ44](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq44), [RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq45) | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio da Silva](https://github.com/Potatoyz908) |
 | `1.6` | 08/06/2025 | Ajuste na rastreabilidade de léxicos, casos de uso e cenários nos requisitos 37 a 45 | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio da Silva](https://github.com/Potatoyz908) |
 | `1.7` | 05/07/2025 | Adiciona rastreabilidade dos requisitos: [RQ19](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ20](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ21](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ22](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ23](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ24](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ25](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ26](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ27](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados) | [Gabriel Castelo](https://github.com/GabrielCastelo-31)| [Euller Júlio da Silva](https://github.com/Potatoyz908) |
+| `1.8` | 05/07/2025 | Corrije rastreabilidade com base na separação de RQ20 em RQ20A e RQ20B | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Euller Júlio da Silva](https://github.com/Potatoyz908) |
