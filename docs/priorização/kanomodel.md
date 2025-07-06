@@ -124,7 +124,7 @@ Aplicamos a técnica de priorização do Modelo Kano para classificar os requisi
 
 ---
 
-## Bibliografia
+## Referência Bibliográfica
 
 > INTERACTION DESIGN FOUNDATION. **The Kano Model – A Tool to Prioritize the Users’ Wants and Desires**. Disponível em: <https://www.interaction-design.org/literature/article/the-kano-model-a-tool-to-prioritize-the-users-wants-and-desires>. Acesso em: 04 maio 2025.
 > WEBRETAILER.COM. What Delights Your Customers? Use the Kano Model to Find Out. Última atualização em 09 nov. 2022. Disponível em: <https://www.webretailer.com/marketing-advertising/delight-customers-kano-model/>. Acesso em: 09 maio 2025.

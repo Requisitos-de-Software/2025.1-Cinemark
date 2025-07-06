@@ -135,7 +135,7 @@ Dos 57 requisitos elicitados, 6 foram classificados com Baixa prioridade, 7 clas
 
 ---
 
-## Bibliografia
+## Referência Bibliográfica
 
 > WIEGERS, K; BEATTY, J. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013.
 
