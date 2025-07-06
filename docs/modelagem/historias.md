@@ -613,7 +613,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 ### US12 - Fluxo de compra simplificado
 
 <details>
-  <summary><strong>Tabela 14 - História de Usuário Fluxo de compra simplificado</strong></summary>
+  <summary><strong>Tabela 14 - História de Usuário Fluxo de compra em 5 etapas</strong></summary>
 
   <table>
     <thead>
@@ -625,18 +625,17 @@ Tabela 2: Modelo de tabela para histórias de usuário.
     <tbody>
       <tr>
         <td>US12</td>
-        <td>Fluxo de compra simplificado</td>
+        <td>Fluxo de compra em 5 etapas</td>
       </tr>
       <tr>
         <td>Descrição</td>
-        <td><em>Eu, como</em> usuário, <em>desejo</em> realizar a compra de ingressos e snacks com o mínimo de toques até a confirmação <em>para</em> tornar o processo mais rápido e conveniente, minimizando a taxa de desistência de compra.</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> realizar a compra de ingressos e snacks em no máximo 5 etapas <em>para</em> tornar o processo mais rápido e conveniente, minimizando a taxa de desistência de compra.</td>
       </tr>
       <tr>
         <td>Critérios de Aceitação</td>
         <td>
-          - Deve haver um fluxo unificado que permita selecionar filme, assento e snacks em seguida, sem voltar a telas intermediárias. <br>
+          - Deve haver um fluxo unificado contendo as seguintes etapas: <br>1- Selecionar filme, <br>2- Selecionar assento <br>3- Selecionar tipo do ingresso (inteira ou meia)<br>4- Opcionalmente, selecionar snacks <br> 5- Exibição do resumo final da compra e pagamento com 1 toque.<br>
           - Em cada passo, exibir informações resumidas do carrinho (filme, assento, itens da bomboniere). <br>
-          - O resumo final deve exibir o total a pagar e permitir confirmação com um único toque. <br>
         </td>
       </tr>
       <tr>
@@ -654,7 +653,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg) e [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
 
 ### US13 - Reservar salas para eventos
 
@@ -2004,3 +2003,4 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 |`1.11`| 1/06/2025| Correções gramaticais nas tabelas de histórias de usuário e adição na tabela de participantes |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|[Arthur Evangelista](https://github.com/arthurevg)|
 |`1.12`| 1/06/2025| Adição da gravação da priorização com o PO |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|[Arthur Evangelista](https://github.com/arthurevg)|
 | `1.13`  | 01/06/2025 | Adição das histórias de usuário US37, US38, US39, US40, US41 e US42 | [Pedro Everton](https://github.com/pedroeverton217) |  [Euller Júlio da Silva](https://github.com/Potatoyz908) |
+| `1.2`  | 05/07/2025 | Correção da US12 com base na mudança do requisito RQ25 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
