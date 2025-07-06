@@ -58,7 +58,7 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 | RQ23A | Filtrar filmes por categoria.                                    | [IS15](../elicitação/introspecção.md#IS15)                 | RF        | Não          |
 | RQ23B | O sistema deve exibir avaliações de plataformas externas, como o IMDB e Rotten Tomatoes.                                    | [IS15](../elicitação/introspecção.md#IS15)                 | RF        | Não          |
 | RQ24 | Exibir trailers dentro do app.                                                                                         | [IS16](../elicitação/introspecção.md#IS16)                 | RF        | Não          |
-| RQ25 | Oferecer fluxo de compra simplificado, com o mínimo de toques até a confirmação.                                       | [IS17](../elicitação/introspecção.md#IS17)                 | RF        | Não          |
+| RQ25 | O fluxo de compra de ingresso do aplicativo deve possuir no máximo 4 etapas.                                       | [IS17](../elicitação/introspecção.md#IS17)                 | RF        | Não          |
 | RQ26 | Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc).                      | [IS18](../elicitação/introspecção.md#IS18)                 | RF        | Não          |
 | RQ27 | Permitir uso de pontos acumulados para desconto em ingressos e produtos.                                               | [IS19](../elicitação/introspecção.md#IS19), [Q03](../elicitação/questionario.md#Q03)                 | RF        | Sim          |
 | RQ28 | Alertar usuário sobre pontos suficientes para ingresso grátis 3 dias antes da expiração.                                    | [IS20](../elicitação/introspecção.md#IS20)                 | RF        | Não          |
@@ -117,7 +117,7 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 | RQ23A | Filtrar filmes por categoria.                                    | [IS15](../elicitação/introspecção.md#IS15)                 | RF        | Não          |
 | RQ23B | O sistema deve exibir avaliações de plataformas externas, como o IMDB e Rotten Tomatoes.                                    | [IS15](../elicitação/introspecção.md#IS15)                 | RF        | Não          |
 | RQ24  | Exibir trailers dentro do app.                                                                                         | [IS16](../elicitação/introspecção.md#IS16)                 | RF        | Não          |
-| RQ25  | Oferecer fluxo de compra simplificado, com o mínimo de toques até a confirmação.                                       | [IS17](../elicitação/introspecção.md#IS17)                 | RF        | Não          |
+| RQ25  | O fluxo de compra de ingresso do aplicativo deve possuir no máximo 4 etapas.                                       | [IS17](../elicitação/introspecção.md#IS17)                 | RF        | Não          |
 | RQ26  | Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc).                      | [IS18](../elicitação/introspecção.md#IS18)                 | RF        | Não          |
 | RQ28 | Alertar usuário sobre pontos suficientes para ingresso grátis 3 dias antes da expiração.                                    | [IS20](../elicitação/introspecção.md#IS20)                 | RF        | Não          |
 | RQ29A | Sugerir cinemas com base no histórico de visitas                                              | [IS21](../elicitação/introspecção.md#IS21)                 | RF        | Não          |
@@ -174,3 +174,4 @@ Os requisitos elicitados por meio de técnicas como introspecção, análise de 
 | `1.8` | 24/05/2025 | Correção do RQ29. Foi desmebrado em dois requisitos: RQ29A e RQ29B | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `2.0` | 02/07/2025 | Correção de todos os requisitos do projeto | [Davi Camilo](https://github.com/Davicamilo23) | Todos |
 | `2.1`  |  05/07/2025 | Correções na rastreabilidade e na descrição dos RQ53 e RQ55 | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
+| `2.2`  |  05/07/2025 | Correção na escrita do RQ25 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
