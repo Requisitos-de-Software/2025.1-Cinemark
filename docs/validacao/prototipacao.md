@@ -28,6 +28,8 @@ A validação dos protótipos foi realizada individualmente por cada autor com u
 
 O vídeo abaixo contém a validação dos protótipos 3 e 4. A validação foi realizada de forma presencial.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RVa-6P5_2xo?si=IeI3T_PIS6GSRLSl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Validação dos Protótipos 7 e 8 - Davi Camilo
 
 <p align="center">Tabela 2: Participantes da gravação da validação dos protótipos 7 e 8</p>
@@ -44,7 +46,7 @@ O vídeo abaixo contém a validação dos protótipos 3 e 4. A validação foi r
 
 O vídeo abaixo contém a validação dos protótipos 7 e 8. A validação foi realizada de forma presencial.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v=e82bmqT2tBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e82bmqT2tBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Requisitos Contemplados nos Protótipos
 
@@ -280,3 +282,4 @@ Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 | `1.5`  | 22/06/2025 | Adição da descrição dos protótipos. | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.6`  | 06/07/2025 | Reestruturação da seção de validação para múltiplos autores, remoção do vídeo anterior e adição do vídeo de validação dos protótipos 3 e 4 (RQ33 e RQ59) | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.7`  | 06/07/2025 | Adição do vídeo de validação dos protótipos 7 e 8 (RQ32A, RQ32B e RQ58) e ajustes nas imagens desses protótipos | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.71` | 06/07/2025 | Ajuste no link da gravação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
