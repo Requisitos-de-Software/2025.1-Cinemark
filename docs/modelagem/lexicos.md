@@ -231,7 +231,7 @@ Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 - **Sinônimos:** histórico de sessões, cinemas visitados anteriormente
 - **Noção:** Conjunto de registros armazenados no perfil do usuário, indicando cinemas visitados e frequência de visitas.
 - **Impacto:** Usado pelo sistema como critério de personalização para sugestões de cinema.
-- **Rastreabilidade:** [RQ29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) - Sugerir cinemas com base no histórico de visitas e na localização atual.
+- **Rastreabilidade:** [RQ29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) - Sugerir cinemas com base no histórico de visitas e [RQ29B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) - Sugerir cinemas com base na localização atual.
 
 <p align="center"><br>
 Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
@@ -242,7 +242,7 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 - **Sinônimos:** posição geográfica, localização do usuário
 - **Noção:** Ponto geográfico detectado pelo sistema, geralmente via GPS, utilizado para identificar cinemas próximos ao usuário.
 - **Impacto:** Requisito essencial para a filtragem geográfica nas sugestões de cinema; afeta permissões e uso de recursos do dispositivo.
-- **Rastreabilidade:** [RQ29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) - Sugerir cinemas com base no histórico de visitas e na localização atual.
+- **Rastreabilidade:** [RQ29A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) - Sugerir cinemas com base no histórico de visitas e [RQ29B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) - Sugerir cinemas com base na localização atual.
 
 <p align="center"><br>
 Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
@@ -286,7 +286,7 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 - **Sinônimos:** recomendar, indicar, apresentar opções
 - **Noção:** Ação realizada pelo sistema para apresentar ao usuário uma lista de cinemas com base em critérios como localização atual e histórico de visitas anteriores.
 - **Impacto:** Afeta o módulo de recomendação, a interface de exibição de sugestões e o uso de localização do dispositivo.
-- **Rastreabilidade:** [RQ29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Sugerir cinemas com base no histórico de visitas e na localização atual
+- **Rastreabilidade:** [RQ29](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) - Sugerir cinemas com base no histórico de visitas e [RQ29B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) - Sugerir cinemas com base na localização atual.
 
 <p align="center"><br>
 Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
@@ -352,3 +352,4 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 | `1.9`  | 19/05/2025 | Adição do léxico 23 | [Arthur Evangelista](https://github.com/arthurevg) | [Euller Júlio](https://github.com/Potatoyz908) |
 | `1.10`  | 22/05/2025 | Ajuste no texto de introdução para torná-lo mais claro e objetivo | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.11`  | 26/05/2025 | Adição da tabela de participantes | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
+| `1.12`  | 06/07/2025 | Ajuste no RQ29, adicionando suas novas versões RQ29A e RQ29B | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
