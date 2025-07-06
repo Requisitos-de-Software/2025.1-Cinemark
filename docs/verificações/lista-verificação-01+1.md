@@ -14,9 +14,13 @@ Este documento apresenta a **lista de verificação** (versão 2.0) elaborada pa
 |---------|-------|------------|
 | **1.** O artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama? | [Davi Camilo](https://github.com/Davicamilo23) | *Introducing Rich Pictures - Rich Picture Drawing Guidelines.* CTEC2402 - Software Development Project. <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/entrega1/item1.png" alt="Referência do item" width="100px"> |
 | **2.** Todos os 5 componentes de um “Rich Picture” estão presentes no artefato “Rich Picture” apresentado pelo grupo? | [Davi Camilo](https://github.com/Davicamilo23) | *Introducing Rich Pictures - Rich Picture Drawing Guidelines.* CTEC2402 - Software Development Project. <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/entrega1/item1.png" alt="Referência do item" width="100px"> |
+|**3.** Os atores principais foram identificados e posicionados com clareza.|[Arthur Evangelista](https://github.com/arthurevg)|*Introducing Rich Pictures - Rich Picture Drawing Guidelines.* CTEC2402 - Software Development Project. <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/entrega1/item1.png" alt="Referência do item" width="100px">|
+|**4.** Banco de dados visível e corretamente posicionado.|[Arthur Evangelista](https://github.com/arthurevg)|*Introducing Rich Pictures - Rich Picture Drawing Guidelines.* CTEC2402 - Software Development Project. <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/entrega1/item1.png" alt="Referência do item" width="100px">|
+|**5.** As operações especificam o que o sistema faz|[Arthur Evangelista](https://github.com/arthurevg)|*Introducing Rich Pictures - Rich Picture Drawing Guidelines.* CTEC2402 - Software Development Project. <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/entrega1/item1.png" alt="Referência do item" width="100px">|
+|**6.** As setas mostram as direções dos fluxos de dados entre os atores, operações e armazenamento de dados.|[Arthur Evangelista](https://github.com/arthurevg)|*Introducing Rich Pictures - Rich Picture Drawing Guidelines.* CTEC2402 - Software Development Project. <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/entrega1/item1.png" alt="Referência do item" width="100px">|
+|**7.** A Fronteira(ou limite) do sistema foi traçada e inclui apenas o que está sob controle do app.|[Arthur Evangelista](https://github.com/arthurevg)|*Introducing Rich Pictures - Rich Picture Drawing Guidelines.* CTEC2402 - Software Development Project. <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/entrega1/item1.png" alt="Referência do item" width="100px">|
 
-<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
-
+<font size="3"><p style="text-align: center">Fonte: Autores, 2025.</p></font>
 ---
 
 ## Referências Bibliográficas
