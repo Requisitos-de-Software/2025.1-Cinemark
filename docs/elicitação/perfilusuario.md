@@ -55,7 +55,7 @@ A partir dos resultados analisados, os quais estão na página do questionário 
 | Tarefas secundárias | Encontrar cinemas da rede Cinemark, verificar promoções |
 | Motivação para o uso | Comprar ingressos com maior facilidade, obter cupons de desconto exclusivo |
 
-<font size="3"><p align="center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), [Arthur Evangelista(https://github.com/arthurevg)] 2025.</p></font>
+<font size="3"><p align="center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), [Arthur Evangelista](https://github.com/arthurevg) 2025.</p></font>
 
 ---
 
