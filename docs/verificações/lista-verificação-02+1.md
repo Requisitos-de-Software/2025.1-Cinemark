@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Este documento apresenta a **lista de verificação** elaborada para avaliar os artefatos produzidos na Entrega 2: *Elicitação: Usuários, Técnicas de Elicitação e Técnicas de Priorização*. As tabelas foram elaboradas seguindo o modelo de lista de verificação sugerida pelo professor, [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342), sendo uma lista que será usada na inspeção da entrega 1, tanto para o grupo, quanto para o grupo+1.
+Este documento apresenta a **lista de verificação** (versão 2.0) elaborada para avaliar os artefatos produzidos na Entrega 2: *Elicitação: Usuários, Técnicas de Elicitação e Técnicas de Priorização*. As tabelas foram elaboradas seguindo o modelo de lista de verificação sugerida pelo professor, [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342), sendo uma lista que será usada na inspeção da entrega 1, tanto para o grupo, quanto para o grupo+1.
 
 ---
 
-## Lista de Verificação
+## Lista de Verificação (Versão 2.0)
 
 ### Tabela 1: Lista de Verificação — Perfil de Usuário
 
@@ -152,8 +152,8 @@ Este documento apresenta a **lista de verificação** elaborada para avaliar os 
 |**3**. Os itens classificados como **Should** são importantes, mas há consenso de que o sistema pode operar sem eles em um primeiro momento?                                   |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. *Software requirements*. Pearson Education, 2013. p. 321       |
 |**4**. Os requisitos **Could** são tratados como opcionais e estão claramente marcados como passíveis de exclusão se houver restrição de tempo ou recursos?                    |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. *Software requirements*. Pearson Education, 2013. p. 321       |
 |**5**. Os requisitos **Won’t** são aqueles que não serão implementados nesta versão do sistema, mas podem ser considerados para versões futuras?                                 |[Gabriel Castelo](https://github.com/GabrielCastelo-31) |WIEGERS, Karl E.; BEATTY, Joy. *Software requirements*. Pearson Education, 2013. p. 321      |
-|**5**. Todos os stakeholders foram informados e instruídos sobre o **significado e as implicações de cada categoria da técnica**?                                              |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. *Software requirements*. Pearson Education, 2013. p. 321       |
-|**6**. A priorização MoSCoW está sendo **complementada** com outras abordagens para decisões mais equilibradas?                |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. *Software requirements*. Pearson Education, 2013. p. 321       |
+|**6**. Todos os stakeholders foram informados e instruídos sobre o **significado e as implicações de cada categoria da técnica**?                                              |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. *Software requirements*. Pearson Education, 2013. p. 321       |
+|**7**. A priorização MoSCoW está sendo **complementada** com outras abordagens para decisões mais equilibradas?                |[Gabriel Castelo](https://github.com/GabrielCastelo-31)| WIEGERS, Karl E.; BEATTY, Joy. *Software requirements*. Pearson Education, 2013. p. 321       |
 
 <font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31), 2025.</p></font>
 

@@ -2,21 +2,21 @@
 
 ## Introdução
 
-Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran DF, composto por 7 integrantes. A inspeção foi realizada no dia 02/06/2025 e foi feita com base na lista de verificação da entrega 4.
+Abaixo se encontra a **inspeção** (versão 2.0) da entrega 4 do grupo+1, o qual é o grupo do Detran DF, composto por 7 integrantes. A inspeção (versão 2.0) foi realizada no dia 06/07/2025, sendo feita com base na [lista de verificação](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-04%2B1/) (versão 2.0) da entrega 4.
 
 ---
 
-## 🔗 Link da reunião
+## 🔗 Link da gravação
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/smVYX3H_hjM?si=sCPbNhMwAuEgwKsG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Assista ao vídeo no YouTube]()
 
 ---
 
-## 👥 Informações do Grupo
+## 👥 Informações do Grupo+1
 
 - **Detran DF**
 - **Integrantes:**
-<font size="3"><p align="center">Tabela 1: Integrantes (versão 4).</p></font>
+<font size="3"><p align="center">Tabela 1: Integrantes.</p></font>
 <table>
   <tr>
     <td align="center"><a href="https://github.com/eric-kingu"><img style="border-radius: 60%;" src="https://github.com/eric-kingu.png" width="200px;" alt=""/><br /><sub><b>Eric Akio Lages Nishimura</b></sub></a><br />
@@ -31,58 +31,38 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 ---
 
-## Lista de Inspeção
+## Lista de Inspeção (Versão 2.0)
 
-### Tabela 1: Lista de Inspeção — Histórias de Usuário
+### Tabela 2: Lista de Inspeção — NFR Framework
 
-| Item                                                                                                                    | Inspetor(es)                                                                                                                                                                                                                                                                                                                                                          | Data       | Revisor(es)        | Avaliação    |
-| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------ | ------------ |
-| **1.** Os títulos das histórias de usuário são auto-explicativos? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Tiago Antunes](https://github.com/TiagoBalieiro) | Conforme |
-| **2.** O "quem", "o que" e o "por que" estão definidos na história de usuário? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Pedro Everton](https://github.com/pedroeverton217) | Conforme |
-| **3.** Há participação do cliente e/ou persona na validação das histórias de usuário? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | Conforme |
-| **4.** A história possui critérios de aceitação? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Euller Júlio](https://github.com/Potatoyz908) | Conforme |
-| **5.** Há participação do cliente e/ou persona na elicitação de requisitos? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Davi Camilo](https://github.com/Davicamilo23) | Conforme |
-| **6.** Todas as histórias de usuário podem ser testadas? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Artur de Camargos](https://github.com/ArturDCR) | Conforme |
-| **7.** As histórias de usuário seguem algum modelo ou padrão? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Arthur Evangelista](https://github.com/arthurevg) | Conforme |
-| **8.** As histórias de usuário são pequenas? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Arthur Evangelista](https://github.com/arthurevg) | Conforme |
-| **9.** As histórias de usuário são detalhadas? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | Conforme |
+| Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
+|------|--------------|------|-------------|-----------|
+| **1.** Foram usados apenas Requisitos Não Funcionais? | [Artur de Camargos Rodrigues](https://github.com/ArturDCR), [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31), [Pedro Everton de Paula](https://github.com/pedroeverton217) e [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | 06/07/2025 | [Pedro Everton de Paula](https://github.com/pedroeverton217) | - |
 
-<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), [Arthur Evangelista](https://github.com/arthurevg), [Euller Júlio da Silva](https://github.com/Potatoyz908) e [Artur De Camargos](https://github.com/ArturDCR), 2025.</p></font>
-
+<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/gabrielcastelo-31), 2025.</p></font>
 
 ---
 
-### Tabela 2: Lista de Inspeção — Backlogs
+### Tabela 3: Lista de Inspeção — Backlog
 
-| Item                                                                                                                    | Inspetor(es)                                                                                                                                                                                                                                                                                                                                                          | Data       | Revisor(es)        | Avaliação    |
-| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------ | ------------ |
-| **1.** O backlog possui épicos e temas bem definidos e descritos? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Tiago Antunes](https://github.com/TiagoBalieiro) | Conforme |
-| **2.** O backlog foi feito buscando a priorização das funcionalidades do produto desejadas pelo cliente? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Pedro Everton](https://github.com/pedroeverton217) | Não conforme |
-| **3.** O backlog permite alterações dinâmicas, com itens sendo adicionados e priorizados continuamente para refletir as mudanças nos requisitos do cliente? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Pedro Everton](https://github.com/pedroeverton217) | Conforme |
-| **4.** O Product Owner (PO) participou da elaboração ou priorização do Backlog? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Pedro Everton](https://github.com/pedroeverton217) | Não conforme |
+| Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
+|------|--------------|------|-------------|-----------|
+| **1.** O backlog foi feito buscando a priorização das funcionalidades do produto desejadas pelo cliente? | [Artur de Camargos Rodrigues](https://github.com/ArturDCR), [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31), [Pedro Everton de Paula](https://github.com/pedroeverton217) e [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | 06/07/2025 | [Pedro Everton de Paula](https://github.com/pedroeverton217) | - |
+| **2.** O backlog permite alterações dinâmicas, com itens sendo adicionados e priorizados continuamente para refletir as mudanças nos requisitos do cliente? | [Artur de Camargos Rodrigues](https://github.com/ArturDCR), [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31), [Pedro Everton de Paula](https://github.com/pedroeverton217) e [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | 06/07/2025 | [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | - |
+| **3.** O Product Owner (PO) participou da elaboração ou priorização do Backlog? | [Artur de Camargos Rodrigues](https://github.com/ArturDCR), [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31), [Pedro Everton de Paula](https://github.com/pedroeverton217) e [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | 06/07/2025 | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | - |
 
-<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Euller Júlio da Silva](https://github.com/Potatoyz908) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
-
----
-
-### Tabela 3: Lista de Inspeção — NFR Framework
-
-| Item                                                                                                                    | Inspetor(es)                                                                                                                                                                                                                                                                                                                                                          | Data       | Revisor(es)        | Avaliação    |
-| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------ | ------------ |
-| **1.** Há definição do RNF e as fontes de evidência na literatura? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | Conforme |
-| **2.** Existe o cartão de especificação do RNF? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Euller Júlio](https://github.com/Potatoyz908) | Conforme |
-| **3.** Os softgoals condizem com o contexto? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Davi Camilo](https://github.com/Davicamilo23) | Conforme |
-| **4.** Softgoals representam metas bem definidas? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Artur de Camargos](https://github.com/ArturDCR) | Conforme |
-| **5.** Os impactos foram corretamente propagados? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Arthur Evangelista](https://github.com/arthurevg) | Conforme |
-| **6.** Foram usados apenas Requisitos Não Funcionais? | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg) | 01/06/2025 | [Arthur Evangelista](https://github.com/arthurevg) | Conforme |
-
-<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908) e [Gabriel Castelo](https://github.com/gabrielcastelo-31), 2025.</p></font>
+<font size="3"><p style="text-align: center">Autores: [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
 ---
 
-## 💬 Comentários
+### Tabela 4: Lista de Inspeção — Histórias de Usuário
 
+| Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
+|------|--------------|------|-------------|-----------|
+| **1.** As histórias de usuário são pequenas? | [Artur de Camargos Rodrigues](https://github.com/ArturDCR), [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31), [Pedro Everton de Paula](https://github.com/pedroeverton217) e [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | 06/07/2025 | [Pedro Everton de Paula](https://github.com/pedroeverton217) | - |
+| **2.** As histórias de usuário são detalhadas? | [Artur de Camargos Rodrigues](https://github.com/ArturDCR), [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31), [Pedro Everton de Paula](https://github.com/pedroeverton217) e [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | 06/07/2025 | [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | - |
 
+<font size="3"><p style="text-align: center">Autores: [Arthur Evangelista](https://github.com/arthurevg) e [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
 
 ---
 
@@ -109,3 +89,4 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 | `1.4`  | 01/06/2025 | Criação de item na Lista de Inspeção - Histórias de Usuário | [Arthur Evangelista](https://github.com/arthurevg) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
 | `1.5`  | 01/06/2025 | Criação de item na Lista de Inspeção - Histórias de Usuário | [Artur De Camargos](https://github.com/ArturDCR) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
 | `1.6`  | 01/06/2025 | Inspeção do grupo + 1 | [Euller Júlio](https://github.com/Potatoyz908),  [Arthur Evangelista](https://github.com/arthurevg), [Artur de Camargos](https://github.com/ArturDCR) e [Pedro Everton](https://github.com/pedroeverton217)| [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
+| `2.0`  |  06/07/2025 |  Correção do documento, baseado na nova lista de verificação, para a nova inspeção | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
