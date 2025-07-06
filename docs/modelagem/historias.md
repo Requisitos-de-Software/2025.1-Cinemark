@@ -80,7 +80,6 @@ Gravação da priorização das Histórias de Usuário com o PO
 
 <font size="3"><p style="text-align: center">[Clique aqui para acessar a gravação](https://youtu.be/3dxCPchVsd4).</p></font>
 
-
 Tabela 2: Modelo de tabela para histórias de usuário.
 
 <div align="center">
@@ -203,6 +202,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
 ### US03 - Exibir mapa gráfico da sala
+
 <details>
   <summary><strong>Tabela 5 - Exibir mapa gráfico da sala</strong></summary>
 
@@ -373,10 +373,10 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
-### US07 - Criação de conta e login com redes sociais
+### US07 - Login com redes sociais
 
 <details>
-  <summary><strong>Tabela 9 - História de Usuário Criação de conta e login com redes sociais</strong></summary>
+  <summary><strong>Tabela 9 - História de Usuário Login com Google/redes sociais.</strong></summary>
 
   <table>
     <thead>
@@ -388,18 +388,16 @@ Tabela 2: Modelo de tabela para histórias de usuário.
     <tbody>
       <tr>
         <td>US07</td>
-        <td>Criação de conta e login com redes sociais</td>
+        <td>Login com redes sociais</td>
       </tr>
       <tr>
         <td>Descrição</td>
-        <td><em>Eu, como</em> usuário, <em>desejo</em> criar uma conta informando nome, e-mail, senha e CPF ou fazer login via Google/redes sociais <em>para</em> acessar o aplicativo de forma segura e rápida.</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> fazer login via Google/redes sociais <em>para</em> acessar o aplicativo de forma segura e rápida.</td>
       </tr>
       <tr>
         <td>Critérios de Aceitação</td>
         <td>
-          - Na tela de cadastro, o usuário deve conseguir preencher nome, e-mail, senha e CPF e receber confirmação de sucesso. <br>
-          - Na tela de login, deve haver opção para autenticar com Google ou outras redes sociais, como por exemplo, o Facebook, além do login convencional com e-mail e senha. <br>
-          - Se o e-mail ou CPF já estiverem cadastrados, o sistema deve exibir mensagem de erro indicando que já existe uma conta com aqueles dados. <br>
+          - Na tela de login, deve haver opção para autenticar com Google ou outras redes sociais, como por exemplo, o Facebook.<br>
         </td>
       </tr>
       <tr>
@@ -408,8 +406,8 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Rastreabilidade</td>
-        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ20">
-            RQ20
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ20B">
+            RQ20B
           </a>
         </td>
       </tr>
@@ -418,7 +416,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg) e [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
 
 ### US08 - Recuperação de conta via e-mail ou CPF
 
@@ -1758,6 +1756,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 <font size="3"><p style="text-align: center">Autor: [Artur de Camargos](https://github.com/ArturDCR).</p></font>
 
 ### US37 - Garantir contraste visual adequado
+
 <details>
   <summary><strong>Tabela 39 - História de Usuário - Contraste WCAG</strong></summary>
 
@@ -1796,6 +1795,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 <font size="3"><p style="text-align: center">Autor:  [Pedro Everton](https://github.com/pedroeverton217).</p></font>
 
 ### US38 - Limitar compras no Snack Bar
+
 <details>
   <summary><strong>Tabela 40 - História de Usuário - Limite de itens</strong></summary>
 
@@ -1834,6 +1834,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 <font size="3"><p style="text-align: center">Autor:  [Pedro Everton](https://github.com/pedroeverton217).</p></font>
 
 ### US39 - Remover promoções expiradas
+
 <details>
   <summary><strong>Tabela 41 - História de Usuário - Promoções atualizadas</strong></summary>
 
@@ -1872,6 +1873,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 <font size="3"><p style="text-align: center">Autor:  [Pedro Everton](https://github.com/pedroeverton217).</p></font>
 
 ### US40 - Validar dados do perfil
+
 <details>
   <summary><strong>Tabela 42 - História de Usuário - Validação de perfil</strong></summary>
 
@@ -1910,6 +1912,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 <font size="3"><p style="text-align: center">Autor:  [Pedro Everton](https://github.com/pedroeverton217).</p></font>
 
 ### US41 - Manter sessão ativa
+
 <details>
   <summary><strong>Tabela 43 - História de Usuário - Sessão persistente</strong></summary>
 
@@ -1948,6 +1951,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 <font size="3"><p style="text-align: center">Autor:  [Pedro Everton](https://github.com/pedroeverton217).</p></font>
 
 ### US42 - Acesso offline a ingressos
+
 <details>
   <summary><strong>Tabela 44 - História de Usuário - Ingressos offline</strong></summary>
 
@@ -2004,3 +2008,4 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 |`1.12`| 1/06/2025| Adição da gravação da priorização com o PO |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|[Arthur Evangelista](https://github.com/arthurevg)|
 | `1.13`  | 01/06/2025 | Adição das histórias de usuário US37, US38, US39, US40, US41 e US42 | [Pedro Everton](https://github.com/pedroeverton217) |  [Euller Júlio da Silva](https://github.com/Potatoyz908) |
 | `1.2`  | 05/07/2025 | Correção da US12 com base na mudança do requisito RQ25 | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.3`  | 05/07/2025 | Correção da US07 com base no requisito 20B | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Pedro Everton](https://github.com/pedroeverton217) |
