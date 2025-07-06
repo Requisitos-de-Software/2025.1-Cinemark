@@ -421,9 +421,37 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |                 Tema                 |                                                       Exploração e Descoberta de Filmes                                               |
 |         História de Usuário          | [US10](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us10-filtrar-filmes-por-categoria) Eu, como usuário, desejo aplicar filtros por categoria de filme e visualizar avaliações de público e plataformas externas para encontrar rapidamente produções de meu interesse com base em reviews confiáveis. |
 |                Léxico                | [L03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#3-filtrar-filmes), [L04](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#4-avaliacoes-de-filmes)                                          |
-|             Casos de uso             |             Não se aplica                                         |
-|               Cenários               |   [UC01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#41-cenario-1-filtrar-filmes-por-categoria-e-exibir-avaliacoes)                                              |
+|             Casos de uso             |             [UC01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#41-cenario-1-filtrar-filmes-por-categoria-e-exibir-avaliacoes)                                          |
+|               Cenários               |            [C01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#cenario-1-filtrar-filmes-por-categoria-e-exibir-avaliacoes)                                   |
 | Artefatos (elicitação de requisitos) | [IS15](../elicitação/introspecção.md#IS15)  |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
+#### **RQ24**
+
+|             [RQ24](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq24)                 |                            Exibir trailers dentro do app.                     |
+| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                Épico                 |                                           [E02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-2-exploracao-de-filmes)                                            |
+|                 Tema                 |                                                       Exploração e Descoberta de Filmes                                               |
+|         História de Usuário          | [US11](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us11-exibir-trailers-dentro-do-app) Eu, como usuário, desejo assistir trailers dos filmes diretamente no aplicativo para avaliar rapidamente se quero comprá-los antes de ir ao cinema. |
+|                Léxico                | [L05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#5-assistir-trailer), [L06](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#6-trailer)                                          |
+|             Casos de uso             |             [UC04](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/casosDeUso/#tabela-4-exibir-trailers-dentro-do-app)                                        |
+|               Cenários               |   [C02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#cenario-2-exibir-trailers-dentro-do-app)                                              |
+| Artefatos (elicitação de requisitos) | [IS16](../elicitação/introspecção.md#IS16)  |
+
+<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+
+#### **RQ25**
+
+|             [RQ25](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq25)                 |                            O fluxo de compra de ingresso do aplicativo deve possuir no máximo 5 etapas.                    |
+| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                Épico                 |                                           [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-compra-e-finalizacao)                                            |
+|                 Tema                 |                                                       Compra e Finalização                                              |
+|         História de Usuário          | [US12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us12-fluxo-de-compra-simplificado) Eu, como usuário, desejo realizar a compra de ingressos e snacks em no máximo 5 etapas para tornar o processo mais rápido e conveniente, minimizando a taxa de desistência de compra. |
+|                Léxico                | Não se aplica                                        |
+|             Casos de uso             |             Não se aplica                                      |
+|               Cenários               |   Não se aplica                                             |
+| Artefatos (elicitação de requisitos) | [IS17](../elicitação/introspecção.md#IS17)  |
 
 <font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
 
