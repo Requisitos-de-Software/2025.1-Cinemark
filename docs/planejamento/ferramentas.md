@@ -8,7 +8,7 @@ Para auxiliar na execução e organização do projeto, foram utilizadas diferen
 
 ## Ferramentas Utilizadas
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas Utilizadas no Projeto</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas utilizadas no projeto</p></font>
 
 |                                                                                                                           |         Ferramenta         |                              Finalidade                              |
 | :-----------------------------------------------------------------------------------------------------------------------: | :------------------------: | :------------------------------------------------------------------: |
@@ -30,9 +30,7 @@ Para auxiliar na execução e organização do projeto, foram utilizadas diferen
 | <img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/ferramentas/miro.png" style="height:110px;width:120px"> | Miro | Auxílio visual e operacional para aplicar diferentes técnicas.<a id="anchor_16" href="#FRM16"><sup>16</sup></a> |
 | <img src="https://github.com/Requisitos-de-Software/2025.1-Cinemark/raw/main/docs/assets/ferramentas/lucidchart.png" style="height:100px;width:100px"> | Lucidchart | Criação de diagramas UML, especialmente o diagrama de casos de uso.<a id="anchor_17" href="#FRM17"><sup>17</sup></a> |
 
-
-
-<font size="3"><p align="center">Fonte: Autores.</p></font>
+<font size="3"><p align="center">Fonte: Autores, 2025.</p></font>
 
 ---
 
@@ -72,8 +70,6 @@ Para auxiliar na execução e organização do projeto, foram utilizadas diferen
 >
 > <a id="FRM17" href="#anchor_17">17.</a> Lucidchart. Diagrama de Caso de Uso UML. Disponível em: [https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml). Acesso em: 10 de maio de 2025.
 
-
-
 ---
 
 ## Histórico de Versão
@@ -91,3 +87,4 @@ Para auxiliar na execução e organização do projeto, foram utilizadas diferen
 | `1.5.1`   | 05/05/2025 | Adiciona Miro às referências da página e corrige link da tabela| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.6`   | 11/05/2025 | Adiciona Lucidchart às ferramentas| [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.6.1`   | 11/05/2025 | Adiciona Lucidchart às referências da página| [Euller Júlio](https://github.com/Potatoyz908) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+| `1.62` | 06/07/2025 | Pequenos ajustes de formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |

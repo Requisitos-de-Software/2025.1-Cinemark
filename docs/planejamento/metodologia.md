@@ -8,14 +8,14 @@ Para o desenvolvimento do projeto de requisitos do aplicativo **Cinemark**, a eq
 
 ## Estrutura de Trabalho
 
-- A equipe seguirá um **cronograma planejado**, alinhado às datas das atividades e entregas definidas pela disciplina.
+- A equipe seguirá um [**cronograma planejado**](https://requisitos-de-software.github.io/2025.1-Cinemark/planejamento/cronograma/), alinhado às datas das atividades e entregas definidas pelo professor para a disciplina.
 - Todas as atividades serão atribuídas conforme o cronograma, com divisão equilibrada entre os membros do grupo, estando sujeita à alteração.
 
 ---
 
 ## Reuniões
 
-- Baseado no *heatmap* do grupo, as reuniões serão **semanais às quartas-feiras (20h)**, sendo realizadas para alinhar o andamento do projeto, discutir dificuldades e tomar decisões coletivas.
+- Baseado no [*heatmap*](https://requisitos-de-software.github.io/2025.1-Cinemark/planejamento/heatmap/) do grupo, as reuniões serão **semanais às quartas-feiras (20h)**, sendo realizadas para alinhar o andamento do projeto, discutir dificuldades e tomar decisões coletivas.
 - **Reuniões extras** poderão ser marcadas sempre que necessário, de acordo com a necessidade de revisão ou resolução de problemas.
 - As reuniões e apresentações serão **gravadas no Microsoft Teams**, garantindo que todos os membros possam consultar o histórico de decisões.
 
@@ -24,7 +24,7 @@ Para o desenvolvimento do projeto de requisitos do aplicativo **Cinemark**, a eq
 ## Comunicação
 
 - A equipe manterá **comunicação contínua** pelo **WhatsApp**, permitindo troca rápida de informações e dúvidas.
-- Informações mais formais, como mudanças em artefatos e documentação, serão comunicadas também nas reuniões semanais.
+- Informações mais formais, como mudanças em artefatos e documentação, serão comunicadas também nas reuniões semanais e/ou presencialmente.
 
 ---
 
@@ -43,3 +43,4 @@ Para o desenvolvimento do projeto de requisitos do aplicativo **Cinemark**, a eq
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |  04/05/2025 |  Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
+| `1.01` |  06/07/2025 | Pequenos ajustes de formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
