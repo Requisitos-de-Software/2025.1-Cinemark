@@ -60,7 +60,7 @@ A tabela 1 apresenta o cronograma da priorização e as funções dos membros re
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
-						<td>Elaborou os Cenários dos requisitos RQ32 e RQ58 com suas respectivas tabelas (7 e 8)</td>	
+						<td>Elaborou os Cenários dos requisitos RQ32A, RQ32B e RQ58 com suas respectivas tabelas (7 e 8)</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
@@ -159,7 +159,7 @@ Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 
 ## Cenário 5: Exibir recomendações de filmes baseadas em histórico e preferências
 
-O quinto cenário, apresentado na Tabela 5, faz referência ao requisito não implementado [RQ32](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Exibir recomendações de filmes baseadas em histórico e preferências.
+O quinto cenário, apresentado na Tabela 5, faz referência aos requisitos não implementados [RQ32A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Exibir recomendações de filmes baseadas em histórico e [RQ32B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Exibir recomendações de filmes baseadas em preferências.
 
 **Tabela 7: Cenário de exibir recomendações de filmes baseadas em histórico e preferências**
 
@@ -336,3 +336,4 @@ Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 20
 | `1.8`  | 26/05/2025 | Adição da tabela de participantes | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.9`  | 04/07/2025 | Organização do documento, agora as tabelas seguem a ordem de 1 a 14. Também foi adicionada a tabela 1 e o vídeo de validação dos cenários | [Arthur Evangelista](https://github.com/arthurevg) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
 | `1.10`  | 06/07/2025 | Ajuste no RQ29 com sua nova versão RQ29A e RQ29B. | [Euller Júlio](https://github.com/Potatoyz908)      | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.11`  | 06/07/2025 | Ajuste no RQ32 com sua nova versão RQ32A e RQ32B. | [Euller Júlio](https://github.com/Potatoyz908)      | [Arthur Evangelista](https://github.com/arthurevg) |
