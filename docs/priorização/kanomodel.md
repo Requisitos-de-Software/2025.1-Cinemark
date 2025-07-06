@@ -177,3 +177,4 @@ Aplicamos a técnica de priorização do Modelo Kano para classificar os requisi
 | `1.1`  | 05/05/2025 | Adição da tabela do Modelo Kano| [Arthur Evangelista](https://github.com/arthurevg)  |[Euller Júlio](https://github.com/Potatoyz908) |
 | `1.2`  | 09/05/2025 | Adição de hiperlink aos requisitos para manter rastreabilidade, adição de conclusão e citação da referência no texto| [Arthur Evangelista](https://github.com/arthurevg)  |[Euller Júlio](https://github.com/Potatoyz908) |
 | `1.3`  | 13/05/2025 | Adição do cronograma da técnica, ajuste na tabela 2 e atualização da legenda da tabela 2 | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.4`  | 06/07/2025 | Agrupamento de itens da tabela por temas e adição de rastreabilidades |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)  | [Gabriel Castelo](https://github.com/GabrielCastelo-31)|
