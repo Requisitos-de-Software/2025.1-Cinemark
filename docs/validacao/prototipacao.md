@@ -10,18 +10,44 @@ Um ponto crucial da nossa metodologia foi a validação individual de cada prot�
 
 ## Validação
 
-<p align="center">Tabela 1: Participantes da gravação da validação</p>
+A validação dos protótipos foi realizada individualmente por cada autor com usuários reais do aplicativo Cinemark. Cada seção abaixo apresenta o vídeo de validação dos protótipos desenvolvidos pelo respectivo autor.
+
+### Validação dos Protótipos 3 e 4 - Euller Júlio
+
+<p align="center">Tabela 1: Participantes da gravação da validação dos protótipos 3 e 4</p>
 
 |Participante|Função|
 |---|---|
-|[Arthur Evangelista](https://github.com/arthurevg)|Entrevistador|
-|Mariana|Usuária|
+|[Euller Júlio](https://github.com/Potatoyz908)|Entrevistador|
+|Rafael|Entrevistado|
 
-### Vídeo da Validação
+**Protótipos validados:**
+- Protótipo 3: [RQ33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) - Permitir alteração de preferências de idioma
+- Protótipo 4: [RQ59](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) - Reservar sala para eventos privados
 
-O vídeo abaixo contém a validação do protótipo presente na tabela 2. O vídeo, embora gravado pelo Teams por conta de facilidade, foi realizado de forma presencial na data de 22 de junho de 2025.
+O vídeo abaixo contém a validação dos protótipos 3 e 4. A validação foi realizada de forma presencial.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I1p8XuJSsts?si=kAMwCC7bmALDRLbZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RVa-6P5_2xo?si=IeI3T_PIS6GSRLSl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<!-- Template para os outros autores -->
+<!-- 
+### Validação dos Protótipos X e Y - [Nome do Autor]
+
+<p align="center">Tabela X: Participantes da gravação da validação dos protótipos X e Y</p>
+
+|Participante|Função|
+|---|---|
+|[Nome do Autor](link-github)|Entrevistador|
+|Nome do Usuário|Entrevistado(a)|
+
+**Protótipos validados:**
+- Protótipo X: [RQX](link) - Descrição do requisito
+- Protótipo Y: [RQY](link) - Descrição do requisito
+
+O vídeo abaixo contém a validação dos protótipos X e Y. A validação foi realizada de forma [presencial/remota].
+
+<iframe width="560" height="315" src="LINK_DO_VIDEO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+-->
 
 ## Requisitos Contemplados nos Protótipos
 
@@ -251,3 +277,4 @@ Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 | `1.3`  | 22/06/2025 | Adição do vídeo de validação | [Arthur Evangelista](https://github.com/tiagobalieiro) | [Euller Júlio](https://github.com/Potatoyz908) |
 | `1.4`  | 22/06/2025 | Adição dos RQ29A,RQ29B e RQ30 a tabela de requisitos| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23)
 | `1.5`  | 22/06/2025 | Adição da descrição dos protótipos. | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23)
+| `1.6`  | 06/07/2025 | Reestruturação da seção de validação para múltiplos autores, remoção do vídeo anterior e adição do vídeo de validação dos protótipos 3 e 4 (RQ33 e RQ59) | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg)
