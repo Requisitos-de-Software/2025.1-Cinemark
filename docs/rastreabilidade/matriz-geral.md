@@ -94,7 +94,7 @@ As matrizes de requisitos funcionais e não funcionais segue o seguinte modelo:
 | [RQ18](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq18) |Disponibilizar ingresso digital no app, eliminando a necessidade de impressão.  | Sim | 1.0  | [IS09](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS09), [ST03](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/storytelling/#ST03) | Não se aplica |  | [Arthur Evangelista](https://github.com/arthurevg) |
 | [RQ19](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados) | Salvar automaticamente ingressos na seção “Meus Ingressos” após confirmação de compra. | Sim | 1.0 | [AI16](../elicitação/analiseUI.md#AI16) | Não se aplica |  |[Gabriel Castelo](https://github.com/GabrielCastelo-31)  |
 | [RQ20A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados) | Permitir criação de conta (nome, e-mail, senha, CPF). | Sim | 2.0 | [AI17](../elicitação/analiseUI.md#AI17) | Não se aplica  |  | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
-| [RQ20B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados) | Permitir login com Google/redes sociais. | Não | 2.0 | [IS26](../elicitação/introspecção.md#IS26) | [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta), [US07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us07-criacao-de-conta-e-login-com-redes-sociais) |  | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+| [RQ20B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados) | Permitir login com Google/redes sociais. | Não | 2.0 | [IS26](../elicitação/introspecção.md#IS26) | [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta), [US07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us07-login-com-redes-sociais) |  | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | [RQ21A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados) | Recuperar conta por envio de link de redefinição de senha por e-mail. | Sim  | 2.0| [AI18](../elicitação/analiseUI.md#AI18)  | [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta),[US08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us08-recuperacao-de-conta-via-e-mail-ou-cpf) |  | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | [RQ21B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados) | Recuperar e-mail via CPF. | Sim | 2.0 | [AI19](../elicitação/analiseUI.md#AI19)  | [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta),[US08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us08-recuperacao-de-conta-via-e-mail-ou-cpf) |  | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | [RQ21C](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados) | Redefinir e-mail com código de verificação. | Sim | 2.0 | [AI20](../elicitação/analiseUI.md#AI20)  | [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta),[US08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us08-recuperacao-de-conta-via-e-mail-ou-cpf) |  | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
@@ -152,7 +152,7 @@ As matrizes de requisitos funcionais e não funcionais segue o seguinte modelo:
 | RQ63 |  |  |  |  |  |  |  |
 | RQ66 |  |  |  |  |  |  |  |
 
----
+***
 
 ## Referências Bibliográficas
 
@@ -160,7 +160,7 @@ As matrizes de requisitos funcionais e não funcionais segue o seguinte modelo:
 
 > **SERRANO, Milene; SERRANO, Maurício.** Requisitos – Aula 26. Universidade de Brasília, Campus Gama (UnB Gama). Material de aula.
 
----
+***
 
 ## Histórico de Versão
 
