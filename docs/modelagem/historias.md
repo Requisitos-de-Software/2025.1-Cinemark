@@ -949,7 +949,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       <tr>
       <td>Rastreabilidade</td>
         <td> <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32">
-            RQ32
+            RQ32A RQ32B
           </a></td>
       </tr>
     </tbody>
@@ -2010,3 +2010,4 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 | `1.3`  | 05/07/2025 | Correção da US07 com base no requisito 20B | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Pedro Everton](https://github.com/pedroeverton217) |
 | `1.4`  | 06/07/2025 | Correção da US08 com base no requisito RQ21A | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.5`  | 06/07/2025 | Ajuste no RQ29, adicionando suas novas versões RQ29A e RQ29B | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.6`  | 06/07/2025 | Ajuste no RQ32, adicionando suas novas versões RQ32A e RQ32B | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
