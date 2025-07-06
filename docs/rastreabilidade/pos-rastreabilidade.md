@@ -95,7 +95,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação | [US01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us01-armazenar-cartoes-de-pagamento) |
 | Recurso | [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us35-autenticacao-por-e-mail-e-senha); [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta) |
-| Representação | |
+| Representação | <img src="../assets/gifs/RQ10.gif" height="500" width="250"> |
 | Alocado | [E01](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-1-autenticacao-e-gerenciamento-de-conta) |
 | Agregação | [IS06](../elicitação/introspecção.md#IS06)  |
 
@@ -110,7 +110,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação | [US02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us02-permitir-compra-de-multiplos-ingressos-em-uma-unica-transacao) |
 | Recurso | [RQ12A](#rq12a---exibir-mapa-da-sala-com-indicação-gráfica-de-assentos-ocupados-livres-e-especiais); [RQ12B](#rq12b---permitir-seleção-pelos-usuários); [RQ13](#rq13---exigir-seleção-de-ao-menos-um-assento-antes-de-prosseguir) |
-| Representação |  |
+| Representação | <img src="../assets/gifs/RQ11.gif" height="500" width="250">  |
 | Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-compra-e-finalizacao) |
 | Agregação | [IS07](../elicitação/introspecção.md#IS07) |
 
@@ -124,21 +124,21 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação | [US03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us02-permitir-compra-de-multiplos-ingressos-em-uma-unica-transacao) |
-|Representação| |
+|Representação| <img src="../assets/gifs/RQ12A.gif" height="500" width="250">  |
 | Recurso | Dados de Ocupação de Assentos em Tempo Real |
 | Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-compra-e-finalizacao) |
 | Agregação |[AI09](../elicitação/analiseUI.md#AI09) |
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
 
-#### **RQ12B - Permitir seleção pelos usuários.**
+#### **RQ12B - Permitir seleção de assento pelos usuários.**
 
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação | [US03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us02-permitir-compra-de-multiplos-ingressos-em-uma-unica-transacao) |
 | Recurso | [RQ12A](#rq12a---exibir-mapa-da-sala-com-indicação-gráfica-de-assentos-ocupados-livres-e-especiais) |
-| Representação | |
+| Representação |<img src="../assets/gifs/RQ12B.gif" height="500" width="250">  |
 | Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-compra-e-finalizacao) |
 | Agregação |[IS08](../elicitação/introspecção.md#IS08)  |
 
@@ -153,7 +153,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação | [US02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us02-permitir-compra-de-multiplos-ingressos-em-uma-unica-transacao) |
 | Recurso | [RQ12A](#rq12a---exibir-mapa-da-sala-com-indicação-gráfica-de-assentos-ocupados-livres-e-especiais); [RQ12B](#rq12b---permitir-seleção-pelos-usuários) |
-| Representação | |
+| Representação | <img src="../assets/gifs/RQ13.gif" height="500" width="250"> |
 | Alocado | [E12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-12-localizacao-e-assentos_1) |
 | Agregação |[AI10](../elicitação/analiseUI.md#AI10)|
 
@@ -168,7 +168,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação | [US04](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us04-definir-tipo-de-ingresso-por-assento) |
 | Recurso |[US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us35-autenticacao-por-e-mail-e-senha); [RQ12A](#rq12a---exibir-mapa-da-sala-com-indicação-gráfica-de-assentos-ocupados-livres-e-especiais); [RQ12B](#rq12b---permitir-seleção-pelos-usuários);  |
-| Representação | |
+| Representação | <img src="../assets/gifs/RQ14.gif" height="500" width="250"> |
 | Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-compra-e-finalizacao_1) |
 | Agregação |[AI11](../elicitação/analiseUI.md#AI11)   |
 
@@ -183,7 +183,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação |  |
 | Recurso |  |
-| Representação | |
+| Representação | <img src="../assets/gifs/RQ15.gif" height="500" width="250">  |
 | Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-compra-e-finalizacao) |
 | Agregação | [IS11](../elicitação/introspecção.md#IS11), [AI12](../elicitação/analiseUI.md#AI12) |
 
@@ -198,7 +198,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação | |
 | Recurso | [RQ11](#rq11---permitir-compra-de-múltiplos-ingressos-em-uma-única-transação); [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us35-autenticacao-por-e-mail-e-senha) |
-| Representação | |
+| Representação | <img src="../assets/gifs/RQ16A.gif" height="500" width="250">  |
 | Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-compra-e-finalizacao), [AI29](../elicitação/analiseUI.md#AI29) |
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
@@ -212,7 +212,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação |  |
 | Recurso | [RQ16A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) |
-| Representação |  |
+| Representação | <img src="../assets/gifs/RQ16B.gif" height="500" width="250">  |
 | Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-processo-de-compra-de-ingressos) |
 | Agregação | [AI13](../elicitação/analiseUI.md#AI13), [AI29](../elicitação/analiseUI.md#AI29) |
 
@@ -242,7 +242,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação | [L13](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#13-acesso-aos-ingressos-facil-e-visivel-na-interface-com-botao-dedicado-ou-atalho-no-menu-inicial), [L14](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#13-acesso-aos-ingressos-facil-e-visivel-na-interface-com-botao-dedicado-ou-atalho-no-menu-inicial)  |
 | Recurso | [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us35-autenticacao-por-e-mail-e-senha) |
-| Representação | |
+| Representação |<img src="../assets/gifs/RQ18.gif" height="500" width="250">  |
 | Alocado | [E05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-5-gerenciamento-de-ingressos) |
 | Agregação | [IS09](../elicitação/introspecção.md#IS09), [ST03](../elicitação/storytelling.md#ST03) |
 
