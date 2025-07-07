@@ -4,6 +4,8 @@
 
 O Product Backlog é um artefato essencial no processo de desenvolvimento ágil, atuando como uma lista estruturada e priorizada de tudo que deve ser implementado no produto. Sob responsabilidade do Product Owner, esse backlog é continuamente atualizado e organizado, garantindo que a equipe de desenvolvimento trabalhe nos itens mais relevantes e com maior valor para o projeto.
 
+---
+
 ## Metodologia
 
 As histórias de usuário foram previamente definidas com base nos objetivos do projeto, considerando as principais funcionalidades esperadas para o sistema. A equipe de desenvolvimento ficou responsável por organizá-las, estruturando-as em uma hierarquia de temas, épicos e funcionalidades (features), de forma a facilitar o entendimento e a gestão do escopo. Após essa organização inicial, o Product Owner (PO) ficou encarregado de realizar a priorização a partir da técnica **Three-Level Scale estendida**. As tabelas a seguir apresentam o backlog estruturado com os respectivos épicos, funcionalidades e histórias de usuário, além de uma explicação sobre a hierarquia e os termos utilizados.
@@ -61,7 +63,7 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US33</a>,
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US34</a>,
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US35</a> e
-						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US36</a>
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US36.</a>
 						</td>
 					</tr>
 					<tr>
@@ -72,7 +74,7 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US09</a>,
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US10</a>,
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US11</a> e
-						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US12</a>
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US12.</a>
 						</td>
 					</tr>
 					<tr>
@@ -82,8 +84,8 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US20</a>,
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US21</a>,
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US22</a>,
-						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US23</a> e
-						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US24</a>
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US23</a>,
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US24</a> e corrigiu as rastreabilidades.
 						</td>
 					</tr>
 					<tr>
@@ -94,7 +96,7 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US15</a>,
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US16</a>,
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US17</a> e
-						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US18</a>
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US18.</a>
 						</td>
 					</tr>
 					<tr>
@@ -105,7 +107,7 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US27</a>,
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US28</a>,
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US29</a> e
-						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US30</a>
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US30.</a>
 						</td>
 					</tr>
 					<tr>
@@ -116,7 +118,7 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US03</a>,
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US04</a>,
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US05</a> e
-						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US06</a>
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario">US06.</a>
 						</td>
 					</tr>
 					<tr>
@@ -131,6 +133,8 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
+---
+
 ## Priorização das Features
 
 Gravação da priorização das Features com o PO.
@@ -138,6 +142,8 @@ Gravação da priorização das Features com o PO.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3dxCPchVsd4?si=YwXD59wJWi6b4_EK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">[Clique aqui para acessar a gravação](https://youtu.be/3dxCPchVsd4).</p></font>
+
+---
 
 ## Temas
 
@@ -201,11 +207,13 @@ Cada épico (descrito abaixo) foi desdobrado em features, que representam capaci
 
 ## Histórias de Usuário
 
-As [Histórias de Usuário](\(https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#historias-de-usuario\)) estão detalhadas numa seção dedicada a elas. Elas ajudam a transformar os épicos em funcionalidades mais claras e focadas no ponto de vista de quem vai usar o sistema. Elas servem como um guia prático para o desenvolvimento, mostrando o que o usuário espera fazer e por quê. Geralmente, obedecem o seguinte formato:
+As [Histórias de Usuário](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/) estão detalhadas numa seção dedicada a elas. Elas ajudam a transformar os épicos em funcionalidades mais claras e focadas no ponto de vista de quem vai usar o sistema. Elas servem como um guia prático para o desenvolvimento, mostrando o que o usuário espera fazer e por quê. Geralmente, obedecem o seguinte formato:
 
 > “Eu, como \[tipo de usuário], desejo \[funcionalidade] para \[objetivo].”
 
 Cada uma está ligada a um épico, servindo como base para decisões de projeto, testes e validações futuras.
+
+---
 
 ## Product Backlog
 

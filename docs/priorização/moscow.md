@@ -124,7 +124,7 @@ A técnica de priorização MoSCoW foi aplicada com sucesso para orientar a defi
 
 ---
 
-## Referência Bibliográfica
+## Referências Bibliográficas
 
 > Interaction Design Foundation - IxDF. (2015, November 18). Making Your UX Life Easier with the MoSCoW. Interaction Design Foundation - IxDF. Disponível em: <https://www.interaction-design.org/literature/article/making-your-ux-life-easier-with-the-moscow>. Acesso em: 04 maio 2025.
 

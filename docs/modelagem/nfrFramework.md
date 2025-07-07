@@ -49,27 +49,27 @@ A tabela 13 apresenta o cronograma da validação e as funções dos membros.
 		<tbody>
 					<tr>
 						<td><a  href="https://github.com/ArturDCR">Artur de Camargos</a></td>
-						<td>Adição do Cartão de Especificação 2 referente ao <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ44">RQ44</a></td>
+						<td>Adição do Cartão de Especificação 2 referente ao <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ44">RQ44.</a></td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
-						<td>Adição do Cartão de Especificação 1 referente ao <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ45">RQ45</a>e do SIG de Usabilidade, junto com a propagação de impactos dos requisitos de usabilidade</td>
+						<td>Adição do Cartão de Especificação 1 referente ao <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ45">RQ45</a> e do SIG de Usabilidade, junto com a propagação de impactos dos requisitos de usabilidade.</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
-						<td>Adição do Cartão de Especificação 3 referente ao <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ47">RQ47</a> e do SIG de desempenho</td>
+						<td>Adição do Cartão de Especificação 3 referente ao <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ47">RQ47</a>, do SIG de desempenho e corrigiu as rastreabilidades.</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
-						<td>Adição do Cartão de Especificação 4 referente ao <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ49">RQ49</a>, reorganização das seções do documento, atualização das descrições dos requisitos RQ45 e RQ49, e correção das dependências do cartão de especificação 6</td>
+						<td>Adição do Cartão de Especificação 4 referente ao <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ49">RQ49</a>, reorganização das seções do documento, atualização das descrições dos requisitos RQ45 e RQ49, e correção das dependências do cartão de especificação 6.</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
-						<td>Adição do Cartão de Especificação 6 referente ao <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ54">RQ54</a> e do SIG de segurança</td>
+						<td>Adição do Cartão de Especificação 6 referente ao <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ54">RQ54</a> e do SIG de segurança.</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
-						<td>Adicionou o Modelo de tabela de Cartão de Especificação e Adição do Cartão de Especificação 5 referente ao <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ50">RQ50</a></td>
+						<td>Adicionou o Modelo de tabela de Cartão de Especificação e Adição do Cartão de Especificação 5 referente ao <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ50">RQ50.</a></td>
 					</tr>
 			</tbody>
 		</table>
@@ -77,6 +77,8 @@ A tabela 13 apresenta o cronograma da validação e as funções dos membros.
 </div>
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
+
+---
 
 ## Softgoal Interdependency Graph - SIG
 
@@ -164,6 +166,8 @@ O processo de avaliação dos softgoals envolve determinar se eles foram atendid
 
 <p align="center"><em>Fonte: SILVA, 2019</em></p>
 
+---
+
 ## Metodologia
 
 A metodologia utilizada para a modelagem dos requisitos não funcionais foi baseada no NFR Framework, que é uma abordagem estruturada para identificar, categorizar e priorizar requisitos não funcionais. O processo envolveu as seguintes etapas:
@@ -230,6 +234,8 @@ A avaliação dos softgoals foi realizada com base nas contribuições recebidas
 * Conflitante (🗲): O softgoal recebeu contribuições contraditórias
 * Indeterminado (u): Não é possível determinar com clareza se o softgoal foi atendido ou não.
 
+---
+
 ## NFR 01 - Usabilidade
 
 Este softgoal representa a facilidade de uso e a experiência do usuário com o sistema. A seguir estão os requisitos não-funcionais de usabilidade modelados com o NFR Framework:
@@ -270,7 +276,7 @@ A seguir estão os cartões de especificação para os requisitos não-funcionai
 | **Classificação:**    | Acessibilidade / Usabilidade                                                                                                              |
 | **Descrição:**        | A interface deve ser compatível com leitores de tela (ex: NVDA, VoiceOver) e oferecer recursos adaptativos para usuários com baixa visão, como redimensionamento de texto e navegação por teclado.        |
 | **Justificativa:**    | Garantir autonomia e usabilidade para pessoas com deficiência visual, assegurando conformidade com a Lei Brasileira de Inclusão (LBI) e diretrizes internacionais de acessibilidade digital (WCAG 2.1).   |
-| **Origem do Requisito:** | [Introspecção](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS35)                                                                                         |
+| **Origem do Requisito:** | [Introspecção](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/)                                                                                         |
 | **Critério de Aceitação:** | <ul><li>Todos os elementos interativos devem ser identificáveis por leitores de tela, com rótulos descritivos e estados claros (ex: foco/seleção)</li><li>Funcionalidades críticas devem ser operáveis via teclado (tabulação, atalhos)</li><li>Texto deve ser redimensionável até 200% sem perda de funcionalidade</li><li>Validação realizada por ferramentas automatizadas (ex: Axe, Lighthouse) e testes manuais com usuários reais</li></ul> |
 | **Dependências:**     | Implementação de componentes semânticos (HTML5/ARIA), biblioteca de UI compatível com acessibilidade, Guia de estilo da interface.                                                                       |
 | **Prioridade:**       | Must                                                                                                                                      |
@@ -287,7 +293,7 @@ A seguir estão os cartões de especificação para os requisitos não-funcionai
 | **Classificação:**    | Usabilidade / Personalização                                                                                                            |
 | **Descrição:**        | O sistema deve permitir que usuários personalizem suas preferências para recebimento de notificações push, incluindo tipos de alertas e frequência. |
 | **Justificativa:**    | Garantir que os usuários recebam apenas notificações relevantes, melhorando a experiência e reduzindo perturbações, conforme boas práticas de UX e leis de proteção de dados (LGPD). |
-| **Origem do Requisito:** | [Introspecção](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS35)                                                                         |
+| **Origem do Requisito:** | [Introspecção](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/)                                                                         |
 | **Critério de Aceitação:** | <ul><li>Opções de personalização devem incluir: promoções, alertas de sessão, novidades de cinema e atualizações de conta</li><li>Configurações devem ser salvas automaticamente no perfil do usuário</li><li>Estado "silenciar notificações" deve ser respeitado pelo sistema</li><li>Teste A/B deve mostrar redução de 40% em desativamentos de notificações</li></ul> |
 | **Dependências:**     | Sistema de notificações push implementado, módulo de preferências do usuário.                                                            |
 | **Prioridade:**       | Could                                                                                                                                  |
@@ -373,7 +379,7 @@ A seguir estão os cartões de especificação para os requisitos não-funcionai
   </tr>
   <tr>
     <td><strong>Origem do Requisito:</strong></td>
-    <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS35" target="_blank">Introspecção</a></td>
+    <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/" target="_blank">Introspecção</a></td>
   </tr>
   <tr>
     <td><strong>Critério de Aceitação:</strong></td>
@@ -485,11 +491,13 @@ A tabela abaixo apresenta a avaliação da propagação dos impactos dos requisi
 
 ***
 
-## Referências
+## Referências Bibliográficas
 
 > SILVA, Reinaldo Antônio da. NFR4ES: um catálogo de requisitos não-funcionais para sistemas embarcados. 2019. 154 f. Dissertação (Mestrado em Ciência da Computação) – Universidade Federal de Pernambuco, Recife, 2019.
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 17. Gama: Universidade de Brasília. Material de aula.
+
+---
 
 ## Histórico de Versão
 

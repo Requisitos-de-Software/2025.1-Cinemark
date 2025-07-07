@@ -39,7 +39,7 @@ A tabela 1 apresenta o cronograma da elicitação e as funções dos membros res
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OHllSImnMqc?si=3Q9UxiKKIUTtkXL3&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Gravação presencial com Usuário
+## Gravação Presencial com Usuário
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ylChxKZ3SEc?si=Wr4KoWBjjNXxJOcY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -86,7 +86,7 @@ Por meio do storytelling, foram criadas narrativas que representavam situações
 
 ---
 
-## Bibliografia
+## Referências Bibliográficas
 
 > **CIANCARINI, Paolo; FARINA, Mirko; OKONICHA, Ozioma; SMIRNOVA, Marina; SUCCI, Giancarlo.** *Software as storytelling: a systematic literature review*. *Computer Science Review*, [S. l.], v. 47, 2023. Disponível em: https://www.sciencedirect.com/science/article/abs/pii/S157401372200051X. Acesso em: 1 maio 2025.
 

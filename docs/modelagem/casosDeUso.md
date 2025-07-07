@@ -4,6 +4,8 @@
 
   Cada caso de uso sintetiza uma sequência de ações que inicia com uma solicitação do ator e termina com uma resposta do sistema, entregando valor tangível ao usuário. Para cenários complexos, recomenda-se enriquecer a descrição com detalhes em linguagem natural, prática conhecida como escrita expandida de casos de uso.
 
+---
+
 ## Metodologia
 
   Para a construção do diagrama de casos de uso do sistema Cinemark, adotamos uma abordagem clássica em UML. Utilizamos o LucidChart para elaborar a representação gráfica, garantindo consistência nos símbolos e clareza na disposição dos elementos.
@@ -57,27 +59,27 @@ A seguir apresentamos os nomes de cada integrante do grupo que participou da té
 		<tbody>
 					<tr>
 						<td><a  href="https://github.com/ArturDCR">Artur de Camargos</a></td>
-						<td>Elaborou as tabelas de especificação de caso de uso 13 e 14</td>
+						<td>Elaborou as tabelas de especificação de caso de uso 13 e 14.</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
-						<td>Elaborou a introdução, metodologia os Componentes e Símbolos, Diagrama de Casos de Uso e criou as tabelas de especificação de caso de uso 3 e 4</td>
+						<td>Elaborou a introdução, metodologia os Componentes e Símbolos, Diagrama de Casos de Uso e criou as tabelas de especificação de caso de uso 3 e 4.</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
-						<td>Elaborou as tabelas de especificação de caso de uso 5 e 6</td>
+						<td>Elaborou as tabelas de especificação de caso de uso 5 e 6 e corrigiu as rastreabilidades.</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
-						<td>Elaborou as tabelas de especificação de caso de uso 7 e 8</td>
+						<td>Elaborou as tabelas de especificação de caso de uso 7 e 8.</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
-						<td>Elaborou as tabelas de especificação de caso de uso 11 12</td>
+						<td>Elaborou as tabelas de especificação de caso de uso 11 12.</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
-						<td>Elaborou as tabelas de especificação de caso de uso 9 e 10</td>
+						<td>Elaborou as tabelas de especificação de caso de uso 9 e 10.</td>
 					</tr>
 			</tbody>
 		</table>
@@ -85,6 +87,8 @@ A seguir apresentamos os nomes de cada integrante do grupo que participou da té
 </div>
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
+
+---
 
 ## Componentes e Símbolos
 
@@ -150,6 +154,8 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 <p align="center"><br>
 Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
+---
+
 ## Diagrama de Casos de Uso
 
 A Figura 1 demonstra o Diagrama de casos de uso, com ênfase nas funcionalidades não implementadas
@@ -164,13 +170,15 @@ Figura 1: Diagrama de casos de uso do aplicativo CInemark</p>
 <p align="center"><br>
 Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
+---
+
 ## Requisitos Utilizados
 
 ### **Tabela 1: Requisitos utilizados no Diagrama de Casos de Uso**
 
 | Id   | Descrição                                                   | Implementado |
 | ---- | ----------------------------------------------------------- | ------------ |
-| [RQ23A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ23) | Filtrar Filmes por Categoria e Exibir Avaliações de Público | Não          |
+| [RQ23A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ23A) | Filtrar Filmes por Categoria e Exibir Avaliações de Público | Não          |
 | [RQ24](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ24) | Exibir Trailers dentro do App                               | Não          |
 | [RQ32A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32A) | Exibir recomendações de filmes baseadas em histórico. | Não |
 | [RQ32B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32B) | Exibir recomendações de filmes baseadas em preferências. | Não |
@@ -184,6 +192,8 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 | [RQ30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ30) | Permitir que o usuário salve cinemas como favoritos para facilitar acessos futuros. | Não |
 | [RQ60](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ60) | Fornecer um Hub para crítica de filmes. | Não |
 | [RQ67](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ67) | Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial. | Não |
+
+---
 
 ## Especialização dos Casos de Uso
 
@@ -259,7 +269,7 @@ As tabelas a seguir apresentam as especializações detalhadas dos casos de uso.
 | **Fluxo de Exceção**  | Falha na análise de dados do usuário: o sistema notifica a falha e exibe sugestões genéricas.                                                                                                                                                 |
 | **Pós-condições**     | Recomendações são apresentadas e o usuário pode explorá-las ou salvar para assistir depois as que desejar.                                                                                                                                                   |
 | **Data de Criação**   | 17/05/2025                                                                                                                                                                                                                                    |
-| **Rastreabilidade**   | [RQ32A RQ32B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32)                                                                                                                                              |
+| **Rastreabilidade**   | [RQ32A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32A) e [RQ32B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32B)                                                                                                                                              |
 
 <font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 

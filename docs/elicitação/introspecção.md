@@ -71,7 +71,7 @@ Os requisitos elicitados a partir da introspecção foram divididos em duas cate
 
 ---
 
-## Legenda das tabelas 2 e 3
+### Legenda das tabelas 2 e 3
 
 - **RFx**: Requisito Funcional nº x  
 - **RNFx**: Requisito Não-Funcional nº x  
@@ -139,7 +139,7 @@ A introspecção permitiu que a equipe refletisse sobre suas próprias experiên
 
 ---
 
-## Bibliografia
+## Referências Bibliográficas
 
 > 1. SERRANO, Milene; SERRANO, Maurício. "Requisitos - Aula 07". *UnB Gama*. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf)
 

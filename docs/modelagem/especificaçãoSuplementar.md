@@ -1,10 +1,12 @@
 # Especificação Suplementar
 
-## 1. Introdução
+## Introdução
 
 Este artefato tem como objetivo complementar os modelos de [Casos de Uso](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/casosDeUso/) do sistema Cinemark ao reunir os requisitos não funcionais que influenciam diretamente na qualidade do produto final. Diferentemente dos requisitos funcionais, esses requisitos descrevem características como desempenho, confiabilidade, facilidade de uso, manutenção e suporte. São atributos essenciais para garantir que o sistema seja robusto, confiável, eficiente e agradável para o usuário.
 
-## 2. Metodologia
+---
+
+## Metodologia
 
 A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente utilizado na engenharia de software para organizar requisitos não funcionais. Este modelo sistematiza os requisitos de qualidade em cinco categorias principais: Funcionalidade, Usabilidade, Confiabilidade, Desempenho e Suportabilidade, além de uma categoria complementar indicada pelo símbolo "+". Cada uma dessas categorias contempla aspectos específicos do sistema, proporcionando uma visão ampla e estruturada das qualidades esperadas do software.
 
@@ -46,7 +48,7 @@ A tabela 20 apresenta o cronograma da validação e as funções dos membros.
 
 ---
 
-## 3. Integrantes do grupo envolvidos
+## Integrantes do grupo envolvidos
 
 **Tabela 19**
 
@@ -62,27 +64,27 @@ A tabela 20 apresenta o cronograma da validação e as funções dos membros.
 		<tbody>
 					<tr>
 						<td><a  href="https://github.com/ArturDCR">Artur de Camargos</a></td>
-						<td>Criou as tabelas de Especificação Suplementar dos requisitos RQ44, RQ53 e RQ63 com suas respectivas tabelas (14, 15 e 16)</td>	
+						<td>Criou as tabelas de Especificação Suplementar dos requisitos RQ44, RQ53 e RQ63 com suas respectivas tabelas (14, 15 e 16).</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
-						<td>Adicionou a Introdução, Metodologia e criou as tabelas de Especificação Suplementar dos requisitos RQ40, RQ41 e RQ42 com sua respectivas tabelas (2, 3 e 4)</td>	
+						<td>Adicionou a Introdução, Metodologia e criou as tabelas de Especificação Suplementar dos requisitos RQ40, RQ41 e RQ42 com sua respectivas tabelas (2, 3 e 4).</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
-						<td>Criou as tabelas de Especificação Suplementar dos requisitos RQ46, RQ47 e RQ48 com suas respectivas tabelas (5, 6 e 7)</td>	
+						<td>Criou as tabelas de Especificação Suplementar dos requisitos RQ46, RQ47 e RQ48 com suas respectivas tabelas (5, 6 e 7) e corrigiu as rastreabilidades.</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
-						<td>Criou as tabelas de Especificação Suplementar dos requisitos RQ45, RQ49 e RQ66 com suas respectivas tabelas (8, 9 e 10)</td>	
+						<td>Criou as tabelas de Especificação Suplementar dos requisitos RQ45, RQ49 e RQ66 com suas respectivas tabelas (8, 9 e 10).</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
-						<td>Criou as tabelas de Especificação Suplementar dos requisitos RQ43 e RQ54 com suas respectivas tabelas (17 e 18)</td>	
+						<td>Criou as tabelas de Especificação Suplementar dos requisitos RQ43 e RQ54 com suas respectivas tabelas (17 e 18).</td>	
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
-						<td>Criou as tabelas de Especificação Suplementar dos requisitos RQ50, RQ51 e RQ52 com suas respectivas tabelas (11, 12 e 13)</td>	
+						<td>Criou as tabelas de Especificação Suplementar dos requisitos RQ50, RQ51 e RQ52 com suas respectivas tabelas (11, 12 e 13).</td>	
 					</tr>
 			</tbody>
 		</table>
@@ -91,32 +93,31 @@ A tabela 20 apresenta o cronograma da validação e as funções dos membros.
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
 
-## 4. Requisitos Não Funcionais
+---
+
+## Requisitos Não Funcionais
 
 ### Tabela 2: Visão Geral dos RNFs
 
 | ID                                                                                                          | Descrição Resumida                                                                                                                                   | Categoria      |
 | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| [RQ40](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Tempo de resposta ≤ 3 s em telas críticas (seleção de assentos, pagamento).                            | Desempenho     |
-| [RQ41](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Disponibilidade ≥ 99,5 % para funções críticas.                                       | Confiabilidade |
-| [RQ42](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Sistema responsivo e adaptável a diferentes tamanhos de tela (smartphone e tablet).                    | Usabilidade    |
-| [RQ43](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Interface intuitiva, com navegação fácil e boa usabilidade.                                             | Usabilidade    |
-| [RQ44](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Interface acessível para pessoas com deficiência visual (leitores de tela) e baixa visão.              | Usabilidade    |
-| [RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Contraste de interface conforme WCAG A/AA.                                              | Usabilidade    |
-| [RQ46](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Garantir legenda clara para cores e ícones no mapa de assentos.                                         | Usabilidade    |
-| [RQ47](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Atualizar automaticamente o valor total conforme seleção de ingressos e produtos.                | Desempenho     |
-| [RQ48](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Proteger dados de pagamento e histórico do usuário com criptografia.                                   | Segurança      |
-| [RQ49](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Autenticação por biometria ou PIN para operações sensíveis.                                             | Segurança      |
-| [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Notificações push customizáveis pelo usuário.                                                       | Funcionalidade |
-| [RQ51](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Exibir mapa de assentos com indicação gráfica clara de ocupação e disponibilidade.                     | Usabilidade    |
-| [RQ52](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Limitar quantidade máxima de 20 unidades por item no Snack Bar.                                        | Funcionalidade |
-| [RQ53](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Manter informações da sessão (filme, data, hora e sala) visíveis em todas as etapas do fluxo de compra.| Usabilidade    |
-| [RQ54](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Ocultar parcialmente o e‑mail recuperado para segurança (exibir com asteriscos).                      | Segurança      |
-| [RQ55](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Validar e‑mail e senha antes de criação ou redefinição de conta.                                       | Confiabilidade |
-| [RQ56](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Remover automaticamente promoções expiradas da interface.                                              | Confiabilidade |
-| [RQ57](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Validar dados pessoais no perfil antes de salvar.                                                      | Confiabilidade |
-| [RQ63](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | O aplicativo deve ser leve e usar pouca memória do dispositivo.                                          | Desempenho     |
-| [RQ66](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Permitir acesso ao ingresso offline, sem depender de conexão à internet na hora da sessão.             | Confiabilidade |
+| [RQ40](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ40) | Tempo de resposta ≤ 3 s em telas críticas (seleção de assentos, pagamento).                            | Desempenho     |
+| [RQ41](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ41) | Disponibilidade ≥ 99,5 % para funções críticas.                                       | Confiabilidade |
+| [RQ42](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ42) | Sistema responsivo e adaptável a diferentes tamanhos de tela (smartphone e tablet).                    | Usabilidade    |
+| [RQ43](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ43) | Interface intuitiva, com navegação fácil e boa usabilidade.                                             | Usabilidade    |
+| [RQ44](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ44) | Interface acessível para pessoas com deficiência visual (leitores de tela) e baixa visão.              | Usabilidade    |
+| [RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ45) | Contraste de interface conforme WCAG A/AA.                                              | Usabilidade    |
+| [RQ46](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ46) | Garantir legenda clara para cores e ícones no mapa de assentos.                                         | Usabilidade    |
+| [RQ47](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ47) | Atualizar automaticamente o valor total conforme seleção de ingressos e produtos.                | Desempenho     |
+| [RQ48A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ48A) e [RQ48B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ48B) | Proteger dados de pagamento e histórico do usuário com criptografia.                                   | Segurança      |
+| [RQ49](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ49) | Autenticação por biometria ou PIN para operações sensíveis.                                             | Segurança      |
+| [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ50) | Notificações push customizáveis pelo usuário.                                                       | Funcionalidade |
+| [RQ51](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ51) | Exibir mapa de assentos com indicação gráfica clara de ocupação e disponibilidade.                     | Usabilidade    |
+| [RQ52](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ52) | Limitar quantidade máxima de 20 unidades por item no Snack Bar.                                        | Funcionalidade |
+| [RQ53](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ53) | Manter informações da sessão (filme, data, hora e sala) visíveis em todas as etapas do fluxo de compra.| Usabilidade    |
+| [RQ54](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ54) | Ocultar parcialmente o e‑mail recuperado para segurança (exibir com asteriscos).                      | Segurança      |
+| [RQ63](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ63) | O aplicativo deve ser leve e usar pouca memória do dispositivo.                                          | Desempenho     |
+| [RQ66](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ66) | Permitir acesso ao ingresso offline, sem depender de conexão à internet na hora da sessão.             | Confiabilidade |
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg), 2025.</p></font>
 
@@ -128,7 +129,7 @@ A tabela 20 apresenta o cronograma da validação e as funções dos membros.
 
 | ID                                                                                                | Descrição                                                                                    | Categoria Detalhada           | Métrica                                                                                              |
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O sistema deve permitir que o usuário personalize as notificações push, incluindo o tipo de evento, o horário de envio e o conteúdo da notificação. | Funcionalidade – Notificações | Percentual de usuários que personalizam suas notificações e tempo de resposta para aplicar as mudanças. |
+| [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ50) | O sistema deve permitir que o usuário personalize as notificações push, incluindo o tipo de evento, o horário de envio e o conteúdo da notificação. | Funcionalidade – Notificações | Percentual de usuários que personalizam suas notificações e tempo de resposta para aplicar as mudanças. |
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
@@ -137,7 +138,7 @@ A tabela 20 apresenta o cronograma da validação e as funções dos membros.
 
 | ID                                                                                                | Descrição                                                                                    | Categoria Detalhada           | Métrica                                                                                              |
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [RQ52](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O sistema deve limitar a quantidade máxima de 20 unidades por item no Snack Bar, garantindo que o usuário não possa adicionar mais unidades de um item ao carrinho do que o permitido. | Funcionalidade – Limitação de Quantidade | Percentual de tentativas de adicionar mais de 20 unidades que foram bloqueadas corretamente pelo sistema. |
+| [RQ52](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ52) | O sistema deve limitar a quantidade máxima de 20 unidades por item no Snack Bar, garantindo que o usuário não possa adicionar mais unidades de um item ao carrinho do que o permitido. | Funcionalidade – Limitação de Quantidade | Percentual de tentativas de adicionar mais de 20 unidades que foram bloqueadas corretamente pelo sistema. |
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
@@ -147,7 +148,7 @@ A tabela 20 apresenta o cronograma da validação e as funções dos membros.
 
 | ID   | Descrição                                                                                                               | Categoria Detalhada          | Métrica                                           |
 | ---- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------- |
-| [RQ42](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | A interface do aplicativo deve se adaptar a diferentes tamanhos de tela (smartphones e tablets), mantendo legibilidade. | Usabilidade – Adaptabilidade | Testes de compatibilidade em diversas resoluções. |
+| [RQ42](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ42) | A interface do aplicativo deve se adaptar a diferentes tamanhos de tela (smartphones e tablets), mantendo legibilidade. | Usabilidade – Adaptabilidade | Testes de compatibilidade em diversas resoluções. |
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg), 2025.</p></font>
 
@@ -155,7 +156,7 @@ A tabela 20 apresenta o cronograma da validação e as funções dos membros.
 
 | ID                                                                                                | Descrição                                                                                                          | Categoria Detalhada                    | Métrica                                                                                  |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------- | ---------------------------------------------------------------------------------------- |
-| [RQ43](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | A interface do sistema deve ser intuitiva, com navegação fácil e boa usabilidade para todos os perfis de usuário.  | Usabilidade – Facilidade de Navegação  | Número médio de cliques para realizar tarefas principais (esperado: ≤ 3 cliques).        |
+| [RQ43](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ43) | A interface do sistema deve ser intuitiva, com navegação fácil e boa usabilidade para todos os perfis de usuário.  | Usabilidade – Facilidade de Navegação  | Número médio de cliques para realizar tarefas principais (esperado: ≤ 3 cliques).        |
 
 <p align="center"><br>Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
 
@@ -163,7 +164,7 @@ A tabela 20 apresenta o cronograma da validação e as funções dos membros.
 
 | ID                                                                                                | Descrição                                                                                    | Categoria Detalhada           | Métrica                                                                                              |
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [RQ44](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | Interface acessível para pessoas com deficiência visual (leitores de tela) e baixa visão. | Usabilidade (Acessibilidade) | Conformidade com WCAG 2.1 (nível AA). Testes com leitores de tela (TalkBack e VoiceOver) alcançam 95% de funcionalidade acessível. |
+| [RQ44](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ44) | Interface acessível para pessoas com deficiência visual (leitores de tela) e baixa visão. | Usabilidade (Acessibilidade) | Conformidade com WCAG 2.1 (nível AA). Testes com leitores de tela (TalkBack e VoiceOver) alcançam 95% de funcionalidade acessível. |
 
 <font size="3"><p style="text-align: center">Autor: [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
 
@@ -171,7 +172,7 @@ A tabela 20 apresenta o cronograma da validação e as funções dos membros.
 
 | ID                                                                                                | Descrição                                                                                   | Categoria Detalhada                 | Métrica                                                                         |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------- |
-| [RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | A interface deve apresentar contraste visual de acordo com os critérios da norma WCAG A/AA. | Usabilidade – Acessibilidade Visual | Verificação de contraste mínimo de 4.5:1 para textos normais, segundo WCAG 2.1. |
+| [RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ45) | A interface deve apresentar contraste visual de acordo com os critérios da norma WCAG A/AA. | Usabilidade – Acessibilidade Visual | Verificação de contraste mínimo de 4.5:1 para textos normais, segundo WCAG 2.1. |
 
 <font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
@@ -179,7 +180,7 @@ A tabela 20 apresenta o cronograma da validação e as funções dos membros.
 
 | ID                                                                                                          | Descrição                                                                                   | Categoria Detalhada                          | Métrica                                                                                               |
 | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| [RQ46](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | O sistema deve garantir legenda clara e visível para as cores e ícones no mapa de assentos. | Usabilidade – Intuitividade e Clareza Visual | Percentual de usuários que entendem corretamente a legenda (esperado ≥ 90% em testes de usabilidade). |
+| [RQ46](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ46) | O sistema deve garantir legenda clara e visível para as cores e ícones no mapa de assentos. | Usabilidade – Intuitividade e Clareza Visual | Percentual de usuários que entendem corretamente a legenda (esperado ≥ 90% em testes de usabilidade). |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
@@ -187,7 +188,7 @@ A tabela 20 apresenta o cronograma da validação e as funções dos membros.
 
 | ID                                                                                                | Descrição                                                                                    | Categoria Detalhada           | Métrica                                                                                              |
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [RQ51](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O sistema deve exibir um mapa gráfico de assentos, indicando claramente os assentos disponíveis e ocupados, com a possibilidade de filtrar por tipo de assento (normal, VIP, etc.). | Usabilidade – Interface Gráfica | Percentual de usuários que conseguem identificar os assentos disponíveis com sucesso em até 3 segundos. |
+| [RQ51](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ51) | O sistema deve exibir um mapa gráfico de assentos, indicando claramente os assentos disponíveis e ocupados, com a possibilidade de filtrar por tipo de assento (normal, VIP, etc.). | Usabilidade – Interface Gráfica | Percentual de usuários que conseguem identificar os assentos disponíveis com sucesso em até 3 segundos. |
 
 <font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
@@ -195,7 +196,7 @@ A tabela 20 apresenta o cronograma da validação e as funções dos membros.
 
 | ID                                                                                                | Descrição                                                                                    | Categoria Detalhada           | Métrica                                                                                              |
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [RQ53](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | Manter informações da sessão (filme, data, hora e sala) visíveis em todas as etapas do fluxo de compra. | Usabilidade (Consistência de Interface) | 100% dos usuários identificam as informações da sessão sem recarregar a tela. Layout persiste em cabeçalho fixo ou barra lateral durante o fluxo. |
+| [RQ53](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ53) | Manter informações da sessão (filme, data, hora e sala) visíveis em todas as etapas do fluxo de compra. | Usabilidade (Consistência de Interface) | 100% dos usuários identificam as informações da sessão sem recarregar a tela. Layout persiste em cabeçalho fixo ou barra lateral durante o fluxo. |
 
 <font size="3"><p style="text-align: center">Autor: [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
 
@@ -207,7 +208,7 @@ A tabela 20 apresenta o cronograma da validação e as funções dos membros.
 
 | ID   | Descrição                                                                                       | Categoria Detalhada              | Métrica                                                      |
 | ---- | ----------------------------------------------------------------------------------------------- | -------------------------------- | ------------------------------------------------------------ |
-| [RQ41](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | As funcionalidades críticas devem permanecer disponíveis pelo menos 99,5% do tempo em cada mês. | Confiabilidade – Disponibilidade | Percentual de tempo de atividade monitorado automaticamente. |
+| [RQ41](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ41) | As funcionalidades críticas devem permanecer disponíveis pelo menos 99,5% do tempo em cada mês. | Confiabilidade – Disponibilidade | Percentual de tempo de atividade monitorado automaticamente. |
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg), 2025.</p></font>
 
@@ -218,7 +219,7 @@ A tabela 20 apresenta o cronograma da validação e as funções dos membros.
 
 | ID                                                                                                | Descrição                                                                                    | Categoria Detalhada           | Métrica                                                                                              |
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [RQ66](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O sistema deve permitir o acesso ao ingresso mesmo sem conexão à internet, durante a sessão. | Confiabilidade – Suporte Offline | Acesso local ao ingresso digital armazenado em cache ou memória do app (sem necessidade de conexão). |
+| [RQ66](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ66) | O sistema deve permitir o acesso ao ingresso mesmo sem conexão à internet, durante a sessão. | Confiabilidade – Suporte Offline | Acesso local ao ingresso digital armazenado em cache ou memória do app (sem necessidade de conexão). |
 
 <font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
@@ -228,7 +229,7 @@ A tabela 20 apresenta o cronograma da validação e as funções dos membros.
 
 | ID   | Descrição                                                                                               | Categoria Detalhada            | Métrica                                                        |
 | ---- | ------------------------------------------------------------------------------------------------------- | ------------------------------ | -------------------------------------------------------------- |
-| [RQ40](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | O sistema deve responder às interações nas telas críticas (seleção de assentos e pagamento) em até 3 s. | Desempenho – Tempo de Resposta | Tempo médio de resposta medido em ambiente de testes de carga. |
+| [RQ40](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ40) | O sistema deve responder às interações nas telas críticas (seleção de assentos e pagamento) em até 3 s. | Desempenho – Tempo de Resposta | Tempo médio de resposta medido em ambiente de testes de carga. |
 
 <font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg), 2025.</p></font>
 
@@ -236,7 +237,7 @@ A tabela 20 apresenta o cronograma da validação e as funções dos membros.
 
 | ID                                                                                                | Descrição                                                                                    | Categoria Detalhada           | Métrica                                                                                              |
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [RQ63](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O aplicativo deve ser leve e usar pouca memória do dispositivo. | Desempenho (Eficiência de Recursos) | Consumo de memória não excede 150 MB em uso contínuo. Compatibilidade com dispositivos Android (versão 7.0+) e iOS (versão 12+). |
+| [RQ63](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ63) | O aplicativo deve ser leve e usar pouca memória do dispositivo. | Desempenho (Eficiência de Recursos) | Consumo de memória não excede 150 MB em uso contínuo. Compatibilidade com dispositivos Android (versão 7.0+) e iOS (versão 12+). |
 
 <font size="3"><p style="text-align: center">Autor: [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
 
@@ -244,7 +245,7 @@ A tabela 20 apresenta o cronograma da validação e as funções dos membros.
 
 | ID                                                                                                | Descrição                                                                                                       | Categoria Detalhada                  | Métrica                                                                         |
 | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------- |
-| [RQ47](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | O sistema deve atualizar dinamicamente o valor total conforme a seleção de ingressos e produtos, em tempo real. | Desempenho – Feedback em Tempo Real | Tempo entre a seleção e a atualização do valor exibido (esperado: < 1 segundo). |
+| [RQ47](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ47) | O sistema deve atualizar dinamicamente o valor total conforme a seleção de ingressos e produtos, em tempo real. | Desempenho – Feedback em Tempo Real | Tempo entre a seleção e a atualização do valor exibido (esperado: < 1 segundo). |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
@@ -254,15 +255,15 @@ A tabela 20 apresenta o cronograma da validação e as funções dos membros.
 
 | ID                                                                                                | Descrição                                                                                                                  | Categoria Detalhada                | Métrica                                                                   |
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------- |
-| [RQ49](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O sistema deve permitir autenticação por biometria (impressão digital ou reconhecimento facial) ou PIN em ações sensíveis. | Segurança – Autenticação de Acesso | Percentual de funcionalidades críticas que exigem autenticação adicional. |
+| [RQ49](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ49) | O sistema deve permitir autenticação por biometria (impressão digital ou reconhecimento facial) ou PIN em ações sensíveis. | Segurança – Autenticação de Acesso | Percentual de funcionalidades críticas que exigem autenticação adicional. |
 
 <font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
-### Tabela 7: Detalhamento do RQ48
+### Tabela 7: Detalhamento do RQ48A e RQ48B
 
 | ID                                                                                                | Descrição                                                                                                | Categoria Detalhada      | Métrica                                                                     |
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------ | --------------------------------------------------------------------------- |
-| [RQ48](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) | Os dados sensíveis (pagamento e histórico do usuário) devem ser criptografados em trânsito e em repouso. | Segurança – Criptografia | Verificação de uso de protocolos HTTPS e criptografia AES nos dados salvos. |
+| [RQ48A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ48A) e [RQ48B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ48B) | Os dados sensíveis (pagamento e histórico do usuário) devem ser criptografados em trânsito e em repouso. | Segurança – Criptografia | Verificação de uso de protocolos HTTPS e criptografia AES nos dados salvos. |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
@@ -272,7 +273,7 @@ A tabela 20 apresenta o cronograma da validação e as funções dos membros.
 
 | ID                                                                                                | Descrição                                                                                                          | Categoria Detalhada                    | Métrica                                                                                  |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------- | ---------------------------------------------------------------------------------------- |
-| [RQ54](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | O sistema deve ocultar parcialmente o e-mail recuperado, exibindo parte do endereço com asteriscos para segurança. | Segurança – Proteção de Dados Pessoais | Padrão de mascaramento aplicado corretamente (ex.: j\*\*\*@g\*\*\*.com); 100% dos casos. |
+| [RQ54](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ54) | O sistema deve ocultar parcialmente o e-mail recuperado, exibindo parte do endereço com asteriscos para segurança. | Segurança – Proteção de Dados Pessoais | Padrão de mascaramento aplicado corretamente (ex.: j\*\*\*@g\*\*\*.com); 100% dos casos. |
 
 <p align="center"><br>
 Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.</p>
@@ -281,9 +282,11 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 
 ## 9. Suportabilidade
 
+Nenhum requisito se encaixou nessa classificação.
+
 ---
 
-## 4. Referências Bibliográficas
+## Referências Bibliográficas
 
 > **IEEE.** *IEEE Recommended Practice for Software Requirements Specifications – IEEE* Std 830-1998. Disponível em: [https://professor.pucgoias.edu.br/sitedocente/admin/arquivosUpload/17785/material/IEEE830.pdf](https://professor.pucgoias.edu.br/sitedocente/admin/arquivosUpload/17785/material/IEEE830.pdf). Acesso em: 17 de maio 2025.
 

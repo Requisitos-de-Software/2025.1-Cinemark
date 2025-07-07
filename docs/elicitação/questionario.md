@@ -227,7 +227,7 @@ A aplicação de questionários aos usuários do aplicativo Cinemark possibilito
 
 ---
 
-## Bibliografia
+## Referências Bibliográficas
 
 > VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. [S. l.]: Brasport, 2016.
 

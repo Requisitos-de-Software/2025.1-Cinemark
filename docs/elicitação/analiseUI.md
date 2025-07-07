@@ -74,7 +74,7 @@ Os requisitos elicitados a partir da análise de interfaces de usuário foram or
 
 ---
 
-## Legenda das Tabelas 3 e 4
+### Legenda das Tabelas 3 e 4
 
 - *RF*: Requisito Funcional  
 - *RNF*: Requisito Não Funcional  
@@ -138,7 +138,7 @@ A análise da interface do próprio aplicativo Cinemark forneceu informações v
 
 ---
 
-## Bibliografia
+## Referências Bibliográficas
 
 > 1. Cinemark Brasil. Disponível em: <https://www.cinemark.com.br>. Acesso em: 3 maio 2025.
 > 2. WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013.
