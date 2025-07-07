@@ -1,7 +1,7 @@
 # Planejamento dos Recursos e das Entregas
 
 ## Introdução
-Este documento detalha o planejamento e a execução das entregas do projeto, apresentando os cronogramas planejados e executados para cada fase. O objetivo é fornecer uma visão clara do andamento das atividades, dos responsáveis e dos prazos, permitindo um acompanhamento eficaz do progresso.
+Este documento tem como objetivo apresentar o planejamento e a execução do cronograma final da disciplina. Ele detalha as entregas do projeto, separando as atividades realizadas por etapa e exibindo uma visualização clara do que foi feito por cada integrante em cada entrega, além dos prazos de realização. Isso permite um acompanhamento eficaz do progresso e uma visão completa do andamento das atividades e dos responsáveis.
 
 ## Metodologia
 A metodologia adotada para o planejamento e execução deste projeto baseia-se em princípios de gestão de projetos ágeis, com ciclos de entrega bem definidos e revisões contínuas. Cada entrega é dividida em atividades específicas, com responsáveis e prazos claros, visando a transparência e a colaboração entre os membros da equipe.
