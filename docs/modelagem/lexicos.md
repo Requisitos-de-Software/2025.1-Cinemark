@@ -175,24 +175,22 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
 ### L07. **Exibir Recomendações de Filmes**
 
-* **Tipo**: Verbo
-* **Sinônimos**: Sugerir filmes, Recomendação personalizada, Indicar títulos
-* **Noção**: Ação em que o sistema apresenta sugestões de filmes ao [usuário](../modelagem/lexicos.md#l23-usuario) com base em seu histórico de visualização, avaliações e preferências cadastradas no aplicativo.
-* **Impacto**: Melhora a personalização da experiência do [usuário](../modelagem/lexicos.md#l23-usuario), aumentando o engajamento e a probabilidade de escolha de um filme por parte do [usuário](../modelagem/lexicos.md#l23-usuario). Exige análise de dados comportamentais e preferência do [usuário](../modelagem/lexicos.md#l23-usuario) para entregar recomendações relevantes.
-* **Conexões**: [L08 - Recomendações de Filmes](../modelagem/lexicos.md#l08-recomendacoes-de-filmes), [L23 - Usuário](../modelagem/lexicos.md#l23-usuario)
-* **Rastreabilidade**: [RQ32A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Exibir recomendações de filmes baseadas em histórico e [RQ32B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Exibir recomendações de filmes baseadas em preferências.
+- **Tipo**: Verbo
+- **Sinônimos**: Sugerir filmes, Recomendação personalizada, Indicar títulos
+- **Noção**: Ação em que o sistema apresenta sugestões de filmes ao usuário com base em seu histórico de visualização, avaliações e preferências cadastradas no aplicativo.
+- **Impacto**: Melhora a personalização da experiência do usuário, aumentando o engajamento e a probabilidade de escolha de um filme por parte do usuário. Exige análise de dados comportamentais e preferência do usuário para entregar recomendações relevantes.
+- **Rastreabilidade**: [RQ32A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Exibir recomendações de filmes baseadas em histórico e [RQ32B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Exibir recomendações de filmes baseadas em preferências.
 
 <p align="center"><br>
 Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 
 ### L08. **Recomendações de Filmes**
 
-* **Tipo**: Objeto
-* **Sinônimos**: Sugestões, Indicações, Lista personalizada
-* **Noção**: Conjunto de filmes apresentados ao [usuário](../modelagem/lexicos.md#l23-usuario) com base em dados como seu histórico, preferências e comportamento de uso.
-* **Impacto**: Influencia diretamente a decisão do [usuário](../modelagem/lexicos.md#l23-usuario), aumentando as chances do mesmo assistir a um filme recomendado. Deve ser exibido em local de fácil acesso, com informações claras e atrativas.
-* **Conexões**: [L07 - Exibir Recomendações de Filmes](../modelagem/lexicos.md#l07-exibir-recomendacoes-de-filmes), [L23 - Usuário](../modelagem/lexicos.md#l23-usuario)
-* **Rastreabilidade**: [RQ32A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Exibir recomendações de filmes baseadas em histórico e [RQ32B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Exibir recomendações de filmes baseadas em preferências.
+- **Tipo**: Objeto
+- **Sinônimos**: Sugestões, Indicações, Lista personalizada
+- **Noção**: Conjunto de filmes apresentados ao usuário com base em dados como seu histórico, preferências e comportamento de uso.
+- **Impacto**: Influencia diretamente a decisão do usuário, aumentando as chances do mesmo assistir a um filme recomendado. Deve ser exibido em local de fácil acesso, com informações claras e atrativas.
+- **Rastreabilidade**: [RQ32A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Exibir recomendações de filmes baseadas em histórico e [RQ32B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) – Exibir recomendações de filmes baseadas em preferências.
 
 <p align="center"><br>
 Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
@@ -209,6 +207,7 @@ Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 <p align="center"><br>
 Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 
+### L10. **Tabela Comparativa de Preços**
 ### L10. **Tabela Comparativa de Preços**
 
 * **Tipo**: Objeto
@@ -370,8 +369,7 @@ Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 20
 * **Tipo**: Sujeito
 * **Sinônimos**: Pessoa usuária, cliente, utilizador
 * **Noção**: Indivíduo que acessa e interage com o sistema para utilizar suas funcionalidades, como realizar login, efetuar reservas, consultar sessões ou alterar configurações.
-* **Impacto**: O [usuário](../modelagem/lexicos.md#l23-usuario) é o principal ator do sistema. Suas interações disparam fluxos de uso essenciais, como autenticação e execução de funcionalidades críticas. A experiência do [usuário](../modelagem/lexicos.md#l23-usuario) deve ser priorizada no design e implementação das interfaces.
-* **Conexões**: [L01 - Reservar Sala](../modelagem/lexicos.md#l01-reservar-sala),[L02 - Preferência de Idioma](../modelagem/lexicos.md#l02-preferencia-de-idioma), [L03 - Filtrar Filmes](../modelagem/lexicos.md#l03-filtrar-filmes), [L04 - Avaliação de Filmes](../modelagem/lexicos.md#l04-avaliacoes-de-filmes), [L05 - Assistir Trailer](../modelagem/lexicos.md#l05-assistir-trailer), [L07 - Exibir Recomendações de Filmes](../modelagem/lexicos.md#l07-exibir-recomendacoes-de-filmes), [L08 - Recomendações de Filmes](../modelagem/lexicos.md#l08-recomendacoes-de-filmes), [L09 - Comparar Preços de Ingressos](../modelagem/lexicos.md#l09-comparar-precos-de-ingressos), [L10 - Tabela Comparativa de Preços](../modelagem/lexicos.md#l10-tabela-comparativa-de-precos), [L11 - Hub para crítica de filmes](../modelagem/lexicos.md#l11-hub-para-critica-de-filmes), [L12 - Fornecer um Hub para crítica de filmes](../modelagem/lexicos.md#l12-fornecer-um-hub-para-critica-de-filmes), [L13 - Botão dedicado, no menu inicial, para acesso aos ingressos](../modelagem/lexicos.md#l13-botao-dedicado-no-menu-inicial-para-acesso-aos-ingressos), [L15 - Histórico de visitas](../modelagem/lexicos.md#l15-historico-de-visitas), [L16 - Localização atual](../modelagem/lexicos.md#l16-localizacao-atual), [L17 - Salvar como favorito](../modelagem/lexicos.md#l17-salvar-como-favorito), [L18 - Favorito](../modelagem/lexicos.md#l18-favorito), [L19 - Lista de favoritos](../modelagem/lexicos.md#l19-lista-de-favoritos), [L20 - Sugerir cinemas](../modelagem/lexicos.md#l20-sugerir-cinemas), [L21 - Salvar ingresso na carteira digital](../modelagem/lexicos.md#l21-salvar-ingresso-na-carteira-digital), [L22 - Avaliar filme](../modelagem/lexicos.md#l22-avaliar-filme)
+* **Impacto**: O usuário é o principal ator do sistema. Suas interações disparam fluxos de uso essenciais, como autenticação e execução de funcionalidades críticas. A experiência do usuário deve ser priorizada no design e implementação das interfaces.
 * **Rastreabilidade**: O termo está presente nos seguintes requisitos: [RQ04](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ12](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ28](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ37](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ38](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ48](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ62](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ64](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) e [RQ65](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1)
 
 <p align="center"><br>
