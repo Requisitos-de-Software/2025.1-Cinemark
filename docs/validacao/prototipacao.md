@@ -49,6 +49,24 @@ O vídeo abaixo contém a validação dos protótipos 7 e 8. A validação foi r
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e82bmqT2tBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Validação dos Protótipos 11 e 12 - Artur de camargos Rodrigues
+
+<p align="center">Tabela 3: Participantes da gravação da validação dos protótipos 11 e 12</p>
+
+|Participante|Função|
+|---|---|
+|[Artur de Camargos Rodrigues](https://github.com/ArturDCR)|Entrevistador|
+|Alyssa Werneck|Usuário entrevistado|
+
+**Protótipos validados:**
+
+- Protótipo 11: [RQ60](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) - Fornecer um Hub para crítica de filmes.
+- Protótipo 12: [RQ67](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) - Reservar sala para eventos privadosTornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.
+
+O vídeo abaixo contém a validação dos protótipos 11 e 12. A validação foi realizada de forma presencial.
+
+<iframe width="560" height="315" src="https://youtu.be/NJnp1_i5y3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Validação dos Protótipos 1 e 2 - Arthur Evangelista
 
 <p align="center">Tabela 3: Participantes da gravação da validação dos protótipos 7 e 8</p>
