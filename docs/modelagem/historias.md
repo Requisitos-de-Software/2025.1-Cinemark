@@ -1,6 +1,8 @@
 ## Introdução
 
-As Histórias de Usuário são uma técnica da Engenharia de Requisitos utilizada para descrever, de forma simples e objetiva, as necessidades dos usuários em relação a um sistema. Elas permitem que as equipes compreendam claramente os objetivos do usuário e suas expectativas. Essa abordagem facilita a comunicação entre as partes envolvidas e serve como base para a criação de critérios de aceitação, essenciais no desenvolvimento ágil. Além disso, elas servem como base para a criação de critérios de aceitação, que ajudam na validação da entrega das funcionalidades.
+A História de Usuário é uma técnica da Engenharia de Requisitos utilizada para descrever, de forma simples e objetiva, as necessidades dos usuários em relação a um sistema. Ela permite que as equipes compreendam claramente os objetivos do usuário e suas expectativas. Essa abordagem facilita a comunicação entre as partes envolvidas e serve como base para a criação de critérios de aceitação, essenciais no desenvolvimento ágil, além de ajudar na validação da entrega das funcionalidades.
+
+---
 
 ## Integrantes do grupo envolvidos
 
@@ -18,42 +20,44 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 		<tbody>
 					<tr>
 						<td><a  href="https://github.com/ArturDCR">Artur de Camargos</a></td>
-						<td>Elaborou as Histórias de Usuário US31, US32, US33, US34, US35 e US36 (tabelas 33 a 38)</td>
+						<td>Elaborou as Histórias de Usuário <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us31-hub-de-criticas-de-filmes" target="_blank">US31</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us32-acesso-rapido-aos-ingressos" target="_blank">US32</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us33-logout-da-conta" target="_blank">US33</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us34-deteccao-de-localizacao" target="_blank">US34</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us35-autenticacao-por-e-mail-e-senha" target="_blank">US35</a> e <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us36-mensagens-de-erro-e-confirmacao" target="_blank">US36</a> (tabelas 33 a 38).</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
-						<td>Elaborou a metodologia, as Histórias de usuário US07, US08, US09, US10, US11 e US12(tabelas 9 a 14) e participou como entrevistador na piorização das histórias de usuário.</td>
+						<td>Elaborou a metodologia, as Histórias de Usuário <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us07-login-com-redes-sociais" target="_blank">US07</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us08-recuperacao-de-conta-via-e-mail" target="_blank">US08</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us09-exibir-historico-de-filmes-e-compras" target="_blank">US09</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us10-filtrar-filmes-por-categoria" target="_blank">US10</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us11-exibir-trailers-dentro-do-app" target="_blank">US11</a> e <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us12-fluxo-de-compra-em-5-etapas" target="_blank">US12</a> (tabelas 9 a 14) e participou como entrevistador na priorização das histórias.</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
-						<td>Elaborou as Histórias de Usuário US19, US20, US21, US22, US23 e US24 (tabelas 21 a 26) e participou como entrevistador na piorização das histórias de usuário.</td>
+						<td>Elaborou as Histórias de Usuário <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us19-exibir-recomendacoes-de-filmes-baseadas-em-historico-e-preferencias" target="_blank">US19</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us20-fornecer-comparacao-de-precos-entre-cinemas" target="_blank">US20</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us21-permitir-notificacoes-personalizadas" target="_blank">US21</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us22-buscar-filmes-por-nome" target="_blank">US22</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us23-listar-filmes-em-cartaz-pre-venda-e-futuros-lancamentos" target="_blank">US23</a> e <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us24-exibir-informacoes-do-filme" target="_blank">US24</a> (tabelas 21 a 26) e participou como entrevistador na priorização das histórias.</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
-						<td>Elaborou as Histórias de Usuário US13, US14, US15, US16, US17 e US18 (tabelas 15 a 20) e participou como entrevistador na piorização das histórias de usuário.</td>
+						<td>Elaborou as Histórias de Usuário <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us13-reservar-salas-para-eventos" target="_blank">US13</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us14-alterar-preferencias-de-idioma" target="_blank">US14</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us15-detectar-localizacao-automaticamente" target="_blank">US15</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us16-selecionar-assento-obrigatorio" target="_blank">US16</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us17-permitir-cancelar-compras" target="_blank">US17</a> e <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us18-excluir-conta-permanentemente" target="_blank">US18</a> (tabelas 15 a 20) e participou como entrevistador na priorização das histórias.</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
-						<td>Elaborou as Histórias de Usuário US25, US26, US27, US28, US29 e US30 (tabelas 27 a 32) e participou como entrevistador na piorização das histórias de usuário</td>
+						<td>Elaborou as Histórias de Usuário <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us25-utilizacao-de-pontos-para-desconto" target="_blank">US25</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us26-salvamento-automatico-de-ingressos" target="_blank">US26</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us27-alerta-sobre-pontos-acumulados" target="_blank">US27</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us28-favoritar-cinemas" target="_blank">US28</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us29-area-dedicada-ao-cinemark-club" target="_blank">US29</a> e <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us30-sugestao-de-cinemas-personalizada" target="_blank">US30</a> (tabelas 27 a 32) e participou como entrevistador na priorização das histórias.</td>
 					</tr>
           <tr>
 						<td><a  href="https://github.com/pedroeverton217">Pedro Everton</a></td>
-						<td>Elaborou as Histórias de Usuário US37, US38, US39, US40, US41 e US42 (tabelas 39 a 44)</td>
+						<td>Elaborou as Histórias de Usuário <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us37-garantir-contraste-visual-adequado" target="_blank">US37</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us38-limitar-compras-no-snack-bar" target="_blank">US38</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us39-remover-promocoes-expiradas" target="_blank">US39</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us40-validar-dados-do-perfil" target="_blank">US40</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us41-manter-sessao-ativa" target="_blank">US41</a> e <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us42-acesso-offline-a-ingressos" target="_blank">US42</a> (tabelas 39 a 44).</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
-						<td>Elaborou a introdução, o modelo de tabela para histórias de usuário, as Histórias de Usuário US01, US02, US03, US04, US05 e US06 (tabelas 6 a 8) e participou como entrevistador na piorização das histórias de usuário.</td>
+						<td>Elaborou a introdução, o modelo de tabela para histórias de usuário, as Histórias de Usuário <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us01-armazenar-cartoes-de-pagamento" target="_blank">US01</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us02-permitir-compra-de-multiplos-ingressos-em-uma-unica-transacao" target="_blank">US02</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us03-exibir-mapa-grafico-da-sala" target="_blank">US03</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us04-definir-tipo-de-ingresso-por-assento" target="_blank">US04</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us05-salvar-ingressos-na-carteira-digital-do-dispositivo" target="_blank">US05</a> e <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us06-exibir-e-permitir-avaliacoes" target="_blank">US06</a> (tabelas 3 a 8) e participou como entrevistador na priorização das histórias.</td>
 					</tr>
           <tr>
 						<td>Victor Magalhães (Product Owner)</td>
-						<td>Participou da priorização das histórias de usuário.</td>
+						<td>Participou da priorização das histórias.</td>
 					</tr>
 			</tbody>
 		</table>
 	</div>
 </div>
 
-<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) e [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+
+---
 
 ## Metodologia
 
@@ -72,6 +76,8 @@ A priorização foi feita utilizando a técnica **Three-Level Scale estendida**,
 
 Essa escala ajuda a organizar os esforços da equipe de forma mais estratégica, focando nas entregas que realmente trazem valor imediato ao usuário e ao negócio, ao mesmo tempo em que documenta funcionalidades que podem ser revisitadas no futuro ou que foram explicitamente desconsideradas.
 
+---
+
 ## Priorização das Histórias de Usuário
 
 Gravação da priorização das Histórias de Usuário com o PO
@@ -80,7 +86,7 @@ Gravação da priorização das Histórias de Usuário com o PO
 
 <font size="3"><p style="text-align: center">[Clique aqui para acessar a gravação](https://youtu.be/3dxCPchVsd4).</p></font>
 
-Tabela 2: Modelo de tabela para histórias de usuário.
+Tabela 2: Modelo de tabela para Histórias de Usuário.
 
 <div align="center">
   <table>
@@ -111,7 +117,9 @@ Tabela 2: Modelo de tabela para histórias de usuário.
   </table>
 </div>
 
-<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
+
+---
 
 ## Histórias de Usuário
 
@@ -156,7 +164,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
 ### US02 - 	Permitir compra de múltiplos ingressos em uma única transação
 
@@ -199,12 +207,12 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
 ### US03 - Exibir mapa gráfico da sala
 
 <details>
-  <summary><strong>Tabela 5 - Exibir mapa gráfico da sala</strong></summary>
+  <summary><strong>Tabela 5 - História de Usuário Exibir mapa gráfico da sala</strong></summary>
 
   <table>
     <thead>
@@ -232,8 +240,8 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
 	  <tr>
         <td>Rastreabilidade</td>
-        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ12">
-            RQ12
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ12A">
+            RQ12A
           </a>
         </td>
       </tr>
@@ -242,7 +250,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
+<font size="3"><p style="text-align: center">Autores: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) e [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 ### US04 - Definir tipo de ingresso por assento
 
@@ -285,12 +293,12 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
 ### US05 - Salvar ingressos na carteira digital do dispositivo
 
 <details>
-  <summary><strong>Tabela 7 - Salvar ingressos na carteira digital do dispositivo</strong></summary>
+  <summary><strong>Tabela 7 - História de Usuário Salvar ingressos na carteira digital do dispositivo</strong></summary>
 
   <table>
     <thead>
@@ -306,7 +314,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Descrição</td>
-        <td><em>Eu, como</em> usuário, <em>desejo</em> que o aplicativo permita que eu salve ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc)<em>para</em> uma maior integração e diversificando as opções para acessar o meu ingresso.</td>
+        <td><em>Eu, como</em> usuário, <em>desejo</em> que o aplicativo permita que eu salve ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc) <em>para</em> uma maior integração e diversificando as opções para acessar o meu ingresso.</td>
       </tr>
       <tr>
         <td>Critérios de Aceitação</td>
@@ -328,7 +336,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
 ### US06 - Exibir e permitir avaliações
 
@@ -371,7 +379,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
 
 ### US07 - Login com redes sociais
 
@@ -416,7 +424,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg) e [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+<font size="3"><p style="text-align: center">Autores: [Arthur Evangelista](https://github.com/arthurevg) e [Gabriel Castelo](https://github.com/GabrielCastelo-31), 2025.</p></font>
 
 ### US08 - Recuperação de conta via e-mail
 
@@ -464,7 +472,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
 
 ### US09 - Exibir histórico de filmes e compras
 
@@ -503,8 +511,10 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       <tr>
         <td>Rastreabilidade</td>
         <td>
-         <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ22">
-            RQ22
+         <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ22A">
+            RQ22A
+          </a> e          <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ22B">
+            RQ22B
           </a>
         </td>
       </tr>
@@ -513,7 +523,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+<font size="3"><p style="text-align: center">Autores: [Arthur Evangelista](https://github.com/arthurevg) e [Davi Camio](https://github.com/Davicamilo23), 2025.</p></font>
 
 ### US10 - Filtrar filmes por categoria
 
@@ -550,8 +560,10 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Rastreabilidade</td>
-        <td> <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ23">
-            RQ23
+        <td> <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ23A">
+            RQ23A
+          </a> e <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ23B">
+            RQ23B
           </a></td>
       </tr>
     </tbody>
@@ -559,7 +571,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+<font size="3"><p style="text-align: center">Autores: [Arthur Evangelista](https://github.com/arthurevg) e [Davi Camio](https://github.com/Davicamilo23), 2025.</p></font>
 
 ### US11 - Exibir trailers dentro do app
 
@@ -605,9 +617,9 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
 
-### US12 - Fluxo de compra simplificado
+### US12 - Fluxo de compra em 5 etapas
 
 <details>
   <summary><strong>Tabela 14 - História de Usuário Fluxo de compra em 5 etapas</strong></summary>
@@ -631,7 +643,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       <tr>
         <td>Critérios de Aceitação</td>
         <td>
-          - Deve haver um fluxo unificado contendo as seguintes etapas: <br>1- Selecionar filme, <br>2- Selecionar assento <br>3- Selecionar tipo do ingresso (inteira ou meia)<br>4- Opcionalmente, selecionar snacks <br> 5- Exibição do resumo final da compra e pagamento com 1 toque.<br>
+          - Deve haver um fluxo unificado contendo as seguintes etapas: <br>1- Selecionar filme <br>2- Selecionar assento <br>3- Selecionar tipo do ingresso (inteira ou meia)<br>4- Opcionalmente, selecionar snacks <br> 5- Exibição do resumo final da compra e pagamento com 1 toque.<br>
           - Em cada passo, exibir informações resumidas do carrinho (filme, assento, itens da bomboniere). <br>
         </td>
       </tr>
@@ -650,7 +662,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg) e [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+<font size="3"><p style="text-align: center">Autores: [Arthur Evangelista](https://github.com/arthurevg) e [Gabriel Castelo](https://github.com/GabrielCastelo-31), 2025.</p></font>
 
 ### US13 - Reservar salas para eventos
 
@@ -687,14 +699,14 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
   <td>Rastreabilidade</td>
-  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq59" target="_blank">RQ59</a></td>
+  <td>-</td>
 </tr>
     </tbody>
   </table>
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
 ### US14 - Alterar preferências de idioma
 
@@ -730,13 +742,15 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
   <td>Rastreabilidade</td>
-  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq33" target="_blank">RQ33</a></td>
+  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ33">
+            RQ33
+          </a></td>
 </tr>
     </tbody>
   </table>
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
 ### US15 - Detectar localização automaticamente
 
@@ -773,14 +787,18 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
   <td>Rastreabilidade</td>
-  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq02" target="_blank">RQ02</a></td>
+  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ02A">
+            RQ02A
+          </a> e <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ02B">
+            RQ02B
+          </a></td>
 </tr>
     </tbody>
   </table>
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
+<font size="3"><p style="text-align: center">Autores: [Euller Júlio](https://github.com/Potatoyz908) e [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 ### US16 - Selecionar assento obrigatório
 
@@ -816,19 +834,21 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
   <td>Rastreabilidade</td>
-  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq13" target="_blank">RQ13</a></td>
+  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ13">
+            RQ13
+          </a></td>
 </tr>
     </tbody>
   </table>
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
 ### US17 - Permitir cancelar compras
 
 <details>
-  <summary><strong>Tabela 19 - História de Usuário Cancelar compras</strong></summary>
+  <summary><strong>Tabela 19 - História de Usuário Permitir cancelar compras</strong></summary>
 
   <table>
     <thead>
@@ -860,14 +880,16 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
      <tr>
   <td>Rastreabilidade</td>
-  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq62" target="_blank">RQ62</a></td>
+  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ62">
+            RQ62
+          </a></td>
 </tr>
     </tbody>
   </table>
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
 ### US18 - Excluir conta permanentemente
 
@@ -904,14 +926,16 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
   <td>Rastreabilidade</td>
-  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq64" target="_blank">RQ64</a></td>
+  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ64">
+            RQ64
+          </a></td>
 </tr>
     </tbody>
   </table>
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
 ### US19 - Exibir recomendações de filmes baseadas em histórico e preferências
 
@@ -948,8 +972,10 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
       <td>Rastreabilidade</td>
-        <td> <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32">
-            RQ32A RQ32B
+        <td> <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32A">
+            RQ32A
+          </a> e <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32B">
+            RQ32B
           </a></td>
       </tr>
     </tbody>
@@ -958,7 +984,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 ### US20 - Fornecer comparação de preços entre cinemas
 
@@ -1005,7 +1031,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 ### US21 - Permitir notificações personalizadas
 
@@ -1052,7 +1078,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 ### US22 - Buscar filmes por nome
 
@@ -1099,7 +1125,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 ### US23 - Listar filmes em cartaz, pré-venda e futuros lançamentos
 
@@ -1146,7 +1172,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 ### US24 - Exibir informações do filme
 
@@ -1193,7 +1219,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 ### US25 - Utilização de pontos para desconto
 
@@ -1232,14 +1258,16 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
   <td>Rastreabilidade</td>
-  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq27" target="_blank">RQ27</a></td>
+  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ27">
+            RQ27
+          </a></td>
 </tr>
     </tbody>
   </table>
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor:  [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+<font size="3"><p style="text-align: center">Autor:  [Gabriel Castelo](https://github.com/GabrielCastelo-31), 2025.</p></font>
 
 ### US26 - Salvamento automático de ingressos
 
@@ -1277,14 +1305,16 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
   <td>Rastreabilidade</td>
-  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq19" target="_blank">RQ19</a></td>
+  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ19">
+            RQ19
+          </a></td>
 </tr>
     </tbody>
   </table>
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor:  [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+<font size="3"><p style="text-align: center">Autor:  [Gabriel Castelo](https://github.com/GabrielCastelo-31), 2025.</p></font>
 
 ### US27 - Alerta sobre pontos acumulados
 
@@ -1323,14 +1353,16 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
   <td>Rastreabilidade</td>
-  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq28" target="_blank">RQ28</a></td>
+  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ28">
+            RQ28
+          </a></td>
 </tr>
     </tbody>
   </table>
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor:  [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+<font size="3"><p style="text-align: center">Autor:  [Gabriel Castelo](https://github.com/GabrielCastelo-31), 2025.</p></font>
 
 ### US28 - Favoritar cinemas
 
@@ -1369,14 +1401,16 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
   <td>Rastreabilidade</td>
-  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq30" target="_blank">RQ30</a></td>
+  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ30">
+            RQ30
+          </a></td>
 </tr>
     </tbody>
   </table>
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor:  [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+<font size="3"><p style="text-align: center">Autor:  [Gabriel Castelo](https://github.com/GabrielCastelo-31), 2025.</p></font>
 
 ### US29 - Área dedicada ao Cinemark Club
 
@@ -1418,14 +1452,16 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
   <td>Rastreabilidade</td>
-  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq34" target="_blank">RQ34</a></td>
+  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ34">
+            RQ34
+          </a></td>
 </tr>
     </tbody>
   </table>
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor:  [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+<font size="3"><p style="text-align: center">Autor:  [Gabriel Castelo](https://github.com/GabrielCastelo-31), 2025.</p></font>
 
 ### US30 - Sugestão de cinemas personalizada
 
@@ -1465,14 +1501,18 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
   <td>Rastreabilidade</td>
-  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq29" target="_blank">RQ29A RQ29B</a></td>
+  <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ29A">
+            RQ29A
+          </a> e <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ29B">
+            RQ29B
+          </a></td>
 </tr>
     </tbody>
   </table>
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor:  [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+<font size="3"><p style="text-align: center">Autor:  [Gabriel Castelo](https://github.com/GabrielCastelo-31), 2025.</p></font>
 
 ### US31 - Hub de Críticas de Filmes
 
@@ -1498,11 +1538,11 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       <tr>
         <td>Critérios de Aceitação</td>
         <td>
-          - Seção "Críticas" acessível via menu principal<br>
-          - Exibição de críticas profissionais e de usuários com classificação por estrelas<br>
-          - Filtros por filme, data e relevância<br>
-          - Publicação de críticas por usuários autenticados<br>
-          - Funcionamento com conexão instável
+          - Seção "Críticas" acessível via menu principal.<br>
+          - Exibição de críticas profissionais e de usuários com classificação por estrelas.<br>
+          - Filtros por filme, data e relevância.<br>
+          - Publicação de críticas por usuários autenticados.<br>
+          - Funcionamento com conexão instável.
         </td>
       </tr>
       <tr>
@@ -1511,14 +1551,16 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Rastreabilidade</td>
-        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq60" target="_blank">RQ60</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ60">
+            RQ60
+          </a></td>
       </tr>
     </tbody>
   </table>
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor:  [Artur de Camargos](https://github.com/ArturDCR).</p></font>
+<font size="3"><p style="text-align: center">Autor:  [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
 
 ### US32 - Acesso Rápido aos Ingressos
 
@@ -1544,11 +1586,11 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       <tr>
         <td>Critérios de Aceitação</td>
         <td>
-          - Botão "Meus Ingressos" fixo na barra inferior<br>
-          - Visível em todas as telas principais<br>
-          - Exibição cronológica com destaque para data/sessão<br>
-          - Alertas visuais para sessões próximas<br>
-          - Acesso em até 2 toques
+          - Botão "Meus Ingressos" fixo na barra inferior.<br>
+          - Visível em todas as telas principais.<br>
+          - Exibição cronológica com destaque para data/sessão.<br>
+          - Alertas visuais para sessões próximas.<br>
+          - Acesso em até 2 toques.
         </td>
       </tr>
       <tr>
@@ -1557,14 +1599,16 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Rastreabilidade</td>
-        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq67" target="_blank">RQ67</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ67">
+            RQ67
+          </a></td>
       </tr>
     </tbody>
   </table>
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor:  [Artur de Camargos](https://github.com/ArturDCR).</p></font>
+<font size="3"><p style="text-align: center">Autor:  [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
 
 ### US33 - Logout da Conta
 
@@ -1590,13 +1634,13 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       <tr>
         <td>Critérios de Aceitação</td>
         <td>
-          - Opção de logout visível na área do usuário<br>
-          - Confirmação antes de efetivar o logout<br>
-          - Redirecionamento para tela inicial após logout<br>
-          - Encerramento de todas as sessões ativas<br>
-          - Feedback visual claro de logout bem-sucedido<br>
-          - Remoção segura de credenciais locais<br>
-          - Compatibilidade com leitores de tela
+          - Opção de logout visível na área do usuário.<br>
+          - Confirmação antes de efetivar o logout.<br>
+          - Redirecionamento para tela inicial após logout.<br>
+          - Encerramento de todas as sessões ativas.<br>
+          - Feedback visual claro de logout bem-sucedido.<br>
+          - Remoção segura de credenciais locais.<br>
+          - Compatibilidade com leitores de tela.
         </td>
       </tr>
       <tr>
@@ -1605,14 +1649,16 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Rastreabilidade</td>
-        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq65" target="_blank">RQ65</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ65">
+            RQ65
+          </a></td>
       </tr>
     </tbody>
   </table>
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Artur de Camargos](https://github.com/ArturDCR).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
 
 ### US34 - Detecção de Localização
 
@@ -1638,11 +1684,11 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       <tr>
         <td>Critérios de Aceitação</td>
         <td>
-          - Detecção automática de geolocalização ao abrir o app<br>
-          - Exibição clara da localização detectada<br>
-          - Botão "Alterar Local" visível<br>
-          - Lista de cidades/estados para seleção manual<br>
-          - Persistência da última localização escolhida
+          - Detecção automática de geolocalização ao abrir o app.<br>
+          - Exibição clara da localização detectada.<br>
+          - Botão "Alterar Local" visível.<br>
+          - Lista de cidades/estados para seleção manual.<br>
+          - Persistência da última localização escolhida.
         </td>
       </tr>
       <tr>
@@ -1651,14 +1697,18 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Rastreabilidade</td>
-        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq02" target="_blank">RQ02</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ02A">
+            RQ02A
+          </a> e <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ02B">
+            RQ02B
+          </a></td>
       </tr>
     </tbody>
   </table>
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor:  [Artur de Camargos](https://github.com/ArturDCR).</p></font>
+<font size="3"><p style="text-align: center">Autor:  [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
 
 ### US35 - Autenticação por E-mail e Senha
 
@@ -1684,12 +1734,12 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       <tr>
         <td>Critérios de Aceitação</td>
         <td>
-          - Campos para e-mail e senha na tela de login<br>
-          - Validação de formato de e-mail<br>
-          - Recuperação de senha via e-mail<br>
-          - Opção "Manter conectado"<br>
-          - Mensagens claras de erro para credenciais inválidas<br>
-          - Bloqueio temporário após múltiplas tentativas falhas
+          - Campos para e-mail e senha na tela de login.<br>
+          - Validação de formato de e-mail.<br>
+          - Recuperação de senha via e-mail.<br>
+          - Opção "Manter conectado".<br>
+          - Mensagens claras de erro para credenciais inválidas.<br>
+          - Bloqueio temporário após múltiplas tentativas falhas.
         </td>
       </tr>
       <tr>
@@ -1698,14 +1748,16 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Rastreabilidade</td>
-        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq04" target="_blank">RQ04</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ04">
+            RQ04
+          </a></td>
       </tr>
     </tbody>
   </table>
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor:  [Artur de Camargos](https://github.com/ArturDCR).</p></font>
+<font size="3"><p style="text-align: center">Autor:  [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
 
 ### US36 - Mensagens de Erro e Confirmação
 
@@ -1731,12 +1783,12 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       <tr>
         <td>Critérios de Aceitação</td>
         <td>
-          - Mensagens de erro em linguagem simples, com causa e solução<br>
-          - Confirmações para ações irreversíveis (ex: compras/exclusões)<br>
-          - Feedback visual imediato (toast/notificação) para todas as interações<br>
-          - Formatação acessível (contraste WCAG AA + ícones intuitivos)<br>
-          - Compatibilidade com leitores de tela (TalkBack/VoiceOver)<br>
-          - Opção de "Desfazer" em confirmações quando aplicável
+          - Mensagens de erro em linguagem simples, com causa e solução.<br>
+          - Confirmações para ações irreversíveis (ex: compras/exclusões).<br>
+          - Feedback visual imediato (toast/notificação) para todas as interações.<br>
+          - Formatação acessível (contraste WCAG AA + ícones intuitivos).<br>
+          - Compatibilidade com leitores de tela (TalkBack/VoiceOver).<br>
+          - Opção de "Desfazer" em confirmações quando aplicável.
         </td>
       </tr>
       <tr>
@@ -1745,19 +1797,22 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Rastreabilidade</td>
-        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq38" target="_blank">RQ38</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ38A">
+            RQ38A
+          </a> e <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ38B">
+            RQ38B</a></td>
       </tr>
     </tbody>
   </table>
 
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Artur de Camargos](https://github.com/ArturDCR).</p></font>
+<font size="3"><p style="text-align: center">Autores: [Artur de Camargos](https://github.com/ArturDCR) e [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 ### US37 - Garantir contraste visual adequado
 
 <details>
-  <summary><strong>Tabela 39 - História de Usuário - Contraste WCAG</strong></summary>
+  <summary><strong>Tabela 39 - História de Usuário Garantir contraste visual adequado</strong></summary>
 
   <table>
     <thead>
@@ -1777,7 +1832,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Critérios de Aceitação</td>
-        <td>- Texto deve ter razão de contraste mínimo de 4.5:1 contra o fundo <br> - Elementos de interface devem ter contraste de 3:1 contra adjacentes <br> - Testes automáticos validam 100% das páginas</td>
+        <td>- Texto deve ter razão de contraste mínimo de 4.5:1 contra o fundo. <br> - Elementos de interface devem ter contraste de 3:1 contra adjacentes. <br> - Testes automáticos validam 100% das páginas.</td>
       </tr>
       <tr>
         <td>Prioridade</td>
@@ -1785,18 +1840,20 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Rastreabilidade</td>
-        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq45" target="_blank">RQ45</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ45">
+            RQ45
+          </a></td>
       </tr>
     </tbody>
   </table>
 </details>
 
-<font size="3"><p style="text-align: center">Autor:  [Pedro Everton](https://github.com/pedroeverton217).</p></font>
+<font size="3"><p style="text-align: center">Autor:  [Pedro Everton](https://github.com/pedroeverton217), 2025.</p></font>
 
 ### US38 - Limitar compras no Snack Bar
 
 <details>
-  <summary><strong>Tabela 40 - História de Usuário - Limite de itens</strong></summary>
+  <summary><strong>Tabela 40 - História de Usuário Limitar compras no Snack Bar</strong></summary>
 
   <table>
     <thead>
@@ -1816,7 +1873,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Critérios de Aceitação</td>
-        <td>- Sistema bloqueia adição além de 20 unidades no carrinho <br> - Mensagem clara informando o limite é exibida <br> - Limite aplica-se individualmente por item</td>
+        <td>- Sistema bloqueia adição além de 20 unidades no carrinho. <br> - Mensagem clara informando o limite é exibida. <br> - Limite aplica-se individualmente por item.</td>
       </tr>
       <tr>
         <td>Prioridade</td>
@@ -1824,18 +1881,20 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Rastreabilidade</td>
-        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq52" target="_blank">RQ52</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ52">
+            RQ52
+          </a></td>
       </tr>
     </tbody>
   </table>
 </details>
 
-<font size="3"><p style="text-align: center">Autor:  [Pedro Everton](https://github.com/pedroeverton217).</p></font>
+<font size="3"><p style="text-align: center">Autor:  [Pedro Everton](https://github.com/pedroeverton217), 2025.</p></font>
 
 ### US39 - Remover promoções expiradas
 
 <details>
-  <summary><strong>Tabela 41 - História de Usuário - Promoções atualizadas</strong></summary>
+  <summary><strong>Tabela 41 - História de Usuário Remover promoções expiradas</strong></summary>
 
   <table>
     <thead>
@@ -1855,7 +1914,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Critérios de Aceitação</td>
-        <td>- Promoções são removidas imediatamente após expiração <br> - Atualização diária automática às 00:01 <br> - Notificação para admin sobre remoções</td>
+        <td>- Promoções são removidas imediatamente após expiração. <br> - Atualização diária automática às 00:01. <br> - Notificação para admin sobre remoções.</td>
       </tr>
       <tr>
         <td>Prioridade</td>
@@ -1863,18 +1922,20 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Rastreabilidade</td>
-        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq56" target="_blank">RQ56</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ56">
+            RQ56
+          </a></td>
       </tr>
     </tbody>
   </table>
 </details>
 
-<font size="3"><p style="text-align: center">Autor:  [Pedro Everton](https://github.com/pedroeverton217).</p></font>
+<font size="3"><p style="text-align: center">Autor:  [Pedro Everton](https://github.com/pedroeverton217), 2025.</p></font>
 
 ### US40 - Validar dados do perfil
 
 <details>
-  <summary><strong>Tabela 42 - História de Usuário - Validação de perfil</strong></summary>
+  <summary><strong>Tabela 42 - História de Usuário Validar dados do perfil</strong></summary>
 
   <table>
     <thead>
@@ -1894,7 +1955,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Critérios de Aceitação</td>
-        <td>- Validação em tempo real de CPF, e-mail e telefone <br> - Bloqueio de salvamento com dados inválidos <br> - Mensagens específicas por tipo de erro</td>
+        <td>- Validação em tempo real de CPF, e-mail e telefone. <br> - Bloqueio de salvamento com dados inválidos. <br> - Mensagens específicas por tipo de erro.</td>
       </tr>
       <tr>
         <td>Prioridade</td>
@@ -1902,18 +1963,20 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Rastreabilidade</td>
-        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq57" target="_blank">RQ57</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ57">
+            RQ57
+          </a></td>
       </tr>
     </tbody>
   </table>
 </details>
 
-<font size="3"><p style="text-align: center">Autor:  [Pedro Everton](https://github.com/pedroeverton217).</p></font>
+<font size="3"><p style="text-align: center">Autor:  [Pedro Everton](https://github.com/pedroeverton217), 2025.</p></font>
 
 ### US41 - Manter sessão ativa
 
 <details>
-  <summary><strong>Tabela 43 - História de Usuário - Sessão persistente</strong></summary>
+  <summary><strong>Tabela 43 - História de Usuário Manter sessão ativa</strong></summary>
 
   <table>
     <thead>
@@ -1933,7 +1996,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Critérios de Aceitação</td>
-        <td>- Sessão mantida por 30 dias de inatividade <br> - Opção "Lembrar-me" no login <br> - Logout seguro após expiração</td>
+        <td>- Sessão mantida por 30 dias de inatividade. <br> - Opção "Lembrar-me" no login. <br> - Logout seguro após expiração.</td>
       </tr>
       <tr>
         <td>Prioridade</td>
@@ -1941,18 +2004,20 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Rastreabilidade</td>
-        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq61" target="_blank">RQ61</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ61">
+            RQ61
+          </a></td>
       </tr>
     </tbody>
   </table>
 </details>
 
-<font size="3"><p style="text-align: center">Autor:  [Pedro Everton](https://github.com/pedroeverton217).</p></font>
+<font size="3"><p style="text-align: center">Autor:  [Pedro Everton](https://github.com/pedroeverton217), 2025.</p></font>
 
 ### US42 - Acesso offline a ingressos
 
 <details>
-  <summary><strong>Tabela 44 - História de Usuário - Ingressos offline</strong></summary>
+  <summary><strong>Tabela 44 - História de Usuário Acesso offline a ingressos</strong></summary>
 
   <table>
     <thead>
@@ -1972,7 +2037,7 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Critérios de Aceitação</td>
-        <td>- Ingressos ficam disponíveis no app após compra <br> - Código QR acessível offline <br> - Sincronização automática quando online</td>
+        <td>- Ingressos ficam disponíveis no app após compra. <br> - Código QR acessível offline. <br> - Sincronização automática quando online.</td>
       </tr>
       <tr>
         <td>Prioridade</td>
@@ -1980,13 +2045,17 @@ Tabela 2: Modelo de tabela para histórias de usuário.
       </tr>
       <tr>
         <td>Rastreabilidade</td>
-        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq66" target="_blank">RQ66</a></td>
+        <td><a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ66">
+            RQ66
+          </a></td>
       </tr>
     </tbody>
   </table>
 </details>
 
-<font size="3"><p style="text-align: center">Autor:  [Pedro Everton](https://github.com/pedroeverton217).</p></font>
+<font size="3"><p style="text-align: center">Autor:  [Pedro Everton](https://github.com/pedroeverton217), 2025.</p></font>
+
+---
 
 ## Histórico de Versão
 
@@ -2011,3 +2080,4 @@ Tabela 2: Modelo de tabela para histórias de usuário.
 | `1.4`  | 06/07/2025 | Correção da US08 com base no requisito RQ21A | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.5`  | 06/07/2025 | Ajuste no RQ29, adicionando suas novas versões RQ29A e RQ29B | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.6`  | 06/07/2025 | Ajuste no RQ32, adicionando suas novas versões RQ32A e RQ32B | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.7`  | 07/07/2025 | Correções após a revisão do artefato | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
