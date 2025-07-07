@@ -74,6 +74,10 @@ A tabela 1 apresenta o cronograma da priorização e as funções dos membros re
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
 						<td>Elaborou os Cenários dos requisitos <a  href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/">RQ26</a> e <a  href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/">RQ39</a> com suas respectivas tabelas (13 e 14), junto com a tabela 2.</td>	
 					</tr>
+					<tr>
+						<td><a  href="https://github.com/pedroeverton217">Pedro Everton de Paula</a></td>
+						<td>Elaborou os Cenários dos requisitos <a  href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/">RQ28</a> e <a  href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/">RQ31</a> com suas respectivas tabelas (15 e 16)</td>	
+					</tr>
 			</tbody>
 		</table>
 	</div>  
@@ -321,6 +325,46 @@ O décimo segundo cenário, apresentado na Tabela 12, faz referência ao requisi
 <p align="center"><br>
 Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 2025.</p>
 
+## Cenário 13: Alertar usuário sobre pontos suficientes para ingresso grátis 3 dias antes da expiração
+
+O décimo terceiro cenário, apresentado na Tabela 15, faz referência ao requisito [RQ28](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Alertar usuário sobre pontos suficientes para ingresso grátis 3 dias antes da expiração.
+
+**Tabela 15: Cenário de alerta sobre pontos suficientes para ingresso grátis**
+
+| Item | Descrição |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Título | Alerta de pontos para ingresso grátis antes da expiração |
+| Objetivo | Notificar o usuário sobre a proximidade da expiração de pontos suficientes para resgatar um ingresso grátis, incentivando o uso e evitando a perda dos benefícios. |
+| Contexto | Local: Notificação push no dispositivo móvel, área de notificações do aplicativo.<br>Tempo: 3 dias antes da data de expiração dos pontos.<br>Pré-condição: Usuário com pontos suficientes para um ingresso grátis e data de expiração próxima.</br>Acesso ao sistema: Por meio de dispositivo móvel |
+| Atores | Usuário do aplicativo Cinemark Digital; Sistema de Notificações. |
+| Recursos | Sistema de gerenciamento de pontos; sistema de notificações push; aplicativo Cinemark instalado e logado; conexão com a internet. |
+| Episódios | 1. O sistema verifica diariamente os pontos dos usuários.<br>2. O sistema identifica usuários com pontos suficientes para um ingresso grátis que expirarão em 3 dias.<br>3. O sistema envia uma notificação push para o usuário.<br>4. O usuário recebe e visualiza a notificação.<br>5. Ao clicar na notificação, o usuário é direcionado para a tela de resgate de ingressos. |
+| Restrições | A notificação deve ser enviada apenas uma vez por período de expiração para o mesmo conjunto de pontos. <br>O usuário deve ter as notificações do aplicativo ativadas. |
+| Exceções | Falha no envio da notificação: o sistema deve registrar o erro e tentar reenviar em um período posterior. <br>Usuário sem conexão: a notificação será entregue assim que a conexão for restabelecida. |
+
+<p align="center"><br>
+Autor: [Pedro Everton de Paula](https://github.com/pedroeverton217), 2025.</p>
+
+## Cenário 14: Permitir notificações personalizadas
+
+O décimo quarto cenário, apresentado na Tabela 16, faz referência ao requisito [RQ31](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/): Permitir notificações personalizadas (ex.: “avise-me quando o filme X entrar em cartaz”).
+
+**Tabela 16: Cenário de permitir notificações personalizadas**
+
+| Item | Descrição |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Título | Configuração de notificações personalizadas |
+| Objetivo | Oferecer ao usuário a capacidade de configurar alertas específicos sobre filmes, eventos ou promoções de seu interesse, melhorando a relevância das comunicações. |
+| Contexto | Local: Tela de configurações do perfil ou tela de detalhes de filmes/eventos.<br>Tempo: A qualquer momento.<br>Pré-condição: Usuário logado no aplicativo.</br>Acesso ao sistema: Por meio de dispositivo móvel |
+| Atores | Usuário do aplicativo Cinemark Digital; Sistema de Notificações. |
+| Recursos | Interface de configurações de notificação; banco de dados de preferências do usuário; sistema de notificações push; aplicativo Cinemark instalado e logado; conexão com a internet. |
+| Episódios | 1. O usuário acessa as configurações de notificação no aplicativo.<br>2. O usuário seleciona a opção de criar uma nova notificação personalizada.<br>3. O usuário escolhe o tipo de alerta (ex: "filme em cartaz", "promoção", "evento").<br>4. O usuário especifica os critérios (ex: nome do filme, gênero, data).<br>5. O sistema salva a preferência do usuário e envia a notificação quando os critérios forem atendidos. |
+| Restrições | O sistema deve limitar o número de notificações personalizadas para evitar sobrecarga do usuário. <br>A personalização deve estar limitada aos tipos de eventos e informações disponíveis no sistema. |
+| Exceções | Falha ao salvar a preferência: exibir mensagem "Erro ao salvar sua preferência de notificação". <br>Critérios de busca inválidos: exibir mensagem "Critérios de busca inválidos, por favor, verifique". |
+
+<p align="center"><br>
+Autor: [Pedro Everton de Paula](https://github.com/pedroeverton217), 2025.</p>
+
 ---
 
 ## Referências Bibliográficas
@@ -349,3 +393,4 @@ Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 20
 | `1.9`  | 04/07/2025 | Organização do documento, agora as tabelas seguem a ordem de 1 a 14. Também foi adicionada a tabela 1 e o vídeo de validação dos cenários | [Arthur Evangelista](https://github.com/arthurevg) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
 | `1.10`  | 06/07/2025 | Ajuste no RQ29 com sua nova versão RQ29A e RQ29B. | [Euller Júlio](https://github.com/Potatoyz908)      | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.11`  | 06/07/2025 | Ajuste no RQ32 com sua nova versão RQ32A e RQ32B. | [Euller Júlio](https://github.com/Potatoyz908)      | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.12`  | 07/07/2025 | Adição dos cenários 13 (RQ28 - Alertar usuário sobre pontos suficientes para ingresso grátis 3 dias antes da expiração) e 14 (RQ31 - Permitir notificações personalizadas) | [Pedro Everton de Paula](https://github.com/pedroeverton217) | [Euller Júlio](https://github.com/Potatoyz908) |
