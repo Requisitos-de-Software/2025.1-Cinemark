@@ -65,7 +65,7 @@ O vídeo abaixo contém a validação dos protótipos 7 e 8. A validação foi r
 
 O vídeo abaixo contém a validação dos protótipos 11 e 12. A validação foi realizada de forma presencial.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=NJnp1_i5y3g&ab_channel=ArturDeCamargos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/NJnp1_i5y3g?si=NDS1-xY5OQZLSTTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Validação dos Protótipos 1 e 2 - Arthur Evangelista
 
