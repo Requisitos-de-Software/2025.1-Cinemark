@@ -140,3 +140,4 @@ A técnica de priorização MoSCoW foi aplicada com sucesso para orientar a defi
 | `1.3`  | 04/05/2025 | Inclusão da bibliografia | [Artur de Camargos](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.4`  | 09/05/2025 | Inclusão da tabela de requisitos | [Artur de Camargos](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.5`  | 13/05/2025 | Adição do cronograma da técnica, ajuste na tabela 2 e ajuste na metodologia | [Davi Camilo](https://github.com/Davicamilo23) | [Pedro Everton](https://github.com/pedroeverton217) |
+| `1.6`  | 06/07/2025 | Adição de Conclusão e pequenas correções da lista de inspeção |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)  | [Gabriel Castelo](https://github.com/GabrielCastelo-31)|

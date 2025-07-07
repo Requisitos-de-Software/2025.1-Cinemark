@@ -150,3 +150,4 @@ Dos 57 requisitos elicitados, 6 foram classificados com Baixa prioridade, 7 clas
 | `1.2` | 13/05/2025 | Correção na Bibliografia | [Pedro Everton](https://github.com/pedroeverton217) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.3`  | 13/05/2025 | Adição do cronograma da técnica, ajuste na tabela 2 e adição da rastreabilidade | [Davi Camilo](https://github.com/Davicamilo23) | [Pedro Everton](https://github.com/pedroeverton217) |
 | `1.3.1`  | 14/05/2025 | Correção do link da reunião| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Pedro Everton](https://github.com/pedroeverton217) |
+| `1.4`  | 06/07/2025 | Adição de Rastreabilidades| [Tiago Antunes](https://github.com/tiagobalieiro) | [Pedro Everton](https://github.com/pedroeverton217) |
