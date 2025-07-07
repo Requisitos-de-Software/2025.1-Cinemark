@@ -189,4 +189,4 @@ As matrizes de requisitos funcionais e não funcionais segue o seguinte modelo:
 | `2.0`  |  06/07/2025 |  Correção nos requisitos que foram alterados na elicitação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `2.1`  |  06/07/2025 |  Adição de rastreabilidade dos requisitos aos seus Elos(RQ01 ao RQ27) |[Arthur Evangelista](https://github.com/arthurevg)  | [Davi Camilo](https://github.com/Davicamilo23) |
 | `2.11` | 07/07/2025 | Pequena correção na tabela de contribuição | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
-| `2.12`  |  07/07/2025 | Adição da rastreabilidade dos requisitos 46 a 52 | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `2.12`  |  07/07/2025 | Adição da rastreabilidade dos requisitos 46 a 54 | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |
