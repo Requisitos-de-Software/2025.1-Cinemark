@@ -3,7 +3,7 @@
 ## Introdução
 Nesta página se encontra a apresentação da entrega 5 do nosso grupo. O objetivo desta entrega é apresentar:
 
-- Verificação
+- Verificação;
 - Validação.
 
 A apresentação foi gravada no dia 22/06/2025, com os membros [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) presentes.

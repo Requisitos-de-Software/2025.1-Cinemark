@@ -151,9 +151,13 @@ Os requisitos foram classificados em **Requisitos Funcionais (RF)** e **Requisit
 ## Conclusão
 
 Os requisitos elicitados por meio de técnicas como introspecção, análise de UI, questionários e storytelling foram fundamentais para compreender as necessidades e expectativas dos usuários. Com base nesses requisitos, aplicamos quatro técnicas distintas de priorização para organizar e hierarquizar as funcionalidades identificadas: 
+
 - [Kano Model](https://requisitos-de-software.github.io/2025.1-Cinemark/prioriza%C3%A7%C3%A3o/kanomodel/)
+
 - [Moscow](https://requisitos-de-software.github.io/2025.1-Cinemark/prioriza%C3%A7%C3%A3o/moscow/)
+
 - [Three Level Scale](https://requisitos-de-software.github.io/2025.1-Cinemark/prioriza%C3%A7%C3%A3o/threelevelscale/)
+
 - [100$](https://requisitos-de-software.github.io/2025.1-Cinemark/prioriza%C3%A7%C3%A3o/100%24/)
 
 ---

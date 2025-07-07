@@ -3,11 +3,11 @@
 ## Introdução
 Nesta página se encontra a apresentação da entrega 1 do nosso grupo. O objetivo desta entrega é apresentar:
 
-- Planejamento do Projeto
-- Equipe
-- App selecionado para o projeto da disciplina
-- Ferramentas do projeto
-- Cronograma das atividades
+- Planejamento do Projeto;
+- Equipe;
+- App selecionado para o projeto da disciplina;
+- Ferramentas do projeto;
+- Cronograma das atividades;
 - Rich Picture.
 
 A apresentação foi gravada no dia 13/04/2025, com todos os membros presentes.

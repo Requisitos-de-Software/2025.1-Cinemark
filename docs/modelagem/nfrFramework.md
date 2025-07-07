@@ -2,6 +2,37 @@
 
 Uma forma de garantir que o software atenda às expectativas dos usuários e stakeholders é por meio da definição de requisitos não funcionais (NFRs). Esses requisitos abrangem aspectos como desempenho, segurança, usabilidade, manutenibilidade e portabilidade. O NFR Framework é uma abordagem que ajuda a identificar, categorizar e priorizar esses requisitos, garantindo que o software seja desenvolvido de acordo com as necessidades do negócio e dos usuários.
 
+---
+
+## Validação do NFR Framework com Usuário
+
+Para garantir que o NFR Framework elaborado reflete fielmente as necessidades e expectativas dos usuários finais, realizamos uma validação com um usuário do aplicativo Cinemark Digital. O artefato foi apresentado ao usuário, que o analisou e forneceu um feedback. A gravação foi feita no dia 07/07/2025, na Faculdade de Ciências e Tecnologia em Engenharias.
+
+### Cronograma
+
+A tabela 13 apresenta o cronograma da validação e as funções dos membros.
+
+<font size="3"><p style="text-align: center">Tabela 13: Cronograma da validação do NFR Framework.</p></font>
+
+| Nome                                                   | Data       | Função                 |
+| ------------------------------------------------------ | ---------- | ---------------------- |
+| [Arthur Evangelista de Oliveira](https://github.com/arthurevg1) | 07/07/2025 | Mediador |
+| [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | 07/07/2025 | Mediador |
+| [Davi Camilo Menezes](https://github.com/Davicamilo23) | 07/07/2025 | Mediador |
+| [Euller Júlio da Silva](https://github.com/Potatoyz908) | 07/07/2025 | Mediador |
+| [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31) | 07/07/2025 | Mediador |
+| [Pedro Everton de Paula](https://github.com/pedroeverton217) | 07/07/2025 | Mediador |
+| [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | 07/07/2025 | Mediador |
+|Jorge Henrique|07/07/2025|Usuário do aplicativo|
+
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+
+### Vídeo de Validação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TbLVZsb5wJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ## Integrantes do grupo envolvidos
 
 **Tabela 1**
@@ -480,3 +511,4 @@ A tabela abaixo apresenta a avaliação da propagação dos impactos dos requisi
 | `1.13`  | 01/06/2025 | Adição dos softgoals de impacto e propagação de impactos dos requisitos de usabilidade | [Arthur Evangelista](https://github.com/arthurevg)| [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
 | `1.14`  | 01/06/2025 | Atualização dos softgoals de usabilidade após instruções do professor | [Arthur Evangelista](https://github.com/arthurevg)| [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
 | `1.15`  | 04/07/2025 | Reorganização das seções (troca de ordem entre Introdução e Integrantes do grupo), atualização das descrições dos requisitos RQ45 e RQ49, e correção das dependências do cartão de especificação 6 | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.16`  | 07/07/2025 | Adição da gravação da validação com o usuário | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |

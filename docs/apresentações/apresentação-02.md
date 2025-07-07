@@ -3,7 +3,7 @@
 ## Introdução
 Nesta página se encontra a apresentação da entrega 2 do nosso grupo. O objetivo desta entrega é apresentar:
 
-- Técnicas
+- Técnicas;
 - Priorização.
 
 A apresentação foi gravada no dia 04/05/2025, com todos os membros presentes.
