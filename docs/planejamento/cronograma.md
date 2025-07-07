@@ -6,13 +6,28 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 
 ---
 
+## Integrantes do grupo envolvidos
+
+A seguir apresentamos os nomes de cada integrante do grupo que participou nesse artefato e suas respectivas contribuições.
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes envolvidos no artefato.</p></font>
+
+| Nome                                                   | O que fez                 |
+| ------------------------------------------------------ | ---------------------- |
+| [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Artur de Camargos Rodrigues](https://github.com/ArturDCR), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31), [Pedro Everton de Paula](https://github.com/pedroeverton217) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | Planejaram um cronograma a ser seguido ao decorrer das entregas, e documentaram como foi a execução do mesmo. |
+|[Davi Camilo Menezes](https://github.com/Davicamilo23)| Adicionou a tabela de contribuição dos membros, revisou o artefato para a entrega final e fez as alterações necessárias. |
+
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+
+---
+
 ## Entrega 1 - Planejamento do Projeto
 
 ### Cronograma Planejado
 
-Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira entrega.
+Na Tabela 2, tem-se o cronograma planejado para todas as atividades da primeira entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Planejamento da Entrega 1</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Planejamento da Entrega 1</p></font>
 
 | Atividade                         | Período de desenvolvimento     | Responsáveis                                      | Revisão                     | Revisores                                      |
 |----------------------------------|--------------------------------|--------------------------------------------------|-----------------------------|------------------------------------------------|
@@ -29,9 +44,9 @@ Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira 
 
 ### Cronograma Executado
 
-Na Tabela 2, tem-se o cronograma executado para todas as atividades da primeira entrega.
+Na Tabela 3, tem-se o cronograma executado para todas as atividades da primeira entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Execução da Entrega 1</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Execução da Entrega 1</p></font>
 
 | Atividade                         | Período de desenvolvimento     | Responsáveis                                      | Revisão                     | Revisores                                      |
 |----------------------------------|--------------------------------|--------------------------------------------------|-----------------------------|------------------------------------------------|
@@ -52,9 +67,9 @@ Na Tabela 2, tem-se o cronograma executado para todas as atividades da primeira 
 
 ### Cronograma Planejado
 
-Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda entrega.
+Na Tabela 4, tem-se o cronograma planejado para todas as atividades da segunda entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Planejamento da Entrega 2</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Planejamento da Entrega 2</p></font>
 
 | Atividade                                                                 | Período de desenvolvimento     | Responsáveis                                      | Revisão                     | Revisores                   |
 |--------------------------------------------------------------------------|--------------------------------|--------------------------------------------------|-----------------------------|-----------------------------|
@@ -71,9 +86,9 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda e
 
 ### Cronograma Executado
 
-Na Tabela 4, tem-se o cronograma executado para todas as atividades da segunda entrega.
+Na Tabela 5, tem-se o cronograma executado para todas as atividades da segunda entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Execução da Entrega 2</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Execução da Entrega 2</p></font>
 
 | Atividade                                                                 | Período de desenvolvimento     | Responsáveis                                      | Revisão                     | Revisores                   |
 |--------------------------------------------------------------------------|--------------------------------|--------------------------------------------------|-----------------------------|-----------------------------|
@@ -100,9 +115,9 @@ Na Tabela 4, tem-se o cronograma executado para todas as atividades da segunda e
 
 ### Cronograma Planejado
 
-Na Tabela 5, tem-se o cronograma planejado para todas as atividades da terceira entrega.
+Na Tabela 6, tem-se o cronograma planejado para todas as atividades da terceira entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Planejamento da Entrega 3</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Planejamento da Entrega 3</p></font>
 
 | Atividade                     | Período de desenvolvimento     | Responsáveis               | Revisão                     | Revisores           |
 |------------------------------|--------------------------------|----------------------------|-----------------------------|----------------------|
@@ -117,9 +132,9 @@ Na Tabela 5, tem-se o cronograma planejado para todas as atividades da terceira 
 
 ### Cronograma Executado
 
-Na Tabela 6, tem-se o cronograma executado para todas as atividades da terceira entrega.
+Na Tabela 7, tem-se o cronograma executado para todas as atividades da terceira entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Execução da Entrega 3</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Execução da Entrega 3</p></font>
 
 | Atividade                     | Período de desenvolvimento     | Responsáveis               | Revisão                     | Revisores           |
 |------------------------------|--------------------------------|----------------------------|-----------------------------|----------------------|
@@ -138,9 +153,9 @@ Na Tabela 6, tem-se o cronograma executado para todas as atividades da terceira 
 
 ### Cronograma Planejado
 
-Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta entrega.
+Na Tabela 8, tem-se o cronograma planejado para todas as atividades da quarta entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Planejamento da Entrega 4</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 8</b> - Planejamento da Entrega 4</p></font>
 
 | Atividade                                       | Período de desenvolvimento     | Responsáveis           | Revisão                     | Revisores               |
 |------------------------------------------------|--------------------------------|------------------------|-----------------------------|--------------------------|
@@ -154,9 +169,9 @@ Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta en
 
 ### Cronograma Executado
 
-Na Tabela 8, tem-se o cronograma planejado para todas as atividades da quarta entrega.
+Na Tabela 9, tem-se o cronograma planejado para todas as atividades da quarta entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 8</b> - Execução da Entrega 4</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 9</b> - Execução da Entrega 4</p></font>
 
 | Atividade                                       | Período de desenvolvimento     | Responsáveis           | Revisão                     | Revisores               |
 |------------------------------------------------|--------------------------------|------------------------|-----------------------------|--------------------------|
@@ -174,9 +189,9 @@ Na Tabela 8, tem-se o cronograma planejado para todas as atividades da quarta en
 
 ### Cronograma Planejado
 
-Na Tabela 9, tem-se o cronograma planejado para todas as atividades da quinta entrega.
+Na Tabela 10, tem-se o cronograma planejado para todas as atividades da quinta entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 9</b> - Planejamento da Entrega 5</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 10</b> - Planejamento da Entrega 5</p></font>
 
 | Atividade                                              | Período de desenvolvimento     | Responsáveis         | Revisão                     | Revisores              |
 |-------------------------------------------------------|--------------------------------|----------------------|-----------------------------|-------------------------|
@@ -189,9 +204,9 @@ Na Tabela 9, tem-se o cronograma planejado para todas as atividades da quinta en
 
 ### Cronograma Executado
 
-Na Tabela 10, tem-se o cronograma executado para todas as atividades da quinta entrega.
+Na Tabela 11, tem-se o cronograma executado para todas as atividades da quinta entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 10</b> - Execução da Entrega 5</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 11</b> - Execução da Entrega 5</p></font>
 
 | Atividade                                              | Período de desenvolvimento     | Responsáveis         | Revisão                     | Revisores              |
 |-------------------------------------------------------|--------------------------------|----------------------|-----------------------------|-------------------------|
@@ -208,9 +223,9 @@ Na Tabela 10, tem-se o cronograma executado para todas as atividades da quinta e
 
 ### Cronograma Planejado
 
-Na Tabela 11, tem-se o cronograma planejado para todas as atividades da entrega 6.
+Na Tabela 12, tem-se o cronograma planejado para todas as atividades da entrega 6.
 
-<font size="3"><p style="text-align: center"><b>Tabela 11</b> - Planejamento da Entrega 6</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 12</b> - Planejamento da Entrega 6</p></font>
 
 | Atividade                                        | Período de desenvolvimento     | Responsáveis         | Revisão                     | Revisores              |
 |-------------------------------------------------|--------------------------------|----------------------|-----------------------------|-------------------------|
@@ -224,9 +239,9 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da entrega 
 
 ### Cronograma Executado
 
-Na Tabela 12, tem-se o cronograma executado para todas as atividades da entrega 6.
+Na Tabela 13, tem-se o cronograma executado para todas as atividades da entrega 6.
 
-<font size="3"><p style="text-align: center"><b>Tabela 12</b> - Execução da Entrega 6</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 13</b> - Execução da Entrega 6</p></font>
 
 | Atividade                                        | Período de desenvolvimento     | Responsáveis         | Revisão                     | Revisores              |
 |-------------------------------------------------|--------------------------------|----------------------|-----------------------------|-------------------------|
@@ -244,9 +259,9 @@ Na Tabela 12, tem-se o cronograma executado para todas as atividades da entrega 
 
 ### Cronograma Planejado
 
-Na Tabela 13, tem-se o cronograma planejado para todas as atividades da entrega final.
+Na Tabela 14, tem-se o cronograma planejado para todas as atividades da entrega final.
 
-<font size="3"><p style="text-align: center"><b>Tabela 13</b> - Planejamento da Entrega Final</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 14</b> - Planejamento da Entrega Final</p></font>
 
 | Atividade                                        | Período de desenvolvimento     | Responsáveis         | Revisão                     | Revisores              |
 |-------------------------------------------------|--------------------------------|----------------------|-----------------------------|-------------------------|
@@ -258,9 +273,9 @@ Na Tabela 13, tem-se o cronograma planejado para todas as atividades da entrega 
 
 ### Cronograma Executado
 
-Na Tabela 14, tem-se o cronograma executado para todas as atividades da entrega final.
+Na Tabela 15, tem-se o cronograma executado para todas as atividades da entrega final.
 
-<font size="3"><p style="text-align: center"><b>Tabela 14</b> - Execução da Entrega Final</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 15</b> - Execução da Entrega Final</p></font>
 
 | Atividade                                        | Período de desenvolvimento     | Responsáveis         | Revisão                     | Revisores              |
 |-------------------------------------------------|--------------------------------|----------------------|-----------------------------|-------------------------|
@@ -292,4 +307,5 @@ Na Tabela 14, tem-se o cronograma executado para todas as atividades da entrega 
 | `1.5`  |  01/06/2025 | Adição dos cronogramas executados da entrega 3 e 4 | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
 | `1.51` |  06/07/2025 | Pequenos ajustes de formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.6`  |  06/07/2025 | Adição dos cronogramas executados das últimas entregas e pequenas correções | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) e [Arthur Evangelista](https://github.com/Arthurveg)|
-| `1.7`  |  06/07/2025 | Correção de algumas datas após revisão | [Arthur Evangelista](https://github.com/Arthurveg) | [Davi Camilo](https://github.com/Davicamilo23)
+| `1.7`  |  06/07/2025 | Correção de algumas datas após revisão | [Arthur Evangelista](https://github.com/Arthurveg) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.8`  | 07/07/2025 | Adição da tabela de contribuição | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR)  |

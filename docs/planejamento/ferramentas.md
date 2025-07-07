@@ -6,9 +6,24 @@ Para auxiliar na execução e organização do projeto, foram utilizadas diferen
 
 ---
 
+## Integrantes do grupo envolvidos
+
+A seguir apresentamos os nomes de cada integrante do grupo que participou nesse artefato e suas respectivas contribuições.
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes envolvidos no artefato.</p></font>
+
+| Nome                                                   | O que fez                 |
+| ------------------------------------------------------ | ---------------------- |
+| [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Artur de Camargos Rodrigues](https://github.com/ArturDCR), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31), [Pedro Everton de Paula](https://github.com/pedroeverton217) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | Selecionaram as ferramentas a serem utilizadas no trabalho. |
+|[Davi Camilo Menezes](https://github.com/Davicamilo23)| Adicionou a tabela de contribuição dos membros, revisou o artefato para a entrega final e fez as alterações necessárias. |
+
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+
+---
+
 ## Ferramentas Utilizadas
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas utilizadas no projeto</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Ferramentas utilizadas no projeto</p></font>
 
 |                                                                                                                           |         Ferramenta         |                              Finalidade                              |
 | :-----------------------------------------------------------------------------------------------------------------------: | :------------------------: | :------------------------------------------------------------------: |
@@ -88,3 +103,4 @@ Para auxiliar na execução e organização do projeto, foram utilizadas diferen
 | `1.6`   | 11/05/2025 | Adiciona Lucidchart às ferramentas| [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.6.1`   | 11/05/2025 | Adiciona Lucidchart às referências da página| [Euller Júlio](https://github.com/Potatoyz908) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.62` | 06/07/2025 | Pequenos ajustes de formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
+| `1.7`  | 07/07/2025 | Adição da tabela de contribuição | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR)  |

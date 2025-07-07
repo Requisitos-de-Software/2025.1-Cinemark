@@ -16,6 +16,21 @@ Durante a etapa inicial do projeto, cada integrante da equipe sugeriu um aplicat
 
 ---
 
+## Integrantes do grupo envolvidos
+
+A seguir apresentamos os nomes de cada integrante do grupo que participou nesse artefato e suas respectivas contribuições.
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes envolvidos no artefato.</p></font>
+
+| Nome                                                   | O que fez                 |
+| ------------------------------------------------------ | ---------------------- |
+| [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Artur de Camargos Rodrigues](https://github.com/ArturDCR), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31), [Pedro Everton de Paula](https://github.com/pedroeverton217) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | Escolheram o aplicativo a ser trabalhado na disciplina. |
+|[Davi Camilo Menezes](https://github.com/Davicamilo23)| Adicionou a tabela de contribuição dos membros, revisou o artefato para a entrega final e fez as alterações necessárias. |
+
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+
+---
+
 ## Aplicativos Considerados
 
 - Carteira Digital de Trânsito  
@@ -89,3 +104,4 @@ O arquivo com os Termos de Uso completos na data atual (04/05/2025) pode ser vis
 | `2.3`  |04/05/2025|Ajuste dos termos de uso| [Artur de Camargos](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `2.4`  | 04/05/2025 | Ajuste nas imagens | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `2.41` | 06/07/2025 | Pequenos ajustes de formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
+| `2.5`  | 07/07/2025 | Adição da tabela de contribuição | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR)  |
