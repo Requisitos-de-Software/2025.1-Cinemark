@@ -9,26 +9,26 @@ No contexto do aplicativo Cinemark Digital, os cenários elaborados visam repres
 
 Os cenários foram criados a partir da análise dos [requisitos levantados](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) na fase de elicitação, mapeando fluxos de uso com base nas descrições de funcionalidades. Cada passo foi revisado internamente pela equipe, garantindo que todas as pré-condições, restrições e exceções estivessem contempladas.
 
-## Validação dos cenários com usuário
+## Validação dos Cenários com Usuário
 
-Para garantir que os cenários elaborados refletem fielmente as necessidades e expectativas dos usuários finais, realizamos uma validação com um usuário do aplicativo Cinemark Digital. Os cenários foram apresentados ao usuário, que analisou cada narrativa e forneceu um feedback. A gravação foi feita no dia 01/07/2025, na Faculdade de Ciência e Tecnologia em Engenharias.
+Para garantir que os cenários elaborados refletem fielmente as necessidades e expectativas dos usuários finais, realizamos uma validação com um usuário do aplicativo Cinemark Digital. O artefato foi apresentado ao usuário, que o analisou e forneceu um feedback. A gravação foi feita no dia 01/07/2025, na Faculdade de Ciências e Tecnologia em Engenharias.
 
 ### Cronograma
 
-A tabela 1 apresenta o cronograma da priorização e as funções dos membros responsáveis pela técnica.
+A tabela 1 apresenta o cronograma da validação e as funções dos membros.
 
-<font size="3"><p style="text-align: center">Tabela 1: Cronograma de validação dos cenários.</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Cronograma da validação dos cenários.</p></font>
 
 | Nome                                                   | Data       | Função                 |
 | ------------------------------------------------------ | ---------- | ---------------------- |
 | [Arthur Evangelista de Oliveira](https://github.com/arthurevg1) | 01/07/2025 | Mediador |
 | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | 01/07/2025 | Mediador |
 | [Davi Camilo Menezes](https://github.com/Davicamilo23) | 01/07/2025 | Mediador |
-|  [Euller Júlio da Silva](https://github.com/Potatoyz908) | 01/07/2025 | Mediador |
+| [Euller Júlio da Silva](https://github.com/Potatoyz908) | 01/07/2025 | Mediador |
 | [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31) | 01/07/2025 | Mediador |
 | [Pedro Everton de Paula](https://github.com/pedroeverton217) | 01/07/2025 | Mediador |
 | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | 01/07/2025 | Mediador |
-|Eduardo Pina|01/07/2025|Usuário do aplicativo|
+|Eduardo de Pina|01/07/2025|Usuário do aplicativo|
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
 
@@ -349,3 +349,4 @@ Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 20
 | `1.9`  | 04/07/2025 | Organização do documento, agora as tabelas seguem a ordem de 1 a 14. Também foi adicionada a tabela 1 e o vídeo de validação dos cenários | [Arthur Evangelista](https://github.com/arthurevg) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
 | `1.10`  | 06/07/2025 | Ajuste no RQ29 com sua nova versão RQ29A e RQ29B. | [Euller Júlio](https://github.com/Potatoyz908)      | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.11`  | 06/07/2025 | Ajuste no RQ32 com sua nova versão RQ32A e RQ32B. | [Euller Júlio](https://github.com/Potatoyz908)      | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.12`  | 07/07/2025 | Pequeno ajuste na parte de validação | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |

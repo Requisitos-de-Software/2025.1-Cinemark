@@ -15,6 +15,37 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 * **S** – *Suportabilidade*: diz respeito à facilidade de manutenção, adaptabilidade, portabilidade e escalabilidade.
 * **+** – requisitos adicionais, como restrições legais, licenças, requisitos físicos, entre outros.
 
+---
+
+## Validação da Especificação Suplementar com Usuário
+
+Para garantir que a especificação suplementar elaborada reflete fielmente as necessidades e expectativas dos usuários finais, realizamos uma validação com um usuário do aplicativo Cinemark Digital. O artefato foi apresentado ao usuário, que o analisou e forneceu um feedback. A gravação foi feita no dia 07/07/2025, na Faculdade de Ciências e Tecnologia em Engenharias.
+
+### Cronograma
+
+A tabela 20 apresenta o cronograma da validação e as funções dos membros.
+
+<font size="3"><p style="text-align: center">Tabela 20: Cronograma da validação da especificação suplementar.</p></font>
+
+| Nome                                                   | Data       | Função                 |
+| ------------------------------------------------------ | ---------- | ---------------------- |
+| [Arthur Evangelista de Oliveira](https://github.com/arthurevg1) | 07/07/2025 | Mediador |
+| [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | 07/07/2025 | Mediador |
+| [Davi Camilo Menezes](https://github.com/Davicamilo23) | 07/07/2025 | Mediador |
+| [Euller Júlio da Silva](https://github.com/Potatoyz908) | 07/07/2025 | Mediador |
+| [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31) | 07/07/2025 | Mediador |
+| [Pedro Everton de Paula](https://github.com/pedroeverton217) | 07/07/2025 | Mediador |
+| [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | 07/07/2025 | Mediador |
+|Jorge Henrique|07/07/2025|Usuário do aplicativo|
+
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+
+### Vídeo de Validação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T3vFlCdg-fk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ## 3. Integrantes do grupo envolvidos
 
 **Tabela 19**
@@ -282,3 +313,4 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 | `1.7`  | 18/05/2025 | Padroniza autoria das tabelas como "Autor:"| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.8`  | 25/05/2025 | Adição da tabela de participantes | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.9`  | 27/05/2025 | Correção das tabelas 5, 6 e 7 | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
+| `1.10`  | 07/07/2025 | Adição da gravação da validação com o usuário | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
