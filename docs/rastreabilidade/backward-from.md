@@ -104,6 +104,20 @@ Na Tabela 1, é apresentado o modelo de matriz de rastreabilidade backward-from 
 						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ09">RQ09</a>.
 						</td>
 					</tr>
+					<tr>
+						<td><a  href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a></td>
+						<td>Adicionou rastreabilidade dos seguintes requisitos: <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ46">RQ46</a>,
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ47">RQ47</a>,
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ48A">RQ48A</a>,
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ48B">RQ48B</a>,
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ49">RQ49</a>,
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ50">RQ50</a>,
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ51">RQ51</a>,
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ52">RQ52</a> e
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ53">RQ53</a>.
+						<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ54">RQ55</a>.
+						</td>
+					</tr>
 			</tbody>
 		</table>
 	</div>
@@ -177,6 +191,16 @@ Na Tabela 3, apresentamos a matriz de rastreabilidade backward-from, que relacio
 | [RQ43](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ43) | 	O aplicativo deve permitir que o usuário realize todo o fluxo de seleção de assentos e compra de ingresso com, em média, 4 interações diretas com o sistema. | [IS28](../elicitação/introspecção.md#IS28) | Introspecção |
 | [RQ44](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ44) | 	Interface acessível para pessoas com deficiência visual (leitores de tela) e baixo-visão. | [IS35](../elicitação/introspecção.md#IS35), [IS36](../elicitação/introspecção.md#IS36), [AI25](../elicitação/analiseUI.md#AI25), [ST05](../elicitação/storytelling.md#ST05) | Introspecção, Análise de Interface, Storytelling |
 | [RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ45) | As cores da interface do aplicativo devem possuir nível de contraste conforme a WCAG A/AA. | [AI25](../elicitação/analiseUI.md#AI25) | Análise de Interface |
+| [RQ46](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ46) | O aplicativo deve exibir uma tabela com o significado de cada ícone e cor presente no mapa de assento. | [AI22](../elicitação/analiseUI.md#AI22) | Análise de Interface |
+| [RQ47](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ47) | Atualizar automaticamente o valor total conforme seleção de ingressos e produtos. | [AI23](../elicitação/analiseUI.md#AI23) | Análise de Interface |
+| [RQ48A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ48A) | Proteger dados de pagamento. | [IS32](../elicitação/introspecção.md#IS32), [Q10](../elicitação/questionario.md#Q10) | Introspecção, Questionário |
+| [RQ48B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ48B) | Proteger histórico do usuário. | [IS32](../elicitação/introspecção.md#IS32), [Q10](../elicitação/questionario.md#Q10) | Introspecção, Questionário |
+| [RQ49](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ49) | Autenticação por biometria ou PIN para operações sensíveis, como exclusão de conta, visualização de dados de pagamento. | [IS33](../elicitação/introspecção.md#IS33) | Introspecção |
+| [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ50) | Notificações push customizáveis pelo usuário. | [IS34](../elicitação/introspecção.md#IS34) | Introspecção |
+| [RQ51](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ51) | Exibir mapa de assentos com indicação gráfica clara de ocupação e disponibilidade. | [IS31](../elicitação/introspecção.md#IS31) | Introspecção |
+| [RQ52](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ52) | Limitar quantidade máxima de 20 unidades por item no Snack Bar. | [AI26](../elicitação/analiseUI.md#AI26) | Análise de Interface |
+| [RQ53](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ53) | O sistema deve manter informações da sessão (filme, data, hora e sala) visíveis em todas as etapas do fluxo de compra. | [AI27](../elicitação/analiseUI.md#AI27) | Análise de Interface |
+| [RQ54](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#:~:text=RQ54) | Ocultar parcialmente o e-mail recuperado para segurança (exibir com asteriscos). | [AI33](../elicitação/analiseUI.md#AI33) | Análise de Interface |
 
 <font size="3"><p style="text-align: center">Fonte: Autores, 2025.</p></font>
 
@@ -203,3 +227,4 @@ Na Tabela 3, apresentamos a matriz de rastreabilidade backward-from, que relacio
 | `1.7`  |  08/06/2025 |  Adição de rastreabilidade dos requisitos RQ37 a RQ45  | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.8`  |  08/06/2025 |  Adição de rastreabilidade dos requisitos RQ01 a RQ09  | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Euller Júlio](https://github.com/Potatoyz908) |
 | `2.0`  |  06/07/2025 |  Correção nos requisitos que foram alterados na elicitação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `2.1`  |  06/07/2025 |  Adição de rastreabilidade dos requisitos RQ46 a RQ54 | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |  [Davi Camilo](https://github.com/Davicamilo23) |

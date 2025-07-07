@@ -47,6 +47,10 @@ Para a construção do artefato de **rastreabilidade Forward-From**, foram segui
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
 						<td>Elaborou a Introdução, Metodologia, Tabela Modelo para rastreabilidade e a rastreablidade Forward-From dos requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq01" target="_blank">RQ01</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq02A" target="_blank">RQ02A</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq02B" target="_blank">RQ02B</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq03" target="_blank">RQ03</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq04" target="_blank">RQ04</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq05" target="_blank">RQ05</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq06" target="_blank">RQ06</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq07" target="_blank">RQ07</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq08" target="_blank">RQ08</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq09" target="_blank">RQ09</a>. </td>
 					</tr>
+					<tr>
+						<td><a  href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a></td>
+						<td>Elaborou a Introdução, Metodologia, Tabela Modelo para rastreabilidade e a rastreablidade Forward-From dos requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq46" target="_blank">RQ46</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq47" target="_blank">RQ47</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq48" target="_blank">RQ48A</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq48A" target="_blank">RQ48B</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq48B" target="_blank">RQ49</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq49" target="_blank">RQ50</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq50" target="_blank">RQ51</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq51" target="_blank">RQ52</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq52" target="_blank">RQ53</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq53" target="_blank">RQ54</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq54" target="_blank">RQ09</a>. </td>
+					</tr>
 			</tbody>
 		</table>
 	</div>
@@ -873,6 +877,106 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
+#### **RQ46**
+
+|                 [RQ46](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq46)                 |                            Garantir legenda clara para cores e ícones no mapa de assentos                             |
+| :-----------------------: | :----------------------------------------------------------------------------------------: |
+|            NFR            |                                       Não se aplica                                       |
+| Especificação Suplementar |                [Tabela 5](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especificaçãoSuplementar/#tabela-5-detalhamento-do-rq46)                |
+| Artefatos (elicitação de requisitos) |                                            [AI22](../elicitação/analiseUI.md#AI22) |
+
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR), 2025.</p></font>
+
+#### **RQ47**
+
+|                 [RQ47](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq47)                 |                            Atualizar automaticamente o valor total conforme seleção de ingressos e produtos                             |
+| :-----------------------: | :----------------------------------------------------------------------------------------: |
+|            NFR            |                      [Requisitos Não-Funcionais de Desempenho](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/nfrFramework/#nfr-03-desempenho)                      |
+| Especificação Suplementar |                [Tabela 6](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especificaçãoSuplementar/#tabela-6-detalhamento-do-rq47)                 |
+| Artefatos (elicitação de requisitos) |                                            [AI23](../elicitação/analiseUI.md#AI23) |
+
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR), 2025.</p></font>
+
+#### **RQ48A**
+
+|                 [RQ48A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq48A)                 |                            Proteger dados de pagamento e histórico do usuário com criptografia                             |
+| :-----------------------: | :----------------------------------------------------------------------------------------: |
+|            NFR            |                                       Não se aplica                                       |
+| Especificação Suplementar |                [Tabela 7](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especificaçãoSuplementar/#tabela-7-detalhamento-do-rq48)                 |
+| Artefatos (elicitação de requisitos) |                                            [IS32](../elicitação/introspecção.md#IS32), [Q10](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/questionario) |
+
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR), 2025.</p></font>
+
+#### **RQ48B**
+
+|                 [RQ48B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq48B)                 |                            Proteger histórico do usuário.                             |
+| :-----------------------: | :----------------------------------------------------------------------------------------: |
+|            NFR            |                                       Não se aplica                                       |
+| Especificação Suplementar |                [Tabela 7](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especificaçãoSuplementar/#tabela-7-detalhamento-do-rq48)                 |
+| Artefatos (elicitação de requisitos) |                                            [IS32](../elicitação/introspecção.md#IS32), [Q10](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/questionario) |
+
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR), 2025.</p></font>
+
+#### **RQ49**
+
+|                 [RQ49](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq49)                 |                            Autenticação por biometria ou PIN para operações sensíveis                             |
+| :-----------------------: | :----------------------------------------------------------------------------------------: |
+|            NFR            |                      [Requisitos Não-Funcionais de Segurança](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/nfrFramework/#nfr-02-seguran%C3%A7a)                      |
+| Especificação Suplementar |                [Tabela 9](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especificaçãoSuplementar/#tabela-9-detalhamento-do-rq49)                 |
+| Artefatos (elicitação de requisitos) |                                            [IS33](../elicitação/introspecção.md#IS33) |
+
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR), 2025.</p></font>
+
+#### **RQ50**
+
+|                 [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq50)                 |                            Notificações push customizáveis pelo usuário                             |
+| :-----------------------: | :----------------------------------------------------------------------------------------: |
+|            NFR            |                      [Requisitos Não-Funcionais de Usabilidade](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/nfrFramework/#nfr-01-usabilidade)                      |
+| Especificação Suplementar |                [Tabela 11](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especificaçãoSuplementar/#tabela-11-detalhamento-do-rq50)                 |
+| Artefatos (elicitação de requisitos) |                                            [IS50](../elicitação/introspecção.md#IS50) |
+
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR), 2025.</p></font>
+
+#### **RQ51**
+
+|                 [RQ51](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq51)                 |                            Exibir mapa de assentos com indicação gráfica clara                             |
+| :-----------------------: | :----------------------------------------------------------------------------------------: |
+|            NFR            |                                       Não se aplica                                       |
+| Especificação Suplementar |                [Tabela 12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especificaçãoSuplementar/#tabela-12-detalhamento-do-rq51)                 |
+| Artefatos (elicitação de requisitos) |                                            [IS31](../elicitação/introspecção.md#IS31) |
+
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR), 2025.</p></font>
+
+#### **RQ52**
+
+|                 [RQ52](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq52)                 |                            Limitar quantidade máxima de 20 unidades por item no Snack Bar                             |
+| :-----------------------: | :----------------------------------------------------------------------------------------: |
+|            NFR            |                      	Não se aplica                      |
+| Especificação Suplementar |                [Tabela 13](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especificaçãoSuplementar/#tabela-13-detalhamento-do-rq52)                 |
+| Artefatos (elicitação de requisitos) |                                            [AI26](../elicitação/analiseUI.md#AI26) |
+
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR), 2025.</p></font>
+
+#### **RQ53**
+
+|                 [RQ53](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq53)                  |                            Manter informações da sessão visíveis durante a compra                             |
+| :-----------------------: | :----------------------------------------------------------------------------------------: |
+|            NFR            |                      [Requisitos Não-Funcionais de Usabilidade](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/nfrFramework/#nfr-01-usabilidade)                      |
+| Especificação Suplementar |                [Tabela 15](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especificaçãoSuplementar/#tabela-15-detalhamento-do-rq53)                 |
+| Artefatos (elicitação de requisitos) |                                            [AI27](../elicitação/analiseUI.md#AI27) |
+
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR), 2025.</p></font>
+
+#### **RQ54**
+
+|                 [RQ54](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq54)                 |                            Ocultar parcialmente o e-mail recuperado para segurança                             |
+| :-----------------------: | :----------------------------------------------------------------------------------------: |
+|            NFR            |                      [Requisitos Não-Funcionais de Segurança](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/nfrFramework/#nfr-02-seguran%C3%A7a)                      |
+| Especificação Suplementar |                [Tabela 18](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especificaçãoSuplementar/#tabela-18-detalhamento-do-rq54)                 |
+| Artefatos (elicitação de requisitos) |                                            [AI33](../elicitação/analiseUI.md#AI33) |
+
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR), 2025.</p></font>
+
 ---
 
 ## Referências Bibliográficas
@@ -898,3 +1002,4 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 | `1.8` | 05/07/2025 | Corrije rastreabilidade com base na separação de RQ20 em RQ20A e RQ20B | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Euller Júlio da Silva](https://github.com/Potatoyz908) |
 | `2.0`  |  06/07/2025 |  Correção nos requisitos que foram alterados na elicitação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `2.1`  |  06/07/2025 |  Correção nos requisitos não funcionais | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `2.2` | 06/07/2025 | Adiciona rastreabilidade dos requisitos: [RQ46](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ47](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ48A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ48B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ49](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ51](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ52](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ53](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ54](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR)| [Davi Camilo](https://github.com/Davicamilo23) |
