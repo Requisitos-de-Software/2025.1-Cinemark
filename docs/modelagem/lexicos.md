@@ -21,6 +21,37 @@ A estrutura de cada termo léxico é composta por:
 * **Impacto**: quais funcionalidades ou elementos são afetados por esse termo
 * **Rastreabilidade**: requisito(s) elicitado(s) ao qual o termo está relacionado
 
+---
+
+## Validação dos Léxicos com Usuário
+
+Para garantir que os léxicos elaborados refletem fielmente as necessidades e expectativas dos usuários finais, realizamos uma validação com um usuário do aplicativo Cinemark Digital. O artefato foi apresentado ao usuário, que o analisou e forneceu um feedback. A gravação foi feita no dia 07/07/2025, na Faculdade de Ciências e Tecnologia em Engenharias.
+
+### Cronograma
+
+A tabela 25 apresenta o cronograma da validação e as funções dos membros.
+
+<font size="3"><p style="text-align: center">Tabela 25: Cronograma da validação dos léxicos.</p></font>
+
+| Nome                                                   | Data       | Função                 |
+| ------------------------------------------------------ | ---------- | ---------------------- |
+| [Arthur Evangelista de Oliveira](https://github.com/arthurevg1) | 07/07/2025 | Mediador |
+| [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | 07/07/2025 | Mediador |
+| [Davi Camilo Menezes](https://github.com/Davicamilo23) | 07/07/2025 | Mediador |
+| [Euller Júlio da Silva](https://github.com/Potatoyz908) | 07/07/2025 | Mediador |
+| [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31) | 07/07/2025 | Mediador |
+| [Pedro Everton de Paula](https://github.com/pedroeverton217) | 07/07/2025 | Mediador |
+| [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | 07/07/2025 | Mediador |
+|Jorge Henrique|07/07/2025|Usuário do aplicativo|
+
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+
+### Vídeo de Validação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KGLfQ5PAYd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ## Integrantes do grupo envolvidos
 
 **Tabela 24**
@@ -354,3 +385,4 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 | `1.11`  | 26/05/2025 | Adição da tabela de participantes | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.12`  | 06/07/2025 | Ajuste no RQ29, adicionando suas novas versões RQ29A e RQ29B | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.13`  | 06/07/2025 | Ajuste no RQ32, adicionando suas novas versões RQ32A e RQ32B | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
+| `1.14`  | 07/07/2025 | Adição da gravação da validação com o usuário | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |

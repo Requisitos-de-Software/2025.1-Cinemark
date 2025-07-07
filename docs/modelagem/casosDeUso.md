@@ -8,6 +8,37 @@
 
   Para a construção do diagrama de casos de uso do sistema Cinemark, adotamos uma abordagem clássica em UML. Utilizamos o LucidChart para elaborar a representação gráfica, garantindo consistência nos símbolos e clareza na disposição dos elementos.
 
+---
+
+## Validação dos Casos de Uso com Usuário
+
+Para garantir que os casos de uso elaborados refletem fielmente as necessidades e expectativas dos usuários finais, realizamos uma validação com um usuário do aplicativo Cinemark Digital. O artefato foi apresentado ao usuário, que o analisou e forneceu um feedback. A gravação foi feita no dia 07/07/2025, na Faculdade de Ciências e Tecnologia em Engenharias.
+
+### Cronograma
+
+A tabela 16 apresenta o cronograma da validação e as funções dos membros.
+
+<font size="3"><p style="text-align: center">Tabela 16: Cronograma da validação dos casos de uso.</p></font>
+
+| Nome                                                   | Data       | Função                 |
+| ------------------------------------------------------ | ---------- | ---------------------- |
+| [Arthur Evangelista de Oliveira](https://github.com/arthurevg1) | 07/07/2025 | Mediador |
+| [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | 07/07/2025 | Mediador |
+| [Davi Camilo Menezes](https://github.com/Davicamilo23) | 07/07/2025 | Mediador |
+| [Euller Júlio da Silva](https://github.com/Potatoyz908) | 07/07/2025 | Mediador |
+| [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31) | 07/07/2025 | Mediador |
+| [Pedro Everton de Paula](https://github.com/pedroeverton217) | 07/07/2025 | Mediador |
+| [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | 07/07/2025 | Mediador |
+|Jorge Henrique|07/07/2025|Usuário do aplicativo|
+
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+
+### Vídeo de Validação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gHCw-QZT284" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ## Integrantes do grupo envolvidos
 
 A seguir apresentamos os nomes de cada integrante do grupo que participou da técnica e suas respectivas contribuições.
@@ -423,3 +454,4 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 | `1.9`  | 26/06/2025 | Correção da rastreabilidade dos requisitos utilizados nos casos de uso. | [Arthur Evangelista](https://github.com/arthurevg) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
 | `1.10`  | 06/07/2025 | Ajuste no RQ29, adicionando suas novas versões RQ29A e RQ29B | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.11`  | 06/07/2025 | Ajuste no RQ32, adicionando suas novas versões RQ32A e RQ32B | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.12`  | 07/07/2025 | Adição da gravação da validação com o usuário | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |

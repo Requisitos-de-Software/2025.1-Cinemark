@@ -4,6 +4,36 @@ A História de Usuário é uma técnica da Engenharia de Requisitos utilizada pa
 
 ---
 
+## Validação das Histórias de Usuário com Usuário
+
+Para garantir que as histórias de usuário elaboradas reflete fielmente as necessidades e expectativas dos usuários finais, realizamos uma validação com um usuário do aplicativo Cinemark Digital. O artefato foi apresentado ao usuário, que o analisou e forneceu um feedback. A gravação foi feita no dia 07/07/2025, na Faculdade de Ciências e Tecnologia em Engenharias.
+
+### Cronograma
+
+A tabela 2 apresenta o cronograma da validação e as funções dos membros.
+
+<font size="3"><p style="text-align: center">Tabela 2: Cronograma da validação das Histórias de Usuário.</p></font>
+
+| Nome                                                   | Data       | Função                 |
+| ------------------------------------------------------ | ---------- | ---------------------- |
+| [Arthur Evangelista de Oliveira](https://github.com/arthurevg1) | 07/07/2025 | Mediador |
+| [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | 07/07/2025 | Mediador |
+| [Davi Camilo Menezes](https://github.com/Davicamilo23) | 07/07/2025 | Mediador |
+| [Euller Júlio da Silva](https://github.com/Potatoyz908) | 07/07/2025 | Mediador |
+| [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31) | 07/07/2025 | Mediador |
+| [Pedro Everton de Paula](https://github.com/pedroeverton217) | 07/07/2025 | Mediador |
+| [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | 07/07/2025 | Mediador |
+|Felipe|07/07/2025|Usuário 1 do aplicativo|
+|Mateus|07/07/2025|Usuário 2 do aplicativo|
+
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+
+### Vídeo de Validação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/diXYzfO5S18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ## Integrantes do grupo envolvidos
 
 Tabela 1: Integrantes do grupo envolvidos no artefato.
@@ -2082,3 +2112,4 @@ Tabela 2: Modelo de tabela para Histórias de Usuário.
 | `1.6`  | 06/07/2025 | Ajuste no RQ32, adicionando suas novas versões RQ32A e RQ32B | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.7`  | 07/07/2025 | Correções após a revisão do artefato | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.71` | 07/07/2025 | Pequena correção na tabela de contribuição | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.8`  | 07/07/2025 | Adição da gravação da validação com o usuário | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |

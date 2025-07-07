@@ -8,6 +8,37 @@ O Product Backlog é um artefato essencial no processo de desenvolvimento ágil,
 
 As histórias de usuário foram previamente definidas com base nos objetivos do projeto, considerando as principais funcionalidades esperadas para o sistema. A equipe de desenvolvimento ficou responsável por organizá-las, estruturando-as em uma hierarquia de temas, épicos e funcionalidades (features), de forma a facilitar o entendimento e a gestão do escopo. Após essa organização inicial, o Product Owner (PO) ficou encarregado de realizar a priorização a partir da técnica **Three-Level Scale estendida**. As tabelas a seguir apresentam o backlog estruturado com os respectivos épicos, funcionalidades e histórias de usuário, além de uma explicação sobre a hierarquia e os termos utilizados.
 
+---
+
+## Validação do Backlog com Usuário
+
+Para garantir que o Backlog elaborado reflete fielmente as necessidades e expectativas dos usuários finais, realizamos uma validação com um usuário do aplicativo Cinemark Digital. O artefato foi apresentado ao usuário, que o analisou e forneceu um feedback. A gravação foi feita no dia 07/07/2025, na Faculdade de Ciências e Tecnologia em Engenharias.
+
+### Cronograma
+
+A tabela 2 apresenta o cronograma da validação e as funções dos membros.
+
+<font size="3"><p style="text-align: center">Tabela 2: Cronograma da validação do Backlog.</p></font>
+
+| Nome                                                   | Data       | Função                 |
+| ------------------------------------------------------ | ---------- | ---------------------- |
+| [Arthur Evangelista de Oliveira](https://github.com/arthurevg1) | 07/07/2025 | Mediador |
+| [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | 07/07/2025 | Mediador |
+| [Davi Camilo Menezes](https://github.com/Davicamilo23) | 07/07/2025 | Mediador |
+| [Euller Júlio da Silva](https://github.com/Potatoyz908) | 07/07/2025 | Mediador |
+| [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31) | 07/07/2025 | Mediador |
+| [Pedro Everton de Paula](https://github.com/pedroeverton217) | 07/07/2025 | Mediador |
+| [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | 07/07/2025 | Mediador |
+|Alyssa Werneck|07/07/2025|Usuária do aplicativo|
+
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+
+### Vídeo de Validação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jEVrX30K_Jg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ## Integrantes do grupo envolvidos
 
 Tabela 1: Integrantes do grupo envolvidos no artefato.
@@ -479,3 +510,4 @@ Para contextualizar, cada épico abaixo traz uma descrição sucinta de seu prop
 | `1.8`  | 01/06/2025 | Ajuste nas tabelas e adição de épicos faltantes na tabela de mapeamento | [Euller Júlio da Silva](https://github.com/Potatoyz908) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.9`  | 01/06/2025 | Ajuste na tabela de participantes, correção dos números das features e adição da gravação com PO | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio da Silva](https://github.com/Potatoyz908) |
 | `1.10` | 01/06/2025 | Adição da priorização das features | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.11`  | 07/07/2025 | Adição da gravação da validação com o usuário | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
