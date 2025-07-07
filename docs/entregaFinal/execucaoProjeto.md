@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento tem como objetivo principal proporcionar uma visualização clara e detalhada da organização das etapas e do progresso da execução do projeto. Nosso foco é apresentar, de forma concisa, as atividades realizadas em cada fase, os artefatos produzidos e como cada integrante contribuiu para o andamento do trabalho.
+Este documento tem como objetivo principal proporcionar uma visualização clara e detalhada da organização das etapas e do progresso da execução do projeto. Nosso foco é apresentar, de forma concisa, as atividades realizadas em cada fase e os artefatos produzidos.
 
 ## Metodologia
 
