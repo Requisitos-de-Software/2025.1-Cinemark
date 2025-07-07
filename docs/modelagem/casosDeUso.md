@@ -48,6 +48,10 @@ A seguir apresentamos os nomes de cada integrante do grupo que participou da té
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
 						<td>Elaborou as tabelas de especificação de caso de uso 9 e 10</td>
 					</tr>
+					<tr>
+						<td><a  href="https://github.com/pedroeverton217">Pedro Everton de Paula</a></td>
+						<td>Elaborou as tabelas de especificação de caso de uso 15 e 16</td>
+					</tr>
 			</tbody>
 		</table>
 	</div>
@@ -153,6 +157,8 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 | [RQ30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ30) | Permitir que o usuário salve cinemas como favoritos para facilitar acessos futuros. | Não |
 | [RQ60](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ60) | Fornecer um Hub para crítica de filmes. | Não |
 | [RQ67](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ67) | Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial. | Não |
+| [RQ25](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ25) | O fluxo de compra de ingresso do aplicativo deve possuir no máximo 5 etapas. | Não |
+| [RQ26](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ26) | Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc). | Não |
 
 ## Especialização dos Casos de Uso
 
@@ -395,6 +401,44 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 | **Pós-condições**     | Usuário acessa a tela de ingressos ou recebe feedback de erro                                                                                                                                      |
 | **Data de Criação**   | 18/05/2025                                                                                                                                                                                                                     |
 | **Rastreabilidade**   | [RQ67](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ67) |
+
+<font size="3"><p style="text-align: center">Fonte: [Artur de Camargos](https://github.com/ArturDCR), 2025.</p></font>
+
+### **Tabela 15: Compra de ingresso em 5 etapas**
+
+| Campo | Descrição |
+| :------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **UC** | UC13 |
+| **Descrição** | Otimiza o fluxo de compra de ingresso para que o usuário consiga comprar em apenas 5 etapas |
+| **Ator** | Usuário |
+| **Pré-condições** | 1. Aplicativo instalado e aberto.<br> 2. Usuário autenticado.<br> 3. Conexão com Internet.<br> |
+| **Ação** | O usuário seleciona um filme, escolhe o tipo e quantidade de ingressos, informa os dados de pagamento e finaliza a compra. |
+| **Fluxo Principal** | 1. O usuário visualiza a lista de eventos disponíveis. <br> 2. O usuário seleciona um evento desejado. <br> 3. O usuário escolhe o tipo e a quantidade de ingressos. <br> 4. O usuário insere as informações de pagamento. <br> 5. O sistema confirma a compra e exibe o ingresso. |
+| **Fluxo Alternativo** | **Fluxo Alternativo A (Seleção de Assentos):** Após a seleção do tipo/quantidade de ingresso (Etapa 3 do Fluxo Principal), o sistema pode apresentar um mapa de assentos para seleção antes da etapa de pagamento.<br>**Fluxo Alternativo B (Uso de Cupom de Desconto):** Antes da etapa de pagamento (Etapa 4 do Fluxo Principal), o usuário pode inserir um cupom de desconto que recalcula o valor total da compra. |
+| **Fluxo de Exceção** | **Fluxo de Exceção A (Ingressos Esgotados):** Se os ingressos para o evento selecionado estiverem esgotados em qualquer etapa antes da finalização da compra, o sistema informa o usuário e oferece opções alternativas (outros eventos, lista de espera).<br>**Fluxo de Exceção B (Falha no Pagamento):** Se o pagamento for recusado ou falhar, o sistema exibe uma mensagem de erro e permite que o usuário tente novamente com os mesmos ou novos dados de pagamento. |
+| **Pós-condições** | O ingresso é gerado e disponibilizado para o usuário no aplicativo. Uma confirmação da compra é enviada para o e-mail cadastrado do usuário. |
+| **Data de Criação** | 07/07/2025 |
+| **Rastreabilidade** | RQ25 |
+
+<font size="3"><p style="text-align: center">Autor: [Pedro Everton](https://github.com/pedroeverton217).</p></font>
+
+### **Tabela 16: Salvar ingressos na carteira digital**
+
+| Campo | Descrição |
+| :------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **UC** | UC14 |
+| **Descrição** | Permite que o usuário salve o ingresso adquirido na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc.) para fácil acesso e gerenciamento. |
+| **Ator** | Usuário |
+| **Pré-condições** | 1. O usuário deve ter um ingresso válido no aplicativo. <br> 2. O dispositivo do usuário deve ter um aplicativo de carteira digital compatível instalado (Google Wallet, Apple Wallet, etc.). |
+| **Ação** | O usuário seleciona a opção de adicionar o ingresso à carteira digital. O sistema integra o ingresso com o aplicativo de carteira digital do dispositivo. |
+| **Fluxo Principal** | 1. O usuário acessa a tela de detalhes do ingresso no aplicativo. <br> 2. O usuário toca no botão "Adicionar à Carteira Digital" (ou similar). <br> 3. O sistema inicia o processo de integração com a carteira digital do dispositivo. <br> 4. O usuário confirma a adição do ingresso na interface da carteira digital. <br> 5. O sistema exibe uma mensagem de sucesso no aplicativo, confirmando que o ingresso foi adicionado à carteira. |
+| **Fluxo Alternativo** | **Fluxo Alternativo A (Ingresso Já Adicionado):** Se o ingresso já tiver sido adicionado à carteira digital, o botão "Adicionar à Carteira Digital" pode ser desabilitado ou exibir uma mensagem indicando que o ingresso já está na carteira. |
+| **Fluxo de Exceção** | **Fluxo de Exceção A (Carteira Digital Não Encontrada/Instalada):** Se o aplicativo não conseguir detectar uma carteira digital compatível no dispositivo, uma mensagem de erro é exibida, informando o usuário sobre a necessidade de instalar uma. <br> **Fluxo de Exceção B (Falha na Integração):** Se houver uma falha técnica durante o processo de adição do ingresso à carteira digital (por exemplo, erro de comunicação com a API da carteira), o sistema informa o usuário e sugere tentar novamente. |
+| **Pós-condições** | O ingresso está disponível e acessível na carteira digital do dispositivo do usuário. |
+| **Data de Criação** | 07/07/2025 |
+| **Rastreabilidade** | RQ26 |
+
+<font size="3"><p style="text-align: center">Autor: [Pedro Everton](https://github.com/pedroeverton217).</p></font>
 
 ***
 
