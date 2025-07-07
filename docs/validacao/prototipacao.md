@@ -39,6 +39,7 @@ O vídeo abaixo contém a validação dos protótipos 3 e 4. A validação foi r
 |[Davi Camilo](https://github.com/Davicamilo23)|Entrevistador|
 |Bernardo|Usuário entrevistado|
 
+
 **Protótipos validados:**
 
 - Protótipo 7: [RQ32A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) - Exibir recomendações de filmes baseadas em histórico e [RQ32B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) - Exibir recomendações de filmes baseadas em preferências
@@ -48,11 +49,30 @@ O vídeo abaixo contém a validação dos protótipos 7 e 8. A validação foi r
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e82bmqT2tBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Validação dos Protótipos 1 e 2 - Arthur Evangelista
+
+<p align="center">Tabela 3: Participantes da gravação da validação dos protótipos 7 e 8</p>
+
+|Participante|Função|
+|---|---|
+|[Arthur Evangelista](https://github.com/arthurevg)|Entrevistador|
+|Yan|Usuário entrevistado|
+
+
+**Protótipos validados:**
+
+- Protótipo 1: [RQ23A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) - Filtrar filmes por categoria
+- Protótipo 2: [RQ24](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) - Exibir trailers dentro do app
+
+O vídeo abaixo contém a validação dos protótipos 1 e 2. A validação foi realizada de forma presencial.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OyDjwxNMFGU?si=t0PkSwEv0V3IDRfj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Requisitos Contemplados nos Protótipos
 
-A Tabela 2 detalha os requisitos que foram incorporados e o autor de cada protótipo.
+A Tabela 4 detalha os requisitos que foram incorporados e o autor de cada protótipo.
 
-<p align="center">Tabela 2: Requisitos utilizados</p>
+<p align="center">Tabela 4: Requisitos utilizados</p>
 
 |Requisito|Descrição|Protótipo|Autor|
 |---|---|---|---|
@@ -283,3 +303,4 @@ Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 | `1.6`  | 06/07/2025 | Reestruturação da seção de validação para múltiplos autores, remoção do vídeo anterior e adição do vídeo de validação dos protótipos 3 e 4 (RQ33 e RQ59) | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.7`  | 06/07/2025 | Adição do vídeo de validação dos protótipos 7 e 8 (RQ32A, RQ32B e RQ58) e ajustes nas imagens desses protótipos | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.71` | 06/07/2025 | Ajuste no link da gravação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.8` | 06/07/2025 | Ajuste no link da gravação | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos](https://github.com/arturdcr) |
