@@ -20,7 +20,7 @@ A divisão de personas é essencial para que o projeto seja guiado por diferente
 
 ## Metodologia
 
-Para adquirir as informações necessárias para a elaboração de diferentes Personas, os criadores desse artefato, [Davi Camilo](https://github.com/Davicamilo23) e [Pedro Everton](https://github.com/pedroeverton217), utilizaram dados coletados por meio de um questionário (disponível na aba de técnicas de elicitação) desenvolvido pelos membros [Tiago Antunes](https://github.com/TiagoBalieiro) e [Artur de Camargos](https://github.com/ArturDCR). Além disso, também foi utilizado o artefato Perfil de Usuário (localizado na aba de elicitação), previamente definido pelos membros [Davi Camilo](https://github.com/Davicamilo23) e [Pedro Everton](https://github.com/pedroeverton217), buscando identificar padrões de comportamento, necessidades comuns e perfis de uso, os quais foram transformados, posteriormente, nas personas desse artefato.
+Para adquirir as informações necessárias para a elaboração de diferentes Personas, os criadores desse artefato, [Davi Camilo](https://github.com/Davicamilo23) e [Pedro Everton](https://github.com/pedroeverton217), utilizaram dados coletados por meio de um [questionário](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/questionario/) desenvolvido pelos membros [Tiago Antunes](https://github.com/TiagoBalieiro) e [Artur de Camargos](https://github.com/ArturDCR). Além disso, também foi utilizado o artefato Perfil de Usuário (localizado na aba de elicitação), previamente definido pelos membros [Davi Camilo](https://github.com/Davicamilo23) e [Pedro Everton](https://github.com/pedroeverton217), buscando identificar padrões de comportamento, necessidades comuns e perfis de uso, os quais foram transformados, posteriormente, nas personas desse artefato.
 
 ---
 
@@ -32,7 +32,7 @@ A seguir apresentamos os nomes de cada integrante do grupo que participou da té
 
 | Nome                                                   | O que fez                 |
 | ------------------------------------------------------ | ---------------------- |
-| [Davi Camilo](https://github.com/Davicamilo23)         | Criou a estrutura da página, adicionou a metodologia e desenvolveu as personas     |
+| [Davi Camilo](https://github.com/Davicamilo23)         | Criou a estrutura da página, adicionou a metodologia, desenvolveu as personas, revisou o artefato para a entrega final e fez as alterações necessárias     |
 | [Pedro Everton](https://github.com/pedroeverton217)    | Criou a estrutura da página e desenvolveu as personas    |
 | [Euller Júlio](https://github.com/Potatoyz908)      | Fez correções e ajustes na introdução e criou a tabela de integrantes do grupo envolvidos |
 
@@ -239,7 +239,13 @@ A seguir apresentamos os nomes de cada integrante do grupo que participou da té
 
 ---
 
-## Bibliografia
+## Conclusão
+
+As personas foram estabelecidas no artefato em questão, totalizando 3 personas e 1 antipersona, sendo elas criadas para representar perfis fictícios e realistas dos usuários finais do aplicativo, com base nas características, comportamentos e necessidades identificados no [Perfil de Usuário](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/perfilusuario/). Essas personas ajudam a equipe a manter o foco no usuário, personificando-o e facilitando sua inclusão nas etapas do desenvolvimento do projeto quando necessário.
+
+---
+
+## Referências Bibliográficas
 
 > **THIS PERSON DOES NOT EXIST.** Disponível em: https://thispersondoesnotexist.com. Acesso em: 3 maio 2025.
 
@@ -258,3 +264,4 @@ A seguir apresentamos os nomes de cada integrante do grupo que participou da té
 | `1.4`  |   04/07/2025  |  Ajuste na introdução | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.5`  |   04/07/2025  |  Criação da tabela de integrantes do grupo envolvidos | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
 |`1.6`| 06/07/2025|Correção nas referências|[Arthur Evangelista](https://github.com/arthurevg)|[Pedro Everton](https://github.com/pedroeverton217)|
+| `1.61`  |  07/07/2025 | Pequenos ajustes gerais | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
