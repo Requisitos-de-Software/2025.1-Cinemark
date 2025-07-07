@@ -732,10 +732,10 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
-| Recurso | - |
-| Representação | - |
-| Alocado | - |
+| Satisfação | [E08](../modelagem/backlog.md#epico-8-sistema-de-fidelidade-e-beneficios-cinemark-club), [US29](../modelagem/historias.md#us29-area-dedicada-ao-cinemark-club) |
+| Recurso | [US29](../modelagem/historias.md#us29-area-dedicada-ao-cinemark-club) |
+| Representação |  |
+| Alocado | [E08](../modelagem/backlog.md#epico-8-sistema-de-fidelidade-e-beneficios-cinemark-club) |
 | Agregação | [IS12](../elicitação/introspecção.md#IS12) |
 
 <font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
