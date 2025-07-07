@@ -83,6 +83,10 @@ Essa abordagem metodológica permite visualizar de forma clara e organizada como
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
 						<td>Elaborou a Pós-Rastreablidade dos Requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq37" target="_blank">RQ01</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq38" target="_blank">RQ02A</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq39" target="_blank">RQ03</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq40" target="_blank">RQ04</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq41" target="_blank">RQ05</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq42" target="_blank">RQ06</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq43" target="_blank">RQ07</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq44" target="_blank">RQ08</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq45" target="_blank">RQ09</a>.</td>
 					</tr>
+					<tr>
+						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
+						<td>Elaborou a Pós-Rastreablidade dos Requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq28" target="_blank">RQ28</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq29A" target="_blank">RQ29A</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq29B" target="_blank">RQ29B</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq30" target="_blank">RQ30</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq31" target="_blank">RQ31</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq32A" target="_blank">RQ32A</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq32B" target="_blank">RQ32B</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq33" target="_blank">RQ33</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq34" target="_blank">RQ34</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq35" target="_blank">RQ35</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq36" target="_blank">RQ36</a>.</td>
+					</tr>
 			</tbody>
 		</table>
 	</div>
@@ -603,6 +607,171 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 
 ***
 
+#### **RQ28 - Alertar usuário sobre pontos suficientes para ingresso grátis 3 dias antes da expiração.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | [IS20](../elicitação/introspecção.md#IS20) |
+
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
+
+***
+
+#### **RQ29A - Sugerir cinemas com base no histórico de visitas.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | [IS21](../elicitação/introspecção.md#IS21) |
+
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
+
+***
+
+#### **RQ29B - Sugerir cinemas com base na localização atual.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | [IS21](../elicitação/introspecção.md#IS21) |
+
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
+
+***
+
+#### **RQ30 - Permitir que o usuário salve cinemas como favoritos.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | [IS22](../elicitação/introspecção.md#IS22) |
+
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
+
+***
+
+#### **RQ31 - Permitir notificações personalizadas (ex.: "avise-me quando o filme X entrar em cartaz").**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | [IS23](../elicitação/introspecção.md#IS23) |
+
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
+
+***
+
+#### **RQ32A - Exibir recomendações de filmes baseadas em histórico.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | [IS24](../elicitação/introspecção.md#IS24) |
+
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
+
+***
+
+#### **RQ32B - Exibir recomendações de filmes baseadas em preferências.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | [IS24](../elicitação/introspecção.md#IS24) |
+
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
+
+***
+
+#### **RQ33 - Permitir alteração de preferências de idioma.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | [IS25](../elicitação/introspecção.md#IS25) |
+
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
+
+***
+
+#### **RQ34 - Disponibilizar área dedicada ao Cinemark Club, contendo ingressos, pontos acumulados e validade.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | [IS12](../elicitação/introspecção.md#IS12) |
+
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
+
+***
+
+#### **RQ35 - Exibir notificações de promoções com título, descrição e validade.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | [AI32](../elicitação/analiseUI.md#AI32) |
+
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
+
+***
+
+#### **RQ36 - Impedir avanço para pagamento com carrinho vazio.**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+|---------------------|--------------------------|
+| Tipos de Elos | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | [AI30](../elicitação/analiseUI.md#AI30) |
+
+<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
+
+***
+
 #### **RQ37 - Criar e editar perfil do usuário, gerenciar dados pessoais e métodos de pagamento**
 
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
@@ -741,3 +910,4 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | `1.2`  |  08/06/2025 | Adição das tabelas relacionadas aos requisitos 10 ao 18 | [Arthur Evangelista](https://github.com/arthurevg) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 |`1.3`| 04/07/2025|Adição das tabelas referentes ao RQ12A, RQ12B, RQ16A e RQ16B|[Arthur Evangelista](https://github.com/arthurevg)|  [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 |`1.4`| 06/07/2025|Adição das tabelas referentes ao RQ19, RQ20A, RQ20B, RQ21A, RQ21B, RQ21C, RQ22A, RQ22B, RQ23A,RQ23B,RQ24,RQ25,RQ26,RQ27|[Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Arthur Evangelista](https://github.com/arthurevg) |
+|`1.5`| 07/07/2025|Adição das tabelas referentes ao RQ28, RQ29A, RQ29B, RQ30, RQ31, RQ32A, RQ32B, RQ33, RQ34, RQ35, RQ36|[Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
