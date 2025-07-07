@@ -747,10 +747,10 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
-| Recurso | - |
-| Representação | - |
-| Alocado | - |
+| Satisfação | [E09](../modelagem/backlog.md#epico-9-experiencia-personalizada-com-cinemas), [US21](../modelagem/historias.md#us21-permitir-notificacoes-personalizadas) |
+| Recurso | [US21](../modelagem/historias.md#us21-permitir-notificacoes-personalizadas) |
+| Representação | |
+| Alocado | [E09](../modelagem/backlog.md#epico-9-experiencia-personalizada-com-cinemas) |
 | Agregação | [AI32](../elicitação/analiseUI.md#AI32) |
 
 <font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
