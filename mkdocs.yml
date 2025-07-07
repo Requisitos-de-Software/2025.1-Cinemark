@@ -11,12 +11,13 @@ nav:
     - Heatmap: planejamento/heatmap.md
     - Metodologia: planejamento/metodologia.md
 
-  - Pré-rastreabilidade:
+  - Pré-Rastreabilidade:
     - Rich Picture: planejamento/richpicture.md
 
   - Elicitação:
-    - Perfil de Usuário: elicitação/perfilusuario.md
-    - Personas: elicitação/personas.md
+    - Usuários:
+      - Perfil de Usuário: elicitação/perfilusuario.md
+      - Personas: elicitação/personas.md
     - Técnicas de Elicitação:
       - Análise de Interface de Usuário: elicitação/analiseUI.md
       - Introspecção: elicitação/introspecção.md
@@ -34,26 +35,63 @@ nav:
     - Especificação Suplementar: modelagem/especificaçãoSuplementar.md
     - Cenários: modelagem/cenarios.md
     - Léxicos: modelagem/lexicos.md
+    - Ágil:
+      - NFR Framework: modelagem/nfrFramework.md
+      - Backlog: modelagem/backlog.md
+      - Histórias de Usuário: modelagem/historias.md
+
+  - Rastreabilidade:
+    - Matrizes de Rastreabilidade:
+      - Backward-From: rastreabilidade/backward-from.md
+      - Forward-From: rastreabilidade/forward-from.md
+      - Matriz Geral: rastreabilidade/matriz-geral.md
+    - Pós-Rastreabilidade: rastreabilidade/pos-rastreabilidade.md
+
+  - Validação:
+    - Prototipação: validacao/prototipacao.md
+    - Comprovação Informal: validacao/comprovacaoInformal.md
 
   - Apresentação:
     - Entrega 01: apresentações/apresentação-01.md
     - Entrega 02: apresentações/apresentação-02.md
+    - Entrega 03: apresentações/apresentação-03.md
+    - Entrega 04: apresentações/apresentação-04.md
+    - Entrega 05: apresentações/apresentação-05.md
+    - Entrega 06: apresentações/apresentação-06.md
+    - Entrega Final: apresentações/apresentação-final.md
 
   - Verificação:
     - Grupo:
       - Entrega 01: verificações/lista-verificação-01.md
       - Entrega 02: verificações/lista-verificação-02.md
+      - Entrega 03: verificações/lista-verificação-03.md
+      - Entrega 04: verificações/lista-verificação-04.md
+      - Entrega 05: verificações/lista-verificação-05.md
+      - Entrega 06: verificações/lista-verificação-06.md
     - Grupo+1:
       - Entrega 01: verificações/lista-verificação-01+1.md
       - Entrega 02: verificações/lista-verificação-02+1.md
+      - Entrega 03: verificações/lista-verificação-03+1.md
+      - Entrega 04: verificações/lista-verificação-04+1.md
+      - Entrega 05: verificações/lista-verificação-05+1.md
+      - Entrega 06: verificações/lista-verificação-06+1.md
 
   - Inspeção:
+    - Análise de Requisitos: inspeções/analiseRequisitos.md
     - Grupo:
       - Entrega 01: inspeções/inspeção-01.md
       - Entrega 02: inspeções/inspeção-02.md
+      - Entrega 03: inspeções/inspeção-03.md
+      - Entrega 04: inspeções/inspeção-04.md
+      - Entrega 05: inspeções/inspeção-05.md
+      - Entrega 06: inspeções/inspeção-06.md
     - Grupo+1:
       - Entrega 01: inspeções/inspeção-grupo+1-01.md
       - Entrega 02: inspeções/inspeção-grupo+1-02.md
+      - Entrega 03: inspeções/inspeção-grupo+1-03.md
+      - Entrega 04: inspeções/inspeção-grupo+1-04.md
+      - Entrega 05: inspeções/inspeção-grupo+1-05.md
+      - Entrega 06: inspeções/inspeção-grupo+1-06.md
 
   - Atas:
     - Reunião 01: atas/Ata Reunião 01.md
@@ -62,6 +100,21 @@ nav:
     - Reunião 04: atas/Ata Reunião 04.md
     - Reunião 05: atas/Ata Reunião 05.md
     - Reunião 06: atas/Ata Reunião 06.md
+    - Reunião 07: atas/Ata Reunião 07.md
+    - Reunião 08: atas/Ata Reunião 08.md
+    - Reunião 09: atas/Ata Reunião 09.md
+  
+  - Entrega Final:
+    - Aplicativo Selecionado: entregaFinal/aplicativoSelecionado.md
+    - Planejamento dos Recursos e das Entregas: entregaFinal/planejamento.md
+    - Execução do Projeto: entregaFinal/execucaoProjeto.md
+    - Resultados Obtidos: entregaFinal/resultadosObtidos.md
+    - Ferramentas Utilizadas: entregaFinal/ferramentasUtilizadas.md
+    - Técnicas Utilizadas: entregaFinal/tecnicasUtilizadas.md
+    - Artefatos Criados: entregaFinal/artefatosCriados.md
+    - Verificação e Validação: entregaFinal/verificacaoValidacao.md
+    - Vídeos das Apresentações: entregaFinal/videosApresentacoes.md
+    - Considerações Finais: entregaFinal/consideracoesFinais.md
 
 theme:
   name: material

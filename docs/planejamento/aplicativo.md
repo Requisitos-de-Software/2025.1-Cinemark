@@ -2,30 +2,43 @@
 
 ## Introdução
 
-Durante a etapa inicial do projeto, cada integrante da equipe sugeriu um aplicativo potencial para ser analisado. Em seguida, realizamos uma revisão coletiva com base em critérios previamente definidos para selecionar um único aplicativo a ser adotado no projeto. Após a impossibilidade de utilizar o Meu SUS Digital, cada integrante trabalhou a fim de encontrar um novo aplicativo para ser trabalhado, seguindo as especificações do projeto. Para a escolha do aplicativo da Cinemark, foram utilizados alguns critérios, citados abaixo.
-
----
+Durante a etapa inicial do projeto, cada integrante da equipe sugeriu um aplicativo potencial para ser analisado. Em seguida, realizamos uma revisão coletiva com base em critérios previamente definidos para selecionar um único aplicativo a ser adotado no projeto. Após a impossibilidade de utilizar o Meu SUS Digital, cada integrante trabalhou a fim de encontrar um novo aplicativo para ser trabalhado, seguindo as especificações do projeto. Para a escolha do aplicativo da **Cinemark**, foram utilizados alguns critérios, citados abaixo.
 
 ### Critérios utilizados na seleção do aplicativo:
 
-- Não termos acesso à documentação.
-- Deve ser fácil estabelecer contato com os usuários do aplicativo.
-- A complexidade do aplicativo deve ser adequada ao projeto.
-- Deve haver uma boa quantidade de informações disponíveis sobre o aplicativo.
-- Grande quantidade de usuários.
-- Informações usadas no aplicativo de cunho relevante.
+- Não termos acesso à documentação;
+- Deve ser fácil estabelecer contato com os usuários do aplicativo;
+- A complexidade do aplicativo deve ser adequada ao projeto;
+- Deve haver uma boa quantidade de informações disponíveis sobre o aplicativo;
+- Grande quantidade de usuários;
+- Informações usadas no aplicativo de cunho relevante;
 - Aplicativo se encaixa nas diretrizes do projeto.
 
 ---
 
-## Aplicativos considerados
+## Integrantes do grupo envolvidos
 
-- *Carteira Digital de Trânsito*  
-- *IBGE*  
-- *Carteira de Trabalho Digital*  
-- *Celular Seguro BR*  
-- *Meu SUS Digital*  
-- *Cinemark*
+A seguir apresentamos os nomes de cada integrante do grupo que participou nesse artefato e suas respectivas contribuições.
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes envolvidos no artefato.</p></font>
+
+| Nome                                                   | O que fez                 |
+| ------------------------------------------------------ | ---------------------- |
+| [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Artur de Camargos Rodrigues](https://github.com/ArturDCR), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31), [Pedro Everton de Paula](https://github.com/pedroeverton217) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | Escolheram o aplicativo a ser trabalhado na disciplina. |
+|[Davi Camilo Menezes](https://github.com/Davicamilo23)| Adicionou a tabela de contribuição dos membros, revisou o artefato para a entrega final e fez as alterações necessárias. |
+
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+
+---
+
+## Aplicativos Considerados
+
+- Carteira Digital de Trânsito  
+- IBGE  
+- Carteira de Trabalho Digital  
+- Celular Seguro BR  
+- Meu SUS Digital  
+- Cinemark
 
 ---
 
@@ -37,17 +50,17 @@ Durante a etapa inicial do projeto, cada integrante da equipe sugeriu um aplicat
 
 ---
 
-## Motivações de escolha
+## Motivações de Escolha
 
-Com base nos critérios estabelecidos, o grupo optou pelo aplicativo Cinemark devido ao encaixe nas diretrizes do projeto, e por ter uma vasta base de usuários. Além disso, o aplicativo possui funções variadas e interessantes que podem ser melhoradas para melhor utilização do usuário.
+Com base nos critérios estabelecidos, o grupo optou pelo aplicativo **Cinemark**, devido ao encaixe nas diretrizes do projeto, e por ter uma vasta base de usuários. Além disso, o aplicativo possui funções variadas e interessantes que podem ser melhoradas para melhor utilização do usuário.
 
 ---
 
 ## Termos de Uso
 
-Para garantir que o projeto fosse realizado de forma ética e dentro dos limites legais, o grupo decidiu revisar os [Termos de Uso](https://www.cinemark.com.br/termos-de-uso) do Cinemark. O objetivo foi verificar se existiam restrições ou permissões explícitas relacionadas à análise e manipulação do aplicativo. Após a leitura dos termos, ficou claro que não havia cláusulas específicas autorizando a análise detalhada do sistema ou permitindo a engenharia reversa. Embora não houvesse uma proibição direta quanto à análise, também não havia consentimento explícito para tal prática. Além disso, os termos indicam que o uso do aplicativo deve ser restrito a fins pessoais, o que reforçou a necessidade de manter a conformidade com as diretrizes estabelecidas, garantindo que qualquer atividade realizada fosse dentro dos parâmetros permitidos.
+Para garantir que o projeto fosse realizado de forma ética e dentro dos limites legais, o grupo decidiu revisar os [Termos de Uso](https://www.cinemark.com.br/termos-de-uso) do **Cinemark**. O objetivo foi verificar se existiam restrições ou permissões explícitas relacionadas à análise e manipulação do aplicativo. Após a leitura dos termos, ficou claro que não havia cláusulas específicas autorizando a análise detalhada do sistema ou permitindo a engenharia reversa. Embora não houvesse uma proibição direta quanto à análise, também não havia consentimento explícito para tal prática. Além disso, os termos indicam que o uso do aplicativo deve ser restrito a fins pessoais, o que reforçou a necessidade de manter a conformidade com as diretrizes estabelecidas, garantindo que qualquer atividade realizada fosse dentro dos parâmetros permitidos.
 
-O arquivo com os Termos de Uso completos na data atual (04/05/2025) pode ser instalado ao clicar [neste link](../entrega1/Copia_termosCinemark.pdf).
+O arquivo com os Termos de Uso completos na data atual (04/05/2025) pode ser visualizado ao clicar [neste link](../entrega1/Copia_termosCinemark.pdf).
 
 <p align="center"><img src="https://requisitos-de-software.github.io/2025.1-Cinemark/assets/termos_de_uso/um.png" style="width: 40%"></p>
 <p align="center"><img src="https://requisitos-de-software.github.io/2025.1-Cinemark/assets/termos_de_uso/dois.png" style="width: 40%"></p>
@@ -79,7 +92,6 @@ O arquivo com os Termos de Uso completos na data atual (04/05/2025) pode ser ins
 
 ---
 
-
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
@@ -91,3 +103,5 @@ O arquivo com os Termos de Uso completos na data atual (04/05/2025) pode ser ins
 | `2.2`  |04/05/2025|Inclusão dos termos de uso| [Artur de Camargos](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `2.3`  |04/05/2025|Ajuste dos termos de uso| [Artur de Camargos](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `2.4`  | 04/05/2025 | Ajuste nas imagens | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
+| `2.41` | 06/07/2025 | Pequenos ajustes de formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
+| `2.5`  | 07/07/2025 | Adição da tabela de contribuição | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR)  |

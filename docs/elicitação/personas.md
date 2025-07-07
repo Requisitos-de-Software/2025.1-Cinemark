@@ -1,6 +1,6 @@
 # Personas
 
-## O que são Personas?
+## Introdução
 
 **Personas** são representações fictícias de usuários ideais baseadas em dados reais sobre o público-alvo de um produto ou serviço. Elas são criadas para ajudar equipes de desenvolvimento, design e negócios a entender melhor as necessidades, comportamentos, objetivos e desafios dos usuários. Cada persona é descrita com características detalhadas, como nome, idade, profissão, interesses e motivações, permitindo que as decisões do projeto sejam mais centradas no usuário.
 
@@ -21,6 +21,22 @@ A divisão de personas é essencial para que o projeto seja guiado por diferente
 ## Metodologia
 
 Para adquirir as informações necessárias para a elaboração de diferentes Personas, os criadores desse artefato, [Davi Camilo](https://github.com/Davicamilo23) e [Pedro Everton](https://github.com/pedroeverton217), utilizaram dados coletados por meio de um questionário (disponível na aba de técnicas de elicitação) desenvolvido pelos membros [Tiago Antunes](https://github.com/TiagoBalieiro) e [Artur de Camargos](https://github.com/ArturDCR). Além disso, também foi utilizado o artefato Perfil de Usuário (localizado na aba de elicitação), previamente definido pelos membros [Davi Camilo](https://github.com/Davicamilo23) e [Pedro Everton](https://github.com/pedroeverton217), buscando identificar padrões de comportamento, necessidades comuns e perfis de uso, os quais foram transformados, posteriormente, nas personas desse artefato.
+
+---
+
+## Integrantes do grupo envolvidos
+
+A seguir apresentamos os nomes de cada integrante do grupo que participou da técnica e suas respectivas contribuições.
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes envolvidos na criação das Personas.</p></font>
+
+| Nome                                                   | O que fez                 |
+| ------------------------------------------------------ | ---------------------- |
+| [Davi Camilo](https://github.com/Davicamilo23)         | Criou a estrutura da página, adicionou a metodologia e desenvolveu as personas     |
+| [Pedro Everton](https://github.com/pedroeverton217)    | Criou a estrutura da página e desenvolveu as personas    |
+| [Euller Júlio](https://github.com/Potatoyz908)      | Fez correções e ajustes na introdução e criou a tabela de integrantes do grupo envolvidos |
+
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23) e [Pedro Everton](https://github.com/pedroeverton217), 2025.</p></font>
 
 ---
 
@@ -229,8 +245,6 @@ Para adquirir as informações necessárias para a elaboração de diferentes Pe
 
 > **BARBOSA, S. D. J.; SILVA, B. S.; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J.** *Interação Humano-Computador e Experiência do Usuário*. Autopublicação, 2021. ISBN 978-65-00-19677-1.
 
-> **REINEHR, Sheila.** *Engenharia de Requisitos*. 1. ed. Porto Alegre: Sagah, 2020. p. 56.
-
 ---
 
 ## Histórico de Versão
@@ -241,3 +255,6 @@ Para adquirir as informações necessárias para a elaboração de diferentes Pe
 | `1.1`  |   04/05/2025  | Reformatação do Texto, Imagens e Links | [Pedro Everton](https://github.com/pedroeverton217) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.2`  |   04/05/2025  | Adição de novas informações e da metodologia, e ajustes de formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Pedro Everton](https://github.com/pedroeverton217) |
 | `1.3`  |  04/05/2025   | Ajuste na formatação dos tópicos | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+| `1.4`  |   04/07/2025  |  Ajuste na introdução | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
+| `1.5`  |   04/07/2025  |  Criação da tabela de integrantes do grupo envolvidos | [Euller Júlio](https://github.com/Potatoyz908) | [Artur de Camargos](https://github.com/ArturDCR) |
+|`1.6`| 06/07/2025|Correção nas referências|[Arthur Evangelista](https://github.com/arthurevg)|[Pedro Everton](https://github.com/pedroeverton217)|

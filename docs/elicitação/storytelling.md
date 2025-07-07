@@ -14,23 +14,34 @@ Através de uma videoconferência com um usuário do aplicativo Cinemark, a téc
 
 ## Cronograma
 
-A tabela 1 apresenta o cronograma da elicitação e as funções dos membros responsáveis pela técnica.
+A tabela 1 apresenta o cronograma da elicitação e as funções dos membros responsáveis pela técnica. As reuniões que ocorreram de forma online foram feitas pelo Teams. Já a realizada de forma presencial, foi conduzida na Faculdade de Ciência e Tecnologia em Engenharias(FCTE).
 
 <font size="3"><p style="text-align: center">Tabela 1: Cronograma do Storytelling.</p></font>
 
-| Nome                                                   | Data | Função            |
-| ------------------------------------------------------ | ---- | ----------------- |
-| [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31) | 01/05/2025 | Analista de requisitos |
-| [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | 01/05/2025 | Analista de requisitos |
-| Gabriel Villela | 01/05/2025 | Usuário do aplicativo |
+| Nome                                                   | Data | Função            | Reunião que participou
+| ------------------------------------------------------ | ---- | ----------------- |---|
+| [Arthur Evangelista de Oliveira](https://github.com/arthurevg1) | 01/07/2025 | Analista de requisitos |Presencial|
+| [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | 01/07/2025 | Analista de requisitos |Presencial|
+| [Davi Camilo Menezes](https://github.com/Davicamilo23) | 01/07/2025 | Analista de requisitos |Presencial|
+|  [Euller Júlio da Silva](https://github.com/Potatoyz908) | 01/07/2025 | Analista de requisitos |Presencial|
+| [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31) | 01/05/2025 | Analista de requisitos |Presencial e Remoto|
+| [Pedro Everton de Paula](https://github.com/pedroeverton217) | 01/07/2025 | Analista de requisitos |Presencial|
+| [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | 01/05/2025 | Analista de requisitos |Presencial e Remoto|
+| Gabriel Villela | 01/05/2025 | Usuário do aplicativo | Remoto|
+| João Igor | 01/07/2025 | Usuário do aplicativo | Remoto |
 
-<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23) e [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
+
 
 ---
 
-## Gravação com Usuário
+## Gravação Online com Usuário
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OHllSImnMqc?si=3Q9UxiKKIUTtkXL3&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Gravação presencial com Usuário
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ylChxKZ3SEc?si=Wr4KoWBjjNXxJOcY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -92,3 +103,4 @@ Por meio do storytelling, foram criadas narrativas que representavam situações
 | `1.4`  | 12/05/2025 | Adição da tabela de participantes | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |[Tiago Antunes](https://github.com/TiagoBalieiro)  |
 | `1.5`  | 12/05/2025 | Adição da história do usuário| [Gabriel Castelo](https://github.com/GabrielCastelo-31) |[Tiago Antunes](https://github.com/TiagoBalieiro)  |
 | `1.6`  | 12/05/2025 | Adição do cronograma da técnica | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
+| `1.7`  |02/07/2025 | Adição da gravação presencial do storytelling e descrição no cronograma | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |

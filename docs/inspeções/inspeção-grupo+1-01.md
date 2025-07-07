@@ -1,20 +1,22 @@
 # Inspeção do grupo+1
 
 ## Introdução
-Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran DF, composto por 7 integrantes. A inspeção foi realizada no dia 14/04/2025 e foi feita com base na lista de verificação da entrega 1.
+
+Abaixo se encontra a **inspeção** (versão 2.0) da entrega 1 do grupo+1, o qual é o grupo do Detran DF, composto por 7 integrantes. A inspeção (versão 2.0) foi realizada no dia 06/07/2025, sendo feita com base na [lista de verificação](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-01%2B1/) (versão 2.0) da entrega 1.
 
 ---
 
-## 🔗 Link da reunião
-[Assista ao vídeo no YouTube](https://youtu.be/LsBFFCPHO0U)
+## 🔗 Link da gravação
+
+[Assista ao vídeo no YouTube]()
 
 ---
 
-## 👥 Informações do Grupo
+## 👥 Informações do Grupo+1
 
 - **Detran DF**
 - **Integrantes:**
-<font size="3"><p align="center">Tabela 1: Integrantes (versão 1).</p></font>
+<font size="3"><p align="center">Tabela 1: Integrantes.</p></font>
 <table>
   <tr>
     <td align="center"><a href="https://github.com/eric-kingu"><img style="border-radius: 60%;" src="https://github.com/eric-kingu.png" width="200px;" alt=""/><br /><sub><b>Eric Akio Lages Nishimura</b></sub></a><br />
@@ -29,59 +31,24 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 
 ---
 
-## Lista de Inspeção
+## Lista de Inspeção (Versão 2.0)
 
-### Tabela 2: Lista de inspeção - Planejamento geral do projeto
-
-| Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
-|---------|-------|------------|--------|--------|
-| **1.** Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | [Arthur Evangelista](https://github.com/arthurevg), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Artur de Camargos](https://github.com/ArturDCR) | 14/04/2025 | Todos | Conforme |
-| **2.** O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entregas dos artefatos e com o período da revisão deles? | [Arthur Evangelista](https://github.com/arthurevg), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Artur de Camargos](https://github.com/ArturDCR) | 14/04/2025 | Todos | Conforme |
-| **3.** O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa? | [Arthur Evangelista](https://github.com/arthurevg), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Artur de Camargos](https://github.com/ArturDCR) | 14/04/2025 | Todos | Conforme |
-| **4.** O cronograma prevê um período de revisão/ajustes nos artefatos devidos às considerações dos monitores/professor? | [Arthur Evangelista](https://github.com/arthurevg), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Artur de Camargos](https://github.com/ArturDCR) | 14/04/2025 | Todos | Conforme |
-| **5.** A motivação e os critérios para a escolha do App? | [Arthur Evangelista](https://github.com/arthurevg), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Artur de Camargos](https://github.com/ArturDCR) | 14/04/2025 | Todos | Conforme |
-| **6.** Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina? | [Arthur Evangelista](https://github.com/arthurevg), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Artur de Camargos](https://github.com/ArturDCR) | 14/04/2025 | Todos | Conforme |
-
-<font size="3"><p align="center">Fonte: Autores.</p></font>
-
-### Tabela 3: Lista de inspeção - Desenvolvimento do projeto
+### Tabela 2: Lista de inspeção - Rich Picture
 
 | Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
 |---------|-------|------------|--------|--------|
-| **1.** O histórico de versão padronizado? | [Arthur Evangelista](https://github.com/arthurevg), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Artur de Camargos](https://github.com/ArturDCR) | 14/04/2025 | Todos | Conforme |
-| **2.** O(s) autor(es) e o(s) revisor(es) para cada artefato? | [Arthur Evangelista](https://github.com/arthurevg), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Artur de Camargos](https://github.com/ArturDCR) | 14/04/2025 | Todos | Conforme |
-| **3.** Referências bibliográficas e/ou bibliografia em todos os artefatos? | [Arthur Evangelista](https://github.com/arthurevg), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Artur de Camargos](https://github.com/ArturDCR) | 14/04/2025 | Todos | Conforme |
-| **4.** As tabelas e imagens possuem legenda e fonte e elas são chamadas dentro do texto? | [Arthur Evangelista](https://github.com/arthurevg), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Artur de Camargos](https://github.com/ArturDCR) | 14/04/2025 | Todos | Conforme |
-| **5.** Um texto fazendo uma introdução dos artefatos? | [Arthur Evangelista](https://github.com/arthurevg), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Artur de Camargos](https://github.com/ArturDCR) | 14/04/2025 | Todos | Conforme |
-| **6.** O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade? | [Arthur Evangelista](https://github.com/arthurevg), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Artur de Camargos](https://github.com/ArturDCR) | 14/04/2025 | Todos | Conforme |
-| **7.** Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc)? | [Arthur Evangelista](https://github.com/arthurevg), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Artur de Camargos](https://github.com/ArturDCR) | 14/04/2025 | Todos | Conforme |
-| **8.** A gravação da reunião do grupo? | [Arthur Evangelista](https://github.com/arthurevg), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Artur de Camargos](https://github.com/ArturDCR) | 14/04/2025 | Todos | Conforme |
-| **9.** Vídeo de apresentação na categoria “não listado” no YouTube? | [Arthur Evangelista](https://github.com/arthurevg), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Artur de Camargos](https://github.com/ArturDCR) | 14/04/2025 | Todos | Conforme |
+| **1.** O artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama? | [Artur de Camargos Rodrigues](https://github.com/ArturDCR), [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31), [Pedro Everton de Paula](https://github.com/pedroeverton217) e [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | 06/07/2025 | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | - |
+| **2.** Todos os 5 componentes de um “Rich Picture” estão presentes no artefato “Rich Picture” apresentado pelo grupo? | [Artur de Camargos Rodrigues](https://github.com/ArturDCR), [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31), [Pedro Everton de Paula](https://github.com/pedroeverton217) e [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | 06/07/2025 | [Arthur Evangelista de Oliveira](https://github.com/arthurevg) | - |
 
-<font size="3"><p align="center">Fonte: Autores.</p></font>
-
-### Tabela 4: Lista de inspeção - Conteúdo da disciplina
-
-| Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
-|---------|-------|------------|--------|--------|
-| **1.** No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama? | [Arthur Evangelista](https://github.com/arthurevg), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Artur de Camargos](https://github.com/ArturDCR) | 14/04/2025 | Todos | Inconforme |
-| **2.** Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo? | [Arthur Evangelista](https://github.com/arthurevg), [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217), [Gabriel Castelo](https://github.com/GabrielCastelo-31) e [Artur de Camargos](https://github.com/ArturDCR) | 14/04/2025 | Todos | Inconforme |
-
-<font size="3"><p align="center">Fonte: Autores.</p></font>
-
----
-
-## 💬 Comentários
-
-- **Sobre o Rich Picture:**
-    - A legenda explicando os símbolos utilizados no diagrama está incompleta. A imagem só mostra os atores e o processo.
-    - Não conseguimos identificar a base de dados no Rich Picture.
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 ---
 
 ## Referências Bibliográficas
 
-> - **SALES, André Barros de.** *Plano de Ensino – Requisitos de Software: REE012025 – Turma 03*. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. p. 1-2. Disponível em: [Lista de Verificação da Etapa 1](../assets/Lista%20de%20Verificação%201%20-%20Plano_de_Ensino.pdf). Acesso em: 4 mai. 2025.
+> - **SALES, André Barros de.** *Plano de Ensino – Requisitos de Software: REE012025 – Turma 03*. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2025. p. 1-2. Disponível em: [Lista de Verificação da Etapa 1](../assets/Lista%20de%20Verificação%201%20-%20Plano_de_Ensino.pdf). Acesso em: 11 abr. 2025.
+
+> - *Introducing Rich Pictures - Rich Picture Drawing Guidelines.* CTEC2402 - Software Development Project.
 
 ---
 
@@ -95,3 +62,4 @@ Abaixo se encontra a inspeção da entrega do grupo+1, que é o grupo do Detran 
 | `1.3`  |  04/05/2025 | Correção geral da página ("verificação" para "inspeção") | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.4`  |  04/05/2025 | Correção da lista de inspeção | [Davi Camilo](https://github.com/Davicamilo23) | [Euller Júlio](https://github.com/Potatoyz908) |
 | `1.5`  |  04/05/2025 | Inclusão das referências bibliográficas | [Artur de Camargos](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `2.0`  |  06/07/2025 |  Correção do documento, baseado na nova lista de verificação, para a nova inspeção | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
