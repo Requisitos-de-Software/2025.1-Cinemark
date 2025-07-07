@@ -59,6 +59,10 @@ A estrutura de cada termo léxico é composta por:
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
 						<td>Elaborou os Léxicos 21 e 22 referentes aos requisitos RQ26 e RQ39</td>	
 					</tr>
+					<tr>
+						<td><a  href="https://github.com/pedroeverton217">Pedro Everton de Paula</a></td>
+						<td>Elaborou os Léxicos 24 e 25 referentes aos requisitos RQ28 e RQ31</td>	
+					</tr>
 			</tbody>
 		</table>
 	</div>  
@@ -319,10 +323,32 @@ Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 20
 * **Sinônimos**: Pessoa usuária, cliente, utilizador  
 * **Noção**: Indivíduo que acessa e interage com o sistema para utilizar suas funcionalidades, como realizar login, efetuar reservas, consultar sessões ou alterar configurações.  
 * **Impacto**: O usuário é o principal ator do sistema. Suas interações disparam fluxos de uso essenciais, como autenticação e execução de funcionalidades críticas. A experiência do usuário deve ser priorizada no design e implementação das interfaces.  
-* **Rastreabilidade**: O termo está presente nos seguintes requisitos: [RQ04](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ12](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ28](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ37](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ38](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ48](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ62](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ64](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) e [RQ65](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1)
+* **Rastreabilidade**: O termo está presente nos seguintes requisitos: [RQ04](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ12](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ28](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ31](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ37](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ38](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ48](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ62](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1), [RQ64](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1) e [RQ65](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#tabela-1-requisitos-elicitados-versao-1)
 
 <p align="center"><br>
 Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
+
+### 24. **Alertar sobre pontos suficientes para ingresso grátis**
+
+* **Tipo**: Verbo
+* **Sinônimos**: Notificar sobre pontos, Avisar sobre expiração de pontos, Lembrete de pontos
+* **Noção**: Ação do sistema de informar o usuário, com antecedência de 3 dias, sobre a disponibilidade de pontos suficientes para resgatar um ingresso grátis e a proximidade da data de expiração desses pontos.
+* **Impacto**: Incentiva o uso dos pontos acumulados, evita a perda de benefícios pelo usuário e melhora a satisfação geral com o programa de fidelidade. Requer um sistema de monitoramento de pontos e um mecanismo de agendamento e envio de notificações.
+* **Rastreabilidade**: [RQ28](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/)
+
+<p align="center"><br>
+Autor: [Pedro Everton de Paula](https://github.com/pedroeverton217), 2025.</p>
+
+### 25. **Permitir Notificações Personalizadas**
+
+* **Tipo**: Verbo
+* **Sinônimos**: Configurar alertas, Personalizar avisos, Gerenciar notificações
+* **Noção**: Capacidade do usuário de definir critérios específicos para receber notificações do aplicativo, como o lançamento de um filme ("avise-me quando o filme X entrar em cartaz"), a disponibilidade de um evento ou uma promoção.
+* **Impacto**: Aumenta a relevância das comunicações para o usuário, reduz a quantidade de notificações indesejadas e melhora o engajamento com o aplicativo. Requer uma interface intuitiva para configuração de preferências e um sistema robusto de filtragem e envio de notificações.
+* **Rastreabilidade**: [RQ31](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/)
+
+<p align="center"><br>
+Autor: [Pedro Everton de Paula](https://github.com/pedroeverton217), 2025.</p>
 
 ---
 
@@ -354,3 +380,4 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 | `1.11`  | 26/05/2025 | Adição da tabela de participantes | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.12`  | 06/07/2025 | Ajuste no RQ29, adicionando suas novas versões RQ29A e RQ29B | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.13`  | 06/07/2025 | Ajuste no RQ32, adicionando suas novas versões RQ32A e RQ32B | [Euller Júlio](https://github.com/Potatoyz908) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
+| `1.14`  | 07/07/2025 | Adição dos léxicos 24 (referente ao RQ28), e 25 (referentes ao RQ31) | [Pedro Everton de Paula](https://github.com/pedroeverton217) | [Artur de Camargos](https://github.com/ArturDCR)  |
