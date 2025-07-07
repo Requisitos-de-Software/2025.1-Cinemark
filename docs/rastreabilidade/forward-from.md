@@ -106,8 +106,9 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 | :-----------------------: | :----------------------------------------------------------------------------------------: |
 |            NFR            |                      [NFR XXXXXXXXXXX](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/nfrFramework/#nfr-01-usabilidade)                      |
 | Especificação Suplementar |                [ES XXXXXXXXXXX](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especificaçãoSuplementar/#4-funcionalidade)                 |
+| Artefatos (elicitação de requisitos) |                                            *Ex: [QXX](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/questionario/#Q01)*                                            |
 
-<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro), 2025.</p></font>
+<font size="3"><p style="text-align: center">Autor: [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) e [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 ---
 
@@ -771,20 +772,6 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
-#### **RQ38A**
-
-|                 [RQ38A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq38A)                 |                            	O sistema deve exibir mensagens de erro descritivas.                             |
-| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-|                Épico                 |                                            [E07](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-7–feedback-do-sistema)                                             |
-|                 Tema                 |                                                        Mensagens de Feedback e Confirmações Visuais                                                        |
-|         História de Usuário          | [US36](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us36-mensagens-de-erro-e-confirmacao) Eu, como usuário, desejo receber mensagens de erro compreensíveis e confirmações visuais sempre que realizar uma ação, para entender claramente o que aconteceu e como proceder dentro do aplicativo. |
-|                Léxico                |                                              [L23](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#23-usuario)                                                |
-|             Casos de uso             |                                            Não se aplica                                            |
-|               Cenários               |                                              Não se aplica                                               |
-| Artefatos (elicitação de requisitos) |                                            [ST05](../elicitação/storytelling.md#ST05), [IS37](../elicitação/introspecção.md#IS37) |
-
-<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
-
 #### **RQ38B**
 
 |                 [RQ38B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq38B)                 |                            	O sistema deve exibir mensagens de confirmação para ações bem-sucedidas realizadas pelo usuário.                             |
@@ -813,88 +800,75 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
+---
+
 ### Requisitos Não Funcionais
+
+#### **RQ38A**
+|                 [RQ38A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq38A)                 |                            O sistema deve exibir mensagens de erro descritivas.                             |
+| :-----------------------: | :----------------------------------------------------------------------------------------: |
+|            NFR            |                      Não se aplica                      |
+| Especificação Suplementar |                Não se aplica                 |
+| Artefatos (elicitação de requisitos) |                                            [ST05](../elicitação/storytelling.md#ST05), [IS37](../elicitação/introspecção.md#IS37) |
+
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 #### **RQ40**
 
-|                 [RQ40](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq40)                 |                            		Tempo de resposta de até 3 segundos em telas críticas (seleção de assentos, pagamento).                             |
-| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-|                Épico                 |                                            Não se aplica                                             |
-|                 Tema                 |                                                        	Desempenho em Telas Críticas de Compra                                                        |
-|         História de Usuário          | Não se aplica |
-|                Léxico                |                                              Não se aplica                                                |
-|             Casos de uso             |                                            Não se aplica                                            |
-|               Cenários               |                                              Não se aplica                                               |
+|                 [RQ40](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq40)                 |                            Tempo de resposta de até 3 segundos em telas críticas (seleção de assentos, pagamento).                             |
+| :-----------------------: | :----------------------------------------------------------------------------------------: |
+|            NFR            |                      Não se aplica                      |
+| Especificação Suplementar |                [Tabela 2](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especificaçãoSuplementar/#7-desempenho)                 |
 | Artefatos (elicitação de requisitos) |                                            [IS29](../elicitação/introspecção.md#IS29), [Q09](../elicitação/questionario.md#Q09), [Q12](../elicitação/questionario.md#Q12) |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 #### **RQ41**
 
-|                 [RQ41](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq41)                 |                            	Garantir uptime de 99,5% para funções críticas como seleção de ingressos, assentos, pagamento.                             |
-| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-|                Épico                 |                                            Não se aplica                                             |
-|                 Tema                 |                                                        	Alta Disponibilidade em Funções Sensíveis                                                        |
-|         História de Usuário          | Não se aplica |
-|                Léxico                |                                              Não se aplica                                                |
-|             Casos de uso             |                                            Não se aplica                                            |
-|               Cenários               |                                              Não se aplica                                               |
+|                 [RQ41](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq41)                 |                            Garantir uptime de 99,5% para funções críticas como seleção de ingressos, assentos, pagamento.                             |
+| :-----------------------: | :----------------------------------------------------------------------------------------: |
+|            NFR            |                      Não se aplica                      |
+| Especificação Suplementar |                [Tabela 3](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especificaçãoSuplementar/#6-confiabilidade)                 |
 | Artefatos (elicitação de requisitos) |                                            [AI28](../elicitação/analiseUI.md#AI28) |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 #### **RQ42**
 
-|                 [RQ42](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq42)                 |                            		Sistema responsivo e adaptável a diferentes tamanhos de tela (smartphone e tablet).                             |
-| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-|                Épico                 |                                            [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas)                                             |
-|                 Tema                 |                                                        Responsividade em Diferentes Dispositivos                                                        |
-|         História de Usuário          | Não se aplica |
-|                Léxico                |                                              Não se aplica                                                |
-|             Casos de uso             |                                            Não se aplica                                            |
-|               Cenários               |                                              Não se aplica                                               |
+|                 [RQ42](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq42)                 |                            Sistema responsivo e adaptável a diferentes tamanhos de tela (smartphone e tablet).                             |
+| :-----------------------: | :----------------------------------------------------------------------------------------: |
+|            NFR            |                      Não se aplica                      |
+| Especificação Suplementar |                [Tabela 4](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especificaçãoSuplementar/#5-usabilidade)                 |
 | Artefatos (elicitação de requisitos) |                                            [AI24](../elicitação/analiseUI.md#AI24) |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 #### **RQ43**
 
-|                 [RQ43](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq43)                 |                            	O aplicativo deve permitir que o usuário realize todo o fluxo de seleção de assentos e compra de ingresso com, em média, 4 interações diretas com o sistema.                             |
-| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-|                Épico                 |                                            [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas)                                             |
-|                 Tema                 |                                                        Interface Intuitiva e Navegação Facilitada                                                        |
-|         História de Usuário          | Não se aplica |
-|                Léxico                |                                              [L13](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#13-acesso-aos-ingressos-facil-e-visivel-na-interface-com-botao-dedicado-ou-atalho-no-menu-inicial) [L14](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#14-tornar-o-acesso-aos-ingressos-facil-e-visivel-na-interface-com-botao-dedicado-ou-atalho-no-menu-inicial)                                                |
-|             Casos de uso             |                                            [UC12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/casosDeUso/#tabela-14-tornar-o-acesso-aos-ingressos-facil-e-visivel-na-interface-com-botao-dedicado-ou-atalho-no-menu-inicial)                                            |
-|               Cenários               |                                               [C8](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#48-cenario-8-tornar-o-acesso-aos-ingressos-facil-e-visivel-na-interface-com-botao-dedicado-ou-atalho-no-menu-inicial)                                               |
+|                 [RQ43](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq43)                 |                            O aplicativo deve permitir que o usuário realize todo o fluxo de seleção de assentos e compra de ingresso com, em média, 4 interações diretas com o sistema.                             |
+| :-----------------------: | :----------------------------------------------------------------------------------------: |
+|            NFR            |                      Não se aplica                      |
+| Especificação Suplementar |                [Tabela 17](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especificaçãoSuplementar/#5-usabilidade)                 |
 | Artefatos (elicitação de requisitos) |                                            [IS28](../elicitação/introspecção.md#IS28) |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 #### **RQ44**
 
-|                 [RQ44](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq44)                 |                            	Interface acessível para pessoas com deficiência visual (leitores de tela) e baixo-visão.                             |
-| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-|                Épico                 |                                            [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas)                                             |
-|                 Tema                 |                                                        Acessibilidade para Usuários com Deficiência Visual                                                        |
-|         História de Usuário          | Não se aplica |
-|                Léxico                |                                              Não se aplica                                                |
-|             Casos de uso             |                                            Não se aplica                                            |
-|               Cenários               |                                              Não se aplica                                               |
+|                 [RQ44](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq44)                 |                            Interface acessível para pessoas com deficiência visual (leitores de tela) e baixo-visão.                             |
+| :-----------------------: | :----------------------------------------------------------------------------------------: |
+|            NFR            |                      [Cartão de Especificação 2](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/nfrFramework/#nfr-01-usabilidade)                      |
+| Especificação Suplementar |                [Tabela 14](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especificaçãoSuplementar/#5-usabilidade)                 |
 | Artefatos (elicitação de requisitos) |                                            [IS35](../elicitação/introspecção.md#IS35), [IS36](../elicitação/introspecção.md#IS36), [AI25](../elicitação/analiseUI.md#AI25), [ST05](../elicitação/storytelling.md#ST05) |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 #### **RQ45**
 
-|                 [RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq45)                 |                            	As cores da interface do aplicativo devem possuir nível de contraste conforme a WCAG A/AA.                             |
-| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-|                Épico                 |                                            [E09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-9-experiencia-personalizada-com-cinemas)                                             |
-|                 Tema                 |                                                        	Contraste de Interface Adequado às Diretrizes WCAG                                                        |
-|         História de Usuário          | [US37](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us37-garantir-contraste-visual-adequado) Eu, como usuário com baixa visão, desejo que os textos e elementos da interface tenham contraste adequado, para que eu possa enxergar e utilizar o sistema com conforto e clareza. |
-|                Léxico                |                                              Não se aplica                                                |
-|             Casos de uso             |                                            Não se aplica                                            |
-|               Cenários               |                                              Não se aplica                                               |
+|                 [RQ45](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq45)                 |                            As cores da interface do aplicativo devem possuir nível de contraste conforme a WCAG A/AA.                             |
+| :-----------------------: | :----------------------------------------------------------------------------------------: |
+|            NFR            |                      [Cartão de Especificação 1](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/nfrFramework/#nfr-01-usabilidade)                      |
+| Especificação Suplementar |                [Tabela 8](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especificaçãoSuplementar/#5-usabilidade)                 |
 | Artefatos (elicitação de requisitos) |                                            [AI25](../elicitação/analiseUI.md#AI25) |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
@@ -923,3 +897,4 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 | `1.7` | 05/07/2025 | Adiciona rastreabilidade dos requisitos: [RQ19](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ20](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ21](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ22](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ23](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ24](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ25](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ26](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados),[RQ27](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados) | [Gabriel Castelo](https://github.com/GabrielCastelo-31)| [Euller Júlio da Silva](https://github.com/Potatoyz908) |
 | `1.8` | 05/07/2025 | Corrije rastreabilidade com base na separação de RQ20 em RQ20A e RQ20B | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Euller Júlio da Silva](https://github.com/Potatoyz908) |
 | `2.0`  |  06/07/2025 |  Correção nos requisitos que foram alterados na elicitação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `2.1`  |  06/07/2025 |  Correção nos requisitos não funcionais | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
