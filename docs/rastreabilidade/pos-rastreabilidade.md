@@ -762,10 +762,10 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
-| Recurso | - |
-| Representação | - |
-| Alocado | - |
+| Satisfação | [E03](../modelagem/backlog.md#epico-3-compra-e-finalizacao), [US12](../modelagem/historias.md#us12-fluxo-de-compra-em-5-etapas) |
+| Recurso | [US12](../modelagem/historias.md#us12-fluxo-de-compra-em-5-etapas) |
+| Representação |  |
+| Alocado | [E03](../modelagem/backlog.md#epico-3-compra-e-finalizacao) |
 | Agregação | [AI30](../elicitação/analiseUI.md#AI30) |
 
 <font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
