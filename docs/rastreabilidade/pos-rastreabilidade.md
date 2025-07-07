@@ -631,10 +631,10 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
-| Recurso | - |
-| Representação | - |
-| Alocado | - |
+| Satisfação | [E09](../modelagem/backlog.md#epico-9-experiencia-personalizada-com-cinemas), [US30](../modelagem/historias.md#us30-sugestao-de-cinemas-personalizada) |
+| Recurso | [US30](../modelagem/historias.md#us30-sugestao-de-cinemas-personalizada) |
+| Representação |  |
+| Alocado | [E09](../modelagem/backlog.md#epico-9-experiencia-personalizada-com-cinemas) |
 | Agregação | [IS21](../elicitação/introspecção.md#IS21) |
 
 <font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
@@ -646,10 +646,10 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | **Artefato Analisado** | **Classificação do Artefato Analisado** |
 |---------------------|--------------------------|
 | Tipos de Elos | Artefatos Relacionados |
-| Satisfação | - |
-| Recurso | - |
-| Representação | - |
-| Alocado | - |
+| Satisfação | [E09](../modelagem/backlog.md#epico-9-experiencia-personalizada-com-cinemas), [US30](../modelagem/historias.md#us30-sugestao-de-cinemas-personalizada) |
+| Recurso | [US30](../modelagem/historias.md#us30-sugestao-de-cinemas-personalizada) |
+| Representação | |
+| Alocado | [E09](../modelagem/backlog.md#epico-9-experiencia-personalizada-com-cinemas) |
 | Agregação | [IS21](../elicitação/introspecção.md#IS21) |
 
 <font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
