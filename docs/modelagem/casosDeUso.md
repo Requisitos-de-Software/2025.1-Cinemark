@@ -420,7 +420,7 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 | **Data de Criação** | 07/07/2025 |
 | **Rastreabilidade** | RQ25 |
 
-<font size="3"><p style="text-align: center">Autor: [Pedro Everton](https://github.com/pedroeverton217).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Pedro Everton](https://github.com/pedroeverton217), 2025.</p></font>
 
 ### **Tabela 16: Salvar ingressos na carteira digital**
 
@@ -438,7 +438,7 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 | **Data de Criação** | 07/07/2025 |
 | **Rastreabilidade** | RQ26 |
 
-<font size="3"><p style="text-align: center">Autor: [Pedro Everton](https://github.com/pedroeverton217).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Pedro Everton](https://github.com/pedroeverton217), 2025.</p></font>
 
 ***
 
@@ -467,3 +467,4 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 | `1.9`  | 26/06/2025 | Correção da rastreabilidade dos requisitos utilizados nos casos de uso. | [Arthur Evangelista](https://github.com/arthurevg) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
 | `1.10`  | 06/07/2025 | Ajuste no RQ29, adicionando suas novas versões RQ29A e RQ29B | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.11`  | 06/07/2025 | Ajuste no RQ32, adicionando suas novas versões RQ32A e RQ32B | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
+|  `1.12`  | 07/07/2025 | Adição das Tabelas 15 e 16 com os casos de uso para RQ25 (Compra de ingresso em 5 etapas) e RQ26 (Salvar ingresso na carteira digital) | [Pedro Everton de Paula](https://github.com/pedroeverton217) | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) |

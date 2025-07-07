@@ -53,6 +53,10 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
 						<td>Criou as tabelas de Especificação Suplementar dos requisitos RQ50, RQ51 e RQ52 com suas respectivas tabelas (11, 12 e 13)</td>	
 					</tr>
+					<tr>
+						<td><a  href="https://github.com/pedroeverton217">Pedro Everton de Paula</a></td>
+						<td>Criou a tabela de Especificação Suplementar do requisito RQ56 com sua respectiva tabela (19)</td>	
+					</tr>
 			</tbody>
 		</table>
 	</div>  
@@ -191,6 +195,14 @@ A elaboração deste artefato seguiu os princípios do modelo FURPS+, amplamente
 
 <font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
+### Tabela 19: Detalhamento do RQ56
+
+| ID | Descrição | Categoria Detalhada | Métrica |
+| :---- | :----------------------------------------------------------------------------------------------- | :-------------------------------- | :------------------------------------------------------------ |
+| [RQ56](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | Remover automaticamente promoções expiradas da interface. | Confiabilidade – Integridade de Dados | As promoções expiradas devem ser removidas da interface em até 1 hora após a sua data/hora de expiração. |
+
+<font size="3"><p style="text-align: center">Autor: [Pedro Everton de Paula](https://github.com/pedroeverton217), 2025.</p></font>
+
 ## 7. Desempenho
 
 ### Tabela 2: Detalhamento do RQ40
@@ -282,3 +294,4 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 | `1.7`  | 18/05/2025 | Padroniza autoria das tabelas como "Autor:"| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.8`  | 25/05/2025 | Adição da tabela de participantes | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.9`  | 27/05/2025 | Correção das tabelas 5, 6 e 7 | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
+| `1.10`  | 07/07/2025 | Adição do detalhamento dos requisitos RQ56 com suas respectivas tabelas (19) | [Pedro Everton de Paula](https://github.com/pedroeverton217) | [Arthur Evangelista](https://github.com/arthurevg) |
