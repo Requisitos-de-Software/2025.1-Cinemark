@@ -719,7 +719,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação | [E11](../modelagem/backlog.md#epico-11-configuracoes-de-idioma), [US14](../modelagem/historias.md#us14-alterar-preferencias-de-idioma) |
 | Recurso | [US14](../modelagem/historias.md#us14-alterar-preferencias-de-idioma) |
-| Representação | [C04](../modelagem/cenarios.md#cenario-4-alterar-preferencias-de-idioma), [UC06](../modelagem/casosDeUso.md#tabela-8-alterar-preferencias-de-idioma), [L02](../modelagem/lexicos.md#2-preferencia-de-idioma) |
+| Representação | |
 | Alocado | [E11](../modelagem/backlog.md#epico-11-configuracoes-de-idioma) |
 | Agregação | [IS25](../elicitação/introspecção.md#IS25) |
 
