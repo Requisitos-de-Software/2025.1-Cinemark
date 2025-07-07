@@ -14,10 +14,15 @@ A seguir apresentamos os nomes de cada integrante do grupo que participou nesse 
 
 | Nome                                                   | O que fez                 |
 | ------------------------------------------------------ | ---------------------- |
-| [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Artur de Camargos Rodrigues](https://github.com/ArturDCR), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31), [Pedro Everton de Paula](https://github.com/pedroeverton217) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | Selecionaram as ferramentas a serem utilizadas no trabalho. |
-|[Davi Camilo Menezes](https://github.com/Davicamilo23)| Adicionou a tabela de contribuição dos membros, revisou o artefato para a entrega final e fez as alterações necessárias. |
+| [Arthur Evangelista de Oliveira](https://github.com/arthurevg) | Contribuiu na seleção das ferramentas a serem utilizadas no trabalho. |
+| [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | Contribuiu na seleção das ferramentas a serem utilizadas no trabalho. |
+|[Davi Camilo Menezes](https://github.com/Davicamilo23)| Contribuiu na seleção das ferramentas a serem utilizadas no trabalho, adicionou a tabela de contribuição dos membros, revisou o artefato para a entrega final e fez as alterações necessárias. |
+| [Euller Júlio da Silva](https://github.com/Potatoyz908) | Contribuiu na seleção das ferramentas a serem utilizadas no trabalho. |
+| [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31) | Contribuiu na seleção das ferramentas a serem utilizadas no trabalho. |
+| [Pedro Everton de Paula](https://github.com/pedroeverton217) | Contribuiu na seleção das ferramentas a serem utilizadas no trabalho. |
+| [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | Contribuiu na seleção das ferramentas a serem utilizadas no trabalho. |
 
-<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 ---
 
@@ -104,3 +109,4 @@ A seguir apresentamos os nomes de cada integrante do grupo que participou nesse 
 | `1.6.1`   | 11/05/2025 | Adiciona Lucidchart às referências da página| [Euller Júlio](https://github.com/Potatoyz908) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.62` | 06/07/2025 | Pequenos ajustes de formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.7`  | 07/07/2025 | Adição da tabela de contribuição | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR)  |
+| `1.71` | 07/07/2025 | Pequena correção na tabela de contribuição | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR)  |

@@ -14,10 +14,15 @@ A seguir apresentamos os nomes de cada integrante do grupo que participou nesse 
 
 | Nome                                                   | O que fez                 |
 | ------------------------------------------------------ | ---------------------- |
-| [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Artur de Camargos Rodrigues](https://github.com/ArturDCR), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31), [Pedro Everton de Paula](https://github.com/pedroeverton217) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | Planejaram um cronograma a ser seguido ao decorrer das entregas, e documentaram como foi a execução do mesmo. |
-|[Davi Camilo Menezes](https://github.com/Davicamilo23)| Adicionou a tabela de contribuição dos membros, revisou o artefato para a entrega final e fez as alterações necessárias. |
+| [Arthur Evangelista de Oliveira](https://github.com/arthurevg) | Contribuiu no planejamento do cronograma a ser seguido ao decorrer das entregas. |
+| [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | Contribuiu no planejamento do cronograma a ser seguido ao decorrer das entregas. |
+|[Davi Camilo Menezes](https://github.com/Davicamilo23)| Contribuiu no planejamento do cronograma a ser seguido ao decorrer das entregas, documentou como foi a execução do mesmo, adicionou a tabela de contribuição dos membros, revisou o artefato para a entrega final e fez as alterações necessárias. |
+| [Euller Júlio da Silva](https://github.com/Potatoyz908) | Contribuiu no planejamento do cronograma a ser seguido ao decorrer das entregas. |
+| [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31) | Contribuiu no planejamento do cronograma a ser seguido ao decorrer das entregas e documentou como foi a execução do mesmo. |
+| [Pedro Everton de Paula](https://github.com/pedroeverton217) | Contribuiu no planejamento do cronograma a ser seguido ao decorrer das entregas. |
+| [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | Contribuiu no planejamento do cronograma a ser seguido ao decorrer das entregas. |
 
-<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 ---
 
@@ -309,3 +314,4 @@ Na Tabela 15, tem-se o cronograma executado para todas as atividades da entrega 
 | `1.6`  |  06/07/2025 | Adição dos cronogramas executados das últimas entregas e pequenas correções | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) e [Arthur Evangelista](https://github.com/Arthurveg)|
 | `1.7`  |  06/07/2025 | Correção de algumas datas após revisão | [Arthur Evangelista](https://github.com/Arthurveg) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.8`  | 07/07/2025 | Adição da tabela de contribuição | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR)  |
+| `1.81` | 07/07/2025 | Pequena correção na tabela de contribuição | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR)  |

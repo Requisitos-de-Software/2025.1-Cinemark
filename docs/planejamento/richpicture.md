@@ -17,7 +17,7 @@ O **Rich Picture** é uma ferramenta visual usada para compreender e representar
 | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | 01/07/2025 | Analista de requisitos |
 | João Igor | 01/07/2025 | Usuário do aplicativo | 
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
 
 ---
 
@@ -43,7 +43,7 @@ A seguir apresentamos os nomes de cada integrante do grupo que participou da pr�
 |[Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31)| Produziu o Rich Picture do Meu SUS Digital (figuras 9 e 10) e o Rich Picture do Cinemark (figuras 1 e 2), escolhido para o projeto. |
 |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)| Produziu o Rich Picture do Celular Seguro BR (figuras 5 e 6). |
 
-<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 ---
 

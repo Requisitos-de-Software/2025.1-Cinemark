@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Nesta fase, o grupo realizou a verificação dos requisitos por meio de um processo estruturado, baseado no método de inspeção de Fagan, o qual contempla seis etapas principais: Planejamento, Visão Geral, Preparação, Inspeção, Retrabalho e Acompanhamento. Esse modelo orientou a organização das atividades, garantindo um controle de qualidade mais rigoroso sobre os artefatos gerados durante todo o desenvolvimento do projeto.
+Nesta fase, o grupo realizou a verificação dos requisitos por meio de um processo estruturado, baseado no **método de inspeção de Fagan**, o qual contempla seis etapas principais: Planejamento, Visão Geral, Preparação, Inspeção, Retrabalho e Acompanhamento. Esse modelo orientou a organização das atividades, garantindo um controle de qualidade mais rigoroso sobre os artefatos gerados durante todo o desenvolvimento do projeto.
 
 ---
 
@@ -14,7 +14,7 @@ Inicialmente, verificamos as atividades que exigiriam a participação de todos 
 
 ### Preparação
 
-A partir disso, o grupo reuniu todos os artefatos gerados até aquele momento e os classificou com uma pontuação de 1 a 5, levando em consideração a complexidade e o esforço necessário para revisão e validação, excluindo os Requisitos Elicitados, pois foi decidido em todo o grupo corrigi-los juntos.
+A partir disso, o grupo reuniu todos os artefatos gerados até aquele momento e os classificou com uma pontuação de 1 a 5, levando em consideração a complexidade e o esforço necessário para revisão e correção, excluindo os Requisitos Elicitados, pois foi decidido que todo o grupo ia corrigi-los juntos.
 
 ### Inspeção
 
@@ -44,7 +44,7 @@ Durante o processo, foram identificados pontos críticos para a entrega final, q
 
 - Correções e adições de itens e fotos nas referências nas listas de verificação do projeto;
 
-A fins de documentação, a seguir, segue uma tabela com os artefatos (no formato de PDF) antes das alterações, juntamente com as listas de verificação e inspeção (versão 1.0), de maneira a mostrar o desenvolvimento completo dos artefatos:
+A fins de documentação, a seguir, segue uma tabela com os artefatos (no formato de PDF) antes das alterações, juntamente com as listas de verificação e inspeção (versão 1.0), de maneira a mostrar o desenvolvimento completo dos artefatos.
 
 <font size="3"><p style="text-align: center">Tabela 2: Versão 1.0 dos artefatos</p></font>
 
@@ -78,7 +78,7 @@ A fins de documentação, a seguir, segue uma tabela com os artefatos (no format
 
 <font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
-Com isso, cada membro do grupo deverá revisar os artefatos sob sua responsabilidade, garantindo clareza, consistência e rastreabilidade dos requisitos. A equipe consolidará os documentos, revisará os IDs, aplicará correções e garantirá que todos os critérios definidos nas etapas de Fagan sejam atendidos até a conclusão de todas as atividades (07/07/2025).
+Com isso, cada membro do grupo deverá revisar os artefatos sob sua responsabilidade, garantindo clareza, consistência e rastreabilidade dos requisitos. A equipe consolidará os documentos, revisará os IDs, aplicará correções e garantirá que todos os critérios definidos nas etapas de Fagan sejam atendidos até a conclusão de todas as atividades **(07/07/2025)**.
 
 ---
 
@@ -102,3 +102,4 @@ A verificação e validação dos requisitos é uma etapa fundamental durante o 
 | `1.1`  |  02/07/2025 |  Adição da Introdução, Metodologia, Conclusão e Referências Bibliográficas | [Davi Camilo](https://github.com/Davicamilo23)  | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.2`  | 06/07/2025  |  Adição de informações (verificação e inspeção) | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.21` | 06/07/2025  |  Correções de formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+| `1.22` | 07/07/2025  |  Pequenos ajustes gerais | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |

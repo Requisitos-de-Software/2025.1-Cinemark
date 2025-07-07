@@ -24,10 +24,15 @@ A seguir apresentamos os nomes de cada integrante do grupo que participou nesse 
 
 | Nome                                                   | O que fez                 |
 | ------------------------------------------------------ | ---------------------- |
-| [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Artur de Camargos Rodrigues](https://github.com/ArturDCR), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31), [Pedro Everton de Paula](https://github.com/pedroeverton217) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | Escolheram o aplicativo a ser trabalhado na disciplina. |
-|[Davi Camilo Menezes](https://github.com/Davicamilo23)| Adicionou a tabela de contribuição dos membros, revisou o artefato para a entrega final e fez as alterações necessárias. |
+| [Arthur Evangelista de Oliveira](https://github.com/arthurevg) | Contribuiu na escolha do aplicativo a ser trabalhado na disciplina. |
+| [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | Contribuiu na escolha do aplicativo a ser trabalhado na disciplina. |
+|[Davi Camilo Menezes](https://github.com/Davicamilo23)| Contribuiu na escolha do aplicativo a ser trabalhado na disciplina, adicionou a tabela de contribuição dos membros, revisou o artefato para a entrega final e fez as alterações necessárias. |
+| [Euller Júlio da Silva](https://github.com/Potatoyz908) | Contribuiu na escolha do aplicativo a ser trabalhado na disciplina. |
+| [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31) | Contribuiu na escolha do aplicativo a ser trabalhado na disciplina. |
+| [Pedro Everton de Paula](https://github.com/pedroeverton217) | Contribuiu na escolha do aplicativo a ser trabalhado na disciplina. |
+| [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | Contribuiu na escolha do aplicativo a ser trabalhado na disciplina. |
 
-<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
 ---
 
@@ -105,3 +110,4 @@ O arquivo com os Termos de Uso completos na data atual (04/05/2025) pode ser vis
 | `2.4`  | 04/05/2025 | Ajuste nas imagens | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `2.41` | 06/07/2025 | Pequenos ajustes de formatação | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `2.5`  | 07/07/2025 | Adição da tabela de contribuição | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR)  |
+| `2.51` | 07/07/2025 | Pequena correção na tabela de contribuição | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR)  |

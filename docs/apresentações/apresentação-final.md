@@ -1,9 +1,9 @@
 # Apresentação da Entrega Final
 
 ## Introdução
-Nesta página se encontra a apresentação da entrega final do nosso grupo. O objetivo desta entrega é apresentar o projeto pronto após ao decorrer das entregas da disciplina.
+Nesta página se encontra a apresentação da entrega final do nosso grupo. O objetivo desta entrega é apresentar o projeto pronto, feito ao decorrer das entregas da disciplina.
 
-A apresentação foi gravada no dia 07/07/2025, com os membros [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) presentes.
+A apresentação foi gravada no dia 07/07/2025, com todos os membros presentes.
 
 ---
 

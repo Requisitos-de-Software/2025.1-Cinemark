@@ -3,9 +3,9 @@
 ## Introdução
 Nesta página se encontra a apresentação da entrega 6 do nosso grupo. O objetivo desta entrega é apresentar:
 
-- Backward-From
-- Forward-From
-- Matriz Geral de Rastreabilidade
+- Backward-From;
+- Forward-From;
+- Matriz Geral de Rastreabilidade;
 - Pós-Rastreabilidade.
 
 A apresentação foi gravada no dia 08/06/2025, com os membros [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31) e [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) presentes.
