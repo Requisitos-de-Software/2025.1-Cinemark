@@ -804,34 +804,6 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
-#### **RQ50**
-
-|                 [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq50)                 |                            Notificações push customizáveis pelo usuário                             |
-| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-|                Épico                 |                                                        Não se aplica                                             |
-|                 Tema                 |                                                        Não se aplica                                                        |
-|         História de Usuário          |                                                        Não se aplica                                |
-|                Léxico                |                                                        Não se aplica                                                |
-|             Casos de uso             |                                                        Não se aplica                                            |
-|               Cenários               |                                                        Não se aplica                                               |
-| Artefatos (elicitação de requisitos) |                                            [IS34](../elicitação/introspecção.md#IS34)                                           |
-
-<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR), 2025.</p></font>
-
-#### **RQ52**
-
-|                 [RQ52](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq52)                 |                            Limitar quantidade máxima de 20 unidades por item no Snack Bar                             |
-| :----------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-|                Épico                 |                                                        Não se aplica                                             |
-|                 Tema                 |                                                        Não se aplica                                                        |
-|         História de Usuário          | [US38](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us38-área-dedicada-ao-cinemark-club) Eu, como cliente, desejo que o sistema limite a 20 unidades por item no Snack Bar para garantir disponibilidade para outros usuários. |
-|                Léxico                |                                                        Não se aplica                                                |
-|             Casos de uso             |                                                        Não se aplica                                            |
-|               Cenários               |                                                        Não se aplica                                               |
-| Artefatos (elicitação de requisitos) |                                            [AI26](../elicitação/analiseUI.md#AI26)                                            |
-
-<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR), 2025.</p></font>
-
 ---
 
 ### Requisitos Não Funcionais
@@ -955,6 +927,16 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 
 <font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR), 2025.</p></font>
 
+#### **RQ50**
+
+|                 [RQ50](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq50)                 |                            Notificações push customizáveis pelo usuário                             |
+| :-----------------------: | :----------------------------------------------------------------------------------------: |
+|            NFR            |                      [Requisitos Não-Funcionais de Usabilidade](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/nfrFramework/#nfr-01-usabilidade)                      |
+| Especificação Suplementar |                [Tabela 11](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especificaçãoSuplementar/#tabela-11-detalhamento-do-rq50)                 |
+| Artefatos (elicitação de requisitos) |                                            [IS50](../elicitação/introspecção.md#IS50) |
+
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR), 2025.</p></font>
+
 #### **RQ51**
 
 |                 [RQ51](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq51)                 |                            Exibir mapa de assentos com indicação gráfica clara                             |
@@ -962,6 +944,16 @@ A tabela 4 apresenta o modelo a ser seguido para a rastreabilidade dos Requisito
 |            NFR            |                                       Não se aplica                                       |
 | Especificação Suplementar |                [Tabela 12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especificaçãoSuplementar/#tabela-12-detalhamento-do-rq51)                 |
 | Artefatos (elicitação de requisitos) |                                            [IS31](../elicitação/introspecção.md#IS31) |
+
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR), 2025.</p></font>
+
+#### **RQ52**
+
+|                 [RQ52](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/#rq52)                 |                            Limitar quantidade máxima de 20 unidades por item no Snack Bar                             |
+| :-----------------------: | :----------------------------------------------------------------------------------------: |
+|            NFR            |                      	Não se aplica                      |
+| Especificação Suplementar |                [Tabela 13](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/especificaçãoSuplementar/#tabela-13-detalhamento-do-rq52)                 |
+| Artefatos (elicitação de requisitos) |                                            [AI26](../elicitação/analiseUI.md#AI26) |
 
 <font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR), 2025.</p></font>
 
