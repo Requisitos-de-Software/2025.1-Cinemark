@@ -30,6 +30,24 @@ O vídeo abaixo contém a validação dos protótipos 3 e 4. A validação foi r
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RVa-6P5_2xo?si=IeI3T_PIS6GSRLSl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Validação dos Protótipos 5 e 6 - Tiago Antunes
+
+<p align="center">Tabela 1: Participantes da gravação da validação dos protótipos 5 e 6</p>
+
+|Participante|Função|
+|---|---|
+|[Tiago Antunes](https://github.com/tiagobalieiro)|Entrevistador|
+|Iasmin|Usuária entrevistada|
+
+**Protótipos validados:**
+
+- Protótipo 5: [RQ26](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) - Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc)
+- Protótipo 6: [RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) - Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas
+
+O vídeo abaixo contém a validação dos protótipos 3 e 4. A validação foi realizada de forma presencial.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LEX6ePYOLSU?si=V01OqL617DlbSGLB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Validação dos Protótipos 7 e 8 - Davi Camilo
 
 <p align="center">Tabela 2: Participantes da gravação da validação dos protótipos 7 e 8</p>
@@ -322,3 +340,4 @@ Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 | `1.7`  | 06/07/2025 | Adição do vídeo de validação dos protótipos 7 e 8 (RQ32A, RQ32B e RQ58) e ajustes nas imagens desses protótipos | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.71` | 06/07/2025 | Ajuste no link da gravação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.8` | 06/07/2025 | Ajuste no link da gravação | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos](https://github.com/arturdcr) |
+| `1.9` | 07/07/2025 | Adição do vídeo de validação dos protótipos 5 e 6 (RQ26 e RQ39) | [Tiago Antunes](https://github.com/tiagobalieiro) | [Arthur Evangelista](https://github.com/arthurevg) |
