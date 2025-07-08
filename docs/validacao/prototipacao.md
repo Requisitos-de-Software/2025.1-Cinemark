@@ -2,7 +2,7 @@
 
 A **prototipação** é uma etapa fundamental no desenvolvimento de qualquer sistema interativo. Ela envolve a criação de representações funcionais ou simulações do aplicativo antes de sua implementação final. Quanto mais ciclos de prototipação e iteração forem realizados, maior a probabilidade de entregar um produto de alta qualidade e que realmente atenda aos usuários. Essa prática é indispensável para a validação, pois permite testar ideias, funcionalidades e o fluxo de interação com os usuários de forma antecipada. Por meio dos protótipos, conseguimos coletar feedback valioso, identificar possíveis problemas e realizar ajustes rápidos, garantindo que o aplicativo final seja mais eficiente e perfeitamente alinhado às necessidades do público Cinemark.
 
----
+***
 
 ## Metodologia
 
@@ -10,7 +10,7 @@ Para este projeto, desenvolvemos alguns protótipos cuidadosamente desenhados pa
 
 Um ponto crucial da nossa metodologia foi a validação individual de cada protótipo com um usuário real do aplicativo Cinemark. Isso garantiu que o feedback fosse colhido diretamente de quem realmente usaria as funcionalidades.
 
----
+***
 
 ## Validação
 
@@ -18,27 +18,25 @@ A validação dos protótipos foi realizada individualmente por cada autor com u
 
 ### Validação dos Protótipos 1 e 2 - Arthur Evangelista
 
-<p align="center">Tabela 3: Participantes da gravação da validação dos protótipos 7 e 8</p>
+<p align="center">Tabela 1: Participantes da gravação da validação dos protótipos 7 e 8</p>
 
 |Participante|Função|
 |---|---|
 |[Arthur Evangelista](https://github.com/arthurevg)|Entrevistador|
 |Yan|Usuário entrevistado|
 
-
 **Protótipos validados:**
 
-- Protótipo 1: [RQ23A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ23A) - Filtrar filmes por categoria
-- Protótipo 2: [RQ24](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ24) - Exibir trailers dentro do app
+* Protótipo 1: [RQ23A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ23A) - Filtrar filmes por categoria
+* Protótipo 2: [RQ24](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ24) - Exibir trailers dentro do app
 
 O vídeo abaixo contém a validação dos protótipos 1 e 2. A validação foi realizada de forma presencial.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OyDjwxNMFGU?si=t0PkSwEv0V3IDRfj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 ### Validação dos Protótipos 3 e 4 - Euller Júlio
 
-<p align="center">Tabela 1: Participantes da gravação da validação dos protótipos 3 e 4</p>
+<p align="center">Tabela 2: Participantes da gravação da validação dos protótipos 3 e 4</p>
 
 |Participante|Função|
 |---|---|
@@ -47,8 +45,8 @@ O vídeo abaixo contém a validação dos protótipos 1 e 2. A validação foi r
 
 **Protótipos validados:**
 
-- Protótipo 3: [RQ33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ33) - Permitir alteração de preferências de idioma
-- Protótipo 4: [RQ59](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ59) - Reservar sala para eventos privados
+* Protótipo 3: [RQ33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ33) - Permitir alteração de preferências de idioma
+* Protótipo 4: [RQ59](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ59) - Reservar sala para eventos privados
 
 O vídeo abaixo contém a validação dos protótipos 3 e 4. A validação foi realizada de forma presencial.
 
@@ -56,7 +54,7 @@ O vídeo abaixo contém a validação dos protótipos 3 e 4. A validação foi r
 
 ### Validação dos Protótipos 5 e 6 - Tiago Antunes
 
-<p align="center">Tabela 1: Participantes da gravação da validação dos protótipos 5 e 6</p>
+<p align="center">Tabela 3: Participantes da gravação da validação dos protótipos 5 e 6</p>
 
 |Participante|Função|
 |---|---|
@@ -65,8 +63,8 @@ O vídeo abaixo contém a validação dos protótipos 3 e 4. A validação foi r
 
 **Protótipos validados:**
 
-- Protótipo 5: [RQ26](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ26) - Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc)
-- Protótipo 6: [RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ39) - Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas
+* Protótipo 5: [RQ26](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ26) - Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc)
+* Protótipo 6: [RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ39) - Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas
 
 O vídeo abaixo contém a validação dos protótipos 3 e 4. A validação foi realizada de forma presencial.
 
@@ -74,26 +72,47 @@ O vídeo abaixo contém a validação dos protótipos 3 e 4. A validação foi r
 
 ### Validação dos Protótipos 7 e 8 - Davi Camilo
 
-<p align="center">Tabela 2: Participantes da gravação da validação dos protótipos 7 e 8</p>
+<p align="center">Tabela 4: Participantes da gravação da validação dos protótipos 7 e 8</p>
 
 |Participante|Função|
 |---|---|
 |[Davi Camilo](https://github.com/Davicamilo23)|Entrevistador|
 |Bernardo|Usuário entrevistado|
 
-
 **Protótipos validados:**
 
-- Protótipo 7: [RQ32A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32A) - Exibir recomendações de filmes baseadas em histórico e [RQ32B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32B) - Exibir recomendações de filmes baseadas em preferências
-- Protótipo 8: [RQ58](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ58) - Fornecer comparação de preços entre cinemas
+* Protótipo 7: [RQ32A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32A) - Exibir recomendações de filmes baseadas em histórico e [RQ32B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32B) - Exibir recomendações de filmes baseadas em preferências
+* Protótipo 8: [RQ58](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ58) - Fornecer comparação de preços entre cinemas
 
 O vídeo abaixo contém a validação dos protótipos 7 e 8. A validação foi realizada de forma presencial.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e82bmqT2tBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Validação dos Protótipos 9 e 10 - Gabriel Castelo
+
+<p align="center">Tabela 5: Participantes da gravação da validação dos protótipos 9 e 10</p>
+|Participante|Função|
+|---|---|
+|[Gabriel Castelo](https://github.com/GabrielCastelo-31)|Entrevistador|
+|João|Usuário entrevistado|
+
+**Protótipos validados:**
+
+* Protótipo 9: [RQ29A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ29A) - Sugerir cinemas com base no histórico de visitas e [RQ29B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) - Sugerir cinemas com base na localização atual
+* Protótipo 10: [RQ30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ30) - Permitir que o usuário salve cinemas como favoritos
+
+O vídeo abaixo contém a validação dos protótipos 9 e 10. A validação foi realizada de forma presencial.
+
+<iframe width="315" height="560"
+src="https://www.youtube.com/embed/k30iZRFkMIc"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
+
 ### Validação dos Protótipos 11 e 12 - Artur de Camargos Rodrigues
 
-<p align="center">Tabela 3: Participantes da gravação da validação dos protótipos 11 e 12</p>
+<p align="center">Tabela 6: Participantes da gravação da validação dos protótipos 11 e 12</p>
 
 |Participante|Função|
 |---|---|
@@ -102,20 +121,20 @@ O vídeo abaixo contém a validação dos protótipos 7 e 8. A validação foi r
 
 **Protótipos validados:**
 
-- Protótipo 11: [RQ60](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ60) - Fornecer um Hub para crítica de filmes.
-- Protótipo 12: [RQ67](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ67) - Reservar sala para eventos privadosTornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.
+* Protótipo 11: [RQ60](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ60) - Fornecer um Hub para crítica de filmes.
+* Protótipo 12: [RQ67](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ67) - Reservar sala para eventos privadosTornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.
 
 O vídeo abaixo contém a validação dos protótipos 11 e 12. A validação foi realizada de forma presencial.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NJnp1_i5y3g?si=XVVCGxYLFS7w3bpi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
----
+***
 
 ## Requisitos Contemplados nos Protótipos
 
 A Tabela 4 detalha os requisitos que foram incorporados e o autor de cada protótipo.
 
-<p align="center">Tabela 4: Requisitos utilizados</p>
+<p align="center">Tabela 7: Requisitos utilizados</p>
 
 |Requisito|Descrição|Protótipo|Autor|
 |---|---|---|---|
@@ -137,7 +156,7 @@ A Tabela 4 detalha os requisitos que foram incorporados e o autor de cada protó
 <font size="3"><p style="text-align: center">
 Autores: [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
 
----
+***
 
 ## Protótipos
 
@@ -146,8 +165,6 @@ Disponível ao clicar no [Link do protótipo](https://www.figma.com/design/Bw0oG
 ### Protótipo 1
 
 Protótipo dos requisitos RQ23A.
-
-
 
 <p align="center">Imagem 1: Capturas de tela do protótipo 1</p>
 
@@ -162,8 +179,6 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
 Protótipo dos requisitos RQ24.
 
-
-
 <p align="center">Imagem 2: Capturas de tela do protótipo 2</p>
 
 <p align="center">
@@ -177,8 +192,6 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
 Protótipo dos requisitos RQ33.
 
-
-
 <p align="center">Imagem 3: Capturas de tela do protótipo 3</p>
 
 <p align="center">
@@ -191,8 +204,6 @@ Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 ### Protótipo 4
 
 Protótipo dos requisitos RQ59.
-
-
 
 <p align="center">Imagem 4: Capturas de tela do protótipo 4</p>
 
@@ -216,7 +227,6 @@ Autor: <a href="https://github.com/Potatoyz908">Euller Júlio</a>, 2025.</p>
 
 Protótipo dos requisitos RQ26.
 
-
 <p align="center">Imagem 6: Capturas de tela do protótipo 5</p>
 
 <p align="center">
@@ -229,7 +239,6 @@ Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 20
 ### Protótipo 6
 
 Protótipo dos requisitos RQ39.
-
 
 <p align="center">Imagem 7: Capturas de tela do protótipo 6</p>
 
@@ -244,7 +253,6 @@ Autor: <a href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a>, 20
 
 Protótipo dos requisitos RQ32A e RQ32B.
 
-
 <p align="center">Imagem 8: Capturas de tela do protótipo 7</p>
 
 <p align="center">
@@ -257,7 +265,6 @@ Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 ### Protótipo 8
 
 Protótipo dos requisitos RQ58.
-
 
 <p align="center">Imagem 9: Capturas de tela do protótipo 8</p>
 
@@ -275,7 +282,6 @@ Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 
 Protótipo dos requisitos RQ29A e RQ29B.
 
-
 <p align="center">Imagem 10: Capturas de tela do protótipo 9</p>
 
 <p align="center">
@@ -288,7 +294,6 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 ### Protótipo 10
 
 Protótipo dos requisitos RQ30.
-
 
 <p align="center">Imagem 11: Capturas de tela do protótipo 10</p>
 
@@ -303,8 +308,6 @@ Autor: <a href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a>, 2025.
 
 Protótipo dos requisitos RQ60.
 
-
-
 <p align="center">Imagem 12: Capturas de tela do protótipo 11</p>
 
 <p align="center">
@@ -318,8 +321,6 @@ Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 
 Protótipo dos requisitos RQ67.
 
-
-
 <p align="center">Imagem 13: Capturas de tela do protótipo 12</p>
 
 <p align="center">
@@ -329,7 +330,7 @@ Protótipo dos requisitos RQ67.
 <p align="center"><br>
 Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 
----
+***
 
 ## Referências Bibliográficas
 
@@ -337,7 +338,7 @@ Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 
 > FIGMA. Figma. \[S. l.]: Figma, c2012-2025. Disponível em: <https://www.figma.com>
 
----
+***
 
 ## Histórico de Versão
 
@@ -355,3 +356,4 @@ Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 | `1.8` | 06/07/2025 | Ajuste no link da gravação | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos](https://github.com/arturdcr) |
 | `1.9` | 07/07/2025 | Adição do vídeo de validação dos protótipos 5 e 6 (RQ26 e RQ39) | [Tiago Antunes](https://github.com/tiagobalieiro) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.10` | 07/07/2025 | Correção das rastreabilidades | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.11` | 07/07/2025 | Adição do vídeo de validação dos protótipos 9 e 10 (RQ29A, RQ29B e RQ30) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Arthur Evangelista](https://github.com/arthurevg) |
