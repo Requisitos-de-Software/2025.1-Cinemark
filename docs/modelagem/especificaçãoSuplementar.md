@@ -84,7 +84,11 @@ A tabela 20 apresenta o cronograma da validação e as funções dos membros.
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
-						<td>Criou as tabelas de Especificação Suplementar dos requisitos RQ50, RQ51 e RQ52 com suas respectivas tabelas (11, 12 e 13).</td>	
+						<td>Criou as tabelas de Especificação Suplementar dos requisitos RQ50, RQ51 e RQ52 com suas respectivas tabelas (11, 12 e 13)</td>	
+					</tr>
+					<tr>
+						<td><a  href="https://github.com/pedroeverton217">Pedro Everton de Paula</a></td>
+						<td>Criou as tabelas de Especificação Suplementar dos requisitos RQ55, RQ56 e RQ57 com suas respectivas tabelas (19, 20 e 21)</td>	
 					</tr>
 			</tbody>
 		</table>
@@ -223,6 +227,32 @@ A tabela 20 apresenta o cronograma da validação e as funções dos membros.
 
 <font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
+### Tabela 19: Detalhamento do RQ55
+
+| ID | Descrição | Categoria Detalhada | Métrica |
+| :---- | :----------------------------------------------------------------------------------------------- | :-------------------------------- | :------------------------------------------------------------ |
+| [RQ55](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | Validar e-mail e senha antes de criação ou redefinição de conta. | Confiabilidade – Integridade de Dados | O sistema deve validar o formato do e-mail e a complexidade da senha (mínimo 8 caracteres, incluindo letras maiúsculas, minúsculas, números e caracteres especiais) antes de permitir a criação ou redefinição da conta. |
+
+<font size="3"><p style="text-align: center">Autor: [Pedro Everton de Paula](https://github.com/pedroeverton217), 2025.</p></font>
+
+
+### Tabela 20: Detalhamento do RQ56
+
+| ID | Descrição | Categoria Detalhada | Métrica |
+| :---- | :----------------------------------------------------------------------------------------------- | :-------------------------------- | :------------------------------------------------------------ |
+| [RQ56](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | Remover automaticamente promoções expiradas da interface. | Confiabilidade – Integridade de Dados | As promoções expiradas devem ser removidas da interface em até 1 hora após a sua data/hora de expiração. |
+
+<font size="3"><p style="text-align: center">Autor: [Pedro Everton de Paula](https://github.com/pedroeverton217), 2025.</p></font>
+
+### Tabela 21: Detalhamento do RQ57
+
+| ID | Descrição | Categoria Detalhada | Métrica |
+| :---- | :----------------------------------------------------------------------------------------------- | :-------------------------------- | :------------------------------------------------------------ |
+| [RQ57](https://requisitos-de-software.github.io/2025.1-Cinemark/elicitação/requisitosElicitados/) | Validar dados pessoais no perfil antes de salvar. | Confiabilidade – Integridade de Dados | Todos os campos obrigatórios do perfil (nome, sobrenome, telefone, etc.) devem ser preenchidos e formatados corretamente antes que as alterações possam ser salvas. |
+
+<font size="3"><p style="text-align: center">Autor: [Pedro Everton de Paula](https://github.com/pedroeverton217), 2025.</p></font>
+
+
 ## 7. Desempenho
 
 ### Tabela 2: Detalhamento do RQ40
@@ -316,4 +346,5 @@ Nenhum requisito se encaixou nessa classificação.
 | `1.7`  | 18/05/2025 | Padroniza autoria das tabelas como "Autor:"| [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.8`  | 25/05/2025 | Adição da tabela de participantes | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) | [Artur de Camargos](https://github.com/ArturDCR) |
 | `1.9`  | 27/05/2025 | Correção das tabelas 5, 6 e 7 | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes Balieiro](https://github.com/tiagobalieiro) |
+| `1.10`  | 07/07/2025 | Adição do detalhamento dos requisitos RQ55, RQ56 e RQ57 com suas respectivas tabelas (19, 20 e 21) | [Pedro Everton de Paula](https://github.com/pedroeverton217) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.10`  | 07/07/2025 | Adição da gravação da validação com o usuário | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
