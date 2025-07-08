@@ -815,7 +815,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação | [UC08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/casosDeUso/#tabela-10-permitir-que-usuarios-avaliem-filmes-com-escala-de-1-a-5-estrelas), [C12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#412-cenario-12-exibir-avaliacoes-e-permitir-que-usuarios-avaliem-filmes-com-escala-de-1-a-5-estrelas), [L4](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#4-avaliacoes-de-filmes), [L22](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#22-avaliar-filmes), [L23](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#23-usuario) |
 | Recurso | [US06](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us06-exibir-e-permitir-avaliacoes) |
-| Representação | - |
+| Representação | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/prototipacao/p7.png" height="500" width="250"> |
 | Alocado | [E04](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-4-hub-de-conteudo-cinematografico) |
 | Agregação | [IS15](../elicitação/introspecção.md#IS15) |
 
