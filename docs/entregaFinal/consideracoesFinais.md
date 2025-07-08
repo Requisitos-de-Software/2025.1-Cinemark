@@ -20,6 +20,10 @@ A disciplina de Requisitos de Software tomou grande tempo do semestre, tendo em 
 
 ### [Euller Júlio da Silva](https://github.com/Potatoyz908)
 
+A disciplina de Requisitos de Software foi uma experiência que exigiu bastante dedicação e tempo durante todo o semestre para melhor aprendizado e conclusão das entregas de forma bem feita e com qualidade. A dinâmica da disciplina, que envolveu atuar em diversas técnicas como elicitação (introspecção, análise de interface, questionário, storytelling), priorização (MoSCoW, 100$, Three Level Scale, Kano Model), modelagem (cenários, léxicos, casos de uso, histórias de usuário, NFR Framework), rastreabilidade (backward-from, forward-from, pós-rastreabilidade) e validação (prototipação), me fez aprender bastante sobre um pouco de tudo. 
+
+Esse conhecimento abrangente me permite, em casos reais, escolher a melhor opção dentre todas as técnicas disponíveis, já que ganhei essa bagagem com a disciplina. Sinto-me preparado para um cenário profissional para agregar e aplicar todo o conhecimento aprendido durante a disciplina. Inclusive, já estou aplicando esses conceitos nos meus negócios com clientes como prestador de serviços e também em projetos dos quais faço parte, demonstrando a aplicabilidade prática do conhecimento adquirido.
+
 ### [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31)
 
 A disciplina de Requisitos de Software exigiu bastante empenho e dedicação durante todo o semetre para que as atividades e entregas fossem feitas com boa qualidade. Trabalhar em equipe ao longo do semestre às vezes pode ser um desafio, mas também é uma oportunidade de aprendizado e crescimento, principalmente em um projeto como o nosso, em que os membros se dedicaram para entregar um bom resultado. Sinto que o trabalho realizado com os requisitos do Cinemark agregou bastante na minha formação, e é algo que já estou colocando em prática no estágio que estou realizando atualmente.
@@ -44,3 +48,4 @@ Logo abaixo está a finalização do trabalho, onde documentamos o que achamos d
 | `1.1`  |  07/07/2025 |  Adição de todas as informações da página | [Davi Camilo](https://github.com/Davicamilo23)  | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.2`  |  08/07/2025 |  Adição das consideração final Davi | [Davi Camilo](https://github.com/Davicamilo23)  | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.3`  |  08/07/2025 |  Adição das consideração final Gabriel | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.4`  |  07/07/2025 |  Adição da consideração final de Euller Júlio | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
