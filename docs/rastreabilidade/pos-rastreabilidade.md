@@ -69,15 +69,15 @@ Essa abordagem metodológica permite visualizar de forma clara e organizada como
 		<tbody>
 					<tr>
 						<td><a  href="https://github.com/arthurevg">Arthur Evangelista</a></td>
-						<td>Elaborou a Pós-Rastreablidade dos Requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq10" target="_blank">RQ10</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq11" target="_blank">RQ11</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq12a" target="_blank">RQ12A</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq12b" target="_blank">RQ12B</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq13" target="_blank">RQ13</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq14" target="_blank">RQ14</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq15" target="_blank">RQ15</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq16A" target="_blank">RQ16A</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq16B" target="_blank">RQ16B</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq17" target="_blank">RQ17</a> e <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq18" target="_blank">RQ18</a>.</td>
+						<td>Elaborou a Pós-Rastreablidade dos Requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq10" target="_blank">RQ10</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq11" target="_blank">RQ11</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq12a" target="_blank">RQ12A</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq12b" target="_blank">RQ12B</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq13" target="_blank">RQ13</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq14" target="_blank">RQ14</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq15" target="_blank">RQ15</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq16A" target="_blank">RQ16A</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq16B" target="_blank">RQ16B</a>.</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Davicamilo23">Davi Camilo</a></td>
-						<td>Elaborou a introdução, a metodologia e o modelo de pós-rastreabilidade. Também elaborou a Pós-Rastreablidade dos Requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq37" target="_blank">RQ37</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq38" target="_blank">RQ38</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq39" target="_blank">RQ39</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq40" target="_blank">RQ40</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq41" target="_blank">RQ41</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq42" target="_blank">RQ42</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq43" target="_blank">RQ43</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq44" target="_blank">RQ44</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq45" target="_blank">RQ45</a>.</td>
+						<td>Elaborou a introdução, a metodologia e o modelo de pós-rastreabilidade. Também elaborou a Pós-Rastreablidade dos Requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq25" target="_blank">RQ25</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq26" target="_blank">RQ26</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq27" target="_blank">RQ27</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq37" target="_blank">RQ37</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq38" target="_blank">RQ38</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq39" target="_blank">RQ39</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq40" target="_blank">RQ40</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq41" target="_blank">RQ41</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq42" target="_blank">RQ42</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq43" target="_blank">RQ43</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq44" target="_blank">RQ44</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq45" target="_blank">RQ45</a>.</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/GabrielCastelo-31">Gabriel Castelo</a></td>
-						<td>Elaborou a Pós-Rastreabilidade dos requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq19" target="_blank">RQ19</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq20A" target="_blank">RQ20A</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq20B" target="_blank">RQ20B</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq21A" target="_blank">RQ21A</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq21B" target="_blank">RQ21B</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq21C" target="_blank">RQ21C</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq22A" target="_blank">RQ22A</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq22B" target="_blank">RQ22B</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq23A" target="_blank">RQ23A</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq23B" target="_blank">RQ23B</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq24" target="_blank">RQ24</a>,<a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq25" target="_blank">RQ25</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq26" target="_blank">RQ26</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq27" target="_blank">RQ27</a>.</td>
+						<td>Elaborou a Pós-Rastreabilidade dos requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq20A" target="_blank">RQ20A</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq20B" target="_blank">RQ20B</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq21A" target="_blank">RQ21A</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq21B" target="_blank">RQ21B</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq21C" target="_blank">RQ21C</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq22A" target="_blank">RQ22A</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq22B" target="_blank">RQ22B</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq23A" target="_blank">RQ23A</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq23B" target="_blank">RQ23B</a>.</td>
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/tiagobalieiro">Tiago Antunes Balieiro</a></td>
@@ -85,7 +85,11 @@ Essa abordagem metodológica permite visualizar de forma clara e organizada como
 					</tr>
 					<tr>
 						<td><a  href="https://github.com/Potatoyz908">Euller Júlio</a></td>
-						<td>Elaborou a Pós-Rastreablidade dos Requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq28" target="_blank">RQ28</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq29A" target="_blank">RQ29A</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq29B" target="_blank">RQ29B</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq30" target="_blank">RQ30</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq31" target="_blank">RQ31</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq32A" target="_blank">RQ32A</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq32B" target="_blank">RQ32B</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq33" target="_blank">RQ33</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq34" target="_blank">RQ34</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq35" target="_blank">RQ35</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq36" target="_blank">RQ36</a>.</td>
+						<td>Elaborou a Pós-Rastreablidade dos Requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq28" target="_blank">RQ28</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq29A" target="_blank">RQ29A</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq29B" target="_blank">RQ29B</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq30" target="_blank">RQ30</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq31" target="_blank">RQ31</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq32A" target="_blank">RQ32A</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq32B" target="_blank">RQ32B</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq33" target="_blank">RQ33</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq34" target="_blank">RQ34</a>.</td>
+					</tr>
+					<tr>
+						<td><a  href="https://github.com/ArturDCR">Artur de Camargos Rodrigues</a></td>
+						<td>Elaborou a Pós-Rastreablidade dos Requisitos <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq17" target="_blank">RQ17</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq18" target="_blank">RQ18</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq19" target="_blank">RQ19</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq24" target="_blank">RQ24</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq35" target="_blank">RQ35</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq36" target="_blank">RQ36</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq46" target="_blank">RQ46</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq47" target="_blank">RQ47</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq48" target="_blank">RQ48A</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq48B" target="_blank">RQ48B</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq49" target="_blank">RQ49</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq50" target="_blank">RQ50</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq51" target="_blank">RQ51</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq52" target="_blank">RQ52</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq53" target="_blank">RQ53</a>, <a href="https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#rq54" target="_blank">RQ54</a>.</td>
 					</tr>
 			</tbody>
 		</table>
@@ -378,7 +382,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-processo-de-compra-de-ingressos) |
 | Agregação | [AI15](../elicitação/analiseUI.md#AI15)     |
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR).</p></font>
 
 ***
 
@@ -393,7 +397,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Alocado | [E05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-5-gerenciamento-de-ingressos) |
 | Agregação | [IS09](../elicitação/introspecção.md#IS09), [ST03](../elicitação/storytelling.md#ST03) |
 
-<font size="3"><p style="text-align: center">Autor: [Arthur Evangelista de Oliveira](https://github.com/arthurevg).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR).</p></font>
 
 ***
 
@@ -408,7 +412,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Alocado | [E05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-5-gerenciamento-de-ingressos) |
 | Agregação | [AI16](../elicitação/analiseUI.md#AI16) |
 
-<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR).</p></font>
 
 ***
 
@@ -558,7 +562,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Alocado | [E02](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-2-exploracao-de-filmes) |
 | Agregação | [IS16](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS16) |
 
-<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR).</p></font>
 
 ***
 
@@ -573,7 +577,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Alocado | [E03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-3-compra-e-finalizacao) |
 | Agregação | [IS17](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS17) |
 
-<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
 ***
 
@@ -588,7 +592,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Alocado | [E05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-5-gerenciamento-de-ingressos) |
 | Agregação | [IS18](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS18) |
 
-<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
 ***
 
@@ -603,7 +607,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Alocado | [E08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-8-sistema-de-fidelidade-e-beneficios-cinemark-club) |
 | Agregação | [IS19](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS19),[Q03](../elicitação/questionario.md#Q03) |
 
-<font size="3"><p style="text-align: center">Autor: [Gabriel Castelo](https://github.com/GabrielCastelo-31).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
 ***
 
@@ -753,7 +757,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Alocado | [E09](../modelagem/backlog.md#epico-9-experiencia-personalizada-com-cinemas) |
 | Agregação | [AI32](../elicitação/analiseUI.md#AI32) |
 
-<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR).</p></font>
 
 ***
 
@@ -768,7 +772,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Alocado | [E03](../modelagem/backlog.md#epico-3-compra-e-finalizacao) |
 | Agregação | [AI30](../elicitação/analiseUI.md#AI30) |
 
-<font size="3"><p style="text-align: center">Autor: [Euller Júlio](https://github.com/Potatoyz908).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR).</p></font>
 
 ***
 
@@ -891,6 +895,136 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23).</p></font>
 
+#### **RQ46 - Exibir tabela com significado de ícones e cores no mapa de assentos**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+| :--- | :--- |
+| **Tipos de Elos** | **Artefatos Relacionados** |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | [AI22](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/analiseUI/#ai22) |
+
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR).</p></font>
+
+#### **RQ47 - Atualizar automaticamente o valor total**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+| :--- | :--- |
+| **Tipos de Elos** | **Artefatos Relacionados** |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | [E3](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#%C3%A9pico-3--compra-e-finaliza%C3%A7%C3%A3o) |
+| Agregação | [AI23](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/analiseUI/#ai23) |
+
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR).</p></font>
+
+#### **RQ48A - Proteger dados de pagamento**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+| :--- | :--- |
+| **Tipos de Elos** | **Artefatos Relacionados** |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | [E1](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#%C3%A9pico-1--autentica%C3%A7%C3%A3o-e-gerenciamento-de-conta), [E3](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#%C3%A9pico-3--compra-e-finaliza%C3%A7%C3%A3o) |
+| Agregação | [IS32](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#is32), [Q10](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/questionario/#q10) |
+
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR).</p></font>
+
+#### **RQ48B - Proteger histórico do usuário**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+| :--- | :--- |
+| **Tipos de Elos** | **Artefatos Relacionados** |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | [E1](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#%C3%A9pico-1--autentica%C3%A7%C3%A3o-e-gerenciamento-de-conta) |
+| Agregação | [IS32](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#is32), [Q10](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/questionario/#q10) |
+
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR).</p></font>
+
+#### **RQ49 - Autenticação por biometria ou PIN para operações sensíveis**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+| :--- | :--- |
+| **Tipos de Elos** | **Artefatos Relacionados** |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | [E1](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#%C3%A9pico-1--autentica%C3%A7%C3%A3o-e-gerenciamento-de-conta) |
+| Agregação | [IS33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#is33) |
+
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR).</p></font>
+
+#### **RQ50 - Notificações push customizáveis pelo usuário**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+| :--- | :--- |
+| **Tipos de Elos** | **Artefatos Relacionados** |
+| Satisfação | [US21](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us21-permitir-notificacoes-personalizadas) |
+| Recurso | - |
+| Representação | - |
+| Alocado | [Feature 27](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#features) |
+| Agregação | [IS34](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#is34) |
+
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR).</p></font>
+
+#### **RQ51 - Exibir mapa de assentos com indicação gráfica**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+| :--- | :--- |
+| **Tipos de Elos** | **Artefatos Relacionados** |
+| Satisfação | [US03](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us03-exibir-mapa-grafico-da-sala) |
+| Recurso | - |
+| Representação | - |
+| Alocado | [Feature 9](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#features) |
+| Agregação | [IS31](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#is31) |
+
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR).</p></font>
+
+#### **RQ52 - Limitar quantidade máxima de 20 unidades por item no Snack Bar**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+| :--- | :--- |
+| **Tipos de Elos** | **Artefatos Relacionados** |
+| Satisfação | [US38](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us38-limitar-compras-no-snack-bar) |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | [AI26](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/analiseUI/#ai26) |
+
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR).</p></font>
+
+#### **RQ53 - Manter informações da sessão visíveis no fluxo de compra**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+| :--- | :--- |
+| **Tipos de Elos** | **Artefatos Relacionados** |
+| Satisfação | [US12](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us12-fluxo-de-compra-em-5-etapas) |
+| Recurso | - |
+| Representação | - |
+| Alocado | [Feature 6](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#features) |
+| Agregação | [AI27](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/analiseUI/#ai27) |
+
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR).</p></font>
+
+#### **RQ54 - Ocultar parcialmente o e-mail recuperado**
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+| :--- | :--- |
+| **Tipos de Elos** | **Artefatos Relacionados** |
+| Satisfação | [US08](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us08-recuperacao-de-conta-via-e-mail) |
+| Recurso | - |
+| Representação | - |
+| Alocado | [Feature 2](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#features) |
+| Agregação | [AI33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/analiseUI/#ai33) |
+
+<font size="3"><p style="text-align: center">Autor: [Artur de Camargos Rodrigues](https://github.com/ArturDCR).</p></font>
+
 ***
 
 ## Referências Bibliográficas
@@ -911,3 +1045,4 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 |`1.3`| 04/07/2025|Adição das tabelas referentes ao RQ12A, RQ12B, RQ16A e RQ16B|[Arthur Evangelista](https://github.com/arthurevg)|  [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 |`1.4`| 06/07/2025|Adição das tabelas referentes ao RQ19, RQ20A, RQ20B, RQ21A, RQ21B, RQ21C, RQ22A, RQ22B, RQ23A,RQ23B,RQ24,RQ25,RQ26,RQ27|[Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Arthur Evangelista](https://github.com/arthurevg) |
 |`1.5`| 07/07/2025|Adição das tabelas referentes ao RQ28, RQ29A, RQ29B, RQ30, RQ31, RQ32A, RQ32B, RQ33, RQ34, RQ35, RQ36|[Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
+|`1.6`| 07/07/2025|Adição das tabelas referentes ao RQ46, RQ47, RQ48A, RQ48B, RQ49, RQ50, RQ51, RQ52, RQ53, RQ54|[Artur de Camargos Rodrigues](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |
