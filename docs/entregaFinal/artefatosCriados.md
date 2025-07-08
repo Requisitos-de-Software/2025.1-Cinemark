@@ -4,16 +4,13 @@
 
 Através do desenvolvimento do projeto na disciplina de Requisitos de Software, nossa equipe gerou uma série de artefatos essenciais que abrangem todas as fases do ciclo de vida do aplicativo do Cinemark. Desde o planejamento até a validação, passamos por etapas de elicitação, análise, especificação, priorização e modelagem dos requisitos. Cada artefato foi criado de maneira contínua, refletindo o avanço e os aprendizados adquiridos ao longo do semestre. Esta página tem como objetivo apresentar, de forma estruturada, todos os artefatos produzidos, detalhando suas descrições, os responsáveis pela criação e os revisores encarregados de garantir sua precisão e qualidade.
 
-
 ## 2. Metodologia
 
 Os artefatos foram desenvolvidos de forma colaborativa, com a equipe dividindo as tarefas de acordo com o planejamento, de modo que todos os participantes realizaram um pouco de cada artefato e cumprindo os prazos estabelecidos pela disciplina. Optamos por separar os artefados criados em diferentes tabelas, relativas as suas respectivas entregas.
 
-
 ## 3. Artefatos
 
 Abaixo estão as tabelas contendo os artefatos organizados por entregas.
-
 
 ### 3.1. Entrega 1
 
@@ -43,7 +40,7 @@ Abaixo estão as tabelas contendo os artefatos organizados por entregas.
 | [Storytelling](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/storytelling/) | Sessão de Storytelling para elicitação de requisitos | Todos | Todos |
 | [Introspecção](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/) | Sessão de Introspecção para elicitação de requisitos |  [Arthur Evangelista](https://github.com/arthurevg), [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg), [Davi Camilo](https://github.com/Davicamilo23), [Gabriel Henrique Castelo](https://github.com/GabrielCastelo-31) e [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | [Questionário](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/questionario/) | Aplicação de questionário para elicitação de requisitos |[Artur de Camargos](https://github.com/arthurdcr), [Arthur Evangelista](https://github.com/arthurevg), [Tiago Antunes](https://github.com/TiagoBalieiro) e  [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/arthurdcr), [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908) |
-| [MoSCoW](#) | Técnica de priorização de requisitos MoSCoW |[Artur de Camargos](https://github.com/arthurdcr),  [Davi Camilo](https://github.com/Davicamilo23), [Gabriel Henrique Castelo](https://github.com/GabrielCastelo-31) e [Tiago Antunes](https://github.com/TiagoBalieiro) | [Gabriel Henrique Castelo](https://github.com/GabrielCastelo-31), [Pedro Everton](https://github.com/pedroeverton217) e [Davi Camilo](https://github.com/Davicamilo23)|
+| [MoSCoW](../priorização/moscow.md) | Técnica de priorização de requisitos MoSCoW |[Artur de Camargos](https://github.com/arthurdcr),  [Davi Camilo](https://github.com/Davicamilo23), [Gabriel Henrique Castelo](https://github.com/GabrielCastelo-31) e [Tiago Antunes](https://github.com/TiagoBalieiro) | [Gabriel Henrique Castelo](https://github.com/GabrielCastelo-31), [Pedro Everton](https://github.com/pedroeverton217) e [Davi Camilo](https://github.com/Davicamilo23)|
 | [$100](https://requisitos-de-software.github.io/2025.1-Cinemark/prioriza%C3%A7%C3%A3o/moscow/) | Técnica de priorização de requisitos $100 | [Arthur Evangelista](https://github.com/arthurevg), [Davi Camilo](https://github.com/Davicamilo23), [Gabriel Henrique Castelo](https://github.com/GabrielCastelo-31) e [Tiago Antunes](https://github.com/TiagoBalieiro) |[Arthur Evangelista](https://github.com/arthurevg), [Davi Camilo](https://github.com/Davicamilo23), [Gabriel Henrique Castelo](https://github.com/GabrielCastelo-31) e [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | [Three-Level Scale](https://requisitos-de-software.github.io/2025.1-Cinemark/prioriza%C3%A7%C3%A3o/threelevelscale/) | Técnica de Priorização por 3 Níveis |[Gabriel Henrique Castelo](https://github.com/GabrielCastelo-31), [Pedro Everton](https://github.com/pedroeverton217),  [Tiago Antunes](https://github.com/TiagoBalieiro) e  [Davi Camilo](https://github.com/Davicamilo23) | Todos |
 | [Kano Model](https://requisitos-de-software.github.io/2025.1-Cinemark/prioriza%C3%A7%C3%A3o/kanomodel/) | Técnica de Priorização Kano Model |[Arthur Evangelista](https://github.com/arthurevg), [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908) e [Tiago Antunes](https://github.com/TiagoBalieiro) | Todos|
@@ -66,7 +63,6 @@ Abaixo estão as tabelas contendo os artefatos organizados por entregas.
 
 <font size="3"><p style="text-align: center">Fonte:[Tiago Antunes](https://github.com/tiagobalieiro) e [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
-
 ### 3.4. Entrega 4
 
 <font size="3"><p style="text-align: center">Tabela 4: Artefatos Entrega 4</p></font>
@@ -86,26 +82,26 @@ Abaixo estão as tabelas contendo os artefatos organizados por entregas.
 
 | Artefato                | Descrição                        | Autor(es)          | Revisor(es)                             |
 |-------------------------|----------------------------------|--------------------|-----------------------------------------|
-| [Prototipação](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-05/) | Prototipação e validação do protótipo dos requisitos funcionais não implementados de cada integrante | Autor(es) | Revisor(es) |
-| [Planejamento da verificação dos artefatos produzidos](https://requisitos-de-software.github.io/2025.1-Cinemark/inspe%C3%A7%C3%B5es/analiseRequisitos/) | Divisão de artefatos para verificação por meio do método de inspeção de Fagan | Autor(es) | Revisor(es) |
-| [Rich Picture](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-01/) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Perfil do Usuário](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Análise de Interface](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Introspecção](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Storytelling](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Questionário](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [MoSCoW](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [$100](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Three-Level Scale](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Kano Model](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Requisitos Elicitados](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Cenários](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-03/) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Léxicos](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-03/)  | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Casos de Uso](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-03/)  | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Especificação Suplementar](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-03/) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Histórias do Usuário](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-04/) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Backlog do Produto](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-04/) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [NFR Framework](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-04/) | Verificação do artefato | Autor(es) | Revisor(es) |
+| [Prototipação](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-05/) | Prototipação e validação do protótipo dos requisitos funcionais não implementados de cada integrante |[Arthur Evangelista](https://github.com/arthurevg), [Artur de Camargos](https://github.com/ArturDCR), [Davi Camilo](https://github.com/Davicamilo23), [Gabriel Castelo](https://github.com/gabrielcastelo-31), [Euller Júlio](https://github.com/Potatoyz908), [Tiago Antunes](https://github.com/tiagobalieiro) | [Arthur Evangelista](https://github.com/arthurevg), [Artur de Camargos](https://github.com/ArturDCR), [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Tiago Antunes](https://github.com/tiagobalieiro) |
+| [Planejamento da verificação dos artefatos produzidos](https://requisitos-de-software.github.io/2025.1-Cinemark/inspe%C3%A7%C3%B5es/analiseRequisitos/) | Divisão de artefatos para verificação por meio do método de inspeção de Fagan | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/gabrielcastelo-31) |
+| [Rich Picture](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-01/) | Verificação do artefato | [Arthur Evangelista](https://github.com/arthurevg),[Davi Camilo](https://github.com/Davicamilo23)| [Davi Camilo](https://github.com/Davicamilo23),[Pedro Everton](https://github.com/pedroeverton217),[Artur de Camargos](https://github.com/ArturDCR) |
+| [Perfil do Usuário](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/gabrielcastelo-31) |
+| [Personas](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | [Davi Camilo](https://github.com/Davicamilo23) | [Gabriel Castelo](https://github.com/gabrielcastelo-31) |
+| [Análise de Interface de Usuário](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | [Euller Júlio](https://github.com/Potatoyz908) | [Pedro Everton](https://github.com/pedroeverton217) |
+| [Introspecção](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | [Arthur Evangelista](https://github.com/arthurevg) | R[Davi Camilo](https://github.com/Davicamilo23) |
+| [Storytelling](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | [Tiago Antunes](https://github.com/tiagobalieiro)| [Gabriel Castelo](https://github.com/gabrielcastelo-31) |
+| [Questionário](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | [Tiago Antunes](https://github.com/tiagobalieiro)| [Euller Júlio](https://github.com/Potatoyz908) |
+| [MoSCoW](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | [Gabriel Castelo](https://github.com/gabrielcastelo-31) | [Tiago Antunes](https://github.com/tiagobalieiro) |
+| [$100](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | [Gabriel Castelo](https://github.com/gabrielcastelo-31)| [Tiago Antunes](https://github.com/tiagobalieiro) |
+| [Three-Level Scale](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | [Pedro Everton](https://github.com/pedroeverton217)| [Davi Camilo](https://github.com/Davicamilo23) |
+| [Kano Model](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | [Arthur Evangelista](https://github.com/arthurevg)| [Artur de Camargos](https://github.com/ArturDCR) |
+| [Cenários](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-03/) | Verificação do artefato | [Davi Camilo](https://github.com/Davicamilo23),[Euller Júlio](https://github.com/Potatoyz908),[Tiago Antunes](https://github.com/tiagobalieiro)| [Arthur Evangelista](https://github.com/arthurevg), [Pedro Everton](https://github.com/pedroeverton217)|
+| [Léxicos](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-03/)  | Verificação do artefato | [Arthur Evangelista](https://github.com/arthurevg), [Tiago Antunes](https://github.com/tiagobalieiro)| [Davi Camilo](https://github.com/Davicamilo23) |
+| [Casos de Uso](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-03/)  | Verificação do artefato | [Davi Camilo](https://github.com/Davicamilo23), [Gabriel Castelo](https://github.com/gabrielcastelo-31) | [Arthur Evangelista](https://github.com/arthurevg),[Pedro Everton](https://github.com/pedroeverton217)|
+| [Especificação Suplementar](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-03/) | Verificação do artefato | [Davi Camilo](https://github.com/Davicamilo23),[Euller Júlio](https://github.com/Potatoyz908),[Tiago Antunes](https://github.com/tiagobalieiro)| [Arthur Evangelista](https://github.com/arthurevg) |
+| [Histórias do Usuário](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-04/) | Verificação do artefato | [Arthur Evangelista](https://github.com/arthurevg),[Artur de Camargos](https://github.com/ArturDCR) | [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217) [Tiago Antunes](https://github.com/tiagobalieiro)|
+| [Backlog do Produto](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-04/) | Verificação do artefato | [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Tiago Antunes](https://github.com/tiagobalieiro) |  [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217) [Tiago Antunes](https://github.com/tiagobalieiro)|
+| [NFR Framework](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-04/) | Verificação do artefato | [Gabriel Castelo](https://github.com/gabrielcastelo-31) |  [Euller Júlio](https://github.com/Potatoyz908), [Pedro Everton](https://github.com/pedroeverton217) [Tiago Antunes](https://github.com/tiagobalieiro)|
 
 <font size="2"><p style="text-align: center">Fonte: Tiago Antunes, 2025.</p></font>
 
@@ -123,13 +119,12 @@ Abaixo estão as tabelas contendo os artefatos organizados por entregas.
 
 <font size="3"><p style="text-align: center">Fonte:[Tiago Antunes](https://github.com/tiagobalieiro) e [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
 
-
 ## 4. Conclusão
 
 A organização de todos os artefatos criados durante a disciplina de Requisitos de Software destaca o trabalho em equipe na implementação dos conceitos aprendidos. Isso foi fundamental tanto para o aprimoramento técnico dos membros quanto para fortalecer a relevância da colaboraçãoe e da distribuição de tarefas no contexto de Requisitos de Software.
 
+***
 
----
 ## Histórico de Versão
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
@@ -138,3 +133,4 @@ A organização de todos os artefatos criados durante a disciplina de Requisitos
 | `1.1`  |  07/07/2025 |  Adição da Introdução, Metodologia, Tabelas de Artefatos Criados por entregas e Conclusão  | [Tiago Antuness](https://github.com/tiagobalieiro)  | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.2`  |  07/07/2025 |  Adição das tabelas 1, 2, e 6  | [Arthur Evangelista](https://github.com/arthurevg)  | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.3`  |  07/07/2025 |  Correção e completude da tabela da Entrega 3 com autores e revisores corretos  | [Euller Júlio](https://github.com/Potatoyz908)  | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.4`  |  07/07/2025 |  Correção e completude da tabela da Entrega 5 com autores e revisores corretos  | [Gabriel Castelo](https://github.com/gabrielcastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
