@@ -594,7 +594,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação |[E05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-5-gerenciamento-de-ingressos), [US05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us05-salvar-ingressos-na-carteira-digital-do-dispositivo), [L21](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/lexicos/#21-salvar-ingresso-na-carteira-digital), [UC09](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/casosDeUso/#tabela-9-permitir-salvar-ingressos-na-carteira-digital-do-dispositivo), [C11](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/cenarios/#cenario-11-permitir-salvar-ingressos-na-carteira-digital-do-dispositivo)|
 | Recurso | [US35](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/historias/#us35-autenticacao-por-e-mail-e-senha)|
-| Representação | |
+| Representação | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/gifs/RQ26.gif" height="500" width="250">|
 | Alocado | [E05](https://requisitos-de-software.github.io/2025.1-Cinemark/modelagem/backlog/#epico-5-gerenciamento-de-ingressos) |
 | Agregação | [IS18](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/introspec%C3%A7%C3%A3o/#IS18) |
 
