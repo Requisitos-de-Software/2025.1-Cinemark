@@ -36,27 +36,7 @@ A disciplina de Requisitos de Software exigiu bastante empenho e dedicação dur
 
 ### [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)
 
-***
-
-## Finalização
-
-Logo abaixo está a finalização do trabalho, onde documentamos o que achamos do grupo como um todo.
-
-### [Arthur Evangelista de Oliveira](https://github.com/arthurevg)
-
-### [Artur de Camargos Rodrigues](https://github.com/ArturDCR)
-
-A ajuda do grupo foi de extrema importância. O fato de todos se ajudarem e se cobrarem foi essencial para o sucesso do trabalho. Foi fundamental ter uma base de pessoas até então desconhecidas, que hoje posso chamar de amigos, ajudando a cada momento, dando suporte e apoiando em cada passo do projeto.
-
-### [Davi Camilo Menezes](https://github.com/Davicamilo23)
-
-### [Euller Júlio da Silva](https://github.com/Potatoyz908)
-
-### [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31)
-
-### [Pedro Everton de Paula](https://github.com/pedroeverton217)
-
-### [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)
+A disciplina foi de grande importância, considero que seja um conteúdo muito importante na nossa formação como Engenheiros de Software. Ela ocupa bastante tempo e exige dedicação em excesso em alguns momentos. No geral considero que foi uma experiência positiva, principalmente por conta dos integrantes do grupo, que tornaram esse um trabalho mais leve e divertido.
 
 ***
 
@@ -71,3 +51,5 @@ A ajuda do grupo foi de extrema importância. O fato de todos se ajudarem e se c
 | `1.4`  |  07/07/2025 |  Adição da consideração final de Euller Júlio | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.5`  |  07/07/2025 |  Adição da consideração final de Euller Júlio | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.5`  |  07/07/2025 |  Adição da consideração final de Arthur Evangelista | [Arthur Evangelista](https://github.com/arthurevg) | [Euller Júlio](https://github.com/Potatoyz908) |
+| `1.6`  |  07/07/2025 |  Adição da consideração final de Artur de Camargos Rodrigues | [Artur de Camargos Rodrigue](https://github.com/arturdcr) | [Tiago Antunes](https://github.com/tiagobalieiro) |
+| `1.7`  |  07/07/2025 |  Adição da consideração final de Tiago Antunes Balieiro | [Tiago Antunes](https://github.com/tiagobalieiro) | [Davi Camilo](https://github.com/Davicamilo23) |
