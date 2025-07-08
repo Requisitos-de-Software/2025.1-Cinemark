@@ -12,6 +12,8 @@ A seguir estão as considerações individuais de cada membro do grupo 10.
 
 ### [Arthur Evangelista de Oliveira](https://github.com/arthurevg)
 
+A disciplina de Requisitos de Software foi a matéria que mais consumiu tempo no meu semestre. Foi muito dificil para mim conciliar outras disciplinas com as entregas contínuas que a matéria pede. No entanto, também foi a matéria que eu mais aprendi. Considero que a disciplina foi um grande ganho profissional, me ensinando coisas sobre Engenharia de Software que eu não aprendi em outras disciplinas.
+
 ### [Artur de Camargos Rodrigues](https://github.com/ArturDCR)
 
 Ao finalizar a matéria de Requisitos de Software, minha visão sobre a área mudou completamente. O que antes parecia ser apenas a parte burocrática do curso, revelou-se o fator que define o sucesso de um projeto: o planejamento. A disciplina me ensinou a dedicar mais tempo para entender o problema a fundo, demonstrando que um bom planejamento economiza tempo e evita um retrabalho enorme. No fim, foi uma matéria fundamental, que me deu uma base sólida para começar qualquer projeto da maneira correta.
@@ -47,5 +49,7 @@ A disciplina foi de grande importância, considero que seja um conteúdo muito i
 | `1.2`  |  08/07/2025 |  Adição das consideração final Davi | [Davi Camilo](https://github.com/Davicamilo23)  | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.3`  |  08/07/2025 |  Adição das consideração final Gabriel | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.4`  |  07/07/2025 |  Adição da consideração final de Euller Júlio | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
-| `1.5`  |  07/07/2025 |  Adição da consideração final de Artur de Camargos Rodrigues | [Artur de Camargos Rodrigue](https://github.com/arturdcr) | [Tiago Antunes](https://github.com/tiagobalieiro) |
-| `1.6`  |  07/07/2025 |  Adição da consideração final de Tiago Antunes Balieiro | [Tiago Antunes](https://github.com/tiagobalieiro) | [Davi Camilo](https://github.com/Davicamilo23) |
+| `1.5`  |  07/07/2025 |  Adição da consideração final de Euller Júlio | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.5`  |  07/07/2025 |  Adição da consideração final de Arthur Evangelista | [Arthur Evangelista](https://github.com/arthurevg) | [Euller Júlio](https://github.com/Potatoyz908) |
+| `1.6`  |  07/07/2025 |  Adição da consideração final de Artur de Camargos Rodrigues | [Artur de Camargos Rodrigue](https://github.com/arturdcr) | [Tiago Antunes](https://github.com/tiagobalieiro) |
+| `1.7`  |  07/07/2025 |  Adição da consideração final de Tiago Antunes Balieiro | [Tiago Antunes](https://github.com/tiagobalieiro) | [Davi Camilo](https://github.com/Davicamilo23) |
