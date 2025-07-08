@@ -133,7 +133,7 @@ Infelizmente, até a data de conclusão do projeto (07/07/2025), não foi obtida
 
 Diversas técnicas de elicitação foram aplicadas com usuários reais, servindo simultaneamente como métodos de validação:
 
-* **Questionário**: Aplicado para 50+ usuários do aplicativo
+* **Questionário**: Aplicado para 15+ usuários do aplicativo
 * **Storytelling**: Coleta de experiências reais de uso
 
 ### Resultados da Validação
