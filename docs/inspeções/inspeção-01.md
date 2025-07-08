@@ -2,13 +2,13 @@
 
 ## Introdução
 
-Abaixo se encontra a **inspeção** (versão 2.0) da entrega 1 do grupo. A inspeção (versão 2.0) foi realizada no dia 06/07/2025, sendo feita com base na [lista de verificação](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-01/) (versão 2.0) da entrega 1.
+Abaixo se encontra a **inspeção** (versão 2.0) da entrega 1 do grupo. A inspeção (versão 2.0) foi realizada no dia 07/07/2025, sendo feita com base na [lista de verificação](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-01/) (versão 2.0) da entrega 1.
 
 ---
 
 ## 🔗 Link da gravação
 
-[Assista ao vídeo no YouTube]()
+[Assista ao vídeo no YouTube](https://youtu.be/ruXBA_2dg1U)
 
 ---
 
@@ -18,8 +18,8 @@ Abaixo se encontra a **inspeção** (versão 2.0) da entrega 1 do grupo. A inspe
 
 | Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
 |---------|-------|------------|--------|--------|
-| **1.** O artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama? | [Artur de Camargos Rodrigues](https://github.com/ArturDCR), [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31), [Pedro Everton de Paula](https://github.com/pedroeverton217) e [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | 06/07/2025 | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | - |
-| **2.** Todos os 5 componentes de um “Rich Picture” estão presentes no artefato “Rich Picture” apresentado pelo grupo? | [Artur de Camargos Rodrigues](https://github.com/ArturDCR), [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31), [Pedro Everton de Paula](https://github.com/pedroeverton217) e [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | 06/07/2025 | [Arthur Evangelista de Oliveira](https://github.com/arthurevg) | - |
+| **1.** O artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama? | [Artur de Camargos Rodrigues](https://github.com/ArturDCR), [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31), [Pedro Everton de Paula](https://github.com/pedroeverton217) e [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | 06/07/2025 | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | Conforme |
+| **2.** Todos os 5 componentes de um “Rich Picture” estão presentes no artefato “Rich Picture” apresentado pelo grupo? | [Artur de Camargos Rodrigues](https://github.com/ArturDCR), [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31), [Pedro Everton de Paula](https://github.com/pedroeverton217) e [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | 06/07/2025 | [Arthur Evangelista de Oliveira](https://github.com/arthurevg) | Conforme |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
@@ -41,3 +41,4 @@ Abaixo se encontra a **inspeção** (versão 2.0) da entrega 1 do grupo. A inspe
 | `1.1`  |  04/05/2025 |  Correção da lista de inspeção | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
 | `1.2`  |  04/05/2025 | Inclusão das referências bibliográficas | [Artur de Camargos](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `2.0`  |  06/07/2025 |  Correção do documento, baseado na nova lista de verificação, para a nova inspeção | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes](https://github.com/TiagoBalieiro) |
+| `2.1`  | 07/07/2025  |  Adição da inspeção correta | | [Davi Camilo](https://github.com/Davicamilo23) | [Tiago Antunes](https://github.com/TiagoBalieiro) |

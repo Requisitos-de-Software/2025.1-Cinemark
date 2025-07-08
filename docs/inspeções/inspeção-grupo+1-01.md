@@ -2,13 +2,13 @@
 
 ## Introdução
 
-Abaixo se encontra a **inspeção** (versão 2.0) da entrega 1 do grupo+1, o qual é o grupo do Detran DF, composto por 7 integrantes. A inspeção (versão 2.0) foi realizada no dia 06/07/2025, sendo feita com base na [lista de verificação](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-01%2B1/) (versão 2.0) da entrega 1.
+Abaixo se encontra a **inspeção** (versão 2.0) da entrega 1 do grupo+1, o qual é o grupo do Detran DF, composto por 7 integrantes. A inspeção foi realizada no dia 14/04/2025, sendo feita com base na [lista de verificação](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-01%2B1/) (versão 2.0) da entrega 1.
 
 ---
 
 ## 🔗 Link da gravação
 
-[Assista ao vídeo no YouTube]()
+[Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=LsBFFCPHO0U)
 
 ---
 
@@ -37,8 +37,8 @@ Abaixo se encontra a **inspeção** (versão 2.0) da entrega 1 do grupo+1, o qua
 
 | Item | Inspetor(es) | Data | Revisor(es) | Avaliação |
 |---------|-------|------------|--------|--------|
-| **1.** O artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama? | [Artur de Camargos Rodrigues](https://github.com/ArturDCR), [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31), [Pedro Everton de Paula](https://github.com/pedroeverton217) e [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | 06/07/2025 | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | - |
-| **2.** Todos os 5 componentes de um “Rich Picture” estão presentes no artefato “Rich Picture” apresentado pelo grupo? | [Artur de Camargos Rodrigues](https://github.com/ArturDCR), [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31), [Pedro Everton de Paula](https://github.com/pedroeverton217) e [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | 06/07/2025 | [Arthur Evangelista de Oliveira](https://github.com/arthurevg) | - |
+| **1.** O artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama? | [Artur de Camargos Rodrigues](https://github.com/ArturDCR), [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31), [Pedro Everton de Paula](https://github.com/pedroeverton217) e [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | 06/07/2025 | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | Inconforme |
+| **2.** Todos os 5 componentes de um “Rich Picture” estão presentes no artefato “Rich Picture” apresentado pelo grupo? | [Artur de Camargos Rodrigues](https://github.com/ArturDCR), [Arthur Evangelista de Oliveira](https://github.com/arthurevg), [Davi Camilo Menezes](https://github.com/Davicamilo23), [Euller Júlio da Silva](https://github.com/Potatoyz908), [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31), [Pedro Everton de Paula](https://github.com/pedroeverton217) e [Tiago Antunes Balieiro](https://github.com/TiagoBalieiro) | 06/07/2025 | [Arthur Evangelista de Oliveira](https://github.com/arthurevg) | Inconforme |
 
 <font size="3"><p style="text-align: center">Autor: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
