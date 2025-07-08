@@ -66,7 +66,7 @@ O processo de verificação foi realizado de forma contínua ao longo do projeto
 
 ### Verificação do Grupo+1
 
-Além da verificação dos próprios artefatos, a equipe também realizou a verificação dos artefatos do grupo+1 (Grupo 06 - Aplicativo Nubank), aplicando as mesmas técnicas e critérios de qualidade:
+Além da verificação dos próprios artefatos, a equipe também realizou a verificação dos artefatos do grupo+1 (Grupo 01 - Detran), aplicando as mesmas técnicas e critérios de qualidade:
 
 - [Lista de Verificação 01+1](../verificações/lista-verificação-01+1.md) | [Inspeção 01+1](../inspeções/inspeção-grupo+1-01.md)
 - [Lista de Verificação 02+1](../verificações/lista-verificação-02+1.md) | [Inspeção 02+1](../inspeções/inspeção-grupo+1-02.md)
@@ -133,10 +133,8 @@ Infelizmente, até a data de conclusão do projeto (07/07/2025), não foi obtida
 
 Diversas técnicas de elicitação foram aplicadas com usuários reais, servindo simultaneamente como métodos de validação:
 
-- **Questionário**: Aplicado para 50+ usuários do aplicativo
-- **Entrevistas**: Realizadas com usuários frequentes
-- **Storytelling**: Coleta de experiências reais de uso
-- **Análise de Interface**: Validação da usabilidade atual
+* **Questionário**: Aplicado para 15+ usuários do aplicativo
+* **Storytelling**: Coleta de experiências reais de uso
 
 ### Resultados da Validação
 
