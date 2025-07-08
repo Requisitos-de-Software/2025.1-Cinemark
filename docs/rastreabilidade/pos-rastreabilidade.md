@@ -639,7 +639,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação | [E09](../modelagem/backlog.md#epico-9-experiencia-personalizada-com-cinemas), [US30](../modelagem/historias.md#us30-sugestao-de-cinemas-personalizada) |
 | Recurso | [US30](../modelagem/historias.md#us30-sugestao-de-cinemas-personalizada) |
-| Representação |  |
+| Representação | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/refs/heads/main/docs/assets/gifs/RQ29.png" height="500" width="250"> |
 | Alocado | [E09](../modelagem/backlog.md#epico-9-experiencia-personalizada-com-cinemas) |
 | Agregação | [IS21](../elicitação/introspecção.md#IS21) |
 
@@ -654,7 +654,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação | [E09](../modelagem/backlog.md#epico-9-experiencia-personalizada-com-cinemas), [US30](../modelagem/historias.md#us30-sugestao-de-cinemas-personalizada) |
 | Recurso | [US30](../modelagem/historias.md#us30-sugestao-de-cinemas-personalizada) |
-| Representação | |
+| Representação |<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/refs/heads/main/docs/assets/gifs/RQ29.png" height="500" width="250"> |
 | Alocado | [E09](../modelagem/backlog.md#epico-9-experiencia-personalizada-com-cinemas) |
 | Agregação | [IS21](../elicitação/introspecção.md#IS21) |
 
@@ -669,7 +669,7 @@ Nesse tópico são apresentadas as tabelas referentes aos elos dos artefatos ana
 | Tipos de Elos | Artefatos Relacionados |
 | Satisfação | [E09](../modelagem/backlog.md#epico-9-experiencia-personalizada-com-cinemas), [US28](../modelagem/historias.md#us28-favoritar-cinemas) |
 | Recurso | [US28](../modelagem/historias.md#us28-favoritar-cinemas) |
-| Representação | |
+| Representação |<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Cinemark/main/docs/assets/gifs/RQ30.gif" height="500" width="250"> |
 | Alocado | [E09](../modelagem/backlog.md#epico-9-experiencia-personalizada-com-cinemas) |
 | Agregação | [IS22](../elicitação/introspecção.md#IS22) |
 
