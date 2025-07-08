@@ -80,6 +80,14 @@ Tabela 1: Integrantes do grupo envolvidos no artefato.
 						<td>Victor Magalhães (Product Owner)</td>
 						<td>Participou da priorização das histórias.</td>
 					</tr>
+          <tr>
+						<td> Mateus Magno (Product Owner)</td>
+						<td>Participou da validação das histórias.</td>
+					</tr>
+          <tr>
+						<td> Felipe Nunes (Product Owner)</td>
+						<td>Participou da validação das histórias.</td>
+					</tr>
 			</tbody>
 		</table>
 	</div>
