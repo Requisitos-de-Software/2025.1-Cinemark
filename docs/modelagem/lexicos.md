@@ -208,7 +208,6 @@ Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 Autor: <a href="https://github.com/Davicamilo23">Davi Camilo</a>, 2025.</p>
 
 ### L10. **Tabela Comparativa de Preços**
-### L10. **Tabela Comparativa de Preços**
 
 * **Tipo**: Objeto
 * **Sinônimos**: Comparação de preços, Série de valores, Lista de tarifas
