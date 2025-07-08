@@ -1,6 +1,8 @@
 ## Introdução
 Para garantir que nosso novo aplicativo Cinemark estivesse alinhado com as necessidades técnicas e operacionais, empregamos uma estratégia de validação informal. Nosso objetivo nesta fase era apresentar as funcionalidades e propostas do produto para a equipe técnica da Cinemark. Elaboramos descrições claras e diretas, buscando um olhar especializado que pudesse nos ajudar a identificar potenciais desafios de implementação, lacunas ou melhorias nos requisitos. A ideia era iniciar um diálogo com quem entende os detalhes técnicos da plataforma.
 
+---
+
 ## Estratégias de Comunicação
 Para tentar alcançar a equipe técnica da Cinemark, selecionamos os canais que julgamos mais apropriados para uma comunicação formal e detalhada.
 
@@ -29,9 +31,13 @@ Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 <p align="center"><br>
 Autor: <a href="https://github.com/arthurevg">Arthur Evangelista</a>, 2025.</p>
 
-## Bibliografia
+---
+
+## Referências Bibliográficas
 
 > SERRANO, Milene; SERRANO, Maurício. **Requisitos: Aula 23**. Brasília, DF: Universidade de Brasília. Slides (Requisitos de Software). Disponível em: [https://aprender3.unb.br/pluginfile.php/3096017/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf](https://aprender3.unb.br/pluginfile.php/3096017/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf). Acesso em: 20 jun. 2025.
+
+---
 
 ## Histórico de Versão
 

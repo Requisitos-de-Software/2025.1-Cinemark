@@ -1,6 +1,8 @@
 ## Introdução
 
-A prototipação é uma etapa fundamental no desenvolvimento de qualquer sistema interativo. Ela envolve a criação de representações funcionais ou simulações do aplicativo antes de sua implementação final. Quanto mais ciclos de prototipação e iteração forem realizados, maior a probabilidade de entregar um produto de alta qualidade e que realmente atenda aos usuários. Essa prática é indispensável para a validação, pois permite testar ideias, funcionalidades e o fluxo de interação com os usuários de forma antecipada. Por meio dos protótipos, conseguimos coletar feedback valioso, identificar possíveis problemas e realizar ajustes rápidos, garantindo que o aplicativo final seja mais eficiente e perfeitamente alinhado às necessidades do público Cinemark.
+A **prototipação** é uma etapa fundamental no desenvolvimento de qualquer sistema interativo. Ela envolve a criação de representações funcionais ou simulações do aplicativo antes de sua implementação final. Quanto mais ciclos de prototipação e iteração forem realizados, maior a probabilidade de entregar um produto de alta qualidade e que realmente atenda aos usuários. Essa prática é indispensável para a validação, pois permite testar ideias, funcionalidades e o fluxo de interação com os usuários de forma antecipada. Por meio dos protótipos, conseguimos coletar feedback valioso, identificar possíveis problemas e realizar ajustes rápidos, garantindo que o aplicativo final seja mais eficiente e perfeitamente alinhado às necessidades do público Cinemark.
+
+---
 
 ## Metodologia
 
@@ -8,9 +10,31 @@ Para este projeto, desenvolvemos alguns protótipos cuidadosamente desenhados pa
 
 Um ponto crucial da nossa metodologia foi a validação individual de cada protótipo com um usuário real do aplicativo Cinemark. Isso garantiu que o feedback fosse colhido diretamente de quem realmente usaria as funcionalidades.
 
+---
+
 ## Validação
 
 A validação dos protótipos foi realizada individualmente por cada autor com usuários reais do aplicativo Cinemark. Cada seção abaixo apresenta o vídeo de validação dos protótipos desenvolvidos pelo respectivo autor.
+
+### Validação dos Protótipos 1 e 2 - Arthur Evangelista
+
+<p align="center">Tabela 3: Participantes da gravação da validação dos protótipos 7 e 8</p>
+
+|Participante|Função|
+|---|---|
+|[Arthur Evangelista](https://github.com/arthurevg)|Entrevistador|
+|Yan|Usuário entrevistado|
+
+
+**Protótipos validados:**
+
+- Protótipo 1: [RQ23A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ23A) - Filtrar filmes por categoria
+- Protótipo 2: [RQ24](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ24) - Exibir trailers dentro do app
+
+O vídeo abaixo contém a validação dos protótipos 1 e 2. A validação foi realizada de forma presencial.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OyDjwxNMFGU?si=t0PkSwEv0V3IDRfj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ### Validação dos Protótipos 3 e 4 - Euller Júlio
 
@@ -23,8 +47,8 @@ A validação dos protótipos foi realizada individualmente por cada autor com u
 
 **Protótipos validados:**
 
-- Protótipo 3: [RQ33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) - Permitir alteração de preferências de idioma
-- Protótipo 4: [RQ59](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) - Reservar sala para eventos privados
+- Protótipo 3: [RQ33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ33) - Permitir alteração de preferências de idioma
+- Protótipo 4: [RQ59](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ59) - Reservar sala para eventos privados
 
 O vídeo abaixo contém a validação dos protótipos 3 e 4. A validação foi realizada de forma presencial.
 
@@ -41,8 +65,8 @@ O vídeo abaixo contém a validação dos protótipos 3 e 4. A validação foi r
 
 **Protótipos validados:**
 
-- Protótipo 5: [RQ26](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) - Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc)
-- Protótipo 6: [RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) - Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas
+- Protótipo 5: [RQ26](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ26) - Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc)
+- Protótipo 6: [RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ39) - Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas
 
 O vídeo abaixo contém a validação dos protótipos 3 e 4. A validação foi realizada de forma presencial.
 
@@ -60,14 +84,14 @@ O vídeo abaixo contém a validação dos protótipos 3 e 4. A validação foi r
 
 **Protótipos validados:**
 
-- Protótipo 7: [RQ32A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) - Exibir recomendações de filmes baseadas em histórico e [RQ32B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) - Exibir recomendações de filmes baseadas em preferências
-- Protótipo 8: [RQ58](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) - Fornecer comparação de preços entre cinemas
+- Protótipo 7: [RQ32A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32A) - Exibir recomendações de filmes baseadas em histórico e [RQ32B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32B) - Exibir recomendações de filmes baseadas em preferências
+- Protótipo 8: [RQ58](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ58) - Fornecer comparação de preços entre cinemas
 
 O vídeo abaixo contém a validação dos protótipos 7 e 8. A validação foi realizada de forma presencial.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e82bmqT2tBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Validação dos Protótipos 11 e 12 - Artur de camargos Rodrigues
+### Validação dos Protótipos 11 e 12 - Artur de Camargos Rodrigues
 
 <p align="center">Tabela 3: Participantes da gravação da validação dos protótipos 11 e 12</p>
 
@@ -78,31 +102,14 @@ O vídeo abaixo contém a validação dos protótipos 7 e 8. A validação foi r
 
 **Protótipos validados:**
 
-- Protótipo 11: [RQ60](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) - Fornecer um Hub para crítica de filmes.
-- Protótipo 12: [RQ67](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) - Reservar sala para eventos privadosTornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.
+- Protótipo 11: [RQ60](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ60) - Fornecer um Hub para crítica de filmes.
+- Protótipo 12: [RQ67](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ67) - Reservar sala para eventos privadosTornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.
 
 O vídeo abaixo contém a validação dos protótipos 11 e 12. A validação foi realizada de forma presencial.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NJnp1_i5y3g?si=XVVCGxYLFS7w3bpi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Validação dos Protótipos 1 e 2 - Arthur Evangelista
-
-<p align="center">Tabela 3: Participantes da gravação da validação dos protótipos 7 e 8</p>
-
-|Participante|Função|
-|---|---|
-|[Arthur Evangelista](https://github.com/arthurevg)|Entrevistador|
-|Yan|Usuário entrevistado|
-
-
-**Protótipos validados:**
-
-- Protótipo 1: [RQ23A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) - Filtrar filmes por categoria
-- Protótipo 2: [RQ24](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/) - Exibir trailers dentro do app
-
-O vídeo abaixo contém a validação dos protótipos 1 e 2. A validação foi realizada de forma presencial.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OyDjwxNMFGU?si=t0PkSwEv0V3IDRfj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+---
 
 ## Requisitos Contemplados nos Protótipos
 
@@ -112,23 +119,25 @@ A Tabela 4 detalha os requisitos que foram incorporados e o autor de cada protó
 
 |Requisito|Descrição|Protótipo|Autor|
 |---|---|---|---|
-|[RQ23A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Filtrar filmes por categoria|Protótipo 1|[Arthur Evangelista](https://github.com/arthurevg)|
-|[RQ24](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Exibir trailers dentro do app.|Protótipo 2|[Arthur Evangelista](https://github.com/arthurevg)|
-|[RQ33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Permitir alteração de preferências de idioma.|Protótipo 3|[Euller Júlio](https://github.com/Potatoyz908)|
-|[RQ59](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Reservar sala para eventos privados.|Protótipo 4|[Euller Júlio](https://github.com/Potatoyz908)|
-|[RQ26](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc).|Protótipo 5|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
-|[RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas.|Protótipo 6|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
-|[RQ32A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Exibir recomendações de filmes baseadas em histórico.|Protótipo 7|[Davi Camilo](https://github.com/Davicamilo23)|
-|[RQ32B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Exibir recomendações de filmes baseadas em preferências.|Protótipo 7|[Davi Camilo](https://github.com/Davicamilo23)|
-|[RQ58](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Fornecer comparação de preços entre cinemas.|Protótipo 8|[Davi Camilo](https://github.com/Davicamilo23)|
-|[RQ29A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Sugerir cinemas com base no histórico de visitas.|Protótipo 9|[Gabriel Castelo](https://github.com/GabrielCastelo-31)|
-|[RQ29B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Sugerir cinemas com base na localização atual. |Protótipo 9|[Gabriel Castelo](https://github.com/GabrielCastelo-31)|
-|[RQ30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Permitir que o usuário salve cinemas como favoritos.|Protótipo 10|[Gabriel Castelo](https://github.com/GabrielCastelo-31)|
-|[RQ60](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Fornecer um Hub para crítica de filmes.|Protótipo 11|[Artur De Camargos](https://github.com/ArturDCR)|
-|[RQ67](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/)|Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.|Protótipo 12|[Artur De Camargos](https://github.com/ArturDCR)|
+|[RQ23A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ23A)|Filtrar filmes por categoria|Protótipo 1|[Arthur Evangelista](https://github.com/arthurevg)|
+|[RQ24](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ24)|Exibir trailers dentro do app.|Protótipo 2|[Arthur Evangelista](https://github.com/arthurevg)|
+|[RQ33](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ33)|Permitir alteração de preferências de idioma.|Protótipo 3|[Euller Júlio](https://github.com/Potatoyz908)|
+|[RQ59](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ59)|Reservar sala para eventos privados.|Protótipo 4|[Euller Júlio](https://github.com/Potatoyz908)|
+|[RQ26](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ26)|Permitir salvar ingressos na carteira digital do dispositivo (Google Wallet, Apple Wallet, etc).|Protótipo 5|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
+|[RQ39](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ39)|Exibir avaliações e permitir que usuários avaliem filmes com escala de 1 a 5 estrelas.|Protótipo 6|[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)|
+|[RQ32A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32A)|Exibir recomendações de filmes baseadas em histórico.|Protótipo 7|[Davi Camilo](https://github.com/Davicamilo23)|
+|[RQ32B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ32B)|Exibir recomendações de filmes baseadas em preferências.|Protótipo 7|[Davi Camilo](https://github.com/Davicamilo23)|
+|[RQ58](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ58)|Fornecer comparação de preços entre cinemas.|Protótipo 8|[Davi Camilo](https://github.com/Davicamilo23)|
+|[RQ29A](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ29A)|Sugerir cinemas com base no histórico de visitas.|Protótipo 9|[Gabriel Castelo](https://github.com/GabrielCastelo-31)|
+|[RQ29B](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ29B)|Sugerir cinemas com base na localização atual. |Protótipo 9|[Gabriel Castelo](https://github.com/GabrielCastelo-31)|
+|[RQ30](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ30)|Permitir que o usuário salve cinemas como favoritos.|Protótipo 10|[Gabriel Castelo](https://github.com/GabrielCastelo-31)|
+|[RQ60](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ60)|Fornecer um Hub para crítica de filmes.|Protótipo 11|[Artur De Camargos](https://github.com/ArturDCR)|
+|[RQ67](https://requisitos-de-software.github.io/2025.1-Cinemark/elicita%C3%A7%C3%A3o/requisitosElicitados/#:~:text=RQ67)|Tornar o acesso aos ingressos fácil e visível na interface, com botão dedicado ou atalho no menu inicial.|Protótipo 12|[Artur De Camargos](https://github.com/ArturDCR)|
 
 <font size="3"><p style="text-align: center">
 Autores: [Davi Camilo](https://github.com/Davicamilo23), [Euller Júlio](https://github.com/Potatoyz908), [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Artur de Camargos](https://github.com/ArturDCR), [Tiago Antunes](https://github.com/TiagoBalieiro), [Arthur Evangelista](https://github.com/arthurevg), 2025.</p></font>
+
+---
 
 ## Protótipos
 
@@ -320,11 +329,15 @@ Protótipo dos requisitos RQ67.
 <p align="center"><br>
 Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 
-## Referências bibliográficas
+---
+
+## Referências Bibliográficas
 
 > BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário \[livro eletrônico]. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021.
 
 > FIGMA. Figma. \[S. l.]: Figma, c2012-2025. Disponível em: <https://www.figma.com>
+
+---
 
 ## Histórico de Versão
 
@@ -341,3 +354,4 @@ Autor: <a href="https://github.com/ArturDCR">Artur de Camargos</a>, 2025.</p>
 | `1.71` | 06/07/2025 | Ajuste no link da gravação | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
 | `1.8` | 06/07/2025 | Ajuste no link da gravação | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos](https://github.com/arturdcr) |
 | `1.9` | 07/07/2025 | Adição do vídeo de validação dos protótipos 5 e 6 (RQ26 e RQ39) | [Tiago Antunes](https://github.com/tiagobalieiro) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.10` | 07/07/2025 | Correção das rastreabilidades | [Davi Camilo](https://github.com/Davicamilo23) | [Arthur Evangelista](https://github.com/arthurevg) |
