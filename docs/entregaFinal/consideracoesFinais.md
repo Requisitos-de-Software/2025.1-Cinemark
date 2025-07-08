@@ -28,6 +28,7 @@ A disciplina de Requisitos de Software tomou grande tempo do semestre, tendo em 
 
 ### [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31)
 
+A disciplina de Requisitos de Software exigiu bastante empenho e dedicação durante todo o semetre para que as atividades e entregas fossem feitas com boa qualidade. Trabalhar em equipe ao longo do semestre às vezes pode ser um desafio, mas também é uma oportunidade de aprendizado e crescimento, principalmente em um projeto como o nosso, em que os membros se dedicaram para entregar um bom resultado. Sinto que o trabalho realizado com os requisitos do Cinemark agregou bastante na minha formação, e é algo que já estou colocando em prática no estágio que estou realizando atualmente.
 
 
 ### [Pedro Everton de Paula](https://github.com/pedroeverton217)
