@@ -3,3 +3,4 @@ site
 .env
 env
 venv
+.vscode
