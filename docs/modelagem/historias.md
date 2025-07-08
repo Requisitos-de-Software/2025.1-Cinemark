@@ -1870,11 +1870,11 @@ Tabela 2: Modelo de tabela para Histórias de Usuário.
       </tr>
       <tr>
         <td>Critérios de Aceitação</td>
-        <td>- Texto deve ter razão de contraste mínimo de 4.5:1 contra o fundo. <br> - Elementos de interface devem ter contraste de 3:1 contra adjacentes. <br> - Testes automáticos validam 100% das páginas.</td>
+        <td>- Texto deve ter razão de contraste mínimo de 4.5:1 contra o fundo. <br> - Elementos de interface devem ter contraste de 3:1 contra adjacentes..</td>
       </tr>
       <tr>
         <td>Prioridade</td>
-        <td>Alta</td>
+        <td>Média</td>
       </tr>
       <tr>
         <td>Rastreabilidade</td>
