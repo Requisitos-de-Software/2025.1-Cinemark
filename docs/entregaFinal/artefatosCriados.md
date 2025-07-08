@@ -136,4 +136,5 @@ A organização de todos os artefatos criados durante a disciplina de Requisitos
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |  01/07/2025 |  Criação do Documento | [Davi Camilo](https://github.com/Davicamilo23)  | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
-| `1.1`  |  07/07/2025 |  Adição da Introdução, Metodologia, Tabelas de Artefatos Criados por entregas e Conclusão  | [Tiago Antuness](https://github.com/tiagobalieiro)  | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+| `1.1`  |  07/07/2025 |  Adição da Introdução, Metodologia, Tabelas de Artefatos Criados por entregas e Conclusão  | [Tiago Antunes](https://github.com/tiagobalieiro)  | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+| `1.2`  |  07/07/2025 |  Correção e completude da tabela da Entrega 3 com autores e revisores corretos  | [Euller Júlio](https://github.com/Potatoyz908)  | [Arthur Evangelista](https://github.com/arthurevg) |
