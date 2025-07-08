@@ -34,6 +34,8 @@ A disciplina de Requisitos de Software exigiu bastante empenho e dedicação dur
 
 ### [Pedro Everton de Paula](https://github.com/pedroeverton217)
 
+A disciplina de Requisitos de Software foi realmente desgastante e desafiadora, com seu grande número de entregas contínuas, gravações, revisões, correções... Acredito que o ponto positivo da experiência foi de aprender, em grupo, com o jeito único de cada integrante do grupo, como encarar esse desafio de buscar por conta própria e ir atrás de aprender e entender o que deve ser feito e como deve ser feito. Nesse sentido, foi uma matéria bem agregadora para formação tanto como estudante, quanto como profissional, visto que o conteúdo da disciplina é altamente relevante para o Engenheiro de Software.
+
 ### [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)
 
 A disciplina foi de grande importância, considero que seja um conteúdo muito importante na nossa formação como Engenheiros de Software. Ela ocupa bastante tempo e exige dedicação em excesso em alguns momentos. No geral considero que foi uma experiência positiva, principalmente por conta dos integrantes do grupo, que tornaram esse um trabalho mais leve e divertido.
