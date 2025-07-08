@@ -14,6 +14,8 @@ A seguir estão as considerações individuais de cada membro do grupo 10.
 
 ### [Artur de Camargos Rodrigues](https://github.com/ArturDCR)
 
+Ao finalizar a matéria de Requisitos de Software, minha visão sobre a área mudou completamente. O que antes parecia ser apenas a parte burocrática do curso, revelou-se o fator que define o sucesso de um projeto: o planejamento. A disciplina me ensinou a dedicar mais tempo para entender o problema a fundo, demonstrando que um bom planejamento economiza tempo e evita um retrabalho enorme. No fim, foi uma matéria fundamental, que me deu uma base sólida para começar qualquer projeto da maneira correta.
+
 ### [Davi Camilo Menezes](https://github.com/Davicamilo23)
 
 A disciplina de Requisitos de Software tomou grande tempo do semestre, tendo em vista as constantes entregas e correções para obtenção de uma melhor qualidade dos artefatos. Acabei tomando uma posição de liderança, o que também não facilitou o processo, mesmo com os integrantes trabalhando bem. Entretanto, embora as dificuldades, foi um grande aprendizado para mim como estudante, pois pude ter contato com uma área de estudo nunca vista antes, aumentando minha capacitação.
@@ -38,6 +40,22 @@ A disciplina de Requisitos de Software exigiu bastante empenho e dedicação dur
 
 Logo abaixo está a finalização do trabalho, onde documentamos o que achamos do grupo como um todo.
 
+### [Arthur Evangelista de Oliveira](https://github.com/arthurevg)
+
+### [Artur de Camargos Rodrigues](https://github.com/ArturDCR)
+
+A ajuda do grupo foi de extrema importância. O fato de todos se ajudarem e se cobrarem foi essencial para o sucesso do trabalho. Foi fundamental ter uma base de pessoas até então desconhecidas, que hoje posso chamar de amigos, ajudando a cada momento, dando suporte e apoiando em cada passo do projeto.
+
+### [Davi Camilo Menezes](https://github.com/Davicamilo23)
+
+### [Euller Júlio da Silva](https://github.com/Potatoyz908)
+
+### [Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31)
+
+### [Pedro Everton de Paula](https://github.com/pedroeverton217)
+
+### [Tiago Antunes Balieiro](https://github.com/tiagobalieiro)
+
 ***
 
 ## Histórico de Versão
@@ -49,3 +67,4 @@ Logo abaixo está a finalização do trabalho, onde documentamos o que achamos d
 | `1.2`  |  08/07/2025 |  Adição das consideração final Davi | [Davi Camilo](https://github.com/Davicamilo23)  | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
 | `1.3`  |  08/07/2025 |  Adição das consideração final Gabriel | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Davi Camilo](https://github.com/Davicamilo23) |
 | `1.4`  |  07/07/2025 |  Adição da consideração final de Euller Júlio | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
+| `1.5`  |  07/07/2025 |  Adição da consideração final de Euller Júlio | [Euller Júlio](https://github.com/Potatoyz908) | [Arthur Evangelista](https://github.com/arthurevg) |
