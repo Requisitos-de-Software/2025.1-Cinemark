@@ -42,6 +42,7 @@ A seguir apresentamos os nomes de cada integrante do grupo que participou da pr�
 |[Euller Júlio da Silva](https://github.com/Potatoyz908)| Produziu o Rich Picture da Carteira de Trabalho Digital (figuras 11 e 12). |
 |[Gabriel Henrique Castelo Costa](https://github.com/GabrielCastelo-31)| Produziu o Rich Picture do Meu SUS Digital (figuras 9 e 10) e o Rich Picture do Cinemark (figuras 1 e 2), escolhido para o projeto. |
 |[Tiago Antunes Balieiro](https://github.com/tiagobalieiro)| Produziu o Rich Picture do Celular Seguro BR (figuras 5 e 6). |
+|[Artur de Camargos Rodrigues](https://github.com/ArturDCR)| Produziu o Rich Picture da cheers (figuras 13 e 14). |
 
 <font size="3"><p style="text-align: center">Fonte: [Davi Camilo](https://github.com/Davicamilo23), 2025.</p></font>
 
@@ -107,6 +108,15 @@ A seguir apresentamos os nomes de cada integrante do grupo que participou da pr�
 ![](../assets/richpicturesavaliados/LegendaCarteiraTrabalho.png)
 <font size="3"><p style="text-align: center">Fonte: [Euller Júlio](https://github.com/Potatoyz908), 2025.</p></font>
 
+### Cheers
+<font size="3"><p style="text-align: center">Figura 13: *Rich Picture* versão 1.4.</p></font>
+![](../assets/richpicturesavaliados/Cheers.png)
+<font size="3"><p style="text-align: center">Fonte: [Artur de Camargos Rodrigues](https://github.com/ArturDCR), 2025.</p></font>
+
+<font size="3"><p style="text-align: center">Figura 14: Legenda do *Rich Picture* versão 1.4.</p></font>
+![](../assets/richpicturesavaliados/LegendaCheers.png)
+<font size="3"><p style="text-align: center">Fonte: [Artur de Camargos Rodrigues](https://github.com/ArturDCR), 2025.</p></font>
+
 ---
 
 ## Referências Bibliográficas
@@ -124,3 +134,4 @@ A seguir apresentamos os nomes de cada integrante do grupo que participou da pr�
 | `1.1.1`|  04/05/2025 | Ajuste nas fontes | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR)  |
 | `1.2`  |  04/07/2025 | Adição do vídeo e tabela de validação do Rich Picture | [Arthur Evangelista](https://github.com/arthurevg) | [Artur de Camargos](https://github.com/ArturDCR)  |
 | `1.3`  |  07/07/2025 | Adição da tabela de contribuição e pequenas alterações gerais | [Davi Camilo](https://github.com/Davicamilo23) | [Artur de Camargos](https://github.com/ArturDCR)  |
+| `1.4`  |  07/07/2025 | Adição da figura 13 e 14 | [Artur de Camargos Rodrigues](https://github.com/ArturDCR) | [Davi Camilo](https://github.com/Davicamilo23)  |
