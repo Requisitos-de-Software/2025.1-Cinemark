@@ -86,26 +86,26 @@ Abaixo estão as tabelas contendo os artefatos organizados por entregas.
 
 | Artefato                | Descrição                        | Autor(es)          | Revisor(es)                             |
 |-------------------------|----------------------------------|--------------------|-----------------------------------------|
-| [Prototipação](#) | Prototipação e validação do protótipo dos requisitos funcionais não implementados de cada integrante | Autor(es) | Revisor(es) |
-| [Planejamento da verificação dos artefatos produzidos](#) | Divisão de artefatos para verificação por meio do método de inspeção de Fagan | Autor(es) | Revisor(es) |
-| [Rich Picture](#) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Perfil do Usuário](#) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Análise de Interface](#) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Brainstorming](#) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Introspecção](#) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Questionário](#) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Entrevista](#) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [First Things First](#) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [MoSCoW](#) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [$100](#) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Three-Level Scale](#) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Votação](#) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Técnicas de priorização analisadas](#) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Cenários](#) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Léxicos](#)  | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Casos de Uso](#)  | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Especificação Suplementar](#) | Verificação do artefato | Autor(es) | Revisor(es) |
-| [Lista de Verificação](#)  | Lista de verificação para a entrega com itens elaborados pelos integrantes | Autor(es) | Revisor(es) |
+| [Prototipação](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-05/) | Prototipação e validação do protótipo dos requisitos funcionais não implementados de cada integrante | Autor(es) | Revisor(es) |
+| [Planejamento da verificação dos artefatos produzidos](https://requisitos-de-software.github.io/2025.1-Cinemark/inspe%C3%A7%C3%B5es/analiseRequisitos/) | Divisão de artefatos para verificação por meio do método de inspeção de Fagan | Autor(es) | Revisor(es) |
+| [Rich Picture](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-01/) | Verificação do artefato | Autor(es) | Revisor(es) |
+| [Perfil do Usuário](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | Autor(es) | Revisor(es) |
+| [Análise de Interface](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | Autor(es) | Revisor(es) |
+| [Introspecção](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | Autor(es) | Revisor(es) |
+| [Storytelling](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | Autor(es) | Revisor(es) |
+| [Questionário](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | Autor(es) | Revisor(es) |
+| [MoSCoW](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | Autor(es) | Revisor(es) |
+| [$100](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | Autor(es) | Revisor(es) |
+| [Three-Level Scale](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | Autor(es) | Revisor(es) |
+| [Kano Model](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | Autor(es) | Revisor(es) |
+| [Requisitos Elicitados](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-02/) | Verificação do artefato | Autor(es) | Revisor(es) |
+| [Cenários](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-03/) | Verificação do artefato | Autor(es) | Revisor(es) |
+| [Léxicos](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-03/)  | Verificação do artefato | Autor(es) | Revisor(es) |
+| [Casos de Uso](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-03/)  | Verificação do artefato | Autor(es) | Revisor(es) |
+| [Especificação Suplementar](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-03/) | Verificação do artefato | Autor(es) | Revisor(es) |
+| [Histórias do Usuário](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-04/) | Verificação do artefato | Autor(es) | Revisor(es) |
+| [Backlog do Produto](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-04/) | Verificação do artefato | Autor(es) | Revisor(es) |
+| [NFR Framework](https://requisitos-de-software.github.io/2025.1-Cinemark/verifica%C3%A7%C3%B5es/lista-verifica%C3%A7%C3%A3o-04/) | Verificação do artefato | Autor(es) | Revisor(es) |
 
 <font size="2"><p style="text-align: center">Fonte: Tiago Antunes, 2025.</p></font>
 
