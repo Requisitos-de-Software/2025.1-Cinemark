@@ -58,13 +58,14 @@ Abaixo estão as tabelas contendo os artefatos organizados por entregas.
 
 | Artefato                | Descrição                        | Autor(es)          | Revisor(es)                             |
 |-------------------------|----------------------------------|--------------------|-----------------------------------------|
-| [Cenários](#) | Cenários descrevem possíveis interações dos usuários com o sistema em situações específicas, com foco em objetivos e comportamentos esperados. | Autor(es) | Revisor(es) |
-| [Léxicos](#)  | Estrutura textual que define os termos relevantes do domínio da aplicação, organizados com seus significados, sinônimos e impactos no sistema. | Autor(es) | Revisor(es) |
-| [Casos de Uso](#)  | Diagramas e descrições que especificam as funcionalidades do sistema a partir das interações entre atores e o sistema, detalhando fluxos de eventos. | Autor(es) | Revisor(es) |
-| [Especificação Suplementar](#) | Documento que complementa os casos de uso, abordando requisitos não funcionais, restrições de projeto, padrões de desempenho, segurança e usabilidade. | Autor(es) | Revisor(es) |
-| [Lista de Verificação](#)  | Lista de verificação para a entrega com itens elaborados pelos integrantes | Autor(es) | Revisor(es) |
+| [Cenários](../../modelagem/cenarios) | Descrevem situações reais de uso do sistema, detalhando objetivos, fluxos, exceções e restrições para cada cenário relevante. | [Gabriel Castelo](https://github.com/GabrielCastelo-31), [Davi Camilo](https://github.com/Davicamilo23), [Arthur Evangelista](https://github.com/arthurevg) | [Tiago Antunes](https://github.com/tiagobalieiro) |
+| [Léxicos](../../modelagem/lexicos)  | Estrutura textual que define os termos relevantes do domínio da aplicação, com significados, sinônimos, impactos e rastreabilidade. | [Tiago Antunes](https://github.com/tiagobalieiro), [Gabriel Castelo](https://github.com/GabrielCastelo-31) | [Arthur Evangelista](https://github.com/arthurevg) |
+| [Casos de Uso](../../modelagem/casosDeUso)  | Diagramas e descrições que especificam as funcionalidades do sistema a partir das interações entre atores e o sistema, detalhando fluxos principais e alternativos. | [Davi Camilo](https://github.com/Davicamilo23), [Pedro Everton](https://github.com/pedroeverton217) | [Euller Júlio](https://github.com/Potatoyz908) |
+| [Especificação Suplementar](../../modelagem/especificaçãoSuplementar/) | Documento que complementa os casos de uso, abordando requisitos não funcionais, restrições de projeto, padrões de desempenho, segurança e usabilidade. | [Arthur Evangelista](https://github.com/arthurevg), [Artur de Camargos](https://github.com/ArturDCR) | [Gabriel Castelo](https://github.com/GabrielCastelo-31) |
+| [Lista de Verificação](../../verificações/lista-verificação-03)  | Lista de verificação para a entrega, com itens elaborados pelos integrantes para garantir a qualidade dos artefatos. | [Tiago Antunes](https://github.com/tiagobalieiro), [Euller Júlio](https://github.com/Potatoyz908) | [Davi Camilo](https://github.com/Davicamilo23) |
 
-<font size="2"><p style="text-align: center">Fonte: Tiago Antunes, 2025.</p></font>
+<font size="2"><p style="text-align: center">Fonte: Tiago Antunes e Euller Júlio 2025.</p></font>
+
 
 ### 3.4. Entrega 4
 
