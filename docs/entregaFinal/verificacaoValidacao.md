@@ -105,15 +105,15 @@ A principal estratégia de validação foi a **prototipação**, onde foram dese
 | Protótipo 1 | [RQ23A](../elicitação/requisitosElicitados.md#rq23a) | Filtrar filmes por categoria | [Arthur Evangelista](https://github.com/arthurevg) | ✅ Validado |
 | Protótipo 2 | [RQ24](../elicitação/requisitosElicitados.md#rq24) | Exibir trailers dentro do app | [Arthur Evangelista](https://github.com/arthurevg) | ✅ Validado |
 | Protótipo 3 | [RQ33](../elicitação/requisitosElicitados.md#rq33) | Permitir alteração de preferências de idioma | [Euller Júlio](https://github.com/Potatoyz908) | ✅ Validado |
-| Protótipo 4 | [RQ34](../elicitação/requisitosElicitados.md#rq34) | Integração com redes sociais | [Euller Júlio](https://github.com/Potatoyz908) | ✅ Validado |
-| Protótipo 5 | [RQ35](../elicitação/requisitosElicitados.md#rq35) | Sistema de avaliação de filmes | [Davi Camilo](https://github.com/Davicamilo23) | ✅ Validado |
-| Protótipo 6 | [RQ36](../elicitação/requisitosElicitados.md#rq36) | Histórico de compras | [Davi Camilo](https://github.com/Davicamilo23) | ✅ Validado |
-| Protótipo 7 | [RQ37](../elicitação/requisitosElicitados.md#rq37) | Modos de acessibilidade | [Tiago Antunes](https://github.com/TiagoBalieiro) | ✅ Validado |
-| Protótipo 8 | [RQ38](../elicitação/requisitosElicitados.md#rq38) | Notificações personalizadas | [Tiago Antunes](https://github.com/TiagoBalieiro) | ✅ Validado |
-| Protótipo 9 | [RQ29A](../elicitação/requisitosElicitados.md#rq29a) | Sugerir cinemas com base no histórico | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | ✅ Validado |
-| Protótipo 10 | [RQ30](../elicitação/requisitosElicitados.md#rq30) | Salvar cinemas como favoritos | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | ✅ Validado |
-| Protótipo 11 | [RQ31](../elicitação/requisitosElicitados.md#rq31) | Chat de suporte ao cliente | [Artur de Camargos](https://github.com/arthurdcr) | ✅ Validado |
-| Protótipo 12 | [RQ32A](../elicitação/requisitosElicitados.md#rq32a) | Filtros avançados para sessões | [Artur de Camargos](https://github.com/arthurdcr) | ✅ Validado |
+| Protótipo 4 | [RQ59](../elicitação/requisitosElicitados.md#rq59) | Reservar sala para eventos privados | [Euller Júlio](https://github.com/Potatoyz908) | ✅ Validado |
+| Protótipo 5 | [RQ26](../elicitação/requisitosElicitados.md#rq26) | Permitir salvar ingressos na carteira digital do dispositivo | [Tiago Antunes](https://github.com/TiagoBalieiro) | ✅ Validado |
+| Protótipo 6 | [RQ39](../elicitação/requisitosElicitados.md#rq39) | Exibir avaliações e permitir que usuários avaliem filmes | [Tiago Antunes](https://github.com/TiagoBalieiro) | ✅ Validado |
+| Protótipo 7 | [RQ32A](../elicitação/requisitosElicitados.md#rq32a) e [RQ32B](../elicitação/requisitosElicitados.md#rq32b) | Exibir recomendações de filmes baseadas em histórico e preferências | [Davi Camilo](https://github.com/Davicamilo23) | ✅ Validado |
+| Protótipo 8 | [RQ58](../elicitação/requisitosElicitados.md#rq58) | Fornecer comparação de preços entre cinemas | [Davi Camilo](https://github.com/Davicamilo23) | ✅ Validado |
+| Protótipo 9 | [RQ29A](../elicitação/requisitosElicitados.md#rq29a) e [RQ29B](../elicitação/requisitosElicitados.md#rq29b) | Sugerir cinemas com base no histórico de visitas e localização | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | ✅ Validado |
+| Protótipo 10 | [RQ30](../elicitação/requisitosElicitados.md#rq30) | Permitir que o usuário salve cinemas como favoritos | [Gabriel Castelo](https://github.com/GabrielCastelo-31) | ✅ Validado |
+| Protótipo 11 | [RQ60](../elicitação/requisitosElicitados.md#rq60) | Fornecer um Hub para crítica de filmes | [Artur de Camargos](https://github.com/arthurdcr) | ✅ Validado |
+| Protótipo 12 | [RQ67](../elicitação/requisitosElicitados.md#rq67) | Tornar o acesso aos ingressos fácil e visível na interface | [Artur de Camargos](https://github.com/arthurdcr) | ✅ Validado |
 
 <font size="2"><p style="text-align: center">Fonte: Equipe do projeto, 2025.</p></font>
 
